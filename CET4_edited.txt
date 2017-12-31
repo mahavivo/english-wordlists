@@ -4,9 +4,9 @@
 A
 
 a art.一(个)；每一(个)
-abandon[əˈbændən] vt.丢弃；放弃，抛弃
+abandon [əˈbændən] vt.丢弃；放弃，抛弃
 ability [əˈbiliti] n.能力；能耐，本领
-able[ˈeibl] a.有能力的；出色的
+able [ˈeibl] a.有能力的；出色的
 abnormal [æbˈnɔːməl] a.不正常的；变态的
 aboard[əˈbɔːd] ad.在船(车)上；上船
 about [ˈəbaut] prep.关于；在…周围
@@ -77,7 +77,7 @@ admire [ədˈmaiə] vt.钦佩，羡慕，赞赏
 admission [ədˈmi∫ən] n.允许进入；承认
 admit [ədˈmit] vt.承认；准许…进入
 adopt [əˈdɔpt] vt.收养；采用；采取
-adult[ˈædʌlt] n.成年人 a.成年的
+adult [ˈædʌlt] n.成年人 a.成年的
 advance [ədˈvɑːns] vi.前进；提高 n.进展
 advanced [ədˈvɑːnst] a.先进的；高级的
 advantage [ədˈvɑːntidʒ] n.优点，优势；好处
@@ -155,7 +155,7 @@ analysis [əˈnælisis] n.分析，分解，解析
 ancestor [ˈænsistə] n.祖宗，祖先
 anchor [ˈæŋkə] n.锚 vi.抛锚，停泊
 ancient [ˈein∫ənt] a.古代的，古老的
-and[ænd] conj.和，又，并，则
+and [ænd] conj.和，又，并，则
 angel [ˈeindʒəl] n.天使，神差，安琪儿
 anger [ˈæŋgə] n.怒，愤怒 vt.使发怒
 angle [ˈæŋgl] n.角，角度
@@ -177,16 +177,16 @@ anybody [ˈeniˌbɔdi] prep.任何人
 anyhow [ˈenihau] ad.无论如何
 anyone [ˈeniwʌn] pron.任何人
 anything [ˈeniθiŋ] pron.任何事物；一切
-anyway[ˈeniwei] ad.无论如何
+anyway [ˈeniwei] ad.无论如何
 anywhere [ˈeniweə] ad.在什么地方
-apart[əˈpɑːt] ad.相隔；分开；除去
-apartment[əˈpɑːtmənt] n.一套公寓房间
-apologize[əˈpɔlədʒaiz] vi.道歉，谢罪，认错
-apology[əˈpɔlədʒi] n.道歉，认错，谢罪
-apparatus[ˌæpəˈreitəs] n.器械，仪器；器官
-apparent[əˈpærənt] a.表面上的；明显的
-appeal[əˈpiːl] vi.&n.呼吁；申述
-appear[əˈpiə] vi.出现；来到；似乎
+apart [əˈpɑːt] ad.相隔；分开；除去
+apartment [əˈpɑːtmənt] n.一套公寓房间
+apologize [əˈpɔlədʒaiz] vi.道歉，谢罪，认错
+apology [əˈpɔlədʒi] n.道歉，认错，谢罪
+apparatus [ˌæpəˈreitəs] n.器械，仪器；器官
+apparent [əˈpærənt] a.表面上的；明显的
+appeal [əˈpiːl] vi.&n.呼吁；申述
+appear [əˈpiə] vi.出现；来到；似乎
 appearance [əˈpiərəns] n.出现，来到；外观
 appetite [ˈæpitait] n.食欲，胃口；欲望
 apple [ˈæpl] n.苹果，苹果树
@@ -238,15 +238,15 @@ asleep [əˈsliːp] a.睡着的，睡熟的
 aspect [ˈæspekt] n.方面；样子，外表
 assemble [əˈsembl] vt.集合，召集；装配
 assembly [əˈsembli] n.集合；集会；装配
-assess[əˈses] vt.对(财产等)估价
-assign[əˈsain] vt.指派；分配；指定
+assess [əˈses] vt.对(财产等)估价
+assign [əˈsain] vt.指派；分配；指定
 assignment [əˈsainmənt] n.任务，指定的作业
 assist [əˈsist] vt.援助，帮助；搀扶
 assistant [əˈsistənt] n.助手，助理；助教
 associate [əˈsəu∫ieit] vi.交往 n.伙伴，同事
 association [əˌsəusiˈei∫ən] n.协会,团体；联合
 assume [əˈsjuːm] vt.假定；承担；呈现
-assure[əˈ∫uə] vt.使确信；向…保证
+assure [əˈ∫uə] vt.使确信；向…保证
 astonish [əsˈtɔni∫] vt.使惊讶，使吃惊
 astronaut [ˈæstrənɔːt] n.宇宙航行员，宇航员
 at [æt] prep.在…里；在…时
@@ -263,36 +263,36 @@ attempt [əˈtempt] vt.尝试，试图 n.企图
 attend [əˈtend] vt.出席；照顾，护理
 attention [əˈten∫ən] n.注意，留心；注意力
 attentive [əˈtentiv] a.注意的；有礼貌的
-attitude[ˈætitjuːd] n.态度，看法；姿势
-attract[əˈtrækt] vt.吸引；引起，诱惑
+attitude [ˈætitjuːd] n.态度，看法；姿势
+attract [əˈtrækt] vt.吸引；引起，诱惑
 attraction [əˈtræk∫ən] n.吸引；吸引力；引力
 attractive [əˈtræktiv] a.有吸引力的
 attribute [əˈtribju(ː)t] vt.把…归因于 n.属性
 audience [ˈɔːdjəns] n.听众，观众，读者
-august[ˈɔːgəst] n.八月
+august [ˈɔːgəst] n.八月
 aunt [ɑːnt] n.伯母，婶母，姑母
-aural[ˈɔːrəl] a.耳的，听觉的
+aural [ˈɔːrəl] a.耳的，听觉的
 australia [ɔsˈtreiljə] n.澳大利亚
 australian [ɔsˈtreiliən] a.澳大利亚的
-author[ˈɔːθə] n.作者，作家
+author [ˈɔːθə] n.作者，作家
 authority [ɔːˈθɔriti] n.当局，官方；权力
 auto [ˈɔːtəu] n.(口语)汽车
 automatic [ˌɔːtəˈmætik] a.自动的；机械的
 automation [ɔːtəˈmei∫ən] n.自动，自动化
 automobile [ˌɔːtəˈməubil] n.汽车，机动车
-autumn[ˈɔːtəm] n.秋，秋季
-auxiliary[ɔːgˈziljəri] a.辅助的；附属的
+autumn [ˈɔːtəm] n.秋，秋季
+auxiliary [ɔːgˈziljəri] a.辅助的；附属的
 available [əˈveiləbl] a.可利用的；通用的
-avenue[ˈævinjuː] n.林荫道，道路；大街
-average[ˈævəridʒ] n.平均数 a.平均的
-aviation[ˌeiviˈei∫ən] n.航空，航空学
+avenue [ˈævinjuː] n.林荫道，道路；大街
+average [ˈævəridʒ] n.平均数 a.平均的
+aviation [ˌeiviˈei∫ən] n.航空，航空学
 avoid [əˈvɔid] vt.避免，躲开；撤消
 await [əˈweit] vt.等候，期待
-awake[əˈweik] a.醒着的 vt.唤醒
-award[əˈwɔːd] n.奖，奖品；判定
-aware[əˈweə] a.知道的，意识到的
-away[əˈwei] ad.离开，远离；…去
-awful[ˈɔːful] a.令人不愉快的
+awake [əˈweik] a.醒着的 vt.唤醒
+award [əˈwɔːd] n.奖，奖品；判定
+aware [əˈweə] a.知道的，意识到的
+away [əˈwei] ad.离开，远离；…去
+awful [ˈɔːful] a.令人不愉快的
 awfully [ˈɔːfuli] ad.令人畏惧的；很
 awkward [ˈɔːkwəd] a.笨拙的；尴尬的
 ax [æks] n.斧子
@@ -300,26 +300,26 @@ axis [ˈæksis] n.轴，轴线；中心线
 
 B
 
-baby[ˈbeibi] n.婴儿；孩子气的人
-back[bæk] ad.在后；回原处；回
+baby [ˈbeibi] n.婴儿；孩子气的人
+back [bæk] ad.在后；回原处；回
 background [ˈbækgraund] n.背景，后景，经历
 backward [ˈbækwəd] a.向后的；倒的 ad.倒
 bacteria [bækˈtiəriə] n.细菌
 bad [bæd] a.坏的，恶的；严重的
 badly [ˈbædli] ad.坏，差；严重地
 badminton [ˈbædmintən] n.羽毛球
-bag[bæg] n.袋，包，钱包，背包
+bag [bæg] n.袋，包，钱包，背包
 baggage [ˈbægidʒ] n.行李
 bake [beik] vt.烤，烘，焙；烧硬
 balance [ˈbæləns] vt.使平衡；称 n.天平
 ball [bɔːl] n.球，球状物；舞会
 balloon [bəˈluːn] n.气球，玩具气球
 banana [bəˈnɑːnə] n.香蕉；芭蕉属植物
-band[bænd] n.乐队；带；波段
-bang[bæŋ] n.巨响，枪声；猛击
-bank[bæŋk] n.银行；库；岩，堤
+band [bænd] n.乐队；带；波段
+bang [bæŋ] n.巨响，枪声；猛击
+bank [bæŋk] n.银行；库；岩，堤
 banner [ˈbænə] n.旗，旗帜，横幅
-bar[bɑː(r)] n.酒吧间；条，杆；栅
+bar [bɑː(r)] n.酒吧间；条，杆；栅
 barber [ˈbɑːbə] n.理发师
 bare [beə] a.赤裸的；仅仅的
 bargain [ˈbɑːgin] n.交易 vi.议价；成交
@@ -328,11 +328,11 @@ barn [bɑːn] n.谷仓；牲口棚
 barrel [ˈbærəl] n.桶；圆筒；枪管
 barrier [ˈbæriə] n.栅栏，屏障；障碍
 base [beis] n.基础，底层；基地
-basic[ˈbeisik] a.基本的，基础的
+basic [ˈbeisik] a.基本的，基础的
 basically [ˈbeisikəli] ad.基本上
 basin [ˈbeisn] n.盆，洗脸盆；盆地
 basis [ˈbeisis] n.基础，根据
-basket[bɑːskit] n.篮，篓，筐
+basket [bɑːskit] n.篮，篓，筐
 basketball [ˈbɑːskitbɔːl] n.篮球；篮球运动
 bat [bæt] n.球拍；短棍；蝙蝠
 bath [bɑːθ] n.浴，洗澡；浴缸
@@ -353,57 +353,57 @@ beast [biːst] n.兽，野兽；牲畜
 beat [biːt] vt.&vi.打，敲；打败
 beautiful [ˈbjuːti] a.美的，美丽的
 beauty [ˈbjuːti] n.美，美丽；美人
-because[biˈkɔz] conj.由于，因为
-become[biˈkʌm] vi.变成；成为，变得
+because [biˈkɔz] conj.由于，因为
+become [biˈkʌm] vi.变成；成为，变得
 bed [bed] n.床，床位；圃；河床
 bee [biː] n.蜂，密蜂；忙碌的人
 beef [biːf] n.牛肉；菜牛
 beer [biə] n.啤酒
 before [biˈfɔː] prep.在…以前；向…
-beg[beg] vt.&vi.乞求；请求
+beg [beg] vt.&vi.乞求；请求
 beggar [ˈbegə] n.乞丐，穷人
 begin [biˈgin] vi.开始 vt.开始
 beginner [biˈginə] n.初学者，生手
 beginning [biˈginiŋ] n.开始，开端；起源
 behalf [biˈhɑːf] n.利益，维护，支持
-behave[biˈheiv] vi.表现，举止；运转
+behave [biˈheiv] vi.表现，举止；运转
 behavior [biˈheivjə] n.行为，举止，态度
-behind[biˈhaind] prep.在…后面
-being[ˈbiːiŋ] n.存在；生物；生命
-belief[biˈliːf] n.信任，相信；信念
-believe[biˈliːv] vt.相信；认为
+behind [biˈhaind] prep.在…后面
+being [ˈbiːiŋ] n.存在；生物；生命
+belief [biˈliːf] n.信任，相信；信念
+believe [biˈliːv] vt.相信；认为
 bell [bel] n.钟，铃，门铃；钟声
-belong[biˈlɔŋ] vi.属于，附属
-beloved[biˈlʌvid] a.为…的爱的 n.爱人
+belong [biˈlɔŋ] vi.属于，附属
+beloved [biˈlʌvid] a.为…的爱的 n.爱人
 below [biˈləu] prep.在…下面(以下)
-belt[belt] n.带，腰带；皮带；区
+belt [belt] n.带，腰带；皮带；区
 bench [bent∫] n.长凳，条凳；工作台
 bend [bend] vt.使弯曲 vi.弯曲
-beneath[biˈniːθ] prep.在…下方
+beneath [biˈniːθ] prep.在…下方
 beneficial [beniˈfi∫əl] a.有利的，有益的
 benefit [ˈbenifit] n.利益；恩惠；津贴
 berry [ˈberi] n.浆果(如草莓等)
-beside[biˈsaid] prep.在…旁边
+beside [biˈsaid] prep.在…旁边
 besides [biˈsaidz] ad.而且 prep.除…之外
 best [best] a.最好的；最大的
 bet [bet] vt.&vi.&n.打赌
-betray[biˈtrei] vt.背叛；辜负；泄漏
-better[ˈbetə] a.较好的 ad.更好地
+betray [biˈtrei] vt.背叛；辜负；泄漏
+better [ˈbetə] a.较好的 ad.更好地
 between [biˈtwiːn] prep.在…中间
 beyond [biˈjɔnd] prep.在…的那边
 Bible [ˈbaibl] n.基督教《圣经》
 bicycle [ˈbaisikl] n.自行车，脚踏车
 big [big] a.大的，巨大的
-bike[baik] n.自行车 vi.骑自行车
+bike [baik] n.自行车 vi.骑自行车
 bill [bil] n.账单；招贴；票据
 billion [ˈbiljən] num.万亿(英)
-bind[baind] vt.捆绑；包扎；装钉
+bind [baind] vt.捆绑；包扎；装钉
 biology [baiˈɔlədʒi] n.生物学；生态学
 bird [bəːd] n.鸟，禽
-birth[bəːθ] n.分娩，出生；出身
-birthday[ˈbəːθdei] n.生日，诞生的日期
+birth [bəːθ] n.分娩，出生；出身
+birthday [ˈbəːθdei] n.生日，诞生的日期
 biscuit [ˈbiskit] n.(英)饼干；(美)软饼
-bit[bit] n.一点，一些，小片
+bit [bit] n.一点，一些，小片
 bite [bait] vt.咬，叮，螫；剌穿
 bitter [ˈbitə] a.痛苦的；严寒的
 bitterly [ˈbitəli] ad.苦苦地；悲痛地
@@ -412,7 +412,7 @@ blackboard [ˈblækbɔːd] n.黑板
 blade [bleid] n.刀刃，刀片；叶片
 blame [bleim] vt.责备，把…归咎于
 blank [blæŋk] a.空白的 n.空白
-blanket[ˈblæŋkit] n.毛毯，毯子，羊毛毯
+blanket [ˈblæŋkit] n.毛毯，毯子，羊毛毯
 blast [blɑːst] n.爆炸，冲击波 vt.炸
 blaze [bleiz] n.火；闪光 vi.燃烧
 bleed [bliːd] vi.出血，流血；泌脂
@@ -429,22 +429,22 @@ board [bɔːd] n.板 vt.上(船、车等)
 boast [bəust] vi.自夸 vt.吹嘘
 boat [bəut] n.小船，艇；渔船
 body [ˈbɔdi] n.身体；主体；尸体
-boil[bɔil] vi.沸腾；汽化 vt.煮沸
+boil [bɔil] vi.沸腾；汽化 vt.煮沸
 bold [bəuld] a.大胆的；冒失的
 bolt [bəult] n.螺栓；插销 vt.闩门
-bomb[bɔm] n.炸弹 vt.轰炸
+bomb [bɔm] n.炸弹 vt.轰炸
 bond [bɔnd] n.联结，联系；公债
 bone [bəun] n.骨，骨骼
 book [buk] n.书，书籍 vt.预定
 boot [buːt] n.靴子，长统靴
 booth [buːθ] n.货摊；公用电话亭
-border[ˈbɔːdə] n.边，边缘；边界
+border [ˈbɔːdə] n.边，边缘；边界
 bore [bɔː] vt.使厌烦；钻，挖
 born [bɔːn] a.天生的；出生的
-borrow[ˈbɔrəu] vt.借，借用，借人
+borrow [ˈbɔrəu] vt.借，借用，借人
 bosom [ˈbuzəm] n.胸，胸部；内心
-boss[bɔs] n.老板，上司 vt.指挥
-both[bəuθ] pron.两者(都)
+boss [bɔs] n.老板，上司 vt.指挥
+both [bəuθ] pron.两者(都)
 bother [ˈbɔðə] vt.烦扰，迷惑 n.麻烦
 bottle [ˈbɔtl] n.瓶，酒瓶；一瓶
 bottom [ˈbɔtəm] n.底，底部，根基
@@ -453,43 +453,43 @@ bounce [bauns] vi.反跳，弹起；跳起
 bound [baund] a.一定的；有义务的
 boundary [ˈbaundəri] n.分界线，办界
 bow [bau] n.弓；蝴蝶结；鞠躬
-bowl[bəul] n.碗，钵；碗状物
+bowl [bəul] n.碗，钵；碗状物
 box [bɔks] n.箱，盒；包箱
 box [bɔks] vi.拳击，打拳
 boy [bɔi] n.男孩，少年；家伙
-brain[brein] n.脑，脑髓；脑力
-brake[breik] n.闸，刹车 vi.制动
+brain [brein] n.脑，脑髓；脑力
+brake [breik] n.闸，刹车 vi.制动
 branch [brɑːnt∫] n.树枝；分部；分科
-brand[brænd] n.商品；烙印 vt.铭刻
+brand [brænd] n.商品；烙印 vt.铭刻
 brandy [ˈbrændi] n.白兰地酒
-brass[brɑːs] n.黄铜；黄铜器
-brave[breiv] a.勇敢的，华丽的
-bread[bred] n.面包；食物，粮食
-breadth[bredθ] n.宽度，幅度；幅面
+brass [brɑːs] n.黄铜；黄铜器
+brave [breiv] a.勇敢的，华丽的
+bread [bred] n.面包；食物，粮食
+breadth [bredθ] n.宽度，幅度；幅面
 break [breik] vt.打破；损坏；破坏
-breakfast[ˈbrekfəst] n.早饭，早餐
+breakfast [ˈbrekfəst] n.早饭，早餐
 breast [brest] n.乳房；胸脯，胸膛
 breath [breθ] n.气息，呼吸；气味
-breathe[briːð] vi.呼吸 vt.呼吸
+breathe [briːð] vi.呼吸 vt.呼吸
 breed [briːd] n.品种 vt.使繁殖
 breeze [briːz] n.微风，和风
-brick[brik] n.砖，砖块；砖状物
+brick [brik] n.砖，砖块；砖状物
 bridge [bridʒ] n.桥，桥梁；桥牌
-brief[briːf] a.简短的；短暂的
+brief [briːf] a.简短的；短暂的
 bright [brait] a.明亮的；聪明的
-brighten[ˈbraitn] vt.使发光；使快活
-brilliant[ˈbriljənt] a.光辉的；卓越的
+brighten [ˈbraitn] vt.使发光；使快活
+brilliant [ˈbriljənt] a.光辉的；卓越的
 brim [brim] n.边，边缘；帽沿
 bring [briŋ] vt.带来；引出；促使
 brisk [brisk] a.活泼的；清新的
-bristle[ˈbrisl] n.短而硬的毛；鬃毛
-Britain[ˈbritən] n.不列颠，英国
-British[ˈbriti∫] a.不列颠的，英联邦的
+bristle [ˈbrisl] n.短而硬的毛；鬃毛
+Britain [ˈbritən] n.不列颠，英国
+British [ˈbriti∫] a.不列颠的，英联邦的
 brittle [ˈbritl] a.脆的；易损坏的
 broad [brɔːd] a.宽的，阔的；广泛的
 broadcast [ˈbrɔːdkɑːst] n.广播，播音
-broken[ˈbrəukən] a.被打碎的，骨折的
-bronze[brɔnz] n.青铜；青铜制品
+broken [ˈbrəukən] a.被打碎的，骨折的
+bronze [brɔnz] n.青铜；青铜制品
 brood [bruːd] n.同窝幼鸟 vt.孵(蛋)
 brook [bruk] n.小河，溪流
 broom [bruːm] n.扫帚
@@ -497,89 +497,89 @@ brother [ˈbrʌðə] n.兄弟；同事，同胞
 brow [brau] n.额；眉，眉毛
 brown [braun] n.褐色，棕色
 bruise [bruːz] n.青肿，伤痕；擦伤
-brush[brʌ∫] n.刷子，毛刷；画笔
-brute[bruːt] n.禽兽，畜生
+brush [brʌ∫] n.刷子，毛刷；画笔
+brute [bruːt] n.禽兽，畜生
 bubble [ˈbʌbl] n.泡 vi.冒泡，沸腾
 bucket [ˈbʌkit] n.水桶；吊桶；铲斗
-bud[bʌd] n.芽，萌芽；蓓蕾
-build[bild] vt.建筑；建立；创立
-building[ˈbildiŋ] n.建筑物，大楼；建筑
-bulb[bʌlb] n.电灯泡；球状物
+bud [bʌd] n.芽，萌芽；蓓蕾
+build [bild] vt.建筑；建立；创立
+building [ˈbildiŋ] n.建筑物，大楼；建筑
+bulb [bʌlb] n.电灯泡；球状物
 bulk [bʌlk] n.物体，容积，大批
-bull[bul] n.公牛；雄的象
+bull [bul] n.公牛；雄的象
 bullet [ˈbulit] n.枪弹，子弹，弹丸
 bunch [bʌnt∫] n.束，球，串；一群
-bundle[ˈbʌndl] n.捆，包，束；包袱
-burden[ˈbəːdn] n.担子，重担；装载量
-bureau[bjuəˈrəu] n.局，司，处；社，所
+bundle [ˈbʌndl] n.捆，包，束；包袱
+burden [ˈbəːdn] n.担子，重担；装载量
+bureau [bjuəˈrəu] n.局，司，处；社，所
 burn [bəːn] vi.烧，燃烧 n.烧伤
 burst [bəːst] vt.使爆裂 vi.&n.爆炸
 bury [ˈberi] vt.埋葬，葬；埋藏
-bus[bʌs] n.公共汽车
+bus [bʌs] n.公共汽车
 bush [bu∫] n.灌木，灌木丛，矮树
-business[ˈbiznis] n.商业，生意；事务
+business [ˈbiznis] n.商业，生意；事务
 busy [ˈbizi] a.忙的，繁忙的
 but [bʌt] conj.但是，可是
 butcher[ˈbut∫ə] n.屠夫；屠杀者
 butter [ˈbʌtə] n.黄油；奶油
-butterfly[ˈbʌtəflai] n.蝴蝶
+butterfly [ˈbʌtəflai] n.蝴蝶
 button [ˈbʌtn] n.扣子；按钮 vt.扣紧
-buy[bai] vt.买，购买 vi.买
+buy [bai] vt.买，购买 vi.买
 by [bai] prep.在…旁；被，由
 
 C
 
-cabbage[ˈkæbidʒ] n.洋白菜，卷心菜
-cabin[ˈkæbin] n.小屋；船舱，机舱
+cabbage [ˈkæbidʒ] n.洋白菜，卷心菜
+cabin [ˈkæbin] n.小屋；船舱，机舱
 cabinet [ˈkæbinit] n.橱，柜；内阁
 cable [ˈkeibl] n.缆，索；电缆；电报
-cafe[ˈkæfei] n.咖啡馆；小餐厅
-cafeteria[ˈkæfiˈtiəriə] n.自助食堂
-cage[keidʒ] n.笼；鸟笼，囚笼
-cake[keik] n.饼，糕，蛋糕
-calculate[ˈkælkjuleit] vt.计算；估计；计划
-calculation[ˌkælkjuˈlei∫ən] n.计算，计算结果
-calculator[ˈkælkjuleitə] n.计算器，计算者
+cafe [ˈkæfei] n.咖啡馆；小餐厅
+cafeteria [ˈkæfiˈtiəriə] n.自助食堂
+cage [keidʒ] n.笼；鸟笼，囚笼
+cake [keik] n.饼，糕，蛋糕
+calculate [ˈkælkjuleit] vt.计算；估计；计划
+calculation [ˌkælkjuˈlei∫ən] n.计算，计算结果
+calculator [ˈkælkjuleitə] n.计算器，计算者
 calendar [ˈkælində] n.日历，历书；历法
 call [kɔːl] vt.把…叫做；叫，喊
-calm[kɑːm] a.静的，平静的
+calm [kɑːm] a.静的，平静的
 camel [ˈkæməl] n.骆驼
 camera [ˈkæmərə] n.照相机，摄影机
 camp [kæmp] n.野营，营地，兵营
-campaign[kæmˈpein] n.战役；运动
+campaign [kæmˈpein] n.战役；运动
 campus [ˈkæmpəs] n.校园，学校场地
-can[kæn] aux.v.能，会，可能
-can[kæn] n.罐头，听头；容器
+can [kæn] aux.v.能，会，可能
+can [kæn] n.罐头，听头；容器
 Canada [ˈkænədə] n.加拿大
-Canadian[kəˈneidjən] a.加拿大的
+Canadian [kəˈneidjən] a.加拿大的
 canal [kəˈnæl] n.运河；沟渠；管
 cancel [ˈkænsəl] vt.取消，撤消；删去
 cancer [ˈkænsə] n.癌，癌症，肿瘤
 candidate [ˈkændidit] n.候选人；投考者
 candle [ˈkændl] n.蜡烛；烛形物；烛光
 candy [ˈkændi] n.糖果；砂糖结晶
-cannon[ˈkænən] n.大炮，火炮；榴弹炮
+cannon [ˈkænən] n.大炮，火炮；榴弹炮
 canoe [kəˈnuː] n.独木舟，皮艇，划子
 canteen [kænˈtiːn] n.小卖部；临时餐室
 canvas ˈkænvəs] n.粗帆布；一块油画布
-cap[kæp] n.帽子，便帽；帽状物
-capable[ˈkeipəbl] a.有能力的，有才能的
-capacity[kəˈpæsiti] n.容量；能力；能量
+cap [kæp] n.帽子，便帽；帽状物
+capable [ˈkeipəbl] a.有能力的，有才能的
+capacity [kəˈpæsiti] n.容量；能力；能量
 capital [ˈkæpitəl] n.资本，资金；首都
 captain [ˈkæptin] n.陆军上尉；队长
 captive [ˈkæptiv] n.俘虏，被监禁的人
-capture [ˈkæpt∫ə] vt.捕获，俘获；夺得
+capture [ˈkæpt∫ə] vt.捕获，俘获；夺得
 car [kɑː] n.汽车，小汽车，轿车
-carbon[ˈkɑːbən] n.碳
+carbon [ˈkɑːbən] n.碳
 card [kɑːd] n.卡，卡片，名片
 care [keə] vi.关心，介意 n.小心
 career [kəˈriə] n.生涯，职业，经历
 careful [ˈkeəful] a.仔细的；细致的
-careless[ˈkeəlis] a.粗心的，漫不经心的
+careless [ˈkeəlis] a.粗心的，漫不经心的
 cargo [ˈkɑːgəu] n.船货，货物
 carpenter [ˈkɑːpintə] n.木工，木匠
 carpet [ˈkɑːpit] n.地毯，毡毯，毛毯
-carriage[ˈkæridʒ] n.客车厢；四轮马车
+carriage [ˈkæridʒ] n.客车厢；四轮马车
 carrier [ˈkæriə] n.运输工具；运载工具
 carrot [ˈkærət] n.胡罗卜
 carry [ˈkæri] vt.携带；运载；传送
@@ -595,7 +595,7 @@ casual [ˈkæʒuəl] a.偶然的；随便的
 cat [kæt] n.猫，猫科，猫皮
 catalog [ˈkætəlɔg] n.目录，目录册
 catch [kæt∫] vt.捉住；赶上；领会
-cathedral[kəˈθiːdrəl] n.总教堂；大教堂
+cathedral [kəˈθiːdrəl] n.总教堂；大教堂
 cattle [ˈkætl] n.牛；牲口，家畜
 cause [kɔːz] n.原因，理由；事业
 cave [keiv] n.山洞，洞穴，窑洞
@@ -609,20 +609,20 @@ cent [sent] n.分；分币；百
 centigrade [ˈsentigreid] a.百分度的
 centimetre [ˈsentiˌmiːtə] n.公分，厘米
 central [ˈsentr(ə)l] a.中心的；主要的
-centre [ˈsentə] n.中心；中枢 vt.集中
-century[ˈsent∫uri] n.世纪，百年
+centre [ˈsentə] n.中心；中枢 vt.集中
+century [ˈsent∫uri] n.世纪，百年
 ceremony [ˈseriməni] n.典礼，仪式；礼节
 certain [ˈsəːtən] a.确实的；肯定的
-certainly[ˈsəːtənli] ad.一定，必定；当然
-certainty[ˈsəːtənti] n.必然；肯定
+certainly [ˈsəːtənli] ad.一定，必定；当然
+certainty [ˈsəːtənti] n.必然；肯定
 certificate [səˈtifikit] n.证书，证件，执照
 chain [t∫ein] n.链，链条，项圈
 chair [t∫eə] n.椅子；主席
-chairman[ˈt∫eəmən] n.主席；议长，会长
+chairman [ˈt∫eəmən] n.主席；议长，会长
 chalk [t∫ɔːk] n.白垩；粉笔
-challenge[ˈt∫ælindʒ] n.挑战；要求，需要
+challenge [ˈt∫ælindʒ] n.挑战；要求，需要
 chamber [ˈt∫eimbə] n.会议室；房间；腔
-champion[ˈt∫æmpjən] n.冠军，得胜者
+champion [ˈt∫æmpjən] n.冠军，得胜者
 chance [t∫ɑːns] n.机会，机遇；可能性
 change [t∫eindʒ] n.改变，变化；零钱
 channel [ˈt∫ænl] n.海峡；渠道；频道
@@ -631,7 +631,7 @@ character [ˈkæriktə] n.性格；特性；角色
 characteristic [ˌkæriktəˈristik] a.特有的 n.特性
 charge [t∫ɑːdʒ] vt.索价；控告 n.费用
 charity [ˈt∫æriti] n.施舍；慈善事业
-charming[ˈt∫ɑːmiŋ] a.迷人的，可爱的
+charming [ˈt∫ɑːmiŋ] a.迷人的，可爱的
 chart [t∫ɑːt] n.图，图表；海图
 chase [t∫eis] n.追逐，追赶，追求
 cheap [t∫iːp] a.廉价的；劣质的
@@ -639,81 +639,81 @@ cheat [t∫iːt] vt.骗取；哄 vi.行骗
 check [t∫ek] vt.检查；制止 n.检查
 cheek [t∫iːk] n.面颊，脸蛋
 cheer [t∫iə] vt.使振作；欢呼
-cheerful[ˈt∫iəful] a.快乐的，愉快的
+cheerful [ˈt∫iəful] a.快乐的，愉快的
 cheese [t∫iːz] n.乳酪，干酪
-chemical[ˈkemikəl] a.化学的 n.化学制品
+chemical [ˈkemikəl] a.化学的 n.化学制品
 chemist [ˈkemist] n.化学家；药剂师
-chemistry[ˈkemistri] n.化学
+chemistry [ˈkemistri] n.化学
 cheque [t∫ek] n.支票
 cherry [ˈt∫eri] n.樱桃；樱桃树
 chess [t∫es] n.棋；国际象棋
 chest [t∫est] n.胸腔，胸膛；箱子
 chew [t∫uː] vt.咀嚼，嚼碎
-chicken[ˈt∫ikin] n.小鸡，小鸟；鸡肉
+chicken [ˈt∫ikin] n.小鸡，小鸟；鸡肉
 chief [t∫iːf] a.主要的；首席的
 child [t∫aild] n.小孩，儿童；儿子
 childhood [ˈt∫aildhud] n.童年，幼年；早期
 childish [ˈt∫aildi∫] a.孩子的；幼稚的
 chill [t∫il] vt.使变冷 n.寒冷
-chimney[ˈt∫imni] n.烟囱，烟筒；玻璃罩
+chimney [ˈt∫imni] n.烟囱，烟筒；玻璃罩
 chin [t∫in] n.颏，下巴
 China [ˈt∫ainə] n.中国
 china n.瓷器，瓷料
-Chinese[ˈt∫aiˈniːz] a.中国的 n.中国人
+Chinese [ˈt∫aiˈniːz] a.中国的 n.中国人
 chocolate [ˈt∫ɔkəlit] n.巧克力；巧克力糖
 choice [t∫ɔis] n.选择，抉择
 choke [t∫əuk] vt.使窒息；塞满
 choose[t∫uːz] vt.选择，挑选；情愿
-chop [t∫ɔp] vt.砍，劈；切细 vi.砍
-Christian[ˈkristjən] n.基督教徒；信徒
+chop [t∫ɔp] vt.砍，劈；切细 vi.砍
+Christian [ˈkristjən] n.基督教徒；信徒
 Christmas [ˈkrisməs] n.圣诞节
 church [t∫əːt∫] n.教堂，礼拜堂；教会
-cigarette[sigəˈret] n.香烟，纸烟，卷烟
-cinema[ˈsinimə] n.电影院；电影，影片
+cigarette [sigəˈret] n.香烟，纸烟，卷烟
+cinema [ˈsinimə] n.电影院；电影，影片
 circle [ˈsəːkl] n.圆，圆周；圈子
 circuit [ˈsəːkit] n.电路；环行；巡行
-circular[ˈsəːkjulə] a.圆的；循环的
+circular [ˈsəːkjulə] a.圆的；循环的
 circulate [ˈsəːkjuleit] vt.使循环 vi.循环
 circumference [səˈkʌmfərəns] n.圆周，周长，圆周线
 circumstance [ˈsəːkəmstəns] n.情况，条件；境遇
-citizen[ˈsitizn] n.公民；市民，居民
+citizen [ˈsitizn] n.公民；市民，居民
 city [ˈsiti] n.城市，都市
 civil [ˈsivl] a.公民的；文职的
-civilization[sivəliˈzei∫ən] n.文明，文化；开化
-civilize[ˈsivilaiz] vt.使文明；教育
+civilization [sivəliˈzei∫ən] n.文明，文化；开化
+civilize [ˈsivilaiz] vt.使文明；教育
 claim [kleim] vt.声称，主张；索取
 clap [klæp] vi.拍手 vt.拍，轻拍
-clarify[ˈklærifai] vt.澄清，阐明
+clarify [ˈklærifai] vt.澄清，阐明
 clasp [klɑːsp] n.扣子，钩子；别针
 class [klɑːs] n.班，班级；阶级
-classical[ˈklæsikəl] a.古典的；经典的
+classical [ˈklæsikəl] a.古典的；经典的
 classification [ˌklæsifiˈkei∫ən] n.分类/级;分类法
-classify[ˈklæsifai] vt.把…分类
+classify [ˈklæsifai] vt.把…分类
 classmate [ˈklɑːsmeit] n.同班同学
 classroom [ˈklɑːsrum] n.教室，课堂
-claw[klɔː] n.爪，脚爪，螯
-clay[klei] n.粘土，泥土；肉体
+claw [klɔː] n.爪，脚爪，螯
+clay [klei] n.粘土，泥土；肉体
 clean [kliːn] a.清洁的；纯洁的
 clear [kliə] a.清晰的 vt.清除
 clearly [ˈkliəli] ad.明白地，清晰地
-clerk[klərk] n.店员；办事员，职员
+clerk [klərk] n.店员；办事员，职员
 clever [ˈklevə] a.聪明的；机敏的
 cliff [klif] n.悬崖，峭壁
 climate [ˈklaimit] n.气候；风土，地带
 climb [klaim] vi.攀登，爬 vt.爬
 cloak [kləuk] n.斗篷；覆盖(物)
-clock[klɔk] n.钟，仪表
-close[kləuz] vt.关，闭；结束
+clock [klɔk] n.钟，仪表
+close [kləuz] vt.关，闭；结束
 closely [ˈkləuzli] ad.紧密地，接近地
 cloth [klɔ(ː)θ] n.布；衣料；桌布
-clothe[kləuð] vt.给…穿衣服
-clothes[kləuðz] n.衣服，服装；被褥
+clothe [kləuð] vt.给…穿衣服
+clothes [kləuðz] n.衣服，服装；被褥
 clothing [ˈkləuðiŋ] n.衣服，被褥
 cloud [klaud] n.云；云状物；阴影
-cloudy[ˈklaudi] a.多云的；云一般的
+cloudy [ˈklaudi] a.多云的；云一般的
 club [klʌb] n.俱乐部，夜总会
 clue [kluː] n.线索，暗示，提示
-clumsy[ˈklʌmzi] a.笨拙的；愚笨的
+clumsy [ˈklʌmzi] a.笨拙的；愚笨的
 coach [kəut∫] n.长途公共汽车
 coal [kəul] n.煤，煤块
 coarse [kɔːs] a.粗的，粗糙的
@@ -721,107 +721,107 @@ coast [kəust] n.海岸，海滨(地区)
 coat [kəut] n.外套，上衣；表皮
 cock [kɔk] n.公鸡；雄禽；旋塞
 code [kəud] n.准则；法典；代码
-coffee[ˈkɔfi] n.咖啡，咖啡茶
+coffee [ˈkɔfi] n.咖啡，咖啡茶
 coil [kɔil] n.(一)卷；线圈 vt.卷
 coin [kɔin] n.硬币；铸造(硬币)
 cold [kəuld] a.冷的；冷淡的 n.冷
 collapse [kəˈlæps] vi.倒坍；崩溃，瓦解
 collar [ˈkɔlə] n.衣领，项圈
 colleague [ˈkɔliːg] n.同事，同僚
-collect[kəˈlekt] vt.收集 vi.收款
-collection[kəˈlek∫ən] n.搜集，收集；收藏品
-collective[kəˈlektiv] a.集体的；集合性的
+collect [kəˈlekt] vt.收集 vi.收款
+collection [kəˈlek∫ən] n.搜集，收集；收藏品
+collective [kəˈlektiv] a.集体的；集合性的
 college [ˈkɔlidʒ] n.学院；大学
 collision [kəˈliʒən] n.碰撞；冲突
 colonel [ˈkəːnl] n.陆军上校；中校
 colony [ˈkɔləni] n.殖民地；侨居地
-color[ˈkʌlə] n.颜色，彩色；颜料
+color [ˈkʌlə] n.颜色，彩色；颜料
 column [ˈkɔləm] n.柱，支柱，圆柱
-comb[kəum] n.梳子 vt.梳理
+comb [kəum] n.梳子 vt.梳理
 combination [ˌkɔmbiˈnei∫ən] n.结合,联合;化合
 combine [kəmˈbain] vt.使结合；兼有
 come [kʌm] vi.来，来到；出现
-comfort[ˈkʌmfət] n.舒适；安慰 vt.安慰
-comfortable[ˈkʌmfətəbl] a.舒适的，安慰的
+comfort [ˈkʌmfət] n.舒适；安慰 vt.安慰
+comfortable [ˈkʌmfətəbl] a.舒适的，安慰的
 command [kəˈmɑːnd] vt.命令，指挥；控制
-commander[kəˈmɑːndə] n.司令官，指挥员
+commander [kəˈmɑːndə] n.司令官，指挥员
 comment [ˈkɔment] n.评论，意见；注释
 commerce [ˈkɔmə(ː)s] n.商业，贸易；社交
-commercial[kəˈməː∫əl] a.商业的；商品化的
-commission[kəˈmi∫ən] n.委任状；委员会
-commit[kəˈmit] vt.犯(错误);干(坏事) 
+commercial [kəˈməː∫əl] a.商业的；商品化的
+commission [kəˈmi∫ən] n.委任状；委员会
+commit [kəˈmit] vt.犯(错误);干(坏事) 
 committee [kəˈmiti] n.委员会；全体委员
-common[ˈkɔmən] a.普通的；共同的
+common [ˈkɔmən] a.普通的；共同的
 commonly [ˈkɔmənli] ad.普通地，一般地
-communicate[kəˈmjuːnikeit] vi.通讯;传达;传播
-communication[kəˌmjuːniˈkei∫n] n.通讯;传达；交通
+communicate [kəˈmjuːnikeit] vi.通讯;传达;传播
+communication [kəˌmjuːniˈkei∫n] n.通讯;传达；交通
 communism [ˈkɔmjunizəm] n.共产主义
 communist [ˈkɔmjunist] n.共产党员
 community [kəˈmjuːniti] n.社区；社会；公社
 companion [kəmˈpænjən] n.同伴;共事者;伴侣
 company [ˈkʌmpəni] n.公司，商号；同伴
-comparative[kəmˈpærətiv] a.比较的，相对的
-compare[kəmˈpeə] vt.比较，对照；比作
+comparative [kəmˈpærətiv] a.比较的，相对的
+compare [kəmˈpeə] vt.比较，对照；比作
 comparison [kəmˈpærisn] n.比较，对照；比似
-compass[ˈkʌmpəs] n.罗盘，指南针；圆规
-compel[kəmˈpel] vt.强迫，迫使屈服
+compass [ˈkʌmpəs] n.罗盘，指南针；圆规
+compel [kəmˈpel] vt.强迫，迫使屈服
 compete [kəmˈpiːt] vi.比赛；竞争；对抗
 competent [ˈkɔmpitənt] a.有能力的；应该做的
 competition [kɔmpiˈti∫ən] n.竞争，比赛
 compile [kəmˈpail] vt.编辑，编制，搜集
-complain[kəmˈplein] vi.抱怨，拆苦；控告
+complain [kəmˈplein] vi.抱怨，拆苦；控告
 complaint [kəmˈpleint] n.抱怨；怨言；控告
 complete [kəmˈpliːt] a.完整的；完成的
 completely [kəmˈpliːtli] ad.十分，完全地
-complex[ˈkɔmpleks] a.结合的；复杂的
+complex [ˈkɔmpleks] a.结合的；复杂的
 complicate [ˈkɔmplikeit] vt.使复杂；使陷入
 complicated [ˈkɔmplikeitid] a.复杂的，难懂的
 component [kəmˈpəunənt] n.组成部分；分；组件
 compose [kəmˈpəuz] vt.组成，构成；创作
 composition [kɔmpəˈzi∫ən] n.构成；作品；写作
 compound [ˈkɔmpaund] n.化合物；复合词
-comprehension[ˌkɔmpriˈhen∫ən] n.理解，理解力；领悟
+comprehension [ˌkɔmpriˈhen∫ən] n.理解，理解力；领悟
 comprehensive [ˌkɔmpriˈhensiv] a.广泛的；理解的
-compress[kəmˈpres] vt.压紧，压缩
-comprise[kəmˈpraiz] vt.包含，包括；构成
+compress [kəmˈpres] vt.压紧，压缩
+comprise [kəmˈpraiz] vt.包含，包括；构成
 compromise [ˈkɔmprəmaiz] n.妥协，和解
 compute [kəmˈpjuːt] vt.计算，估计，估算
-computer[kəmˈpjuːtə] n.计算机，电脑
+computer [kəmˈpjuːtə] n.计算机，电脑
 comrade [ˈkɔmrid] n.同志，亲密的同伴
 conceal [kənˈsiːl] vt.把…隐藏起来
 concentrate [ˈkɔnsentreit] vt.集中；聚集；浓缩
-concentration[ˌkɔnsenˈtrei∫ən] n.集中;专注;浓缩
+concentration [ˌkɔnsenˈtrei∫ən] n.集中;专注;浓缩
 concept [ˈkɔnsept] n.概念，观念，设想
 concern [kənˈsəːn] n.关心，挂念；关系
 concerning [kənˈsəːniŋ] prep.关于
 concert [ˈkɔnsət] n.音乐会，演奏会
-conclude[kənˈkluːd] vt.推断出；结束
+conclude [kənˈkluːd] vt.推断出；结束
 conclusion [kənˈkluːʒən] n.结论，推论；结尾
 concrete [ˈkɔnkriːt] n.混凝土；具体物
-condemn[kənˈdem] vt.谴责，指责；判刑
-condense[kənˈdens] vt.压缩，使缩短
+condemn [kənˈdem] vt.谴责，指责；判刑
+condense [kənˈdens] vt.压缩，使缩短
 condition [kənˈdi∫ən] n.状况，状态；环境
 conduct [ˈkɔndʌktdəkt] n.举止，行为；指导
-conductor[kənˈdʌktə] n.售票员；(乐队)指挥
+conductor [kənˈdʌktə] n.售票员；(乐队)指挥
 conference [ˈkɔnfərəns] n.会议，讨论会
-confess[kənˈfes] vt.供认，承认；坦白
+confess [kənˈfes] vt.供认，承认；坦白
 confidence [ˈkɔnfidəns] n.信任；信赖；信心
-confident[ˈkɔnfidənt] n.确信的，自信的
+confident [ˈkɔnfidənt] n.确信的，自信的
 confine [ˈkɔnfain] vt.限制；禁闭
 confirm [kənˈfəːm] vt.证实，肯定；批准
 conflict [ˈkɔnflikt] n.争论；冲突；斗争
-confuse[kənˈfjuːz] vt.使混乱，混淆
+confuse [kənˈfjuːz] vt.使混乱，混淆
 confusion [kənˈfjuːʒən] n.混乱；骚乱；混淆
 congratulate [kənˈgrætjuleit] vt.祝贺,向…道喜
-congratulation[kənˌgrætjuˈlei∫ən] n.祝贺(词)
+congratulation [kənˌgrætjuˈlei∫ən] n.祝贺(词)
 congress [ˈkɔŋgres] n.大会；国会，议会
 conjunction [kənˈdʒʌŋk∫ən] n.接合,连接(词)
 connect [kəˈnekt] vt.连接，连结；联系
 connection [kəˈnek∫ən] n.连接，联系；连贯性
 conquer [ˈkɔŋkə] vt.征服，战胜；破除
-conquest[ˈkɔŋkwest] n.攻取，征服；克服
+conquest [ˈkɔŋkwest] n.攻取，征服；克服
 conscience [ˈkɔn∫əns] n.良心，道德心
-conscious[ˈkɔn∫əs] a.意识到的；有意的
+conscious [ˈkɔn∫əs] a.意识到的；有意的
 consciousness [ˈkɔn∫əsnis] n.意识,觉悟;知觉
 consent [kənˈsent] n.同意，赞成 vi.同意
 consequence [kənˈsent] n.结果，后果
@@ -833,30 +833,30 @@ considerable [kənˈsidərəbl] a.相当大的;重要的
 considerate [kənˈsidərit] a.考虑周到的；体谅的
 consideration [kənsidəˈrei∫ən] n.考虑，思考；体贴
 consist [kənˈsist] vi.由…组成；在于
-consistent[kənˈsistənt] a.坚持的，一贯的
-constant[ˈkɔnstənt] a.经常的；永恒的
+consistent [kənˈsistənt] a.坚持的，一贯的
+constant [ˈkɔnstənt] a.经常的；永恒的
 constitution [ˌkɔnstiˈtjuː∫ən] n.章程;体质;构造
-construct[kənˈstrʌkt] vt.建造；建设；构筑
+construct [kənˈstrʌkt] vt.建造；建设；构筑
 construction [kənˈstrʌk∫ən] n.建造;建筑(物)
 consult [kənˈsʌlt] vt.请教，查阅
 consume [kənˈsjuːm] vt.消耗，消费；消灭
 consumption [kənˈsʌmp∫ən] n.消耗量；消耗
 contact [ˈkɔntækt] vt.使接触；与…联系
-contain[kənˈtein] vt.包含，容纳；等于
-container[kənˈteinə] n.容器；集装箱
+contain [kənˈtein] vt.包含，容纳；等于
+container [kənˈteinə] n.容器；集装箱
 contemporary [kənˈtempərəri] a.当代的，同时代的
 contempt [kənˈtempt] n.轻蔑；藐视；受辱
-content[kənˈtent] n.内容，目录；容量
+content [kənˈtent] n.内容，目录；容量
 content [kənˈtent] a.满意的，满足的
 contest [ˈkɔntest] vt.争夺，争取；辩驳
-continent[ˈkɔntinənt] n.大陆；陆地；洲
-continual[kənˈtinjuəl] a.不断的；连续的
+continent [ˈkɔntinənt] n.大陆；陆地；洲
+continual [kənˈtinjuəl] a.不断的；连续的
 continue [kənˈtinjuː] vt.继续，连续；延伸
 continuous [kənˈtinjuəs] a.连续不断的，持续的
 contract [ˈkɔntrækt] n.契约，合同；婚约
 contradiction [ˌkɔntrəˈdik∫ən] n.矛盾，不一致；否认
-contrary[ˈkɔntrəri] a.相反的 n.相反
-contrast[ˈkɔntræst] n.对比，对照，悬殊
+contrary [ˈkɔntrəri] a.相反的 n.相反
+contrast [ˈkɔntræst] n.对比，对照，悬殊
 contribute [kənˈtribjuːt] vt.捐献，捐助；投稿
 control [kənˈtrl] vt.控制，克制 n.控制
 convenience [kənˈviːnjəns] n.便利,方便；厕所
@@ -864,11 +864,11 @@ convenient [kənˈviːnjənt] a.便利的；近便的
 convention [kənˈven∫ən] n.习俗，惯例；公约
 conventional [kənˈven∫ənl] a.普通的；习惯的
 conversation [ˌkɔnvəˈsei∫ən] n.会话,非正式会谈
-conversely[ˈkɔnvəːsli] ad.相反地
-conversion[kənˈvəː∫ən] n.转变，转化；改变
+conversely [ˈkɔnvəːsli] ad.相反地
+conversion [kənˈvəː∫ən] n.转变，转化；改变
 convert [kənˈvəːt] vt.使转变；使改变
 convey [kənˈvei] vt.传送；运送；传播
-convince[kənˈvins] vt.使确信，使信服
+convince [kənˈvins] vt.使确信，使信服
 cook [kuk] vt.烹调，煮 vt.烧菜
 cool [kuːl] a.凉的，冷静的
 cooperate [kəuˈɔpəreit] vi.合作，协作；配合
@@ -882,22 +882,22 @@ core [kɔː] n.果实的心，核心
 corn [kɔːn] n.谷物；(英)小麦
 corner [ˈkɔːnə] n.角；犄角；边远地区
 corporation [ˌkɔːpəˈrei∫ən] n.公司，企业；社团
-correct[kəˈrekt] a.正确的 vt.纠正
+correct [kəˈrekt] a.正确的 vt.纠正
 correction [kəˈrek∫ən] n.改正，纠正，修改
-correspond[kɔːrəˈspɔnd] vi.相符合；相当
+correspond [kɔːrəˈspɔnd] vi.相符合；相当
 correspondent [ˌkɔrisˈpɔndənt] n.通信者;通讯员
 corresponding [ˌkɔrisˈpɔndiŋ] a.相应的;符合的
-corridor[ˈkɔridɔː] n.走廊，回廊，通路
+corridor [ˈkɔridɔː] n.走廊，回廊，通路
 cost [kɔst] n.价格，代价；成本
 costly [ˈkɔstli] a.昂贵的；价值高的
-cottage[ˈkɔtidʒ] n.村舍，小屋
+cottage [ˈkɔtidʒ] n.村舍，小屋
 cotton [ˈkɔtn] n.棉；棉线；棉布
 cough [kɔːf] vi.咳，咳嗽 n.咳嗽
 could [kud] aux.v.(can 的过去式)
 council [ˈkaunsil] n.理事会，委员会
 count [kaunt] vt.计算 vi.数，计数
-counter[ˈkauntə] n.柜台；计数器
-country[ˈkʌntri] n.国家，国土；农村
+counter [ˈkauntə] n.柜台；计数器
+country [ˈkʌntri] n.国家，国土；农村
 countryside [ˈkʌntrisaid] n.乡下，农村
 county [ˈkaunti] n.英国的郡，美国的县
 couple [ˈkʌpl] n.夫妇；(一)对；几个
@@ -907,7 +907,7 @@ court [kɔːt] n.法院，法庭；庭院
 cousin [ˈkʌzn] n.堂(或表)兄弟(姐妹)
 cover [ˈkʌvə] vt.盖，包括 n.盖子
 cow [kau] n.母牛，奶牛；母兽
-coward[ˈkauəd] n.懦夫；胆怯者
+coward [ˈkauəd] n.懦夫；胆怯者
 crack [kræk] n.裂缝，裂纹 vi.爆裂
 craft [krɑːft] n.工艺；手艺，行业
 crane [krein] n.起重机，摄影升降机
@@ -916,20 +916,20 @@ crawl [krɔːl] vi.爬，爬行
 crazy [ˈkreizi] a.疯狂的，荒唐的
 cream [kriːm] n.奶油，乳脂；奶油色
 create [kriˈeit] vt.创造；引起，产生
-creative[kri(ː)ˈeitiv] a.创造性的，创作的
-creature[ˈkriːt∫ə] n.生物，动物，家畜
+creative [kri(ː)ˈeitiv] a.创造性的，创作的
+creature [ˈkriːt∫ə] n.生物，动物，家畜
 credit [ˈkredit] n.信用贷款；信用
 creep [kriːp] vi.爬行；缓慢地行进
 crew [kruː] n.全体船员
 cricket [ˈkrikit] n.板球；蟋蟀
 crime [kraim] n.罪，罪行；犯罪
-criminal[ˈkriminl] n.犯人，罪犯，刑事犯
+criminal [ˈkriminl] n.犯人，罪犯，刑事犯
 cripple [ˈkripl] n.跛子；残废的人
 crisis [ˈkraisis] n.危机；存亡之际
 critic [ˈkritik] n.批评家，爱挑剔的人
 critical [ˈkritikəl] a.决定性的；批评的
 criticism [ˈkritisiz(ə)m] n.批评；批判；评论
-criticize[ˈkritisaiz] vt.批评；评论；非难
+criticize [ˈkritisaiz] vt.批评；评论；非难
 crop [krɔp] n.农作物，庄稼；一熟
 cross [krɔs] vt.穿过；使交叉
 crow [krəu] n.鸦，乌鸦 vi.啼
@@ -946,20 +946,20 @@ cubic [ˈkjuːbik] a.立方形的；立方的
 cucumber [ˈkjuːkʌmbə] n.黄瓜
 cultivate [ˈkʌltiveit] vt.耕；种植；培养
 culture [ˈkʌlt∫ə] n.文化，文明；教养
-cunning[ˈkʌniŋ] a.狡猾的，狡诈的
+cunning [ˈkʌniŋ] a.狡猾的，狡诈的
 cup [kʌp] n.杯子；(一)杯；奖杯
-cupboard[ˈkʌbəd] n.碗柜，碗碟橱；食橱
+cupboard [ˈkʌbəd] n.碗柜，碗碟橱；食橱
 cure [kjuə] vt.医治；消除 n.治愈
 curiosity [ˌkjuəriˈɔsiti] n.好奇，好奇心；珍品
-curious[ˈkjuəriəs] a.好奇的；稀奇古怪的
+curious [ˈkjuəriəs] a.好奇的；稀奇古怪的
 curl [kəːl] n.卷毛；螺旋 vi.卷曲
-current[ˈkʌrənt] a.当前的；通用的
+current [ˈkʌrənt] a.当前的；通用的
 curse [kəːs] n.诅咒，咒骂；天谴
-curtain[ˈkəːtən] n.帘，窗帘；幕(布)
+curtain [ˈkəːtən] n.帘，窗帘；幕(布)
 curve [kəːv] n.曲线；弯 vt.弄弯
 cushion [ˈku∫ən] n.垫子，坐垫，靠垫
 custom [ˈkʌstəm] n.习惯，风俗；海关
-customer[ˈkʌstəmə] n.顾客，主顾
+customer [ˈkʌstəmə] n.顾客，主顾
 cut [kʌt] vt.切，割，剪；减少
 cycle [ˈsaikl] n 自行车，循环
 
@@ -969,10 +969,10 @@ daily [ˈdeili] a.每日的 n.日报
 dairy [ˈdeəri] n.牛奶场；乳制品
 dam [dæm] n.水坝，水堤；障碍物
 damage [ˈdæmidʒ] vt.损害，毁坏 n.损害
-damp[dæmp] a.潮湿的，有湿气的
-dance[ˈdɑːns] vi.跳舞；摇晃 n.舞
+damp [dæmp] a.潮湿的，有湿气的
+dance [ˈdɑːns] vi.跳舞；摇晃 n.舞
 danger [ˈdeindʒə] n.危险；危险事物
-dangerous[ˈdeindʒrəs] a.危险的，不安全的
+dangerous [ˈdeindʒrəs] a.危险的，不安全的
 dare [deə] vt.&aux.v.敢；竟敢
 daring [ˈdeəriŋ] a.大胆的，勇敢的
 dark [dɑːk] a.暗的；黑色的
@@ -980,10 +980,10 @@ darling [ˈdɑːliŋ] n.亲爱的人；宠儿
 dash [dæ∫] vt.使猛撞；溅 n.猛冲
 data [ˈdeitə] n.数据; 资料
 date [deit] n.日期 vt.注…日期
-daughter[ˈdɔːtə] n.女儿
+daughter [ˈdɔːtə] n.女儿
 dawn [dɔːn] n.黎明；开端 vi.破晓
 day [dei] n.(一)天，白昼，白天
-daylight[ˈdeilait] n.白昼，日光；黎明
+daylight [ˈdeilait] n.白昼，日光；黎明
 dead [ded] a.死的，无生命的
 deadly [ˈdedli] a.致命的，死一般的
 deaf [def] a.聋的；不愿听的
@@ -995,13 +995,13 @@ debt [det] n.债，债务，欠债
 decade [ˈdekeid] n.十年，十年期
 decay [diˈkei] vi.腐烂；衰败 n.腐烂
 deceit [diˈsiːt] n.欺骗，欺诈
-deceive[diˈsiːv] vt.欺骗，蒙蔽，行骗
+deceive [diˈsiːv] vt.欺骗，蒙蔽，行骗
 December [diˈsembə] n.十二月
 decent [ˈdiːsnt] a.正派的；体面的
-decide[diˈsaid] vt.决定，决心；解决
+decide [diˈsaid] vt.决定，决心；解决
 decision [diˈsiʒən] n.决定，决心；果断
 deck [dek] n.甲板；舱面；层面
-declare[diˈkleə] vt.断言；声明；表明
+declare [diˈkleə] vt.断言；声明；表明
 decorate [ˈdekəreit] vt.装饰，装璜，修饰
 decrease [diːˈkriːs] vi.&n.减少，减少
 deduce [diˈdjuːs] vt.演绎，推论，推断
@@ -1012,26 +1012,26 @@ deer [diə] n.鹿
 defeat [diˈfiːt] vt.战胜，击败；挫败
 defect [diˈfekt] n.缺点，缺陷，欠缺
 defence [diˈfens] n.防御；防务；辩护
-defend[diˈfend] vt.保卫，防守
+defend [diˈfend] vt.保卫，防守
 define [diˈfain] vt.给…下定义；限定
-definite[ˈdefinit] a.明确的；肯定的
+definite [ˈdefinit] a.明确的；肯定的
 definitely [ˈdefinitli] ad.一定地，明确地
 definition [ˌdefiˈni∫ən] n.定义，释义；定界
 degree [diˈgriː] n.程度；度；学位
 delay [diˈlei] vt.推迟；耽搁；延误
 delete [diˈ liːt] vt.删除；擦掉
 delegation [ˌdeliˈgei∫ən] n.代表团
-delicate[ˈdelikit] a.纤细的；易碎的
+delicate [ˈdelikit] a.纤细的；易碎的
 delicious [diˈli∫əs] a.美味的，怡人的
 delight [diˈlait] n.快乐 vt.使高兴
 deliver [diˈlivə] vt.投递，送交；发表
-delivery[diˈlivəri] n.投递；交付；分娩
-demand[diˈmɑːnd] vt.要求；需要；询问
+delivery [diˈlivəri] n.投递；交付；分娩
+demand [diˈmɑːnd] vt.要求；需要；询问
 democracy [diˈmɔkrəsi] n.民主，民主制
 democratic [ˌdeməˈkrætik] a.民主的，民主政体的
 demonstrate [ˈdemənstreit] vt.说明;论证;表露
 dense [dens] a.密集的；浓厚的
-density[ˈdensiti] n.密集，稠密；密度
+density [ˈdensiti] n.密集，稠密；密度
 deny [diˈnai] vt.否定；拒绝相信
 depart [diˈpɑːt] vi.离开，起程；出发
 department [diˈpɑːtmənt] n.部,司,局,处,系
@@ -1039,30 +1039,30 @@ departure [diˈpɑːt∫ə] n.离开，出发，起程
 depend [diˈpend] vi.依靠，依赖；相信
 dependent [diˈpendənt] a.依靠的，依赖的
 deposit [diˈpɔzit] vt.使沉淀；存放
-depress[diˈpres] vt.使沮丧；按下
+depress [diˈpres] vt.使沮丧；按下
 depth [depθ] n.深度；深厚；深处
 derive [diˈraiv] vt.取得 vi.起源
 descend [diˈsend] vi.下来，下降；下倾
 describe [disˈkraib] vt.形容；描写，描绘
-description[disˈkrip∫ən] n.描写，形容；种类
+description [disˈkrip∫ən] n.描写，形容；种类
 desert [diˈzəːt] n.沙漠 vt.离弃；擅离
 deserve[diˈzəːv] vt.应受，值得
 design [diˈzain] vt.设计 n.设计；图样
 desirable [diˈzaiərəbl] a.值得相望的；可取的
 desire [diˈzaiə] vt.相望；要求 n.愿望
 desk [desk] n.书桌，办公桌
-despair[disˈpeə] n.绝望 vi.绝望
+despair [disˈpeə] n.绝望 vi.绝望
 desperate [ˈdespərit] a.拼死的；绝望的
-despise[disˈpaiz] vt.鄙视，蔑视
-despite[disˈpait] prep.不管，不顾
-destination[ˌdestiˈnei∫ən] n.目的地,终点；目标
-destroy[disˈtrɔi] vt.破坏；消灭；打破
-destruction[disˈtrʌk∫ən] n.破坏，毁灭，消灭
+despise [disˈpaiz] vt.鄙视，蔑视
+despite [disˈpait] prep.不管，不顾
+destination [ˌdestiˈnei∫ən] n.目的地,终点；目标
+destroy [disˈtrɔi] vt.破坏；消灭；打破
+destruction [disˈtrʌk∫ən] n.破坏，毁灭，消灭
 detail [diˈteil] n.细节；枝节；零件
 detect [diˈtekt] vt.察觉，发觉；侦察
-detection[diˈtek∫ən] n.察觉，发觉；侦察
-determination[ditəːmiˈnei∫(ə)n] n.决心/定;确定
-determine[diˈtəːmin] vt.决定；查明；决心
+detection [diˈtek∫ən] n.察觉，发觉；侦察
+determination [ditəːmiˈnei∫(ə)n] n.决心/定;确定
+determine [diˈtəːmin] vt.决定；查明；决心
 develop [diˈveləp] vt.发展；形成；开发
 development [diˈveləpmənt] n.发展;开发；生长
 device [diˈvais] n.器械，装置；设计
@@ -1074,8 +1074,8 @@ diagram [ˈdaiəgræm] n.图解，图表，简图
 dial [ˈdaiəl] n.钟面；拨号盘 vt.拨
 dialect [ˈdaiəlekt] n.方言，土语，地方话
 dialog [ˈdaiəlɔg] n.对话，对白
-diameter[daiˈæmitə] n.直径
-diamond[ˈdaiəmənd] n.金钢石，钻石；菱形
+diameter [daiˈæmitə] n.直径
+diamond [ˈdaiəmənd] n.金钢石，钻石；菱形
 diary [ˈdaiəri] n.日记，日记簿
 dictate [dikˈteit] vt.&vi.口授；命令
 dictation [dikˈtei∫ən] n.口授笔录，听写
@@ -1083,15 +1083,15 @@ dictionary [ˈdik∫ənəri] n.词典，字典
 die [dai] vi.死，死亡；灭亡
 differ [ˈdifə] vi.不同，相异
 difference [ˈdifərəns] n.差别；差；分歧
-different[ˈdifrənt] a.差异的；各种的
-difficult[ˈdifikəlt] a.困难的；难对付的
+different [ˈdifrənt] a.差异的；各种的
+difficult [ˈdifikəlt] a.困难的；难对付的
 difficulty [ˈdifikəlti] a.困难；难事；困境
 dig [dig] vt.掘，挖；采掘
-digest[daiˈdʒest] vt.消化；领会 n.文摘
-digital[ˈdidʒitl] a.数字的，计数的
+digest [daiˈdʒest] vt.消化；领会 n.文摘
+digital [ˈdidʒitl] a.数字的，计数的
 diligent [ˈdilidʒənt] a.勤勉的，勤奋的
 dim [dim] a.昏暗的；朦胧的
-dimension[diˈmen∫ən] n.尺寸，尺度；面积
+dimension [diˈmen∫ən] n.尺寸，尺度；面积
 dinner [ˈdinə] n.正餐，主餐；宴会
 dip [dip] vt.浸，蘸 vi.浸一浸
 direct [diˈrekt] a.直接的；直率的
@@ -1101,19 +1101,19 @@ director [diˈrektə] n.指导者；理事；导演
 dirt [dəːt] n.尘，土；污物，污垢
 dirty [ˈdəːti] a.脏的；下流的
 disable [disˈeibl] vt.使无能，使伤残
-disadvantage[ˌdisədˈvɑːntidʒ] n.不利(地位)
-disagree[ˌdisəˈgriː] vi.有分歧；不一致
-disappear[ˌdisəˈpiə] vi.不见，失踪；消失
-disappoint[ˌdisəˈpɔint] vt.使失望，使受挫折
-disaster[diˈzɑːstə] n.灾难，灾祸；天灾
+disadvantage [ˌdisədˈvɑːntidʒ] n.不利(地位)
+disagree [ˌdisəˈgriː] vi.有分歧；不一致
+disappear [ˌdisəˈpiə] vi.不见，失踪；消失
+disappoint [ˌdisəˈpɔint] vt.使失望，使受挫折
+disaster [diˈzɑːstə] n.灾难，灾祸；天灾
 disk [disk] n.圆盘，唱片；磁盘
 discard [disˈkɑːd] vt.丢弃，抛弃，遗弃
 discharge [disˈt∫ɑːdʒ] vt.释放；排出 n.释放
-discipline[ˈdisiplin] n.纪律；训练 vt.训练
+discipline [ˈdisiplin] n.纪律；训练 vt.训练
 disclose [disˈkləuz] vt.揭开，揭发；透露
 discourage [disˈkʌridʒ] vt.使泄气，使灰心
 discover [disˈkʌvə] vt.发现；暴露，显示
-discovery[disˈkʌvəri] n.发现；被发现的事物
+discovery [disˈkʌvəri] n.发现；被发现的事物
 discuss [disˈkʌs] vt.讨论，谈论；论述
 discussion [disˈkʌ∫ən] n.讨论，谈论；论述
 disease [diˈziːz] n.病，疾病；病害
@@ -1122,31 +1122,31 @@ disgust [disˈgʌst] n.厌恶，憎恶
 dish [di∫] n.碟，盘子；菜肴
 dishonor [disˈɔnə] n.不光彩；丢脸的人
 dislike [disˈlaik] vt.&n.不喜爱，厌恶
-dismiss[disˈmis] vt.不再考虑；解雇
+dismiss [disˈmis] vt.不再考虑；解雇
 disorder [disˈɔːdə] n.混乱，杂乱；骚乱
-display[diˈsplei] vt.陈列，展览；显示
+display [diˈsplei] vt.陈列，展览；显示
 disposal [disˈpəuzəl] n.丢掉，处理，销毁
-dispose[disˈpəuz] vi.去掉，丢掉；销毁
+dispose [disˈpəuz] vi.去掉，丢掉；销毁
 displease [disˈpliːz] vt.使不愉快，使生气
 dispute [disˈpjuːt] vi.争论，争执 n.争论
 dissatisfy [ˈdisˈsætisfai] vi.使不满，使不平
-dissolve[diˈzɔlv] vt.使溶解；解散
+dissolve [diˈzɔlv] vt.使溶解；解散
 distance [ˈdistəns] n.距离，间距；远处
-distant[ˈdistənt] a.在远处的，疏远的
-distinct[disˈtiŋkt] a.与其他不同的
-distinction[disˈtiŋk∫ən] n.差别，不同，区分
-distinguish[disˈtiŋgwi∫] vt.区别，辨别，认别
-distress[disˈtres] n.忧虑，悲伤；不幸
+distant [ˈdistənt] a.在远处的，疏远的
+distinct [disˈtiŋkt] a.与其他不同的
+distinction [disˈtiŋk∫ən] n.差别，不同，区分
+distinguish [disˈtiŋgwi∫] vt.区别，辨别，认别
+distress [disˈtres] n.忧虑，悲伤；不幸
 distribute [disˈtribju(ː)t] vt.分发，分送；分布
 distribution [ˌdistriˈbjuː∫ən] n.分发/配；分布
 district [ˈdistrikt] n.区；地区，区域
-disturb[disˈtəːb] vt.打扰，扰乱；弄乱
+disturb [disˈtəːb] vt.打扰，扰乱；弄乱
 ditch [dit∫] n.沟，沟渠，渠道
 dive [daiv] vi.跳水；潜水；俯冲
-diverse[daiˈvəːs] a.不一样的，相异的
+diverse [daiˈvəːs] a.不一样的，相异的
 divide [diˈvaid] vt.分；分配；分开
-division[diˈviʒən] n.分，分配；除法
-divorce[diˈvɔːs] n.离婚，离异 vi.离婚
+division [diˈviʒən] n.分，分配；除法
+divorce [diˈvɔːs] n.离婚，离异 vi.离婚
 do [duː] aux.v. vt.做，干，办
 dock [dɔk] n.船坞；码头；船厂
 doctor [ˈdɔktə] n.医生，医师；博士
@@ -1154,10 +1154,10 @@ document [ˈdɔkjumənt] n.公文，文件；证件
 dog [dɔg] n.狗，犬，犬科动物
 dollar [ˈdɔlə] n.元(货币单位)
 domestic [dəˈmestik] a.本国的；家庭的
-donkey[ˈdɔŋki] n.驴；笨蛋
+donkey [ˈdɔŋki] n.驴；笨蛋
 door [dɔː n.门，通道；一家
 dorm [dɔːm] n.宿舍
-dormitory[ˈdɔːmitri] n.集体寝室；宿舍
+dormitory [ˈdɔːmitri] n.集体寝室；宿舍
 dose [dəus] n.剂量，用量；一剂
 dot [dɔt] n.点，圆点 vt.打点于
 double [ˈdʌbl] a.两倍的；双的
@@ -1173,10 +1173,10 @@ drag [dræg] vt.拖，拉；拖曳
 dragon [ˈdrægən] n.龙；凶暴的人
 drain [drein] vt.排去；放水 n.耗竭
 drama [ˈdrɑːmə] n.一出戏剧，剧本
-dramatic[drəˈmætik] a.引人注目的，戏剧的
+dramatic [drəˈmætik] a.引人注目的，戏剧的
 draw [drɔː] vt.画，划；拖；拨出
 drawer [ˈdrɔːə n.抽屉
-drawing[ˈdrɔːiŋ] n.图画，素描；绘图
+drawing [ˈdrɔːiŋ] n.图画，素描；绘图
 dread [dred] n.畏惧；恐怖 vt.惧怕
 dream [driːm] n.梦；梦想 vi.做梦
 dress [dres] n.女服，童装；服装
@@ -1187,7 +1187,7 @@ drip [drip] vi.滴下；漏水 n.水滴
 drive [draiv] vt.驾驶；打入；驱
 driver [ˈdraivə] n.驾驶员，司机
 drop [drɔp] vt.使落下；降低
-drought[draut] n.旱灾，干旱
+drought [draut] n.旱灾，干旱
 drown [draun] vi.淹死，溺死
 drug [drʌg] n.药，药物，药材
 drum [drʌm] n.鼓；鼓状物，圆桶
@@ -1223,17 +1223,17 @@ earthquake [ˈəːθkweik] n.地震；大震荡
 ease [iːz] n.容易，舒适 vt.缓和
 easily [ˈiːzili] ad.容易地；舒适的
 east [iːst] n.东；东部 ad.在东方
-eastern[ˈiːstən] a.东方的；朝东的
+eastern [ˈiːstən] a.东方的；朝东的
 easy [ˈiːzi] a.容易的；安逸的
 eat [iːt] vt.吃，喝 vi.吃饭
 echo [ˈekəu] n.回声，反响 vi.重复
 economic [ˌiːkəˈnɔmik] a.经济的，经济学的
 economical [ˌiːkəˈnɔmikəl] a.节约的;经济学的
-economy[i(ː)ˈkɔnəmi] n.经济；节约，节省
+economy [i(ː)ˈkɔnəmi] n.经济；节约，节省
 edge [edʒ] n.边缘，边；刀口
 edition [iˈdi∫ən] n.版，版本，版次
 editor [ˈeditə] n.编辑，编者，校订者
-educate[ˈedju(ː)keit] vt.教育；培养；训练
+educate [ˈedju(ː)keit] vt.教育；培养；训练
 education [ˌedju(ː)ˈkei∫ən] n.教育;训导;教育学
 effect [iˈfekt] n.结果；效果，效力
 effective [iˈfektiv] a.有效的；有影响的
@@ -1243,12 +1243,12 @@ effort [ˈefət] n.努力；努力的成果
 egg [eg] n.蛋，鸡蛋，卵
 eight [eit] num.八，八个，第八
 eighteen [ˈeiˈtiːn] num.十八，十八个
-eighth[eitθ] num.第八 n.八分之一
-eighty[ˈeiti] num.八十，八十个
+eighth [eitθ] num.第八 n.八分之一
+eighty [ˈeiti] num.八十，八十个
 either [ˈaiðə(r)] pron.(两者)任何一个
 elaborate [iˈlæbərət] a.复杂的；精心制作的
-elastic[iˈlæstik] n.松紧带 a.有弹性的
-elbow[ˈelbəu] n.肘，肘部；弯管
+elastic [iˈlæstik] n.松紧带 a.有弹性的
+elbow [ˈelbəu] n.肘，肘部；弯管
 elder [ˈeldə(r)] a.年龄较大的 n.长者
 elect [iˈlekt] vt.选举，推选；选择
 election [iˈlek∫(ə)n] n.选举，选择权；当选
@@ -1257,25 +1257,25 @@ electrical [iˈlektrik(ə)l] a.电的，电气科学的
 electricity [ilekˈtrisiti] n.电，电学；电流
 electron [iˈlektrɔn] n.电子
 electronic [ilekˈtrɔnik] a.电子的
-electronics[ilekˈtrɔniks] n.电子学
-element[ˈelimənt] n.成分；要素；元素
-elementary[ˌeliˈmentəri] a.基本的；初级的
+electronics [ilekˈtrɔniks] n.电子学
+element [ˈelimənt] n.成分；要素；元素
+elementary [ˌeliˈmentəri] a.基本的；初级的
 elephant [ˈelifənt] n.象
 elevator [ˈeliveitə] n.电梯；升降机
-eleven[iˈlevən] num.十一，十一个
+eleven [iˈlevən] num.十一，十一个
 eleventh [iˈlevnθ] num.第十一(个)
 eliminate [iˈlimineit] vt.消灭，消除，排除
 elimination [iˌlimiˈnei∫ən] n.消灭，排除，消除
 else [els] ad.其它，另外 a.别的
 elsewhere [ˈelsˈhweə] ad.在别处，向别处
 embarrass [imˈbærəs] vt.使窘迫，使为难
-embrace[imˈbreis] vt.拥抱；包括；包围
+embrace [imˈbreis] vt.拥抱；包括；包围
 emerge [iˈməːdʒ] vi.出现，涌现；冒出
 emergency [iˈməːdʒnsi] n.紧急情况，突然事件
 emit [iˈmit] vt.散发；发射；发表
-emotion[iˈməu∫ən] n.情感，感情；激动
+emotion [iˈməu∫ən] n.情感，感情；激动
 emotional [iˈməu∫ənl] a.感情的，情绪的
-emperor[ˈempərə] n.皇帝
+emperor [ˈempərə] n.皇帝
 emphasis [ˈemfəsis] n.强调，重点，重要性
 emphasize [ˈemfəsaiz] vt.强调，着重
 empire [ˈempaiə] n.帝国
@@ -1285,30 +1285,30 @@ employer [imˈplɔiə] n.雇佣者，雇主
 employment [imˈplɔimənt] n.工业；雇/使用
 empty [ˈempti] a.空的；空洞的
 enable [iˈneibl] vt.使能够，使可能
-enclose[inˈkləuz] vt.围住，圈起；附上
+enclose [inˈkləuz] vt.围住，圈起；附上
 encounter [inˈkauntə] vt.遭遇，遇到 n.遭遇
 encourage [inˈkʌridʒ] vt.鼓励，支持，助长
 end [end] n.末端；目标 vt.结束
 ending [ˈendiŋ] n.结尾，结局；死亡
-endless[ˈendlis] a.无止境的
+endless [ˈendlis] a.无止境的
 endure [inˈdjuə] vt.忍受；容忍
 enemy [ˈenimi] n.敌人；仇敌；敌兵
 energy [ˈenədʒi] n.活力；精力；能
-enforce[inˈfɔːs] vt.实施，执行；强制
-engage[inˈgeidʒ] vt.使从事于；聘用
+enforce [inˈfɔːs] vt.实施，执行；强制
+engage [inˈgeidʒ] vt.使从事于；聘用
 engine [ˈendʒin] n.发动机，引擎；机车
-engineer[ˌendʒiˈniə] n.工程师，技师
-engineering[ˌendʒiˈniəriŋ] n.工程，工程学
-England[ˈinglənd] n.英格兰；英国
+engineer [ˌendʒiˈniə] n.工程师，技师
+engineering [ˌendʒiˈniəriŋ] n.工程，工程学
+England [ˈinglənd] n.英格兰；英国
 English [ˈiŋgli∫] n.英语 a.英国人的
-Englishman[ˈiŋgli∫mən] n.英国男子
+Englishman [ˈiŋgli∫mən] n.英国男子
 enjoy [inˈdʒɔi] vt.享受；欣赏，喜爱
 enlarge [inˈlɑːdʒ] vt.扩大，扩展；放大
 enormous [iˈnɔːməs] a.巨大的，庞大的
 enough [iˈnʌf] a.足够的 ad.足够地
 ensure [inˈ∫uər] vt.保证；保护；赋予
 enter [ˈentə] vt.走进，进入；参加
-entertain[ˌentəˈtein] vt.使欢乐；招待
+entertain [ˌentəˈtein] vt.使欢乐；招待
 enthusiasm [inˈθjuːziæzəm] n.热情/心，热忱
 enthusiastic [inθjuːziˈæstik] a.热情的，热心的
 entire [inˈtaiə] a.全部的，整个的
@@ -1319,7 +1319,7 @@ envelope [ˈenviləup] n.信封；封套；封皮
 environment [inˈvaiərənmənt] n.环境，外界；围绕
 envy [ˈenvi] vt.&n.妒忌；羡慕
 equal [ˈiːkwəl] a.相等的；平等的
-equality[i(ː)ˈkwɔliti] n.等同，平等；相等
+equality [i(ː)ˈkwɔliti] n.等同，平等；相等
 equation [iˈkwei∫ən] n.方程(式)；等式
 equip [iˈkwip] vt.装备，配备
 equipment [iˈkwipmənt] n.装备，设备，配备
@@ -1331,50 +1331,50 @@ escape [isˈkeip] vi.逃跑；逸出 n.逃跑
 especially [isˈpe∫əli] ad.特别，尤其，格外
 essay [ˈesei] n.短文，散文，小品文
 essential [iˈsen∫əl] a.必要的，本质的
-establish[isˈtæbli∫] vt.建立，设立；确立
+establish [isˈtæbli∫] vt.建立，设立；确立
 establishment [isˈtæbli∫mənt] n.建立,设/确立
 estimate [ˈestimeit] vt.估计，评价 n.估计
-Europe[ˈjuərəp] n.欧洲
+Europe [ˈjuərəp] n.欧洲
 European [ˌjuərəˈpi(ː)ən] a.欧洲的 n.欧洲人
-evaluate[iˈvæljueit] vt.评价，估…的价
+evaluate [iˈvæljueit] vt.评价，估…的价
 evaporate [iˈvæpəreit] vt.使蒸发 vi.蒸发
 eve [iːv] n.前夜，前夕，前一刻
 even [ˈiːvən] ad.甚至；甚至更，还
-evena.均匀的；平的
+even a.均匀的；平的
 evening [ˈiːvniŋ] n.傍晚，黄昏，晚上
 event [iˈvent] n.事件，大事；事变
-eventually[iˈventjuəli] ad.终于；最后
+eventually [iˈventjuəli] ad.终于；最后
 ever [ˈevə] ad.在任何时候；曾经
 every [ˈevri] a.每一的；每隔…的
 everybody [ˈevribɔdi] pron.每人，人人
-everyday[ˈevridei] a.每天的，日常的
-everyone[ˈevriwʌn] pron.每人，人人
+everyday [ˈevridei] a.每天的，日常的
+everyone [ˈevriwʌn] pron.每人，人人
 everything [ˈevriθiŋ] pron.每件事，事事
 everywhere [ˈevriweə(r)] ad.到处，处处
 evidence [ˈevidəns] n.根据；证据，证人
 evident [ˈevidənt] a.明显的，明白的
 evil [ˈiːvl] n.邪恶；祸害 a.坏的
-evolution[evəˈluː∫ən] n.进化，演化；发展
+evolution [evəˈluː∫ən] n.进化，演化；发展
 evolve [iˈvɔlv] vt.使进化；使发展
 exact [igˈzækt] a.确切的；精确的
 exactly [igˈzæktli] ad.确切地；恰恰正是
 exaggerate [igˈzædʒəreit] vt.&vi.夸大，夸张
 exam [igˈzæm] n.考试；检查，细查
 examination [igˌzæmiˈnei∫ən] n.考试；检/细查
-examine[igˈzæmin] vt.检查，仔细观察
-example[igˈzɑːmpl] n.例子，实例；模范
+examine [igˈzæmin] vt.检查，仔细观察
+example [igˈzɑːmpl] n.例子，实例；模范
 exceed [ikˈsiːd] vt.超过，胜过；超出
 exceedingly [ikˈsiːdiŋli] ad.极端地，非常
 excellent [ˈeksələnt] a.优秀的，杰出的
 except [ikˈsept] prep.除…之外
-exception[ikˈsep∫ən] n.例外，除外
+exception [ikˈsep∫ən] n.例外，除外
 excess [ˈekses] n.超越；过量；过度
-excessive[ikˈsesiv] a.过多的，极度的
+excessive [ikˈsesiv] a.过多的，极度的
 exchange [iksˈt∫eindʒ] vt.交换；交流 n.交换
 excite [ikˈsait] vt.使激动；引起
-exciting[ikˈsaitiŋ] a.令人兴奋的
-exclaim[iksˈkleim] vi.呼喊；惊叫
-exclude[iksˈkluːd] vt.把…排除在外
+exciting [ikˈsaitiŋ] a.令人兴奋的
+exclaim [iksˈkleim] vi.呼喊；惊叫
+exclude [iksˈkluːd] vt.把…排除在外
 exclusively [ikˈskluːsivli] ad.专门地
 excursion [iksˈkəː∫ən] n.远足；短途旅行
 excuse [iksˈkjuːz] vt.原谅；免除 n.借口
@@ -1382,17 +1382,17 @@ execute [ˈeksikjuːt] vt.将…处死；实施
 executive [igˈzekjutiv] a.执行的 n.执行者
 exercise [ˈeksəsaiz] n.锻炼，训练 vi.练习
 exert [igˈzəːt] vt.尽(力)，运用
-exhaust[igˈzɔːst] vt.使筋疲力尽；用尽
+exhaust [igˈzɔːst] vt.使筋疲力尽；用尽
 exhibit [igˈzibit] vt.显示；陈列，展览
 exhibition [ˌeksiˈbi∫ən] n.展览，陈列；展览会
 exist [igˈzist] vi.存在；生存，生活
 existence [igˈzistəns] n.存在，实在；生存
 exit [ˈeksit] n.出口；退场 vi.退出
-expand[iksˈpænd] vt.扩大；使膨胀
+expand [iksˈpænd] vt.扩大；使膨胀
 expansion [iksˈpæn∫ən] n.扩大，扩充；扩张
 expect [iksˈpekt] vt.预料，预期；等待
 expectation [ˌekspekˈtei∫ən] n.期待/望，预期
-expense[ikˈspens] n.花费，消费；费用
+expense [ikˈspens] n.花费，消费；费用
 expensive [iksˈpensiv] a.昂贵的，花钱多的
 experience [iksˈpiəriəns] n.经验，感受；经历
 experiment [iksˈperimənt] n.实验；试验
@@ -1409,19 +1409,19 @@ export [ˈekspɔːt] vt.输出，出口；运走
 expose [iksˈpəuz] vt.使暴露；揭露
 exposure [iksˈpəuʒə] n.暴露；揭露；曝光
 express [iksˈpres] vt.表示 n.快车，快递
-expression[iksˈpre∫ən] n.词句；表达；表情
-extend[iksˈtend] vt.延长；扩大；致
+expression [iksˈpre∫ən] n.词句；表达；表情
+extend [iksˈtend] vt.延长；扩大；致
 extension [iksˈten∫ən] n.延长部分；伸展
 extensive [iksˈtensiv] a.广阔的；广泛的
 extent [iksˈtent] n.广度；范围；程度
-exterior[eksˈtiəriə] a.外部的；对外的
-external[eksˈtəːnl] a.外部的，外面的
+exterior [eksˈtiəriə] a.外部的；对外的
+external [eksˈtəːnl] a.外部的，外面的
 extra [ˈekstrə] a.额外的 ad.特别地
-extraordinary[ikˈstrɔː dəneri] a.非同寻常的，特别的
-extreme[ikˈstriːm] a.极度的；尽头的
+extraordinary [ikˈstrɔː dəneri] a.非同寻常的，特别的
+extreme [ikˈstriːm] a.极度的；尽头的
 extremely [iksˈtriːmli] ad.极端，极其，非常
 eye [ai] n.眼睛；眼力；鉴赏力
-eyesight[ˈaisait] n.视力，目力
+eyesight [ˈaisait] n.视力，目力
 
 F
 
