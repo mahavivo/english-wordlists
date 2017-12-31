@@ -1,4 +1,4 @@
-大学英语四级大纲单词表
+﻿大学英语四级大纲单词表
 (共 4615 词)
 
 A
@@ -2689,14 +2689,14 @@ objection [əbˈdʒek∫ən] n.反对,异议;不喜欢
 objective [əbˈdʒektiv] a.客观的；无偏见的
 oblige [əˈblaidʒ] vt.迫使；施恩惠于
 observation [ˌəbzəːˈvei∫ən] n.注意；观察(力)
-observe[əbˈzəːv] vt.遵守；看到；说
-observer[əbˈzəːvə] n.观察员，观测者
-obstacle[ˈɔbstəkl] n.障碍，障碍物，妨害
+observe [əbˈzəːv] vt.遵守；看到；说
+observer [əbˈzəːvə] n.观察员，观测者
+obstacle [ˈɔbstəkl] n.障碍，障碍物，妨害
 obtain [əbˈtein] vt.获得，得到，买到
-obvious[ˈɔbviəs] a.明显的，显而易见的
+obvious [ˈɔbviəs] a.明显的，显而易见的
 obviously [ˈɔbviəsli] ad.明显地，显然地
 occasion [əˈkeiʒən] n.场合，时刻；时机
-occasional [əˈkeiʒnəl] a.偶然的；临时的
+occasional [əˈkeiʒənəl] a.偶然的；临时的
 occasionally[əˈkeiʒənəli] ad.偶然;非经常地
 occupation [ˌɔkjuˈpei∫ən] n.占领/据；职业
 occupy [ˈɔkjupai] vt.占领；占，占有
@@ -2705,7 +2705,7 @@ occurrence [əˈkʌrəns] n.发生，出现；事件
 ocean [ˈəu∫ən] n.海洋；洋
 Oceania [ˌəu∫iˈeiniə] n.大洋洲
 oˈclock [əˈklɔk] ad.…点钟
-October[ɔkˈtəubə] n.十月
+October [ɔkˈtəubə] n.十月
 odd [ɔd] a.奇数的；单只的
 odour [ˈəudə] n.气味，香气；味道
 of [ɔːf] prep.…的；由于
@@ -2724,14 +2724,14 @@ omit [əuˈmit] vt.省略，省去；遗漏
 on [ɔn] prep.在…上；在…旁
 once [wʌns] ad.一次；曾经 n.一次
 one [wʌn] num.一 pron.一个人
-oneself[wʌnˈself] pron.自己；亲自
+oneself [wʌnˈself] pron.自己；亲自
 onion [ˈʌnjən] n.洋葱，洋葱头
 only [ˈəunli] ad.只，仅仅 a.唯一的
 onto [ˈɔntu] prep.到…上
 open [ˈəupən] a.开的；开放的 vt.开
-opening[ˈəupniŋ] a.开始的 n.开始
+opening [ˈəupniŋ] a.开始的 n.开始
 opera [ˈɔpərə] n.歌剧
-operate[ˈɔpəreit] vi.操作；施行手术
+operate [ˈɔpəreit] vi.操作；施行手术
 operation [ˌɔpəˈrei∫ən] n.操作；手术；运算
 operational [ˌɔpəˈrei∫ənl] a.操作上的；可使用的
 operator [ˈɔpəreitə] n.操作人员，接线员
@@ -2744,12 +2744,12 @@ oppress [əˈpres] vt.压迫，压制；压抑
 optical [ˈɔptikəl] a.眼的；光学的
 optimistic [ˌɔptiˈmistik] a.乐观/乐观主义的
 option [ˈɔp∫ən] n.选择，选择权
-optional[ˈɔp∫ənəl] a.可以任意选择的
+optional [ˈɔp∫ənəl] a.可以任意选择的
 or [ɔː(r)] conj.或，或者；即
 oral [ˈɔːrəl] a.口头的；口的
 orange [ˈɔrindʒ] n.橙(树)；柑(树)
 orbit [ˈɔːbit] n.运行轨道 vt.环绕
-orchestra[ˈɔːkistrə] n.管弦乐队
+orchestra [ˈɔːkistrə] n.管弦乐队
 order [ˈɔːdə(r)] n.次序；整齐 vt.命令
 orderly [ˈɔːdəli] a.整洁的；有秩序的
 ordinary [ˈɔːdinəri] a.平常的；平凡的
@@ -2758,7 +2758,7 @@ organ [ˈɔːgən] n.器官；机构；管风琴
 organic [ɔːˈgænik] a.有机体的；器官的
 organism [ˈɔːgənizəm] n.生物体；有机体
 organization [ˌɔːgənaiˈzei∫ən] n.组织;团体,机构
-organize[ˈɔːgənaiz] vt.组织，编组
+organize [ˈɔːgənaiz] vt.组织，编组
 oriental [ˌɔ(ː)riˈentl] a.东方的；东方国家的
 origin [ˈɔridʒin] n.起源，由来；出身
 original [əˈridʒənəl] a.最初的；新颖的
@@ -2774,26 +2774,26 @@ ourselves [ˌauəˈselvz] pron.我们自己
 out [aut] ad.出，在外；现出来
 outcome [ˈautkʌm] n.结果，后果，成果
 outdoor [ˈautdɔː] a.户外的，室外的
-outdoors[autˈdɔːz] ad.在户外，在野外
+outdoors [autˈdɔːz] ad.在户外，在野外
 outer [ˈautə] a.外部的，外面的
 outlet [ˈautlet] n.出口，出路；排遣
 outline [ˈautlain] n.轮廓；略图；大纲
 outlook [ˈautluk] n.观点，看法；展望
 output [ˈautput] n.产量；输出量；输出
 outset [ˈautset] n.开始，开端
-outside[ˈautˈsaid] n.外部；外表 a.外部的
-outskirt[ˈautskəːt] n.外边，郊区
+outside [ˈautˈsaid] n.外部；外表 a.外部的
+outskirt [ˈautskəːt] n.外边，郊区
 outstanding [autˈstændiŋ] a.突出的，杰出的
 outward [ˈautwəd] a.外面的；向外的
-outwards[ˈautwədz] ad.向外，往海外
+outwards [ˈautwədz] ad.向外，往海外
 oven [ˈʌvən] n.炉，灶；烘箱
 over [ˈəuvə] prep.在…上方；超过
 overall [ˈəuvərɔːl] n.工装裤 a.全面的
 overcoat [ˈəuvəkəut] n.外衣，大衣
 overcome [ˌəuvəˈkʌm] vt.战胜，克服
-overhead[ˈəuvəhed] a.在头顶上的；架空的
+overhead [ˈəuvəhed] a.在头顶上的；架空的
 overlook [ˌəuvəˈluk] vt.眺望；看漏；放任
-overnight[ˈəuvəˈnait] ad.一夜；突然
+overnight [ˈəuvəˈnait] ad.一夜；突然
 overseas [ˈəuvəˈsiːz] ad.海外 a.在海外的
 overtake [ˈəuvəˈteik] vt.追上，赶上；压倒
 overtime [ˈəuvətaim] a.超时的，加班的
@@ -2801,7 +2801,7 @@ owe [əu] vt.欠；应把…归功于
 owl [aul] n.猫头鹰，枭
 own [əun] a.自己的 vt.有，拥有
 owner [ˈəunə] n.物主，所有人
-ownership[ˈəunə∫ip] n.所有(权)，所有制
+ownership [ˈəunə∫ip] n.所有(权)，所有制
 ox [ɔks] n.牛；公牛，阉牛
 
 P
@@ -2830,7 +2830,7 @@ panel [ˈpænl] n.专门小组；面，板
 pant [pænt] n.气喘；心跳
 paper [ˈpeipə] n.纸；官方文件；文章
 parade [pəˈreid] n.游行；检阅 vi.游行
-paradise[ˈpærədaiz] n.伊甸乐园；天堂
+paradise [ˈpærədaiz] n.伊甸乐园；天堂
 paragraph [ˈpærəgrɑːf] n.(文章的)段，节
 parallel [ˈpærəlel] a.平行的；相同的
 parcel [ˈpɑːsl] n.包裹，小包，邮包
@@ -2839,28 +2839,28 @@ parent [ˈpeərənt] n.父亲，母亲，双亲
 park [pɑːk] n.公园；停车场
 parliament [ˈpɑːləmənt] n.议会，国会
 part [pɑːt] n.一部分；零件；本份
-partial[ˈpɑː∫əl] a.部分的；不公平的
-partially[ˈpɑː∫əli] ad.部分地
-participate[pɑːˈtisipeit] vi.参与/加；分享
-particle[ˈpɑːtikl] n.粒子，微粒
+partial [ˈpɑː∫əl] a.部分的；不公平的
+partially [ˈpɑː∫əli] ad.部分地
+participate [pɑːˈtisipeit] vi.参与/加；分享
+particle [ˈpɑːtikl] n.粒子，微粒
 particular [pəˈtikjulə] a.特殊的；特定的
 particularly [pəˈtikjuləli] ad.特别,尤其,格外
 partly [ˈpɑːtli] ad.部分地，不完全地
 partner [ˈpɑːtnə] n.伙伴；搭挡；配偶
 party [ˈpɑːti] n.党，党派；聚会
 pass [pɑːs] vt.经过；通过；度过
-passage[ˈpæsidʒ] n.通过；通路，通道
+passage [ˈpæsidʒ] n.通过；通路，通道
 passenger [ˈpæsindʒə] n.乘客,旅客,过路人
 passion [ˈpæ∫ən] n.激情，热情；爱好
 passive [ˈpæsiv] a.被动的；消极的
-passport[ˈpɑːspɔːt] n.护照
+passport [ˈpɑːspɔːt] n.护照
 past [pɑːst] a.过去的 n.过去
 paste [peist] n.糊，酱；浆湖
-pastime[ˈpɑːstaim] n.消遣，娱乐
+pastime [ˈpɑːstaim] n.消遣，娱乐
 pat [pæt] n.&vt.&n.轻拍
 patch [pæt∫] n.补钉；碎片 vt.补缀
 path [pɑːθ] n.路，小道；道路
-patience[ˈpei∫əns] n.忍耐，容忍，耐心
+patience [ˈpei∫əns] n.忍耐，容忍，耐心
 patient [ˈpei∫ənt] a.忍耐的 n.病人
 pattern [ˈpætən] n.型，式样，模，模型
 pause [pɔːz] n.&vi.中止，暂停
@@ -2868,23 +2868,23 @@ pave [peiv] vt.铺，筑(路等)
 pavement [ˈpeivmənt] n.(英)人行道
 paw [pɔː] n.脚爪，爪子
 pay [pei] vt.支付；付给；给予
-payment[ˈpeimənt] n.支付，支付的款项
+payment [ˈpeimənt] n.支付，支付的款项
 pea [piː] n.豌豆；豌豆属植物
 peace [piːs] n.和平；和睦；平静
-peaceful[ˈpiːsful] a.和平的；安静的
+peaceful [ˈpiːsful] a.和平的；安静的
 peach [piːt∫] n.桃子，桃树
 peak [piːk] n.山顶，巅 a.最高的
 pear [peə] n.梨子，梨树
 pearl [pəːl] n.珍珠；珍珠母
 peasant[ˈpezənt] n.农民
 pebble [ˈpebl] n.卵石，细砾
-peculiar[piˈkjuːljə] a.特有的；特别的
+peculiar [piˈkjuːljə] a.特有的；特别的
 peel [piːl] vt.剥(皮)，削(皮)
 peep [piːp] vi.(从缝隙中)偷看
 pen [pen] n.钢笔，自来水笔
 pencil [ˈpensl] n.铅笔
 penetrate [ˈpenitreit] vt.穿过 vi.穿入
-peninsula[piˈninsjulə] n.半岛
+peninsula [piˈninsjulə] n.半岛
 penny [ˈpeni] n.(英)便士；(美)分
 pension [ˈpen∫ən] n.抚恤金，年金
 people [ˈpiːpl] n.人民，民族；人
@@ -2895,21 +2895,21 @@ percent [pəˈsent] n.百分之…
 percentage [pəˈsentidʒ] n.百分比，百分率
 perfect [ˈpəːfikt] a.完美的；完全的
 perfectly [ˈpəːfiktli] ad.很，完全
-perform[pəˈfɔːm] vt.履行，执行；演出
+perform [pəˈfɔːm] vt.履行，执行；演出
 performance [pəˈfɔːməns] n.履行；演出；行为
-perfume[ˈpəːfjuːm] n.香味，芳香；香料
-perhaps[pəˈhæps] ad.也许，可能，多半
+perfume [ˈpəːfjuːm] n.香味，芳香；香料
+perhaps [pəˈhæps] ad.也许，可能，多半
 period [ˈpiəriəd] n.时期；学时；句号
 permanent [ˈpəːmənənt] a.永久的，持久的
-permanently[ˈpəːməntli] ad.永久/持久地
+permanently [ˈpəːməntli] ad.永久/持久地
 permission [pə(ː)ˈmi∫ən] n.允许，许可，同意
 permit [pə(ː)ˈmit] vt.允许 n.执照
-persist[pə(ː)ˈsist] vi.坚持，固执；持续
-person[ˈpəːsn] n.人；人身；本人
+persist [pə(ː)ˈsist] vi.坚持，固执；持续
+person [ˈpəːsn] n.人；人身；本人
 personal [ˈpəːsənl] a.个人的；本人的
-personnel[ˌpəːsəˈnel] n.全体人员，全体职员
-perspective[pəˈspektiv] n.透视;远景;观点
-persuade[pəˈsweid] vt.说服 vi.被说服
+personnel [ˌpəːsəˈnel] n.全体人员，全体职员
+perspective [pəˈspektiv] n.透视;远景;观点
+persuade [pəˈsweid] vt.说服 vi.被说服
 pessimistic [ˌpesiˈmistik] a.悲观的；厌世的
 pet [pet] n.爱畜；宠儿 a.宠爱的
 petrol [ˈpetrəl] n.(英)汽油
@@ -2920,29 +2920,29 @@ philosopher [fiˈlɔsəfə] n.哲学家
 philosophy [fiˈlɔsəfi] n.哲学；哲理；人生观
 phone [fəun] n.电话，电话机；耳机
 photograph [ˈfəutəgrɑːf;(US)-græf] n.照/相片
-photographic[fəutəˈgræfik] a.摄影的，摄影用的
+photographic [fəutəˈgræfik] a.摄影的，摄影用的
 phrase [freiz] n.短语；习惯用语
-physical[ˈfizikəl] a.物质的；物理的
+physical [ˈfizikəl] a.物质的；物理的
 physician [fiˈzi∫ən] n.医生，内科医生
 physicist [ˈfizisist] n.物理学家
-physics[ˈfiziks] n.物理学
+physics [ˈfiziks] n.物理学
 piano [piˈænəu] n.钢琴
 pick [pik] n.镐，鹤嘴锄
 pick vt.拾，摘 vi.采摘
-picnic[ˈpiknik] n.郊游，野餐 vi.野餐
+picnic [ˈpiknik] n.郊游，野餐 vi.野餐
 picture [ˈpikt∫ə] n.画，图片 vt.画
 pie [pai] n.(西点)馅饼
 piece [piːs] n.碎片，块 vt.拼合
 pierce [piəs] vt.剌穿 vi.穿入
 pig [pig] n.猪，小猪，野猪
-pigeon[ˈpidʒin] n.鸽子
+pigeon [ˈpidʒin] n.鸽子
 pile [pail] n.堆 vt.堆叠，累积
 pill [pil] n.药丸，丸剂
 pillar [ˈpilə] n.柱，柱子；栋梁
-pillow[ˈpiləu] n.枕头
+pillow [ˈpiləu] n.枕头
 pilot [ˈpailət] n.领航员；飞行员
 pin [pin] n.针，饰针 n.别住
-pinch[pint∫] vt.捏，拧，掐掉
+pinch [pint∫] vt.捏，拧，掐掉
 pine [pain] n.松树，松木
 pink [piŋk] n.粉红色 a.粉红色的
 pint [paint] n.品脱
@@ -2970,8 +2970,8 @@ player [ˈpleiə] n.游戏的人；比赛者
 playground [ˈpleiraund] n.操场，运动场
 pleasant [ˈplezənt] a.令人愉快的，舒适的
 please [pliːz] vt.使高兴，请 vi.满意
-pleasure[ˈpleʒə] n.愉快，快乐；乐事
-plentiful[ˈplentiful] a.丰富的，富裕的
+pleasure [ˈpleʒə] n.愉快，快乐；乐事
+plentiful [ˈplentiful] a.丰富的，富裕的
 plenty [ˈplenti] n.丰富，充足，大量
 plot [plɔt] n.小块土地 vt.密谋
 plough [plau] n.犁 vt.&vi.犁，耕
@@ -2997,8 +2997,8 @@ polish [ˈpɔli∫] vt.磨光；使优美
 polite [pəˈlait] a.有礼貌的；有教养的
 political [pəˈlitikəl] a.政治的，政治上的
 politician [pɔliˈti∫ən] n.政治家；政客
-politics[ˈpɔlitiks] n.政治，政治学；政纲
-pollute[pəˈluːt] vt.弄脏，污染，沾污
+politics [ˈpɔlitiks] n.政治，政治学；政纲
+pollute [pəˈluːt] vt.弄脏，污染，沾污
 pollution [pəˈluː∫(ə)n] n.污染
 pond [pɔnd] n.池塘
 pool [puːl] n.水塘，游泳池，水池
@@ -3017,13 +3017,13 @@ porter [ˈpɔːtə] n.搬运工人
 portion [ˈpɔː∫ən] n.一部分；一分
 portrait [ˈpɔːtrit] n.消像，画像
 Portuguese [ˌpɔːtjuˈgiːz] n.葡萄牙人/语
-position[pəˈzi∫ən] n.位置；职位；姿势
-positive[ˈpɔzətiv] a.确定的；积极的
-possess[pəˈzes] vt.占用，拥有(财产)
+position [pəˈzi∫ən] n.位置；职位；姿势
+positive [ˈpɔzətiv] a.确定的；积极的
+possess [pəˈzes] vt.占用，拥有(财产)
 possession [pəˈze∫ən] n.有，所有；占有物
 possibility [ˌpɔsiˈbiliti] n.可能；可能的事
-possible[ˈpɔsəbl] a.可能的；可能存在的
-possibly[ˈpɔsəbli] ad.可能地；也许
+possible [ˈpɔsəbl] a.可能的；可能存在的
+possibly [ˈpɔsəbli] ad.可能地；也许
 post [pəust] n.柱，桩，杆 vt.贴出
 post n.邮政，邮寄；邮件
 post n.岗位，哨所；职位
@@ -3031,19 +3031,19 @@ postage [ˈpəustidʒ] n.邮费，邮资
 postman [ˈpəustmən] n.邮递员
 postpone [pəustˈpəun] vt.延迟，推迟，延缓
 pot [pɔt] n.锅，壶，罐，盆
-potato[pəˈteitəu] n.马铃薯，土豆
+potato [pəˈteitəu] n.马铃薯，土豆
 potential [pəˈten∫(ə)l] a.潜在的 n.潜力
-pound[paund] n.磅；英磅
+pound [paund] n.磅；英磅
 pound vt.捣碎；舂烂；猛击
 pour [pɔː(r)] vt.灌，倒 vi.倾泻
-poverty[ˈpɔvəti] n.贫穷，贫困
+poverty [ˈpɔvəti] n.贫穷，贫困
 powder [ˈpaudə] n.粉末；药粉；火药
 power [ˈpauə] n.能力；力；权；幂
 powerful [ˈpauəful] a.强有力的；有权威的
 practical [ˈpræktikəl] a.实践的；实用的
-practically[ˈpræktikəli] ad.实际上；几乎
+practically [ˈpræktikəli] ad.实际上；几乎
 practice [ˈpræktis] n.实践；练习；业务
-practise[ˈpræktis] vt.练习，实习，训练
+practise [ˈpræktis] vt.练习，实习，训练
 praise [preiz] n.赞扬，赞美 vi.赞扬
 pray [prei] vt.&vi.请求；祈祷
 prayer [preə] n.祈祷，祈求
@@ -3051,24 +3051,24 @@ precaution [priˈkɔː∫ən] n.预防；警惕
 preceding [pri(ː)ˈsiːdiŋ] a.在前的；在先的
 precious [ˈpre∫əs] a.珍贵的，宝贵的
 precise [priˈsais] a.精确的，准确的
-precision[priˈsiʒən] n.精确，精密，精密度
+precision [priˈsiʒən] n.精确，精密，精密度
 predict [priˈdikt] v.预言，预告，预测
 preface [ˈprefis] n.序言，前言，引语
 prefer [priˈfəː] vt.宁可，宁愿
 preferable [ˈprefərəbl] a.更可取的，更好的
 preference [ˈprefərəns] n.偏爱，优先(权)
-prejudice[ˈpredʒudis] n.偏见，成见
+prejudice [ˈpredʒudis] n.偏见，成见
 preliminary [priˈliminəri] a.预备的，初步的
 premier [priːˈmiər] n.总理，首相
 preparation [ˌprepəˈrei∫ən] n.准/预备；制备
 prepare [priˈpeə] vt.&vi.准备，预备
-preposition[ˌprepəˈzi∫ən] n.前置词，介词
+preposition [ˌprepəˈzi∫ən] n.前置词，介词
 prescribe [prisˈkraib] vt.命令；处(方)
 presence [ˈprezns] n.出席，到场；在
 present [priˈzent] a.现在的 n.目前
 present vt.赠送; 介绍; 提出
 present n.礼物，赠送物
-presently[ˈprezəntli] ad.一会儿；目前
+presently [ˈprezəntli] ad.一会儿；目前
 preserve [priˈzəːv] vt.保护；保存；腌渍
 president [ˈprezidənt] n.总统；校长；会长
 press [pres] vt.压，按，揿；催促
@@ -3077,13 +3077,13 @@ pretend [priˈtend] vt.假托，借口 vi.假装
 pretty [ˈpriti] a.漂亮的，标致的
 prevail [priˈveil] vi.胜，优胜；流行
 prevent [priˈvent] vt.预防，防止；阻止
-previous[ˈpriːvjəs] a.先的；前的 ad.在前
+previous [ˈpriːviəs] a.先的；前的 ad.在前
 previously [ˈpriːvjuːsli] ad.先前，预先
 price [prais] n.价格，价钱；代价
 pride [praid] n.骄傲；自豪 vt.自夸
 priest [priːst] n.教士，牧师，神父
-primarily[ˈpraimərili] ad.首先；主要地
-primary[ˈpraiməri] a.最初的；基本的
+primarily [ˈpraimərili] ad.首先；主要地
+primary [ˈpraiməri] a.最初的；基本的
 prime [praim] a.首要的 n.春，青春
 primitive [ˈprimitiv] a.原始的；粗糙的
 prince [prins] n.王子，亲王
@@ -3095,48 +3095,48 @@ prior [ˈpraiə] a.在先的；优先的
 prison [ˈprizn] n.监狱，监禁
 prisoner [ˈpriznə] n.囚犯
 private [ˈpraivit] a.私人的；私下的
-privilege[ˈprivilidʒ] n.特权，优惠
+privilege [ˈprivilidʒ] n.特权，优惠
 prize [praiz] n.奖赏，奖金 vt.珍视
 probability [ˌprɔbəˈbiliti] n.可能性；概率
-probable[ˈprɔbəbl] a.或有的；大概的
-probably[ˈprɔbəb(ə)li] ad.或许，大概
-problem[ˈprɔbləm] n.问题；习题，问题
+probable [ˈprɔbəbl] a.或有的；大概的
+probably [ˈprɔbəb(ə)li] ad.或许，大概
+problem [ˈprɔbləm] n.问题；习题，问题
 procedure [prəˈsiːdʒə] n.程序；手续；过程
 proceed [prəˈsiːd] vi.进行；继续进行
 process [prəˈses] n.过程；工序 vt.加工
 procession [prəˈse∫(ə)n] n.队伍，行列
-proclaim[prəˈkleim] vt.宣告，宣布；表明
+proclaim [prəˈkleim] vt.宣告，宣布；表明
 produce [prəˈdjuːs] vt.生产；产生；展现
 product [ˈprɔdəkt] n.产品，产物；(乘)积
 production [prəˈdʌk∫ən] n.生产；产品；总产量
-productive[prəˈdʌktiv] a.生产的；丰饶的
+productive [prəˈdʌktiv] a.生产的；丰饶的
 profession [prəˈfe∫ən] n.职业
 professional [prəˈfe∫ənl] a.职业的 n.专业人员
 professor [prəˈfesə] n.教授
 profit [ˈprɔfit] n.益处；利润 vi.得益
-program[ˈprəugræm] n.节目单；大纲；程序
+program [ˈprəugræm] n.节目单；大纲；程序
 progress [ˈprəugres] n.前进，进展；进步
 progressive [prəˈgresiv] a.进步/向前进的
 prohibit [prəˈhibit] vt.禁止，阻止
 project [ˈprɔdʒekt] n.方案，工程 vi.伸出
 prominent [ˈprɔminənt] a.实起的；突出的
 promise [ˈprɔmis] n.诺言；指望 vt.允诺
-promising[ˈprɔmisiŋ] a.有希望的；有前途的
+promising [ˈprɔmisiŋ] a.有希望的；有前途的
 promote [prəˈməut] vt.促进，发扬；提升
 prompt [prɔmpt] a.及时的 vt.敦促
 pronoun [ˈprəunaun] n.代名词
 pronounce [prəˈnauns] vt.发…的音；宣布
-pronunciation[prəˌnʌnsiˈei∫ən] n.发音(法)
+pronunciation [prəˌnʌnsiˈei∫ən] n.发音(法)
 proof [pruːf] n.证据；证明；校样
 proper [ˈprɔpə] a.适合的；合乎体统的
-properly[ˈprɔpəli] ad.适当地；彻底地
-property[ˈprɔpəti] n.财产，资产；性质
+properly [ˈprɔpəli] ad.适当地；彻底地
+property [ˈprɔpəti] n.财产，资产；性质
 proportion [prəˈpɔː∫ən] n.比，比率，部分
 proportional [prəˈpɔː∫ənl] a.比例/相称的
 proposal [prəˈpəuzəl] n.提议，建议；求婚
 propose [prəˈpəuz] vt.提议 vi.求婚
 prospect [ˈprɔspekt] n.展望；前景，前程
-prosperity[prɔsˈperiti] n.繁荣；昌盛，兴旺
+prosperity [prɔsˈperiti] n.繁荣；昌盛，兴旺
 prosperous [ˈprɔspərəs] a.繁荣的，昌盛的
 protect [prəˈtekt] vt.保护，保卫，警戒
 protection [prəˈtek∫ən] n.保护，警戒
@@ -3148,12 +3148,12 @@ prove [pruːv] vt.证明 vi.结果是
 provide [prəˈvaid] vt.提供；装备，供给
 provided [prəːˈvaidid] conj.以…为条件
 province [ˈprɔvins] n.省；领域，部门
-provision[prəˈviʒən] n.供应；预备；存粮
+provision [prəˈviʒən] n.供应；预备；存粮
 psychological [ˌsaikəˈlɔdʒikəl] a.心理(学)的
 public [ˈpʌblik] a.公众的 n.公众
 publication [ˌpʌbliˈkei∫ən] n.公布；出版(物)
 publish [ˈpʌbli∫] vt.公布；发表；出版
-pudding[ˈpudiŋ] n.布丁
+pudding [ˈpudiŋ] n.布丁
 puff [pʌf] n.(一)喷，(一)吹
 pull [pul] vt.拉，拖；拉，拉力
 pulse [pʌls] n.脉搏；脉冲，脉动
@@ -3175,7 +3175,7 @@ purple [ˈpəːpl] n.紫色 a.紫的
 purpose [ˈpəːpəs] n.目的；意图；效果
 purse [pəːs] n.钱包，小钱袋，手袋
 pursue [pəˈsjuː] vt.追赶，追踪；进行
-pursuit[pəˈsjuːt] n.追赶；追求；事务
+pursuit [pəˈsjuːt] n.追赶；追求；事务
 push [pu∫] vt.推，逼迫 vi.推
 put [put] vt.放，摆；使处于
 puzzle [ˈpʌzl] n.难题；谜 vi.使迷惑
@@ -3195,7 +3195,7 @@ question [ˈkwest∫ən] n.发问；问题；疑问
 queue [kjuː] n.行列 vi.排队等候
 quick [kwik] a.快的；敏捷的
 quicken [ˈkwikən] vt.加快 vi.加快
-quickly[ˈkwikli] ad.快，迅速
+quickly [ˈkwikli] ad.快，迅速
 quiet [ˈkwaiət] a.寂静的；安静的
 quilt [kwilt] n.被(子) 
 quit [kwit] vt.离开，退出；停止
@@ -3217,7 +3217,7 @@ radar [ˈreidə] n.雷达，无线电探测器
 radiate [ˈreidieit] vi.发射光线；辐射
 radiation [ˌreidiˈei∫ən] n.放/发射；辐射能
 radio [ˈreidiəu] n.无线电；收音机
-radioactive[ˈreidiəuˈæktiv] a.放射性的
+radioactive [ˈreidiəuˈæktiv] a.放射性的
 radioactivity [ˈreidiəuækˈtiviti] n.放射性，放射(现象)
 radish [ˈrædi∫] n.小萝卜
 radium [ˈreidjəm] n.镭
@@ -3227,7 +3227,7 @@ rage [reidʒ] n.(一阵)狂怒，盛怒
 raid [reid] n.袭击；突然搜查
 rail [reil] n.横条，横杆；铁轨
 railroad [ˈreilrəud] n.铁路 vi.由铁路运输
-railway[ˈreilwei] n.铁路，铁道
+railway [ˈreilwei] n.铁路，铁道
 rain [rein] n.雨，雨水 vi.下雨
 rainbow [ˈreinbəu] n.虹，彩虹
 rainy [ˈreini] a.下雨的，多雨的
@@ -3242,27 +3242,27 @@ rarely [ˈreəli] ad.很少，难得
 rat [ræt] n.老鼠，耗子
 rate [reit] n.比率；速度；价格
 rather [ˈrɑːðə] ad.宁可，宁愿；相当
-ratio[ˈrei∫iəu] n.比，比率
+ratio [ˈrei∫iəu] n.比，比率
 rational [ˈræ∫ənl] a.理性的；出于理性的
 raw [rɔː] a.未煮过的；未加工的
 ray [rei] n.光线，射线，辐射线
 razor [ˈreizə] n.剃刀
-reach[riːt∫] vt.抵达；伸出 vi.达到
-react[riˈækt] vi.起反应；有影响
+reach [riːt∫] vt.抵达；伸出 vi.达到
+react [riˈækt] vi.起反应；有影响
 reaction [ri(ː)ˈæk∫ən] n.反应；反作用
 read [riːd] vt.读，看懂 vi.读
-reader[ˈriːdə] n.读者；读物，读本
-readily[ˈredili] ad.乐意地；无困难地
-reading[ˈriːdiŋ] n.读，阅读；读书
+reader [ˈriːdə] n.读者；读物，读本
+readily [ˈredili] ad.乐意地；无困难地
+reading [ˈriːdiŋ] n.读，阅读；读书
 ready [ˈredi] a.准备好的；愿意的
-real[ˈriːəl] a.真的；现实的
+real [ˈriːəl] a.真的；现实的
 reality [ri(ː)ˈæliti] n.现实；真实
 realize [ˈriəlaiz] vt.实现；认识到
-really[ˈriəli] ad.真正地；实在
+really [ˈriəli] ad.真正地；实在
 realm [relm] n.王国，国土；领域
-reap[riːp] vt.&vi.收割，收获
-rear[riə] n.后部，后面；背面
-rearvt.抚养，培养；栽种
+reap [riːp] vt.&vi.收割，收获
+rear [riə] n.后部，后面；背面
+rear vt.抚养，培养；栽种
 reason [ˈriːzn] n.理由；理性 vi.推理
 reasonable [ˈriːznəbl] a.合情合理的；公道的
 rebel [ˈrebəl] vi.造反 n.造反者
@@ -3271,15 +3271,15 @@ recall [riˈkɔːl] vt.回想；叫回；收回
 receipt [riˈsiːt] n.收到；收条，收据
 receive [riˈsiːv] vt.收到；得到；接待
 receiver [riˈsiːvə] n.收受者，收件人
-recent[ˈriːsnt] a.新近的，最近的
+recent [ˈriːsnt] a.新近的，最近的
 recently [ˈriːsəntli] ad.最近，新近
 reception [riˈsep∫ən] a.接待；招待会；接受
-recite[riˈsait] vt.&vi.背诵，朗诵
+recite [riˈsait] vt.&vi.背诵，朗诵
 recognition [ˌrekəgˈni∫ən] n.认出，识别；承认
 recognize [ˈrekəgnaiz] vt.认识，认出；承认
-recollect[ˌrekəˈlekt] vt.回忆，追忆，想起
+recollect [ˌrekəˈlekt] vt.回忆，追忆，想起
 recommend [rekəˈmend] vt.推荐，介绍；劝告
-recommendation[ˌrekəmenˈdei∫ən] n.推荐，介绍；劝告
+recommendation [ˌrekəmenˈdei∫ən] n.推荐，介绍；劝告
 record [ˈrekərd] n.记录；履历 vt.记录
 recorder [riˈkɔːdə] n.记录者；录音机
 recover [riˈkʌvə] vt.重新获得；挽回
@@ -3297,10 +3297,10 @@ reflection [riˈflek∫ən] n.反射；映象；反映
 reflexion [riˈflek∫ən] n.反射；映象；反映
 reform [riˈfɔːm] vt.&n.改革，改良
 refresh [riˈfre∫] vt.使清新 vi.恢复精神
-refreshment[riˈfre∫mənt] n.茶点，点心，便餐
+refreshment [riˈfre∫mənt] n.茶点，点心，便餐
 refrigerator [riˈfridʒəreitə] n.冰箱，冷藏库
 refuge [ˈrefjuːdʒ] n.避难，庇护；庇护者
-refusal[riˈfjuːzəl] n.拒绝
+refusal [riˈfjuːzəl] n.拒绝
 refuse [riˈfjuːz] vt.拒绝 vt.拒绝
 refute [riˈfjuːt] vt.驳斥，反驳，驳倒
 regard [riˈgɑːd] vt.把…看作；尊敬
@@ -3309,72 +3309,72 @@ regardless [riˈgɑːdlis] ad.不顾一切地
 region [ˈriːdʒən] n.地区，地带；领域
 register [ˈredʒistə] n.&vt.登记，注册
 regret [riˈgret] vt.懊悔；抱歉 n.懊悔
-regular[ˈregjulə] a.规则的；整齐的
+regular [ˈregjulə] a.规则的；整齐的
 regularly [ˈregjuləli] ad.有规律地
-regulate[ˈregjuleit] vt.管理，控制；调整
+regulate [ˈregjuleit] vt.管理，控制；调整
 regulation [regjuˈlei∫ən] n.规则/章；管理
 rehearsal [riˈhəːsəl] n.排练，排演；练习
 reign [rein] n.君主统治；支配
 rein [rein] n.缰绳 vi.驾驭，控制
 reinforce [ˌriːinˈfɔːs] vt.增援，支援；加强
 reject [riˈdʒekt] vt.拒绝；丢掉；驳回
-rejoice[riˈdʒɔis] vi.欣喜，高兴
+rejoice [riˈdʒɔis] vi.欣喜，高兴
 relate [riˈleit] vt.叙述；使联系
-relation[riˈlei∫ən] n.关系，联系；家属
+relation [riˈlei∫ən] n.关系，联系；家属
 relationship [riˈlei∫ən∫ip] n.关系，联系
-relative[ˈrelətiv] a.有关系的；相对的
+relative [ˈrelətiv] a.有关系的；相对的
 relatively [ˈrelətivli] ad.相对地，比较地
 relativity [ˌreləˈtiviti] n.相关性；相对性
 relax [riˈlæks] vt.使松弛 vi.松弛
-release[riˈliːs] vt.释放；放松；发表
-relevant[ˈrelivənt] a.有关的，贴切的
+release [riˈliːs] vt.释放；放松；发表
+relevant [ˈrelivənt] a.有关的，贴切的
 reliability [riˌlaiəˈbiliti] n.可靠性
 reliable [riˈlaiəbl] a.可靠的，可信赖的
-reliance[riˈlaiəns] n.信任，信赖，信心
+reliance [riˈlaiəns] n.信任，信赖，信心
 relief [riˈliːf] n.减轻；救济；援救
-relieve[riˈliːv] vt.减轻，解除；救济
+relieve [riˈliːv] vt.减轻，解除；救济
 religion [riˈlidʒən] n.宗教；宗教信仰
 religious [riˈlidʒəs] a.宗教的；虔诚的
 reluctant [riˈlʌktənt] a.不愿的，勉强的
 rely [riˈlai] vi.依赖，依靠；信赖
-remain[riˈmein] vi.剩下，余留；保持
+remain [riˈmein] vi.剩下，余留；保持
 remains [riˈmeins] n.残余，余额；废墟
-remark[riˈmɑːk] vt.&vi.&n.评论，谈论
+remark [riˈmɑːk] vt.&vi.&n.评论，谈论
 remarkable [riˈmɑːkəbl] a.异常的，非凡的
 remedy [ˈremidi] n.&vt.治疗；补救
 remember [riˈmembə] vt.记得，想起；记住
 remind [riˈmaind] vt.提醒，使想起
-remote[riˈməut] a.相隔很远的；冷淡的
+remote [riˈməut] a.相隔很远的；冷淡的
 removal [riˈmuːvəl] n.移动；迁移；除掉
 remove [riˈmuːv] vt.移动，搬开；脱掉
-render[ˈrendə] vt.表示，给予；使得
-renew[riˈnjuː] vt.使更新 vi.更新
+render [ˈrendə] vt.表示，给予；使得
+renew [riˈnjuː] vt.使更新 vi.更新
 rent [rent] n.租金，租 vi.出租
 repair [riˈpeə] vt.&n.修理，修补
 repeat [riˈpiːt] vt.重说，重做 n.重复
 repeatedly [riˈpiːtidli] ad.重复地；一再
 repent [riˈpent] vi.悔悟，悔改 vt.后悔
 repetition [ˌrepiˈti∫ən] n.重复，反复
-replace[ri(ː)ˈpleis] vt.把…放回；取代
+replace [ri(ː)ˈpleis] vt.把…放回；取代
 reply [riˈplai] vi.&n.回答，答复
 report [riˈpɔːt] vt.&vi.报告；汇报
-reporter[riˈpɔːtə] n.记者，通讯员
+reporter [riˈpɔːtə] n.记者，通讯员
 represent [ˌriːpriˈzent] vt.描绘；代表；象征
-representative[ˌrepriˈzentətiv] a.代表性的 n.代表
-reproach[riˈprəut∫] vt.&n.责备，指责
+representative [ˌrepriˈzentətiv] a.代表性的 n.代表
+reproach [riˈprəut∫] vt.&n.责备，指责
 reproduce [ˌriːprəˈdjuːs] vt.&vi.繁殖，生殖
-republic[riˈpʌblik] n.共和国，共和政体
+republic [riˈpʌblik] n.共和国，共和政体
 republican [riˈpʌblikən] a.共和国的
 reputation [ˌrepju(ː)ˈtei∫ən] n.名誉/声；好名声
-request[riˈkwest] n.&v.请求，要求
+request [riˈkwest] n.&v.请求，要求
 require [riˈkwaiə] vt.需要；要求，命令
 requirement [riˈkwaiəmənt] n.需要；要求
 rescue [ˈreskjuː] vt.&n.援救，营救
 research [riˈsəːt∫] n.&vi.调查，探究
 researcher [riˈsəːt∫ə(r)] n.调查者；探究者
-resemble[riˈzembl] vt.像，类似
+resemble [riˈzembl] vt.像，类似
 reserve [riˈzəːv] vt.储备，保留；预定
-reserviorn.水库；蓄水池
+reservior n.水库；蓄水池
 residence [ˈrezidəns] n.居住；驻扎；住处
 resident [ˈrezidənt] a.居住的 n.居民
 resign [riˈzain] vt.放弃 vi.辞职
@@ -3383,49 +3383,49 @@ resist [riˈzist] vt.&vi.抵抗，抵制
 resistance [riˈzistəns] n.抵抗/制；抵抗力
 resistant [riˈzistənt] a.抵抗的，反抗的
 resolution [ˌrezəˈljuː∫ən] n.坚决/定；决定
-resolve[riˈzɔlv] vt.解决；决心 n.决心
+resolve [riˈzɔlv] vt.解决；决心 n.决心
 resort [riˈzɔːt] vi.&n.求助，凭借
 resource [riˈsɔːs] n.资源，物力；办法
 respect [risˈpekt] n.&vt.尊敬，尊重
 respectful [risˈpektful] a.恭敬的，尊重的
-respective[risˈpektiv] ad. 各自的，各个的
+respective [risˈpektiv] ad. 各自的，各个的
 respectively [riˈspektivli] ad.各自/分别地
-respond[risˈpɔnd] vi.作答；响应
+respond [risˈpɔnd] vi.作答；响应
 response [risˈpɔns] n.作答，回答；响应
-responsibility[risˌpɔnsəˈbiliti] n.责任(心)；职责
+responsibility [risˌpɔnsəˈbiliti] n.责任(心)；职责
 responsible [risˈpɔnsəbl] a.有责任的；尽责的
 rest [rest] n.休息；安静；静止
 rest n.剩余部分；其余的人
 restaurant [ˈrestərənt] n.餐馆，饭店，菜馆
 restless [ˈrestlis] a.不安定的，焦虑的
 restore [risˈtɔː] vt.恢复；归还；修补
-restrain[risˈtrein] vt.抑制，遏制；限制
+restrain [risˈtrein] vt.抑制，遏制；限制
 restraint [risˈtreint] n.抑制；遏制；克制
-restrict[risˈtrikt] vt 限制，限定，约束
+restrict [risˈtrikt] vt 限制，限定，约束
 restriction [risˈtrik∫ən] n.限制，限定，约束
 result [riˈzʌlt] n.成果 vi.发生，结果
-resume[riˈzjuːm] vt.恢复；重新开始
-retain[riˈtein] vt.保持，保留，保有
+resume [riˈzjuːm] vt.恢复；重新开始
+retain [riˈtein] vt.保持，保留，保有
 retell [ˈriːˈtel] vt.再讲，重述，复述
 retire [riˈtaiə] vi.退下；引退；就寝
-retreat[riˈtriːt] vi.(被迫)退却，后退
-return[riˈtəːn] vi.&n.回来，返回
-reveal[riˈviːl] vt.展现；揭示，揭露
+retreat [riˈtriːt] vi.(被迫)退却，后退
+return [riˈtəːn] vi.&n.回来，返回
+reveal [riˈviːl] vt.展现；揭示，揭露
 revenge [riˈvendʒ] vt.替…报仇 n.报仇
 reverse [riˈvəːs] vt.颠倒，翻转 n.背面
 review [riˈvjuː] vt.再检查 n.复习
-revise[riˈvaiz] vt.修订，校订；修改
-revolt[riˈvəult] vi.&n.反抗，造反
+revise [riˈvaiz] vt.修订，校订；修改
+revolt [riˈvəult] vi.&n.反抗，造反
 revolution [ˌrevəˈluː∫ən] n.革命；旋转，绕转
-revolutionary[ˈrevəˈluː∫ənəri] a.革命的 n.革命者
+revolutionary [ˈrevəˈluː∫ənəri] a.革命的 n.革命者
 reward [riˈwɔːd] n.报答；报酬 vt.报答
 rhythm [ˈrið(ə)m] n.韵律，格律；节奏
 rib [rib] n.肋，肋骨
-ribbon[ˈribən] n.缎带，丝带；带
+ribbon [ˈribən] n.缎带，丝带；带
 rice [rais] n.稻，米，饭
 rich [rit∫] a.富的，丰富的
 rid [rid] vt.使摆脱，使去掉
-riddle[ˈridl] n.谜，谜语
+riddle [ˈridl] n.谜，谜语
 ride [raid] vi.&n.骑马，乘车
 rider [ˈraidə] n.骑马的人；乘车的人
 ridge [ridʒ] n.脊；岭，山脉；垄
@@ -3443,9 +3443,9 @@ rival [ˈraivəl] n.竞争者 a.竞争的
 river [ˈrivə] n.江，河，水道
 road [rəud] n.路，道路，公路
 roar [rɔː] vi.吼叫；呼喊 n.吼
-roast[rəust] vt.&vi.烤，炙，烘
+roast [rəust] vt.&vi.烤，炙，烘
 rob [rɔb] vt.&vi.抢劫；劫掠
-robber[ˈrɔbə] n.强盗，盗贼
+robber [ˈrɔbə] n.强盗，盗贼
 robbery [ˈrɔbəri] n.抢劫，劫掠，盗取
 robe [rəub] n.长袍，长衣，浴衣
 robot [ˈrəubɔt] n.机器人；自动机
@@ -3456,7 +3456,7 @@ rod [rɔd] n.杆，竿，棒
 role [rəul] n.角色，作用，任务
 roll [rəul] vi.&vt.滚动；转动
 roller [ˈrəulə] n.滚柱，滚筒，滚轴
-Roman[ˈrəumən] n.古罗马人 a.罗马的
+Roman [ˈrəumən] n.古罗马人 a.罗马的
 romantic [rəˈmæntik] a.浪漫的；传奇的
 roof [ruːf] n.屋顶，车顶；顶
 room [rum] n.房间；地位；余地
@@ -3465,17 +3465,17 @@ rope [rəup] n.绳，索
 rose [rəuz] n.蔷薇花，蔷薇科植物
 rot [rɔt] vt.烂，腐坏 n.腐烂
 rotary [ˈrəutəri] a.旋转的，转动的
-rotate[rəuˈteit] vi.旋转 vt.使旋转
+rotate [rəuˈteit] vi.旋转 vt.使旋转
 rotation [rəuˈtei∫ən] n.旋转，转动；循环
-rotten[ˈrɔtn] a.腐烂的，发臭的
-rough[rʌf] a.表面不平的；粗略的
+rotten [ˈrɔtn] a.腐烂的，发臭的
+rough [rʌf] a.表面不平的；粗略的
 roughly [ˈrʌfli] ad.粗糙地，粗略地
 round [raund] a.圆的 n.兜圈；一轮
 rouse [rauz] vt.唤醒，唤起；惊起
 route [ruːt] n.路，路线，路程
-routine[ruːˈtiːn] n.例行公事 a.日常的
+routine [ruːˈtiːn] n.例行公事 a.日常的
 row [rau] n.(一)排，(一)行
-rowvt.划(船等) vi.划船
+row vt.划(船等) vi.划船
 royal [ˈrɔiəl] a.王的；皇家的
 rub [rʌb] vt.摩擦，擦 vi.摩擦
 rubber [ˈrʌbə] n.橡皮(擦子)；橡胶
@@ -3487,26 +3487,26 @@ rule [ruːl] n.统治；规定；习惯
 ruler [ˈruːlə] n.统治者；尺，直尺
 rumour [ˈruːmə] n.谣言，谣传，传闻
 run [rʌn] vi.跑，奔；行驶；流
-runner[ˈrʌnə(r)] n.赛跑的人
+runner [ˈrʌnə(r)] n.赛跑的人
 rural [ˈruər(ə)l] a.农村的，田园的
 rush [rʌ∫] vi.冲，奔 vt.催促
-Russian[ˈrʌ∫ən] a.俄罗斯的 n.俄国人
+Russian [ˈrʌ∫ən] a.俄罗斯的 n.俄国人
 rust [rʌst] n.锈 vi.生锈，氧化
 rusty [ˈrʌsti] a.生锈的；变迟钝的
 
 S
 
 sack [sæk] n.袋，麻袋；开除
-sacred[ˈseikrid] a.上帝的；神圣的
+sacred [ˈseikrid] a.上帝的；神圣的
 sacrifice [ˈsækrifais] n.&vt.牺牲；南祭
 sad [sæd] a.悲哀的，令人悲痛的
 saddle [ˈsædl] n.鞍子，马鞍
-sadly[ˈsædli] ad.悲痛地，悲哀地
-sadness[ˈsædnis] n.悲痛，悲哀
+sadly [ˈsædli] ad.悲痛地，悲哀地
+sadness [ˈsædnis] n.悲痛，悲哀
 safe [seif] a.安全的；谨慎的
 safe [seif] n.保险箱
-safely[ˈseifli] ad.安全地；可靠地
-safety[ˈseifti] n.安全，保险
+safely [ˈseifli] ad.安全地；可靠地
+safety [ˈseifti] n.安全，保险
 sail [seil] n.帆；船 vi.航行
 sailor [ˈseilə] n.水手，海员，水兵
 saint [seint] n.圣徒；基督教徒
@@ -3516,51 +3516,51 @@ salary [ˈsæləri] n.薪金，薪水
 sale [seil] n.卖；拍卖；销售额
 salesman [ˈseilzmən] n.售货员，推销员
 salt [sɔːlt] n.盐；盐类 vt.加盐于
-salute[səˈluːt] n.招呼，行礼 vi.行礼
-same[seim] a.同一的，相同的
-sample[ˈsæmpl] n.样品；实例，标本
+salute [səˈluːt] n.招呼，行礼 vi.行礼
+same [seim] a.同一的，相同的
+sample [ˈsæmpl] n.样品；实例，标本
 sand [sænd] n.沙，沙子；沙滩
 sandwich [ˈsænwidʒ] n.三明治 vt.夹入
 sandy [ˈsændi] n.沙的，含沙的
 satellite [ˈsætəlait] n.卫星；人造卫星
-satisfaction[ˌsætisˈfæk∫ən] n.满意；快事；赔偿
+satisfaction [ˌsætisˈfæk∫ən] n.满意；快事；赔偿
 satisfactory [ˌsætisˈfæktəri] a.令人满意的,良好的
 satisfy [ˈsætisfai] vt.满足；使满意
-Saturday[ˈsætədi] n.星期六
+Saturday [ˈsætədi] n.星期六
 sauce [sɔːs] n.调味汁，酱汁
 saucer [ˈsɔːsə] n.茶托，浅碟
 sausage [ˈsɔsidʒ] n.香肠，腊肠
 save [seiv] vt.救；节省；储蓄
-saving[ˈseiviŋ] n.搭救；节约；存款
+saving [ˈseiviŋ] n.搭救；节约；存款
 saw [sɔː] n.锯子 vt.锯，锯开
 say [sei] vt.说；说明；比如说
 scale [skeil] n.天平，磅秤，秤
 scale n.标度；比例；大小
 scan [skæn] vt.细看；浏览；扫描
 scar [skɑː] n.伤疤，伤痕；创伤
-scarce[skeəs] a.缺乏的；希有的
+scarce [skeəs] a.缺乏的；希有的
 scarcely [ˈskeəsli] ad.仅仅；几乎不
 scare [skeə] vt.惊吓 vi.受惊
 scarf [skɑːf] n.围巾，头巾；领带
-scatter[ˈskætə] vt.使消散；撒；散播
-scene[siːn] n.发生地点；道具
+scatter [ˈskætə] vt.使消散；撒；散播
+scene [siːn] n.发生地点；道具
 scenery [ˈsiːnəri] n.舞台布景；风景
 scent [sent] n.气味，香味；香水
 schedule [ˈskedʒjul] n.时间表；计划表
-scheme[skiːm] n.计划，规划；诡计
+scheme [skiːm] n.计划，规划；诡计
 scholar [ˈskɔlə] n.学者(尤指文学方面)
 scholarship [ˈskɔlə∫ip] n.学业成绩；奖学金
 school [skuːl] n.学校；学院；学派
-science[ˈsaiəns] n.科学，科学研究
-scientific[saiənˈtifik] a.科学(上)的
+science [ˈsaiəns] n.科学，科学研究
+scientific [saiənˈtifik] a.科学(上)的
 scientist [ˈsaiəntist] n.(自然)科学家
-scissors[ˈsizəz] n.剪刀，剪子
+scissors [ˈsizəz] n.剪刀，剪子
 scold [skəuld] vi.责骂 vt.申斥
-scope[skəup] n.范围；余地，机会
+scope [skəup] n.范围；余地，机会
 score [skɔː] n.得分，比数，成绩
 scorn [skɔːn] n.轻蔑；嘲笑 vt.轻蔑
 scout [skaut] n.侦察员，侦察机
-scrape[skreip] vt.&vi.&n.刮，擦
+scrape [skreip] vt.&vi.&n.刮，擦
 scratch [skræt∫] vt.&vi.&n.搔；抓
 scream [skriːm] vi.尖叫；呼啸
 screen [skriːn] n.屏；屏幕 vt.掩蔽
@@ -3570,18 +3570,18 @@ seal [siːl] n.封蜡；印记 vt.封
 seal n.海豹
 seaman [ˈsiːmən] n.海员，水手；水兵
 seaport [ˈsiːpɔːt] n.海港，港市
-search[səːt∫] vt.在…中搜寻，搜查
+search [səːt∫] vt.在…中搜寻，搜查
 season [ˈsiːzn] n.季，季节，时节
 seat [siːt] n.座；座部 vt.使坐下
-second[ˈsekənd] num.第二 a.二等的
-secondn.秒
+second [ˈsekənd] num.第二 a.二等的
+second n.秒
 secondary [ˈsekəndəri] a.第二的；次要的
 secondly ad.第二(点)；其次
 secret [ˈsiːkrit] a.秘密的；隐蔽的
 secretary [ˈsekrəteri] n.秘书；书记；大臣
 section [ˈsek∫ən] n.切片；一段；部门
 secure [siˈkjuə] a.安心的；安全的
-security[siˈkjuəriti] n.安全，安全感
+security [siˈkjuəriti] n.安全，安全感
 see [siː] vt.看见；遇见；看出
 seed [siːd] n.种(子)，籽，萌芽
 seek [siːk] vt.寻找，探索；试图
@@ -3593,9 +3593,9 @@ selection [siˈlek∫ən] n.选择，挑选；精选物
 self [self] n.自我，自己
 selfish [ˈselfi∫] a.自私的，利己的
 sell [sel] vt.&vi.卖，销售
-seller[ˈselə] n.卖者；行销货
-semester[siˈmestə] n.半年；学期，半学年
-semiconductor[ˈsemikənˈdʌktə] n.半导体
+seller [ˈselə] n.卖者；行销货
+semester [siˈmestə] n.半年；学期，半学年
+semiconductor [ˈsemikənˈdʌktə] n.半导体
 senate [ˈsenit] n.参议院，上院
 send [send] vt.送，寄发；派遣
 senior [ˈsiːnjə] a.年少的；地位较高的
@@ -3609,52 +3609,52 @@ separation [sepəˈrei∫ən] n.分离，分开/居
 September [səpˈtembə] n.九月
 sequence [ˈsiːkwəns] n.连续，继续；次序
 series [ˈsiəriːz] n.连续，系列；丛书
-serious[ˈsiəriəs] a.严肃的；认真的
+serious [ˈsiəriəs] a.严肃的；认真的
 seriously [ˈsiəriəsli] ad.严肃地，认真地
 servant [ˈsəːvənt] n.仆人，佣人，雇工
-serve[səːv] vt.为…服务；招待
+serve [səːv] vt.为…服务；招待
 service [ˈsəːvis] n.服务；行政部门
 session [ˈse∫ən] n.会议，一段时间
 set [set] vt.放；安置 vi.落
 setting [ˈsetiŋ] n.安装，调整；环境
-settle[ˈsetl] vt.安排；安放；调停
+settle [ˈsetl] vt.安排；安放；调停
 settlement [ˈsetlmənt] n.解决；殖民(地)
 seven [ˈsevən] num.七，七个(人或物) 
 seventeen [ˈsevənˈtiːn] num.十七，十七个
 seventh [ˈsevənθ] num.第七；七分之一
-seventy[ˈsevənti] num.七十，七十个
-several[ˈsevərəl] a.几个，数个
+seventy [ˈsevənti] num.七十，七十个
+several [ˈsevərəl] a.几个，数个
 severe [siˈviə] a.严格的；严厉的
 severely [siˈviəli] ad.严厉地，严格地
 sew [sjuː] vt.缝制 vi.缝纫
 sex [seks] n.性别，性
-shade[∫eid] n.荫；遮光物 vi.荫蔽
+shade [∫eid] n.荫；遮光物 vi.荫蔽
 shadow [ˈ∫ædəu] n.阴影，阴，影子
-shady[ˈ∫eidi] a.成荫的，阴凉的
-shake[∫eik] vt.摇，使震动 n.摇动
+shady [ˈ∫eidi] a.成荫的，阴凉的
+shake [∫eik] vt.摇，使震动 n.摇动
 shall [∫æl] aux.v.将要；必须；应
 shallow [ˈ∫æləu] a.浅的；浅薄的
 shame [∫eim] n.羞耻，羞愧；羞辱
 shampoo [∫æmˈpuː] vt.用洗发剂洗 n.洗头
-shape[∫eip] n.形状；情况 vt.形成
-share[∫eə] n.份；份额；股份
-sharp[∫ɑːp] a.锋利的；敏锐的
+shape [∫eip] n.形状；情况 vt.形成
+share [∫eə] n.份；份额；股份
+sharp [∫ɑːp] a.锋利的；敏锐的
 sharpen [ˈ∫ɑːpən] vt.削尖，使敏锐
 sharply [ˈ∫ɑːpli] ad.锐利地，敏锐地
-shave[∫eiv] vt.剃，刮 vi.修面
+shave [∫eiv] vt.剃，刮 vi.修面
 she [∫iː] pron.(主格)她
-shear[∫iə] vt.剪；剥夺 vi.剪
+shear [∫iə] vt.剪；剥夺 vi.剪
 shed [∫ed] vt.流出；散发；脱落
 shed n.棚，小屋；贷棚
-sheep[∫iːp] n.羊，绵羊
-sheet[∫iːt] n.被单；纸张；薄板
-shelf[∫elf] n.搁板，架子
-shell[∫el] n.壳；贝壳；炮弹
+sheep [∫iːp] n.羊，绵羊
+sheet [∫iːt] n.被单；纸张；薄板
+shelf [∫elf] n.搁板，架子
+shell [∫el] n.壳；贝壳；炮弹
 shelter [ˈ∫eltə] n.隐蔽处；掩蔽，庇护
-shepherd[ˈ∫epəd] n.牧羊人，羊倌
+shepherd [ˈ∫epəd] n.牧羊人，羊倌
 shield [∫iːld] n.盾；防护物 vt.保护
 shift [∫ift] vt.替换，转移 n.转换
-shilling[ˈ∫iliŋ] n.先令
+shilling [ˈ∫iliŋ] n.先令
 shine [∫ain] vi.照耀，发光 n.光
 ship [∫ip] n.(大)船，海船，舰
 shirt [∫əːt] n.(男式)衬衫
@@ -3665,17 +3665,17 @@ shoot [∫uːt] vt.发射；射中 n.发芽
 shop [∫ɔp] n.商店，店铺；车间
 shopkeeper [ˈ∫ɔpkiːpə(r)] n.店主
 shopping [ˈ∫ɔpiŋ] n.买东西，购物
-shore[∫ɔː] n.滨，岸
+shore [∫ɔː] n.滨，岸
 short [∫ɔːt] a.短的；短期的
 shortage [ˈ∫ɔːtidʒ] n.不足，缺少，不足额
-shortcoming[ˈ∫ɔːtkʌmiŋ] n.短处，缺点
+shortcoming [ˈ∫ɔːtkʌmiŋ] n.短处，缺点
 shortly [ˈ∫ɔːtli] ad.立刻；简短地
 shot [∫ɔt] n.发射；弹丸；射门
-should[∫ud] aux.v.将；万一；就
+should [∫ud] aux.v.将；万一；就
 shoulder [ˈ∫əuldə] n.肩，肩膀；挑起
 shout [∫aut] n.&vi.呼喊，喊叫
 show [∫əu] vt.给…看；表明
-shower[ˈ∫auə] n.阵雨；(一)阵；淋浴
+shower [ˈ∫auə] n.阵雨；(一)阵；淋浴
 shriek [∫riːk] vi.尖声喊叫 n.尖叫声
 shrink[∫riŋk] vi.收缩；缩小；退缩
 shut [∫ʌt] vt.关上，闭上，关闭
@@ -3692,23 +3692,23 @@ signal [ˈsignl] n.信号 vi.发信号
 signature [ˈsignit∫ə] n.署名，签字，签名
 significance [sigˈnifikəns] n.意义，意味；重要性
 significant [sigˈnifikənt] n.有意义/重要的
-silence[ˈsailəns] n.沉默 vt.使沉默
-silent[ˈsailənt] a.沉默的；寂静无声的
+silence [ˈsailəns] n.沉默 vt.使沉默
+silent [ˈsailənt] a.沉默的；寂静无声的
 silk [silk] n.蚕丝，丝，丝织品
 silly [ˈsili] a.傻的，愚蠢的
 silver [ˈsilvə] n.银；银子；银器
-similar[ˈsimilə] a.相似的，类似的
+similar [ˈsimilə] a.相似的，类似的
 similarly [ˈsimiləli] ad.类似地，相似地
-simple[ˈsimpl] a.简单的；朴素的
+simple [ˈsimpl] a.简单的；朴素的
 simplicity [simˈplisiti] n.简单，简易；朴素
-simplify[ˈsimplifai] vt.简化，使单纯
-simply[ˈsimpli] ad.简单地；朴素地
+simplify [ˈsimplifai] vt.简化，使单纯
+simply [ˈsimpli] ad.简单地；朴素地
 sin [sin] n.罪，罪孽 vi.犯罪
 since [sins] conj.从…以来；因为
 sincere [sinˈsiə] a.真诚的；真挚的
 sing [siŋ] vi.&vt.唱，演唱
-singer[ˈsiŋə(r)] n.歌唱家，歌手
-single[ˈsiŋgl] a.单一的；独身的
+singer [ˈsiŋə(r)] n.歌唱家，歌手
+single [ˈsiŋgl] a.单一的；独身的
 singular [ˈsiŋgjulə] a.单一的；非凡的
 sink [siŋk] vi.下沉；下垂；降低
 sir [səː(r)] n.先生，阁下；…爵士
@@ -3721,12 +3721,12 @@ sixteen [ˈsiksˈtiːn] num.十六，十六个
 sixth [siksθ] num.第六；六分之一
 sixty [ˈsiksti] num.六十，六十个
 size [saiz] n.大小；体积；尺码
-skate[skeit] n.冰鞋；滑冰 vi.滑冰
+skate [skeit] n.冰鞋；滑冰 vi.滑冰
 sketch [sket∫] n.略图；速写；概略
 ski [skiː] n.滑橇 vi.滑雪
 skill [skil] n.技能，技巧；熟练
-skilled[skild] a.有技能的，熟练的
-skillful[ˈskilful] a.灵巧的，娴熟的
+skilled [skild] a.有技能的，熟练的
+skillful [ˈskilful] a.灵巧的，娴熟的
 skim [skim] vt.掠过，擦过；略读
 skin [skin] n.皮；兽皮；外皮
 skirt [skəːt] n.女裙；边缘；郊区
@@ -3735,21 +3735,21 @@ slam [slæm] vt.使劲关，砰地放下
 slave [sleiv] n.奴隶；苦工
 slavery [ˈsleivəri] n.奴隶制度；苦役
 sleep [sliːp] n.睡眠 vi.睡 vt.睡
-sleepy[ˈsliːpi] a.想睡的；寂静的
-sleeve[sliːv] n.袖子，袖套
+sleepy [ˈsliːpi] a.想睡的；寂静的
+sleeve [sliːv] n.袖子，袖套
 slender [ˈslendə] a.细长的；微薄的
 slice [slais] n.薄片，切片；部分
 slide [slaid] vi.滑 vt.使滑动 n.滑
 slight [slait] a.细长的；轻微的
-slightly[ˈslaitli] ad.稍微，有点
-slip[slip] vi.滑跤；滑落；溜
+slightly [ˈslaitli] ad.稍微，有点
+slip [slip] vi.滑跤；滑落；溜
 slipper [ˈslipə] n.拖鞋，便鞋
 slippery [ˈslipəri] a.滑的，使人滑跤的
 slit [slit] n.裂缝 vt.切开，撕开
 slogan [ˈsləugən] n.标语，口号
-slope[sləup] n.倾斜；斜面 vi.倾斜
+slope [sləup] n.倾斜；斜面 vi.倾斜
 slow [sləu] a.慢的；迟钝的
-slowly[ˈsləuli] ad.慢慢地
+slowly [ˈsləuli] ad.慢慢地
 slum [slʌm] n.贫民窟，贫民区
 sly [slai] a.狡猾的；躲躲闪闪的
 small [smɔːl] a.小的，少的；小型的
@@ -3757,23 +3757,23 @@ smart [smɑːt] a.巧妙的；洒脱的
 smell [smel] n.嗅觉；气味 vt.嗅
 smile [smail] vi.微笑 n.微笑，笑容
 smog [smɔg] n.烟雾
-smoke[sməuk] n.烟；抽烟 vi.冒烟
-smooth[smuːð] a.平滑的；平静的
-smoothly[ˈsmuːðli] ad.光滑地；平稳地
+smoke [sməuk] n.烟；抽烟 vi.冒烟
+smooth [smuːð] a.平滑的；平静的
+smoothly [ˈsmuːðli] ad.光滑地；平稳地
 snake [sneik] n.蛇
 snow [snəu] n.雪 vi.下雪
 snowstorm [ˈsnəustɔːm] n.雪暴，暴风雪
-snowy[ˈsnəui] a.雪的，下雪的
+snowy [ˈsnəui] a.雪的，下雪的
 so [səu] ad.这样；这么；非常
 soak [səuk] vt.浸，泡 vi.浸泡
 soap [səup] n.肥皂
 sob [sɔb] vi.&n.啜泣，呜咽
 sober [ˈsəubə] a.清醒的；适度的
-so-calleda.所谓的，号称的
+so-called a.所谓的，号称的
 soccer [ˈsɔkə] n.英式足球
 social [ˈsəu∫əl] a.社会的；社交的
 socialism [ˈsəu∫əlizəm] n.社会主义
-socialist[ˈsəu∫əlist] a.社会主义的
+socialist [ˈsəu∫əlist] a.社会主义的
 society [səˈsaiəti] n.社会；团体；社交界
 sock [sɔk] n.短袜
 soda [ˈsəudə] n.碳酸钠，纯碱；汽水
@@ -3782,30 +3782,30 @@ softly [ˈsɔftli] ad.柔软地；温柔地
 soil [sɔil] n.泥土，土壤，土地
 soil [sɔil] vt.弄脏 vi.变脏
 solar [ˈsəulə] a.太阳的，日光的
-soldier[ˈsəuldʒə] n.(陆军)士兵，军人
+soldier [ˈsəuldʒə] n.(陆军)士兵，军人
 sole [səul] n.脚底，鞋底，袜底
 sole [səul] a.单独的，唯一的
-solely[ˈsəu(l)li] ad.单独地，唯一地
-solemn[ˈsɔləm] a.庄严的；隆重的
+solely [ˈsəu(l)li] ad.单独地，唯一地
+solemn [ˈsɔləm] a.庄严的；隆重的
 solid [ˈsɔlid] a.固体的 n.固体
 soluble [ˈsɔljubla.可溶的；可以解决的
-solution[səˈljuː∫ən] n.解决，解答；溶解
+solution [səˈljuː∫ən] n.解决，解答；溶解
 solve [sɔlv] vt.解答，解释，解决
 some [sʌm] a.&pron.一些，若干
 somebody [ˈsʌmbədi] pron.某人，有人
 somehow [ˈsʌmhau] ad.由于某种原因
 someone [ˈsʌmwʌn] pron.某人，有人
-something[ˈsʌmθiŋ] pron.某事，某物
+something [ˈsʌmθiŋ] pron.某事，某物
 sometime [ˈsʌmtaim] ad.在某一时候；从前
-sometimes[ˈsʌmtaimz] ad.不时，有时
+sometimes [ˈsʌmtaimz] ad.不时，有时
 somewhat [ˈsʌm(h)wɔt] pron.一点儿 ad.有点
-somewhere[ˈsʌm(h)weə] ad.在某处 n.某地
+somewhere [ˈsʌm(h)weə] ad.在某处 n.某地
 son [sʌn] n.儿子
 song [sɔŋ] n.歌唱；歌曲，歌词
 soon [suːn] ad.不久；早，快
-sophisticated[səˈfistikeitid] a.老于世故的;高级的
+sophisticated [səˈfistikeitid] a.老于世故的;高级的
 sore [sɔ] a.痛的；恼火的 n.疮
-sorrow[ˈsɔrəu] n.悲痛，悲哀，悲伤
+sorrow [ˈsɔrəu] n.悲痛，悲哀，悲伤
 sorry [ˈsɔri] a.难过的；对不起的
 sort [sɔːt] n.种类；类别 vt.整理
 soul [səul] n.灵魂；精神；人
@@ -3822,33 +3822,33 @@ Soviet [ˈsəuviet] n.苏维埃 a.苏维埃的
 sow [sau] vt.播(种) vi.播种
 space [speis] n.空间；场地；空白
 spacecraft [ˈspeiskrɑːft] n.航天器，宇宙飞船
-spaceship[ˈspeis∫ip] n.航天飞船
-spade[speid] n.铲，铁锹
+spaceship [ˈspeis∫ip] n.航天飞船
+spade [speid] n.铲，铁锹
 span [spæn] n.跨距；一段时间
 Spanish [ˈspæni∫] a.西班牙的 n.西班牙人
-spare[speə] vt.节约 a.多余的
-spark[spɑːk] n.火花，火星
+spare [speə] vt.节约 a.多余的
+spark [spɑːk] n.火花，火星
 sparkle [ˈspɑːkl] vi.发火花 vt.使闪耀
 sparrow [ˈspærəu] n.麻雀
-speak[spiːk] vi.说话；发言 vt.说
+speak [spiːk] vi.说话；发言 vt.说
 speaker [ˈspiːkə] n.说话者；扬声器
-spear[spiə] n.矛，枪
+spear [spiə] n.矛，枪
 special [ˈspe∫əl] a.特殊的；专门的
 specialist [ˈspe∫əlist] n.专家
 speciality [ˌspe∫iˈæliti] n.专业，特长；特产
 specialize [ˈspe∫əlaiz] vi.成为…专家；专攻
 specially [ˈspe∫əli] ad.专门地，特别地
-specific[spiˈsifik] a.特有的；具体的
-specify[ˈspesifai] vi.指定，详细说明
+specific [spiˈsifik] a.特有的；具体的
+specify [ˈspesifai] vi.指定，详细说明
 specimen [ˈspesimin] n.样本，标本，样品
 spectacle [ˈspektəkl] n.光景，景象；眼镜
-speech[spiːt∫] n.言语；演说；方言
+speech [spiːt∫] n.言语；演说；方言
 speed [spiːd] n.快；速率 vi.快行
 spell [spel] vt.拼写 vi.拼字
 spelling [ˈspeliŋ] n.拼字，拼法，拼写法
 spend [spend] vt.用钱，花费；度过
-sphere[sfiə] n.球，圆体；范围
-spider[ˈspaidə] n.蜘蛛
+sphere [sfiə] n.球，圆体；范围
+spider [ˈspaidə] n.蜘蛛
 spill [spil] vt.使溢出 vi.溢出
 spin [spin] vt.纺；使旋转 n.旋转
 spirit [ˈspirit] n.精神；气魄；情绪
@@ -3860,58 +3860,58 @@ split [split] vt.劈开 vi.被劈开
 spoil [spɔil] vt.损坏，糟蹋；宠坏
 sponge [spʌndʒ] n.海绵
 sponsor [ˈspɔnsə] n.发起者 vt.发起
-spontaneous[spɔnˈteiniəs] a.自发/本能的
+spontaneous [spɔnˈteiniəs] a.自发/本能的
 spoon [spuːn] n.匙，调羹
 sport [spɔːt] n.运动；运动会
 sportsman [ˈspɔːtsmən] n.运动员
 spot [spɔt] n.点，斑点；地点
 spray [sprei] n.浪花；喷雾 vt.喷
-spread[spred] vt.伸开；传播 n.传播
-spring[spriŋ] vi.跳，跃 n.跳跃；泉
-springn.春天，春季
-springtime[ˈspriŋtaim] n.春季，春天
+spread [spred] vt.伸开；传播 n.传播
+spring [spriŋ] vi.跳，跃 n.跳跃；泉
+spring n.春天，春季
+springtime [ˈspriŋtaim] n.春季，春天
 sprinkle [ˈspriŋkl] n.洒，撒；小雨
 spur [spəː] n.刺激物 vt.刺激
 spy [spai] n.间谍，特务 vt.侦察
-square[skweə] n.正方形；广场
+square [skweə] n.正方形；广场
 squeeze [skwiːz] vt.&vi.榨，挤；压榨
 squirrel [ˈskwirəl] n.松鼠
 stab [stæb] vt.&vi.&n.刺，戳
 stability [stəˈbiliti] n.稳定，稳定性，巩固
-stable[ˈsteibl] a.稳定的，不变的
-stablen.厩，马厩，牛棚
-stack[stæk] n.堆，垛 vt.堆积
-stadium[ˈsteidiəm] n.露天大型运动场
+stable [ˈsteibl] a.稳定的，不变的
+stable n.厩，马厩，牛棚
+stack [stæk] n.堆，垛 vt.堆积
+stadium [ˈsteidiəm] n.露天大型运动场
 staff [stɑːf] n.工作人员；参谋
 stage [steidʒ] n.舞台；戏剧；阶段
-stain[stein] vt.沾污；给…着色
-stair[steə] n.楼梯
+stain [stein] vt.沾污；给…着色
+stair [steə] n.楼梯
 staircase [ˈsteəkeis] n.楼梯，楼梯间
 stake [steik] n.桩；赌金；奖品
 stale [steil] n.陈腐的；走了气的
 stamp [stæmp] n.戳子；邮票；标志
-stand[stænd] vi.站；坐落 n.架，台
+stand [stænd] vi.站；坐落 n.架，台
 standard [ˈstændəd] n.标准 a.标准的
 standpoint [ˈstændpɔint] n.立场，观点
 star [stɑː] n.星；恒星；明星
 stare [steə(r)] vi.盯，凝视
 start [stɑːt] vi.跳起；出发；开始
-startle[ˈstɑːtl] vt.使大吃一惊 n.吃惊
-starve[stɑːv] vi.饿死 vt.使饿死
+startle [ˈstɑːtl] vt.使大吃一惊 n.吃惊
+starve [stɑːv] vi.饿死 vt.使饿死
 state [steit] n.状态；国家；州
 state vt.陈述，说明，阐明
 statement [ˈsteitmənt] n.陈述，声明
 statesman [ˈsteitsmən] n.政治家，国务活动家
 static [ˈstætik] a.静的；静态的
-station[ˈstei∫ən] n.站，台，所，局
+station [ˈstei∫ən] n.站，台，所，局
 statistical [stəˈtistikəl] a.统计的，统计学的
-statue[ˈstætjuː] n.塑像，雕像，铸像
+statue [ˈstæt∫uː] n.塑像，雕像，铸像
 status [ˈsteitəs] n.地位，身分
 stay [stei] vi.停留；住 n.逗留
 steadily [ˈstedili] ad.稳定地，不变地
-steady[ˈstedi] a.稳固的 vt.使稳定
+steady [ˈstedi] a.稳固的 vt.使稳定
 steal [stiːl] vt.偷，窍取
-steam[stiːm] n.蒸汽 vi.蒸发 vt.蒸
+steam [stiːm] n.蒸汽 vi.蒸发 vt.蒸
 steamer [ˈstiːmə] n.轮船，汽船
 steel [stiːl] n.钢，钢铁
 steep [stiːp] a.险峻的，陡峭的
@@ -3919,18 +3919,18 @@ steer [stiə] vt.&vi.驾驶
 stem [stem] n.茎，(树)干 vi.起源
 step [step] n.(脚)步；步骤 vi.走
 stern [stəːn] a.严厉的；坚定的
-steward[ˈstjuəd] n.乘务员，服务员
-stewardess[ˈstjuːədis] n.空中小姐，女乘务员
+steward [ˈstjuəd] n.乘务员，服务员
+stewardess [ˈstjuːədis] n.空中小姐，女乘务员
 stick [stik] n.棍，棒 vt.刺；粘贴
-sticky[ˈstiki] a.粘性的；胶粘的
+sticky [ˈstiki] a.粘性的；胶粘的
 stiff [stif] a.硬的；僵直的
-stiffen[ˈstifn] vt.使硬；使僵硬
+stiffen [ˈstifn] vt.使硬；使僵硬
 still [stil] a.静止的 n.寂静
 stimulate [ˈstimjuleit] vt.刺激，激励，激发
 sting [stiŋ] vt.刺；刺痛 vi.&n.刺
 stir [stəː] vt.动；拨动；激动
 stitch [stit∫] n.一针；针脚 vt.缝
-stock[stɔk] n.原料；库存品；股本
+stock [stɔk] n.原料；库存品；股本
 stocking [ˈstɔkiŋ] n.长(统)袜
 stomach [ˈstʌmək] n.胃；肚子；食欲
 stone [stəun] n.石，石头；宝石
@@ -3938,27 +3938,27 @@ stony [ˈstəuni] a.多石的；冷酷的
 stool [stuːl] n.凳子
 stoop [stuːp] vi.俯身；弯身 n.弯腰
 stop [stɔp] vt.塞住；阻止；停止
-storage[ˈstɔridʒ] n.贮藏；贮藏量
+storage [ˈstɔridʒ] n.贮藏；贮藏量
 store [stɔː] n.贮藏；贮存品；商店
-storey[ˈstɔːri] n.(层)楼
+storey [ˈstɔːri] n.(层)楼
 storm [stɔːm] n.风暴；暴(风)雨
 stormy [ˈstɔːmi] a.有暴风雨的；激烈的
 story [ˈstɔːri] n.故事，小说，传说
 stove [stəuv] n.炉，火炉，电炉
-straight[streit] a.直的；正直的 ad.直
+straight [streit] a.直的；正直的 ad.直
 strain [strein] vt.拉紧 vi.尽力
-strange[streindʒ] a.陌生的；奇怪的
-stranger[ˈstreindʒə] n.陌生人；新来者
+strange [streindʒ] a.陌生的；奇怪的
+stranger [ˈstreindʒə] n.陌生人；新来者
 strap [stræp] n.带子 vt.捆扎
 strategy [ˈstrætidʒi] n.战略；策略
 straw [strɔː] n.稻草，麦杆吸管
 strawberry [ˈstrɔːbəri] n.草莓
-stream[striːm] n.河；流 vi.&vt.流
+stream [striːm] n.河；流 vi.&vt.流
 street [striːt] n.街，街道；行车道
 strength [streŋθ] n.力，力量，力气
 strengthen [ˈstreŋθən] vt.加强，巩固
-stress[stres] n.压力；重音 vt.着重
-stretch[stret∫] vt.伸展 vi.伸 n.伸展
+stress [stres] n.压力；重音 vt.着重
+stretch [stret∫] vt.伸展 vi.伸 n.伸展
 strict [strikt] a.严格的；严谨的
 strictly [ˈstriktli] ad.严格地，严谨地
 strike [straik] vt.&vi.打，击 n.罢工
@@ -3966,33 +3966,33 @@ string [striŋ] n.线，细绳；一串
 strip [strip] vt.剥；夺去 n.条带
 stripe [straip] n.条纹，条子
 stroke [strəuk] n.打，击；鸣声；中风
-strokevt.&n.抚，摩，捋
+stroke vt.&n.抚，摩，捋
 strong [strɔŋ] a.强壮的；擅长的
-strongly[ˈstrɔŋli] ad.强壮地，强烈地
-structural[ˈstrʌkt∫ərəl] a.结构的，构造的
-structure[ˈstrʌkt∫ə] n.结构；构造 vt.建造
+strongly [ˈstrɔŋli] ad.强壮地，强烈地
+structural [ˈstrʌkt∫ərəl] a.结构的，构造的
+structure [ˈstrʌkt∫ə] n.结构；构造 vt.建造
 struggle [ˈstrʌgl] n.&vi.斗争，奋斗
 student [ˈstjuːdənt] n.学生；研究生，学者
-study[ˈstʌdi] n.学习，研究 vt.学
+study [ˈstʌdi] n.学习，研究 vt.学
 stuff [stʌf] n.材料 vt.装，填，塞
 stumble [ˈstʌmbl] vi.绊倒；犯错误
 stupid [ˈstjuːpid] a.愚蠢的；感觉迟钝的
 style [stail] n.风格；文体；式样
 subject [ˈsʌbdʒikt] n.题目；学科；主语
 submarine [sʌbməˈriːn] a.水下的 n.潜水艇
-submerge[səbˈməːdʒ] vt.浸没 vi.潜入水中
+submerge [səbˈməːdʒ] vt.浸没 vi.潜入水中
 submit [səbˈmit] vt.使服从 vi.服从
 subsequent [ˈsʌbsikwənt] a.随后的，后来的
 substance [ˈsʌbstəns] n.物质；实质；本旨
 substantial [səbˈstæn∫əl] a.物质的；坚固的
 substitute [ˈsʌbstitjuːt] n.代替人 vt.用…代替
 subtract [səbˈtrækt] vt.减，减去，去掉
-suburb[ˈsʌbəːb] n.郊区，郊外，近郊
-subway[ˈsʌbwei] n.地道；地下铁路
-succeed[səkˈsiːd] vt.继…之后 vi.成功
+suburb [ˈsʌbəːb] n.郊区，郊外，近郊
+subway[ ˈsʌbwei] n.地道；地下铁路
+succeed [səkˈsiːd] vt.继…之后 vi.成功
 success [səkˈses] n.成功，成就，胜利
 successful [səkˈsesful] a.成功的，结果良好的
-successfully[səkˈsesfuli] ad.成功地
+successfully [səkˈsesfuli] ad.成功地
 succession [səkˈse∫ən] n.连续；继任，继承
 successive [səkˈsesiv] a.连续的；接连的
 such [sʌt∫] a.这样的；如此的…
@@ -4000,10 +4000,10 @@ suck [sʌk] vt.吸，吮，啜；吸收
 sudden [ˈsʌdn] a.突然的，意外的
 suddenly [ˈsʌdənli] ad.突然地
 suffer [ˈsʌfə] vt.遭受；忍受；容许
-sufficient[səˈfi∫ənt] a.足够的，充分的
+sufficient [səˈfi∫ənt] a.足够的，充分的
 sufficiently [səˈfi∫əntli] ad.足够地，充分地
 sugar [ˈ∫ugə] n.糖
-suggest[səˈdʒest] vt.建议；暗示，启发
+suggest [səˈdʒest] vt.建议；暗示，启发
 suggestion [səˈdʒest∫ən] n.建议，意见；暗示
 suit [sjuːt] n.起拆，诉讼 vt.适合
 suitable [ˈsjuːtəbl] a.合适的；适宜的
@@ -4013,91 +4013,91 @@ summarize [ˈsʌməraiz] vt.概括/述，总结
 summary [ˈsʌməri] n.摘要，概要，一览
 summer [ˈsʌmə] n.夏，夏季
 sun [sʌn] n.太阳，日
-Sunday[ˈsʌndi] n.星期日，礼拜日
-sunlight[ˈsʌnlait] n.日光，阳光
+Sunday [ˈsʌndi] n.星期日，礼拜日
+sunlight [ˈsʌnlait] n.日光，阳光
 sunny [ˈsʌni] a.阳光充足的；快活的
 sunrise [ˈsʌnraiz] n.日出(时分)
 sunset [ˈsʌnset] n.日落(时分)
 sunshine [ˈsʌn∫ain] n.(直射)日光，阳光
 super [ˈsjuːpə] a.极好的，超级的
 superficial [sjuːpəˈfi∫əl] a.表面的；肤浅的
-superior[sjuːˈpiəriə] a.较高的；优越的
-supermarket[ˈsjuːpəˌmɑːkit] n.超级市场
+superior [sjuːˈpiəriə] a.较高的；优越的
+supermarket [ˈsjuːpəˌmɑːkit] n.超级市场
 supper [ˈsʌpə] n.晚饭，晚餐
 supplement [ˈsʌplimənt] n.&vt.增补，补充
 supply [səˈplai] vt.&n.供给，供应
-support[səˈpɔːt] vt.支撑；支持；供养
-suppose[səˈpəuz] vt.猜想；假定；让
-supreme[sjuːˈpriːm] a.最高的；最大的
-sure[∫uə] a.确信的；确实的
+support [səˈpɔːt] vt.支撑；支持；供养
+suppose [səˈpəuz] vt.猜想；假定；让
+supreme [sjuːˈpriːm] a.最高的；最大的
+sure [∫uə] a.确信的；确实的
 surely [ˈ∫uəli] a.确实；稳当地
 surface [ˈsəːfis] n.地面，表面；外表
 surgeon [ˈsəːdʒən] n.外科医师；军医
 surgery [ˈsəːdʒəri] n.外科，外科手术
 surname [ˈsəːneim] n.姓
 surprise [səˈpraiz] vt.使惊奇；突然袭击
-surprising[səˈpraiziŋ] a.惊人/出人意外的
-surprisinglyad.惊人地
+surprising [səˈpraiziŋ] a.惊人/出人意外的
+surprisingly ad.惊人地
 surrender [səˈrendə] vt.交出 vi.投降
 surround [səˈraund] vt.围，围绕，圈住
 surroundings [səˈraundiŋz] n.周围的事物,环境
 survey [səːˈvei] vt.俯瞰；检查；测量
-survive[səˈvaiv] vt.幸免于 vi.活下来
+survive [səˈvaiv] vt.幸免于 vi.活下来
 suspect [səsˈpekt] vt.怀疑 vi.疑心
 suspend [səsˈpend] vt.吊，悬；推迟
 suspicion [səsˈpi∫ən] n.怀疑，疑心，猜疑
-sustain[səsˈtein] vt.支撑；供养；忍受
+sustain [səsˈtein] vt.支撑；供养；忍受
 swallow [ˈswɔləu] n.燕子
 swallow vt.&vi.吞下，咽下
-swamp[swɔmp] n.沼泽，沼泽地
+swamp [swɔmp] n.沼泽，沼泽地
 swan [swɔn] n.天鹅
 swarm [swɔːm] n.一大群 vi.密集
 sway [swei] vi.摇动 vt.摇；摇动
 swear [sweə] vt.宣(誓) vi.诅咒
 sweat [swet] n.汗 vi.出汗
 sweater [ˈswetə] n.厚运动衫，毛线衫
-sweep[swiːp] vt.扫；刮起；扫过
+sweep [swiːp] vt.扫；刮起；扫过
 sweet [swiːt] a.甜的；愉快的
 swell [swel] vi.膨胀；隆起；增长
 swift [swift] a.快的；反应快的
 swim [swim] vi.游，游泳；眼花
 swing [swiŋ] vi.摇摆；回转 n.摇摆
 Swiss [swis] a.瑞士的 n.瑞士人
-switch[swit∫] n.开关；转换 vt.转换
+switch [swit∫] n.开关；转换 vt.转换
 sword [sɔːd] n.剑，刀
 symbol [ˈsimbəl] n.象征；符号，记号
-sympathetic[ˌsimpəˈθetik] a.同情的；和谐的
+sympathetic [ˌsimpəˈθetik] a.同情的；和谐的
 sympathize [ˈsimpəθaiz] vi.同情/感，共鸣
 sympathy [ˈsimpəθi] n.同情；一致，同感
 synthetic [sinˈθeti] a.综合的；合成的
 system [ˈsistəm] n.系统，体系；制度
-systematic(al)[ˌsistiˈmætik] a.有系统/计划的
+systematic(al) [ˌsistiˈmætik] a.有系统/计划的
 
 T
 
 table [ˈteibl] n.桌子；餐桌；项目表
-tablet[ˈtæblit] n.碑，匾；药片
+tablet [ˈtæblit] n.碑，匾；药片
 tag [tæg] n.附加语；标签
 tail [teil] n.尾巴；末尾部分
-tailor[ˈteilə] n.裁缝 vt.裁制衣服
+tailor [ˈteilə] n.裁缝 vt.裁制衣服
 take [teik] vt.拿；抓；拿走；吃
 tale [teil] n.故事，传说
-talent[ˈtælənt] n.天才；才能；人才
+talent [ˈtælənt] n.天才；才能；人才
 talk [tɔːk] vi.讲话 vt.谈论
 tall [tɔːl] n.高的，身材高的
 tame [teim] a.驯服的；顺从的
 tan [tæn] n.棕褐色 a.棕黄色的
-tank[tæŋk] n.坦克；大容器，槽
+tank [tæŋk] n.坦克；大容器，槽
 tap [tæp] vt.&vi.&n.轻叩
 tap n.塞子；龙头 vt.开发
 tape [teip] n.线带；磁带，录音带
-target[ˈtɑːgit] n.靶，标的；目标
+target [ˈtɑːgit] n.靶，标的；目标
 task [tɑːsk] n.任务，工作，作业
 taste [teist] vt.尝；尝到 n.味觉
 tax [tæks] n.税，税款；负担
 taxi [ˈtæksi] n.出租汽车
 tea [tiː] n.茶；茶叶；茶树
-teach[tiːt∫] vt.讲；教育 vt.教书
+teach [tiːt∫] vt.讲；教育 vt.教书
 teacher [ˈtiːt∫ə] n.教师，老师，先生
 teaching [ˈtiːt∫iŋ] n.教学，讲授；教导
 team [tiːm] n.队，组
@@ -4108,15 +4108,15 @@ technician [tekˈni∫(ə)n] n.技术员，技师
 technique [tekˈniːk] n.技术，技巧；技能
 technology [tekˈnɔlədʒi] n.工艺学，工艺，技术
 tedious [ˈtiːdiəs] a.冗长乏味的，沉闷的
-teenager[ˈtiːnˌeidʒə] n.青少年
-telegram[ˈteligræm] n.电报
+teenager [ˈtiːnˌeidʒə] n.青少年
+telegram [ˈteligræm] n.电报
 telegraph [ˈteligrɑːf] n.电报机；电报
 telephone [ˈtelifəun] n.电话 vi.打电话
 telescope [ˈteliskəup] n.望远镜
 television [ˈteliviʒən] n.电视；电视机
 tell [tel] vt.讲述；吩咐；辨别
-temper[ˈtempə] n.韧度；心情，情绪
-temperature[ˈtemprit∫ə(r)] n.温度；体温
+temper [ˈtempə] n.韧度；心情，情绪
+temperature [ˈtemprit∫ə(r)] n.温度；体温
 temple [ˈtempl] n.圣堂，神殿，庙宇
 temporary [ˈtempərəri] a.暂时的，临时的
 tempt [tempt] vt.引诱，诱惑；吸引
@@ -4135,27 +4135,27 @@ tenth [tenθ] num.第十；十分之一
 term [təːm] n.期；学期；条件；词
 terminal [ˈtəːminl] a.末端的 n.末端
 terrible [ˈterəbl] a.可怕的；极度的
-terrific[təˈrifik] a.可怕的；极大的
+terrific [təˈrifik] a.可怕的；极大的
 territory [ˈteritəri] n.领土，版图；领域
-terror[ˈterə] n.恐怖，惊骇
+terror [ˈterə] n.恐怖，惊骇
 test [test] n.&vt.试验；检验
 text [tekst] n.原文，本文；课文
 textbook [ˈtekstbuk] n.课本，教科书
-textile[ˈtekstail] n.纺织品 a.纺织的
+textile [ˈtekstail] n.纺织品 a.纺织的
 than [ðæn] conj.(比较级)比
 thank [θæŋk] vt.谢谢，感谢 n.感谢
 that [ðæt] a.那 pron.那 ad.那样
 the [ðə] art.(定冠词)这，那
-theatre[ˈθiətə(r)] n.戏院；戏剧；教室
+theatre [ˈθiətə(r)] n.戏院；戏剧；教室
 their [ðeə] pron.他(她、它)们的
 theirs [ðeəz] pron.他(她)们的东西
 them [θem] pron.(宾格)他们
-themselves[ðəmˈselvz] pron.他们自己
+themselves [ðəmˈselvz] pron.他们自己
 then [ðen] ad.当时；然后；那么
 theoretical [θiəˈretikəl] a.理论(上)的
-theory[ˈθiəri] n.理论；学说；意见
+theory [ˈθiəri] n.理论；学说；意见
 there [ðeə] ad.在那里；在那点上
-thereby[ˈðeəˈbai] ad.因此，从而，由此
+thereby [ˈðeəˈbai] ad.因此，从而，由此
 therefore [ˈðeəfɔː] ad.因此，所以
 thermometer [θəˈmɔmitə(r)] n.温度计，寒暑表
 these [ðiːz] a.&pron.这些
@@ -4168,7 +4168,7 @@ thing [θiŋ] n.物；用品；事；情况
 think [θiŋk] vt.想；想要；认为
 third [θəːd] num.第三；三分之一
 thirdly [ˈθəːdli] ad.第三
-thirst[θəːst] n.渴，口渴；渴望
+thirst [θəːst] n.渴，口渴；渴望
 thirsty [ˈθəːsti] a.渴的；渴望的
 thirteen [ˈθəːˈtiːn] num.十三，十三个
 thirty [ˈθəːti] num.三十，三十个
@@ -4176,26 +4176,26 @@ this [ðis] a.这；今 pron.这
 thorn [θɔːn] n.刺，棘；荆棘；蒺藜
 thorough [ˈθʌrə] a.彻底的；详尽的
 those [ðəuz] pron.那些
-though[ðəu ] conj.虽然 ad.可是
-thought [WC:t] n.思想；思维；想法
-thoughtful[ˈθɔːtful] a.沉思的；体贴的
+though [ðəu] conj.虽然 ad.可是
+thought [θɔːt] n.思想；思维；想法
+thoughtful [ˈθɔːtful] a.沉思的；体贴的
 thousand [ˈθauzənd] num.千，千个 n.无数
-thread[θred] n.线；丝；螺纹；头绪
-threat[θret] n.威胁，恐吓，凶兆
+thread [θred] n.线；丝；螺纹；头绪
+threat [θret] n.威胁，恐吓，凶兆
 threaten [ˈθretn] vt.&vi.威胁，恐吓
 three [θriː] num.三，三个
 thrill [θril] n.一阵激动
-thrive[θraiv] vi.兴旺，繁荣，旺盛
-throat[θrəut] n.咽喉，喉咙；嗓音
-throne[θrəun] n.宝座，御座；王位
-throng[θrɔŋ] n.群，人群 vt.挤满
+thrive [θraiv] vi.兴旺，繁荣，旺盛
+throat [θrəut] n.咽喉，喉咙；嗓音
+throne [θrəun] n.宝座，御座；王位
+throng [θrɔŋ] n.群，人群 vt.挤满
 through [θruː] prep.穿过 ad.从头到尾
 throughout [θru(ː)ˈaut] prep.遍及 ad.到处
 throw [θrəu] vt.投，掷，抛，扔
-thrust[θrʌst] vt.插，刺 n.插；讽刺
-thumb[θʌm] n.(大)拇指
-thunder[ˈθʌndə] n.雷 vi.打雷 vt.吼出
-Thursday[ˈθəːzdi] n.星期四
+thrust [θrʌst] vt.插，刺 n.插；讽刺
+thumb [θʌm] n.(大)拇指
+thunder [ˈθʌndə] n.雷 vi.打雷 vt.吼出
+Thursday [ˈθəːzdi] n.星期四
 thus [ðʌs] ad.如此，这样；因而
 tick [tik] n.滴答声；记号
 ticket [ˈtikit] n.票，券；纲领；传票
@@ -4205,35 +4205,35 @@ tie [tai] n.领带；联系 vt.系
 tiger [ˈtaigə] n.虎
 tight [tait] a.紧的；紧身的
 till [til] prep.conj.直到…为止
-timber[ˈtimbə] n.木材，木料
+timber [ˈtimbə] n.木材，木料
 time [taim] n.时间；时机；次，回
 timetable [ˈtaimteib(ə)l] n.时间表，时刻表
 timid [ˈtimid] a.胆怯的；羞怯的
 tin [tin] n.锡；罐头
 tiny [ˈtaini] a.微小的，极小的
 tip [tip] n.梢，末端，尖，尖端
-tipvt.轻击 vi.给小费
+tip vt.轻击 vi.给小费
 tire [ˈtaiə] vi.疲劳，累；厌倦
 tired [ˈtaiəd] a.疲劳的；厌倦的
-tissue[ˈtisjuː] n.薄绢；薄纸；组织
+tissue [ˈtisjuː] n.薄绢；薄纸；组织
 title [ˈtaitl] n.标题，题目；称号
 to [tuː] prep.到，向，达到
-toast[təust] n.烤面包 vt.烘，烤
+toast [təust] n.烤面包 vt.烘，烤
 toast n.祝酒；祝酒词
 tobacco [təˈbækəu] n.烟草，烟叶
-today[təˈdei] ad.在今天；现在
+today [təˈdei] ad.在今天；现在
 toe [təu] n.脚趾，足尖
 together [təˈgeðə] ad.共同，一起
 toilet [ˈtɔilit] n.厕所，盥洗室，浴室
-tolerance[ˈtɔlərəns] n.忍受，容忍；公差
+tolerance [ˈtɔlərəns] n.忍受，容忍；公差
 tolerate [ˈtɔləreit] vt.忍受，容忍，宽恕
 tomato [təˈmɑːtəu] n.番茄，西红柿
 tomb [tuːm] n.坟，冢
 tomorrow [təˈmɔrəu] ad.在明天 n.明天
 ton [tʌn] n.吨；大量
-tone[təun] n.音；腔调；声调
-tongue[tʌŋ] n.舌，舌头；语言
-tonight[təˈnait] ad.在今夜 n.今夜
+tone [təun] n.音；腔调；声调
+tongue [tʌŋ] n.舌，舌头；语言
+tonight [təˈnait] ad.在今夜 n.今夜
 too [tuː] ad.也，还；太，过分
 tool [tuːl] n.工具，器具，用具
 tooth [tuːθ] n.牙齿
@@ -4241,7 +4241,7 @@ top [tɔp] n.顶；首位 a.顶的
 topic [ˈtɔpik] n.题目，论题，话题
 torch [tɔːt∫] n.火炬，火把；手电筒
 torrent [ˈtɔrənt] n.奔流，激流，洪流
-tortoise[ˈtɔːtəs] n.龟，乌龟
+tortoise [ˈtɔːtəs] n.龟，乌龟
 torture [ˈtɔːt∫ə] n.拷问；折磨 vt.拷打
 toss [tɔːs] vt.&vi.扔，抛，掷
 total [ˈtəutl] a.总的 vi.合计，总共
@@ -4256,42 +4256,42 @@ town [taun] n.镇，市镇，城镇
 toy [tɔi] n.玩具，玩物
 trace [treis] n.痕迹；丝毫 vt.跟踪
 track [træk] n.行踪；路径；轨道
-tractor[ˈtræktə] n.拖拉机；牵引车
+tractor [ˈtræktə] n.拖拉机；牵引车
 trade [treid] n.贸易；职业 vi.交易
-tradition[trəˈdi∫ən] n.传统，惯例
+tradition [trəˈdi∫ən] n.传统，惯例
 traditional [trəˈdi∫ən(ə)l] a.传统的，惯例的
 traffic [ˈtræfik] n.交通，通行；交通量
-tragedy[ˈtrædʒidi] n.悲剧；惨事，惨案
+tragedy [ˈtrædʒidi] n.悲剧；惨事，惨案
 trail [treil] n.痕迹；小径 vt.跟踪
 train [trein] vt.培养 n.列车；队列
-training[ˈtreiniŋ] n.训练，锻炼，培养
+training [ˈtreiniŋ] n.训练，锻炼，培养
 traitor [ˈtreitə] n.叛徒，卖国贼
 tram [træm] n.(有轨)电车
 tramp [træmp] n.流浪者，游民
-transfer[trænsˈfəː] vt.转移；调动 vi.转移
+transfer [trænsˈfəː] vt.转移；调动 vi.转移
 transform [trænsˈfɔːm] vt.改变/造；变换
-transformation[ˌtrænsfəˈmei∫ən] n.变化；改造；转变
+transformation [ˌtrænsfəˈmei∫ən] n.变化；改造；转变
 transformer [trænsˈfɔːmə(r)] n.变压/转换器
-transistor[trænˈsistə] n.晶体管
-translate[trænsˈleit] vt.翻译，译 vt.翻译
+transistor [trænˈsistə] n.晶体管
+translate [trænsˈleit] vt.翻译，译 vt.翻译
 translation [trænsˈlei∫ən] n.翻译；译文/本
 transmission [trænzˈmi∫ən] n.传送;传动;发射
 transmit [trænzˈmit] vt.传送，传达；发射
 transparent [trænsˈpeərənt] a.透明的;易识破的
 transport [trænsˈpɔːt] vt.运输 n.运输
-transportation[ˌtrænspɔːˈtei∫ən] n.运输，运送，客运
+transportation [ˌtrænspɔːˈtei∫ən] n.运输，运送，客运
 trap [træp] n.陷阱；诡计 vt.诱骗
 travel [ˈtrævl] vi.&vi.&n.旅行
 tray [trei] n.(浅)盘，托盘，碟
 treason [ˈtriːzn] n.谋反，通敌，叛国罪
-treasure [ˈtriːzn] n.财富；珍宝 vt.珍视
+treasure [ˈtreʒə] n.财富；珍宝 vt.珍视
 treat [triːt] vt.对待；处理 n.款待
 treatment [ˈtriːtmənt] n.待遇；治疗，疗法
 treaty [ˈtriːti] n.条约；协议，协定
 tree [triː] n.树
 tremble [ˈtrembl] vi.发抖，哆嗦；摇动
 tremendous [triˈmendəs] a.极大的，非常的
-trend[trend] vi.伸向；倾向 n.倾向
+trend [trend] vi.伸向；倾向 n.倾向
 trial [ˈtraiəl] n.试，试验；审判
 triangle [ˈtraiæŋgl] n.三角(形)
 tribe [traib] n.部落，宗族
@@ -4301,13 +4301,13 @@ trim [trim] a.整齐的 vt.使整齐
 trip [trip] vi.绊；失足 vt .绊倒
 triumph [ˈtraiəmf] n.凯旋；胜利 vi.成功
 troop [truːp] n.军队；一群，大量
-tropical[ˈtrɔpikl] a.热带的
-trouble[ˈtrʌbl] n.烦恼；困难 vi.烦恼
+tropical [ˈtrɔpikl] a.热带的
+trouble [ˈtrʌbl] n.烦恼；困难 vi.烦恼
 troublesome [ˈtrʌblsəm] a.令人烦恼的；麻烦的
-trousers[ˈtrauzəz] n.裤子，长裤
+trousers [ˈtrauzəz] n.裤子，长裤
 truck [trʌk] n.卡车，载重汽车
 true [truː] a.真的；忠实的
-truly [5truːli] ad.真正地；忠实地
+truly [truːli] ad.真正地；忠实地
 trumpet [ˈtrʌmpit] n.喇叭，小号
 trunk [trʌŋk] n.树干；大衣箱，皮箱
 trust [trʌst] n.信任 vt.相信；委托
@@ -4318,21 +4318,21 @@ tube [ˈtjuːb] n.管；电子管，显像管
 tuck [tʌk] vt.折短，卷起；塞
 Tuesday [ˈtjuːzdi] n.星期二
 tuition [tjuːˈi∫ən] n.教，教诲；学费
-tumble[ˈtʌmbl] vi.摔倒，跌倒；打滚
+tumble [ˈtʌmbl] vi.摔倒，跌倒；打滚
 tune [tjuːn] n.调子；和谐 vt.调谐
 tunnel [ˈtʌnl] n.隧道，坑道，地道
-turbine[ˈtəːbain] n.叶轮机，汽轮机
+turbine [ˈtəːbain] n.叶轮机，汽轮机
 turbulent [ˈtəːbjulənt] a.骚动的，骚乱的
 turkey [ˈtəːki] n.火鸡；火鸡肉
 turn [təːn] vt.转；翻 vi.转动
-turning[ˈtəːniŋ] n.旋转；变向；转弯处
+turning [ˈtəːniŋ] n.旋转；变向；转弯处
 turnip [ˈtəːnip] n.萝卜，芜菁
 tutor [ˈtjuːtə] n.家庭教师；导师
 twelfth[twelfθ] num.第十二
 twelve[twelv] num.十二，十二个
 twentieth [ˈtwentiiθ] num.第二十
-twenty[ˈtwenti] num.二十，二十个
-twice[twais] ad.两次，两倍
+twenty [ˈtwenti] num.二十，二十个
+twice [twais] ad.两次，两倍
 twin [twin] a.孪生的 n.孪生儿
 twinkle [ˈtwiŋkl] vi.闪烁，闪耀
 twist [twist] vt.捻；拧 vi.&n.扭弯
@@ -4341,41 +4341,41 @@ type [taip] n.型，类型 vi.打字
 typewriter [ˈtaipraitə] n.打字机
 typhoon[taiˈfuːn] n.台风
 typical[ˈtipikəl] a.典型的，代表性的
-typist[ˈtaipist] n.打字员
+typist [ˈtaipist] n.打字员
 tyre [ˈtaiə] n.轮胎，车胎
 
 U
 
 ugly [ˈʌgli] a.丑陋的；可怕的
 ultimate [ˈʌltimit] a.最后的，最终的
-ultimately[ˈʌltimətli] ad.最终，最后
+ultimately [ˈʌltimətli] ad.最终，最后
 umbrella [ʌmˈbrelə] n.伞，雨伞
 unable [ˈʌnˈeibl] a.不能的，不会的
 unbearable [ʌnˈbeərəbl] a.难堪的，忍受不了的
 uncertain [ʌnˈsəːtn] a.无常的；不确定的
 uncle [ˈʌŋkl] n.伯父，叔父，舅父
-uncomfortable[ʌnˈkʌmfətəbl] a.不舒服的；不自在的
+uncomfortable [ʌnˈkʌmfətəbl] a.不舒服的；不自在的
 unconscious [ʌnˈkɔn∫əs] a.不省人事的
 uncover [ʌnˈkʌvə] vt.揭开…的盖子
 under [ˈʌndə] prep.在…下面；低于.
-undergo[ˌʌndəˈgəu] vt.经历，经受，忍受
-undergraduate[ˌʌndəˈgrædjuit] n.大学肆业生
+undergo [ˌʌndəˈgəu] vt.经历，经受，忍受
+undergraduate [ˌʌndəˈgrædjuit] n.大学肆业生
 underground [ˈʌndəgraund] a.地下的；秘密的
 underline [ˌʌndəˈlain] vt.划线于…之下
 underneath [ˌʌndəˈniːθ] ad.在下面，在底下
 understand [ˌʌndəˈstænd] vt.懂；获悉 vi.懂得
-understanding[ˌʌndəˈstændiŋ] n.理解；理解力；协定
-undertake[ˌʌndəˈteik] vt.从事；承担；保证
+understanding [ˌʌndəˈstændiŋ] n.理解；理解力；协定
+undertake [ˌʌndəˈteik] vt.从事；承担；保证
 undertaking [ˌʌndəˈteikiŋ] n.任务，事业；许诺
 undo [ˈʌnˈduː] vt.解开，打开；取消
 undoubtedly [ʌnˈdautidli] ad.无容置疑，肯定地
 uneasy [ʌnˈiːzi] a.心神不安的，忧虑的
 unexpected [ˈʌniksˈpektid] a.想不到的，意外的
-unfair[ˈʌnˈfeə] a.不公平的，不公正的
+unfair [ˈʌnˈfeə] a.不公平的，不公正的
 unfortunate [ʌnˈfɔːt∫ənit] a.不幸的；可取的
 unfortunately [ʌnˈfɔːtjunətli] ad.不幸地
 unhappy [ʌnˈhæpi] a.不幸福的，不快乐的
-uniform[ˈjuːnifɔːm] a.一样的 n.制服
+uniform [ˈjuːnifɔːm] a.一样的 n.制服
 union [ˈjuːnjən] n.联合；团结；协会
 unique [juːˈniːk] a.唯一的，独一无二的
 unit [ˈjuːnit] n.单位；单元；部件
@@ -4390,42 +4390,42 @@ unknown [ˈʌnˈnəun] a.不知道的；未知的
 unless [ʌnˈles] conj.除非，如果不
 unlike [ˈʌnˈlaik] a.不同的 prep.不象…
 unlikely [ʌnˈlaikli] a.未必的，未必可能的
-unload[ˈʌnˈləud] vt.卸(货) vi.卸货
-unlucky[ʌnˈlʌki] a.不幸的；不吉的
-unnecessary[ʌnˈnesisəri] a.不必要的，多余的
+unload [ˈʌnˈləud] vt.卸(货) vi.卸货
+unlucky [ʌnˈlʌki] a.不幸的；不吉的
+unnecessary [ʌnˈnesisəri] a.不必要的，多余的
 unpleasant [ʌnˈpleznt] a.令人不快的，讨厌的
 unsatisfactory[ˈʌnsætisˈfæktəri] a.不能令人满意的
-unstable[ˈʌnˈsteibl] a.不稳固的；不稳定的
+unstable [ˈʌnˈsteibl] a.不稳固的；不稳定的
 unsuitable [ʌnˈsuːtəb(ə)l] a.不合适的,不适宜的
 until [ʌnˈtil] prep&conj.直到…为止
-unusual[ʌnˈjuːʒuəl] a.不平常的；独特的
+unusual [ʌnˈjuːʒuəl] a.不平常的；独特的
 unusually [ʌnˈjuːʒəli] a.不平常地，非常
 unwilling [ˈʌnˈwiliŋ] a.不愿意的
 up [ʌp] ad.向上；起床，起来
-upon[əˈpɔn] prep.在…上；在…旁
-upper[ˈʌpə] a.上面的；地位较高的
-upright[ˈʌpˈrait] a.垂直的；正直的
+upon [əˈpɔn] prep.在…上；在…旁
+upper [ˈʌpə] a.上面的；地位较高的
+upright [ˈʌpˈrait] a.垂直的；正直的
 upset [ʌpˈset] vt.弄翻，打翻，倾覆
-upside-down[ˈʌpsaidˈdaun] a.颠倒的，乱七八糟的
+upside-down [ˈʌpsaidˈdaun] a.颠倒的，乱七八糟的
 upstairs [ˈʌpˈsteəz] ad.在楼上 a.楼上的
-up-to-date[ˈʌptəˈdeit] a.直到最近/现代的
-upward[ˈʌpwəd] a.向上的，上升的
+up-to-date [ˈʌptəˈdeit] a.直到最近/现代的
+upward [ˈʌpwəd] a.向上的，上升的
 upwards [ˈʌpwədz] ad.趋向上升；以上
 urge [əːdʒ] vt.推进；催促 n.冲动
-urgent[ˈəːdʒənt] a.紧急的；强求的
+urgent [ˈəːdʒənt] a.紧急的；强求的
 us [ʌs] pron.(宾格)我们
-usage [ˈjuːzidʒ] n.使用，对待；惯用法
+usage [ˈjuːsidʒ] n.使用，对待；惯用法
 use [juːs] vt.用；耗费 n.用
 used [juːst] vi.过去常常
 used a.旧的；习惯于…的
 useful [ˈjuːsful] a.有用的，有益的
-useless[ˈjuːslis] a.无用的，无价值的
+useless [ˈjuːslis] a.无用的，无价值的
 user [ˈjuːzə] n.用户，使用者
 usual [ˈjuːʒuəl] a.通常的；平常的
 usually [ˈjuːʒuəli] ad.通常
-utility[juːˈtiliti] n.效用，有用，实用
-utilize[juːˈtilaiz] vt.利用
-utmost[ˈʌtməust] a.最远的 n.极限
+utility [juːˈtiliti] n.效用，有用，实用
+utilize [juːˈtilaiz] vt.利用
+utmost [ˈʌtməust] a.最远的 n.极限
 utter [ˈʌtə] a.完全的，彻底的
 utter vt.发出，说，讲
 
@@ -4433,7 +4433,7 @@ V
 
 vacant [ˈveikənt] a.空的；未被占用的
 vacation [veiˈkei∫ən] n.假期，休假
-vacuum[ˈvækjuəm] n.真空；真空吸尘器
+vacuum [ˈvækjuəm] n.真空；真空吸尘器
 vague [veig] a.模糊的，含糊的
 vain [vein] a.徒劳的；自负的
 valid [ˈvælid] a.有效的；正当的
@@ -4442,7 +4442,7 @@ valuable [ˈvæljuəbl] a.值钱的；有价值的
 value [ˈvæljuː] n.价值；价格 vt.评价
 van [væn] n.大篷车，运货车
 vanish [ˈvæni∫] vi.突然不见，消失
-vanity[ˈvæniti] n.虚荣心，虚夸
+vanity [ˈvæniti] n.虚荣心，虚夸
 vapour [ˈveipə] n.汽，蒸气
 variable [ˈveəriəbl] a.易变的 n.变量
 variation [ˌveəriˈei∫ən] n.变化，变动；变异
@@ -4452,17 +4452,17 @@ vary [ˈveəri] vt.改变；使多样化
 vase [veis] n.瓶，花瓶
 vast [vɑːst] a.巨大的；大量的
 vegetable [ˈvedʒitəbl] n.植物；蔬菜
-vehicle[ˈviːikl] n.车辆，机动车
+vehicle [ˈviːikl] n.车辆，机动车
 veil [veil] n.面纱，面罩；遮蔽物
 velocity [viˈlɔsiti] n.速度，速率
 velvet [ˈvelvit] n.丝绒，天鹅绒
-venture[ˈvent∫ə] n.&vi.冒险 vt.敢于
+venture [ˈvent∫ə] n.&vi.冒险 vt.敢于
 verb [vəːb] n.动词
 verify [ˈverifai] vt.证实，查证；证明
-version[ˈvəː∫(ə)n; (US) ˈvərʒn] n.译文；说法；改写本
+version [ˈvəː∫(ə)n; (US) ˈvərʒn] n.译文；说法；改写本
 vertical [ˈvəːtik(ə)l] a.垂直的，竖式的
 very [ˈveri] ad.很；完全 a.真的
-vessel[ˈvesl] n.容器；船，飞船；管
+vessel [ˈvesl] n.容器；船，飞船；管
 vest [vest] n.汗衫；背心；内衣
 veteran [ˈvetərən] n.老兵，老手
 vex [veks] vt.使烦恼，使恼火
@@ -4471,16 +4471,16 @@ vibrate [vaiˈbreit] vt.使颤动 vi.颤动
 vibration [vaiˈbrei∫ən] n.颤动，振动；摆动
 vice [vais] n.罪恶；恶习；缺点
 vice n.(老)虎钳
-victim[ˈviktim] n.牺牲者，受害者
+victim [ˈviktim] n.牺牲者，受害者
 victorious [vikˈtɔːriəs] a.胜利的，得胜的
-victory[ˈviktəri] n.胜利，战胜
-video[ˈvidiəu] a.电视的 n.电视
+victory [ˈviktəri] n.胜利，战胜
+video [ˈvidiəu] a.电视的 n.电视
 view [vjuː] n.看；视力；风景
 viewpoint [ˈvjuːˌpɔint] n.观点，看法，见解
 vigorous [ˈvigərəs] a.朝气蓬勃的
 village [ˈvilidʒ] n.乡村，村庄
 vine [vain] n.葡萄树
-vinegar[ˈvinigə] n.醋
+vinegar [ˈvinigə] n.醋
 violence [ˈvaiələns] n.猛烈，激烈；暴力
 violent[ˈvaiələnt] a.猛烈的；狂暴的
 violet [ˈvaiəlit] n.紫罗兰
@@ -4498,37 +4498,37 @@ vivid [ˈvivid] a.鲜艳的；生动的
 vocabulary [vəˈkæbjuləri] n.词汇表;词汇，语汇
 voice [vɔis] n.说话声；意见；语态
 volcano [vɔlˈkeinəu] n.火山
-volleyball[ˈvɔlibɔːl] n.排球，排球运动
+volleyball [ˈvɔlibɔːl] n.排球，排球运动
 volt [vəult] n.伏特，伏
-voltage[ˈvəultidʒ] n.电压
-volume[ˈvɔljuːmn.卷，册；容积；音量
+voltage [ˈvəultidʒ] n.电压
+volume [ˈvɔljuːm] n.卷，册；容积；音量
 voluntary [ˈvɔləntəri; (US) -teri] a.自/志愿的
 vote [vəut] n.选举，投票，表决
-voyage[ˈvɔiidʒ] n.&vi.航海，航空
+voyage [ˈvɔiidʒ] n.&vi.航海，航空
 
 W
 
 wage [weidʒ] n.工资，报酬
 wage vt.开展(运动)
-waggon[ˈwæən] n.四轮运货马车
+waggon [ˈwægən] n.四轮运货马车
 waist [weist] n.腰，腰部
 wait [weit] vi.等，等候 n.等待
 waiter [ˈweitə] n.侍者，服务员
 wake [weik] vi.醒，醒来 vt.唤醒
-waken[ˈweikən] vi.醒来 vt.弄醒
+waken [ˈweikən] vi.醒来 vt.弄醒
 walk [wɔːk] vi.&n.走，步行
 wall [wɔːl] n.墙，壁，围墙，城墙
-wallet[ˈwɔlit] n.钱包，皮夹子
+wallet [ˈwɔlit] n.钱包，皮夹子
 wander [ˈwɔndə] vi.漫游；迷路；离题
-want [wɔnt vt.要 n.需要；缺乏
+want [wɔnt] vt.要 n.需要；缺乏
 war [wɔː] n.战争；冲突，斗争
-warm[wɔːm] a.温暖的；热烈的
+warm [wɔːm] a.温暖的；热烈的
 warmth [wɔːmθ] n.暖和，温暖；热烈
 warn[wɔːn] vt.警告 vi.发生警告
 wash [wɔ∫] vt.洗；冲出 vi.洗涤
 waste [weist] n.浪费；废物；垃圾
 watch [wɔt∫] vt.&vi.观看 n.手表
-water[ˈwɔːtə] n.水 vt.使湿，灌溉
+water [ˈwɔːtə] n.水 vt.使湿，灌溉
 waterfall [ˈwɔːtəfɔːl] n.瀑布
 waterproof [ˈwɔːtəpruːf] a.不透水/防水的
 wave [weiv] n.波；波涛 vi.波动
@@ -4543,7 +4543,7 @@ wealth [welθ] n.财富，财产；丰富
 wealthy [ˈwelθi] a.富的，富裕的
 weapon [ˈwepən] n.武器，兵器
 wear [wiə] vt.穿着，戴；磨损
-weary[ˈwiəri] a.疲倦的 vt.使疲乏
+weary [ˈwiəri] a.疲倦的 vt.使疲乏
 weather [ˈweðə] n.天气
 weave [wiːv] vt.织，编 vi.纺织
 wedding [ˈwediŋ] n.婚礼
@@ -4564,16 +4564,16 @@ well ad.好；完全地 int.嘿
 well-known a.众所周知的，出名的
 west [west] n.西；西洋 a.西方的
 western [ˈwestən] a.西方的，西部的
-westward[ˈwestwəd] a.向西的 ad.向西
+westward [ˈwestwəd] a.向西的 ad.向西
 wet [wet] a.湿的；下雨的
 what [(h)wɔt] pron.什么 a.什么
-whatever[wɔtˈevə] pron.无论什么
-wheat[wiːt] n.小麦
-wheel[wiːl] n.轮，车轮
+whatever [wɔtˈevə] pron.无论什么
+wheat [wiːt] n.小麦
+wheel [wiːl] n.轮，车轮
 when [(h)wen] ad.什么时候；当…时
-whenever[(h)wenˈevə] conj.无论何时，每当
-where[(h)weə] ad.在哪里 pron.哪里
-wherever[(h)weərˈevə] ad.究竟在哪里
+whenever [(h)wenˈevə] conj.无论何时，每当
+where [(h)weə] ad.在哪里 pron.哪里
+wherever [(h)weərˈevə] ad.究竟在哪里
 whether [ˈ(h)weðə] conj.是否
 which [(h)wit∫] pron.哪一个 a.哪一个
 whichever [(h)wit∫ˈevə] a.无论哪个/些
@@ -4581,26 +4581,26 @@ while [(h)wail] conj.当…的时候；而
 whilst [wailst] conj.&n.当…的时候
 whip [(h)wip] vt.鞭笞；搅打 n.鞭子
 whirl [(h)wəːl] vt.使回旋 vi.&n.回旋
-whisky[ˈ(h)wiski] n.威士忌酒
+whisky [ˈ(h)wiski] n.威士忌酒
 whisper [ˈ(h)wispə] vt.低声地讲 vi.低语
-whistle[(h)wisl] n.口哨 vi.吹口哨
+whistle [(h)wisl] n.口哨 vi.吹口哨
 white [(h)wait] a.白的 n.白色
 whitewash [ˈ(h)waitwɔ∫] vt.粉刷，涂白
 who [huː] pron.谁；…的人
-whoever[huːˈevə(r)] pron.谁；无论谁
-whole[həul] a.完整的 n.全部
-wholly[ˈhəuli] ad.完全地，全部
-whom[huːm] pron.(宾格)谁
+whoever [huːˈevə(r)] pron.谁；无论谁
+whole [həul] a.完整的 n.全部
+wholly [ˈhəuli] ad.完全地，全部
+whom [huːm] pron.(宾格)谁
 whose [huːz] pron.谁的；哪个人的
 why [(h)wai] ad.为什么
-wicked[ˈwikid] a.坏的；令人厌恶的
-wide[waid] a.宽阔的 ad.全部地
+wicked [ˈwikid] a.坏的；令人厌恶的
+wide [waid] a.宽阔的 ad.全部地
 widely [ˈwaidli] ad.广，广泛
 widen [ˈwaidn] vt.加宽 vi.变宽
 widespread [ˈwaidspred] a.分布广/普遍的
 widow [ˈwidəu] n.寡妇
 width [widθ] n.宽阔，广阔；宽度
-wife [waif n.妻子
+wife [waif] n.妻子
 wild [waild] a.野生的；野蛮的
 will [wil] aux.v.将要，会；愿
 willing [ˈwiliŋ] a.愿意的，心甘情愿的
@@ -4610,14 +4610,14 @@ wind vt.绕，缠绕 vi.卷曲
 window [ˈwindəu] n.窗子，窗户，窗口
 wine [wain] n.葡萄酒，果酒
 wing [wiŋ] n.翼，翅膀，翅
-winner[ˈwinə] n.获胜者，优胜者
+winner [ˈwinə] n.获胜者，优胜者
 winter [ˈwintə] n.冬天，冬季
 wipe [waip] vt.&n.揩，擦
-wire[ˈwaiə] n.金属线；电缆；电信
+wire [ˈwaiə] n.金属线；电缆；电信
 wireless [ˈwaiəlis] a.不用电线的，无线的
 wisdom [ˈwizdəm] n.智慧，才智；名言
-wise[waiz] a.有智慧的，聪明的
-wish[wi∫] vt.祝；想要 n.希望
+wise [waiz] a.有智慧的，聪明的
+wish [wi∫] vt.祝；想要 n.希望
 wit [wit] n.智力，才智，智能
 with [wið] prep.和…一起；具有
 withdraw [wiðˈdrɔː] vt.收回；撤回 vi.撤退
@@ -4626,8 +4626,8 @@ without [wiðˈaut] prep.无，没有，不
 withstand [wiðˈstænd] vt.抵挡，反抗
 witness [ˈwitnis] n.证据；证人 vt.目击
 wolf [wulf] n.狼
-woman[ˈwumən] n.妇女，女人，女性
-wonder[ˈwʌndə] n.惊异，惊奇；奇迹
+woman [ˈwumən] n.妇女，女人，女性
+wonder [ˈwʌndə] n.惊异，惊奇；奇迹
 wonderful [ˈwʌndəful] a.惊人的；极好的
 wood [wud] n.树林，森林；木头
 wooden [ˈwudn] a.木制的；呆板的
@@ -4635,7 +4635,7 @@ wool [wul] n.羊毛；毛线，绒线
 woollen [ˈwulin] a.羊毛制的，毛线的
 word [wəːd] n.词；话；消息；语言
 work [wəːk] n.工作；职业 vi.工作
-worker[ˈwəːkə] n.工人；工作者，人员
+worker [ˈwəːkə] n.工人；工作者，人员
 workman [ˈwəːkmən] n.工人/匠，劳动者
 workshop [ˈwəːk∫ɔp] n.车间，工场；创作室
 world [wəːld] n.世界；世人；世间
@@ -4643,16 +4643,16 @@ world-wide [ˈwəːldwaid] a.遍及全球的
 worm [wəːm] n.虫，蠕虫
 worry [ˈwʌri] vt.使烦恼 vi.发愁
 worse [wəːs] a.更坏的 ad.更坏
-worship[ˈwəː∫ip] n.礼拜；崇拜 vt.崇拜
+worship [ˈwəː∫ip] n.礼拜；崇拜 vt.崇拜
 worst [wəːst] a.最坏的 ad.最坏地
 worth [wəːθ] a.值…的 n.价值
 worthless [ˈwəːθlis] a.无价值的，无用的
-worthwhile[ˈwəːðˈ(h)wail] a.值得花时间的
-worthy[ˈwəːði] a.有价值的；值得的
+worthwhile [ˈwəːðˈ(h)wail] a.值得花时间的
+worthy [ˈwəːði] a.有价值的；值得的
 would [wud] aux.v.将；愿；总是
-wound[wuːnd] n.创伤，伤 vt.使受伤
+wound [wuːnd] n.创伤，伤 vt.使受伤
 wrap [ræp] vt.裹，包，捆 n.披肩
-wreath[riːθ] n.花环，花圈，花冠
+wreath [riːθ] n.花环，花圈，花冠
 wreck [rek] n.失事；残骸 vt.破坏
 wrist [rist] n.腕，腕关节
 write [rait] vt.书写；写 vi.写
@@ -4670,15 +4670,15 @@ yard n.院子，庭院；场地
 yard [jɑːd] n.码
 yawn [jɔːn] vi.打呵欠 n.呵欠
 year [jəː] n.年；年年
-yearly[ˈjəːli] a.每年的 ad.一年一度
+yearly [ˈjəːli] a.每年的 ad.一年一度
 yell [jel] vi.叫喊
-yellow[ˈjeləu] a.黄(色)的 n.黄(色)
+yellow [ˈjeləu] a.黄(色)的 n.黄(色)
 yes [jes] ad.是，是的
 yesterday [ˈjestədi] n.&ad.昨天，昨日
 yet [jet] ad.还；已经 conj.而
 yield [jiːld] vt.&vi.出产 n.产量
 you [juː] pron.你，你们
-young[jʌŋ] a.年轻的 n.青年们
+young [jʌŋ] a.年轻的 n.青年们
 your [jɔː] pron.你的，你们的
 yours [jɔːz] pron.你们的(东西)
 yourself [jɔːˈself] pron.你自己；你亲自
@@ -4689,7 +4689,7 @@ Z
 
 zeal [ziːl] n.热心，热情，热忱
 zealous [ˈzeləs] a.热心的，热情的
-zebra[ˈziːbrə] n.斑马
+zebra [ˈziːbrə] n.斑马
 zero [ˈziərəu] n.零；零点，零度
-zone[zəun] n.地区，区域，范围
+zone [zəun] n.地区，区域，范围
 zoo [zuː] n.动物园
