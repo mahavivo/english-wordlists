@@ -109,7 +109,7 @@ agony [ˈægəni] n.极度痛苦
 agree [əˈgriː] vi.同意；持相同意见
 agreement [əˈgriːmənt] n.协定，协议；同意
 agriculture [ˈægrikʌlt∫ə] n.农业，农艺；农学
-ahead [əˈhedad.在前；向前；提前
+ahead [əˈhed] ad.在前；向前；提前
 aid [eid] n.帮助，救护；助手
 aim [eim] vi.瞄准，针对；致力
 air [eə] n.空气；空中；外观
@@ -170,7 +170,7 @@ another [əˈnʌðə] a.再一个的；别的
 answer [ˈɑːnsə] vt.回答；响应；适应
 ant [ænt] n.蚂蚁
 anticipate [ænˈtisipeit] vt.预料，预期，期望
-anxiety [æŋgˈzaiəti] n.焦虑，忧虑；渴望
+anxiety [æŋˈzaiəti] n.焦虑，忧虑；渴望
 anxious [ˈæŋk∫əs] a.忧虑的；渴望的
 any [ˈeni] a.什么，一些；任何的
 anybody [ˈeniˌbɔdi] prep.任何人
@@ -351,7 +351,7 @@ bear [beə] vt.容忍；负担；生育
 beard [biəd] n.胡须，络腮胡子
 beast [biːst] n.兽，野兽；牲畜
 beat [biːt] vt.&vi.打，敲；打败
-beautiful [ˈbjuːti] a.美的，美丽的
+beautiful [ˈbjuːtəful] a.美的，美丽的
 beauty [ˈbjuːti] n.美，美丽；美人
 because [biˈkɔz] conj.由于，因为
 become [biˈkʌm] vi.变成；成为，变得
@@ -422,7 +422,7 @@ blind [blaind] a.瞎的；盲目的
 block [blɔk] n.街区 vt.堵塞，拦阻
 blood [blʌd] n.血，血液；血统
 bloom [bluːm] n.花；开花，开花期
-blossom [ˈblɔsɔm] n.花，开花 vi.开花
+blossom [ˈblɔsəm] n.花，开花 vi.开花
 blow [bləu] vi.吹，吹动；吹响
 blue [bluː] a.蓝色的 n.蓝色
 board [bɔːd] n.板 vt.上(船、车等)
@@ -561,7 +561,7 @@ candy [ˈkændi] n.糖果；砂糖结晶
 cannon [ˈkænən] n.大炮，火炮；榴弹炮
 canoe [kəˈnuː] n.独木舟，皮艇，划子
 canteen [kænˈtiːn] n.小卖部；临时餐室
-canvas ˈkænvəs] n.粗帆布；一块油画布
+canvas [ˈkænvəs] n.粗帆布；一块油画布
 cap [kæp] n.帽子，便帽；帽状物
 capable [ˈkeipəbl] a.有能力的，有才能的
 capacity [kəˈpæsiti] n.容量；能力；能量
@@ -610,7 +610,7 @@ centigrade [ˈsentigreid] a.百分度的
 centimetre [ˈsentiˌmiːtə] n.公分，厘米
 central [ˈsentr(ə)l] a.中心的；主要的
 centre [ˈsentə] n.中心；中枢 vt.集中
-century [ˈsent∫uri] n.世纪，百年
+century [ˈsent∫uri] n.世纪，百年
 ceremony [ˈseriməni] n.典礼，仪式；礼节
 certain [ˈsəːtən] a.确实的；肯定的
 certainly [ˈsəːtənli] ad.一定，必定；当然
@@ -663,7 +663,7 @@ Chinese [ˈt∫aiˈniːz] a.中国的 n.中国人
 chocolate [ˈt∫ɔkəlit] n.巧克力；巧克力糖
 choice [t∫ɔis] n.选择，抉择
 choke [t∫əuk] vt.使窒息；塞满
-choose[t∫uːz] vt.选择，挑选；情愿
+choose [t∫uːz] vt.选择，挑选；情愿
 chop [t∫ɔp] vt.砍，劈；切细 vi.砍
 Christian [ˈkristjən] n.基督教徒；信徒
 Christmas [ˈkrisməs] n.圣诞节
@@ -801,7 +801,7 @@ concrete [ˈkɔnkriːt] n.混凝土；具体物
 condemn [kənˈdem] vt.谴责，指责；判刑
 condense [kənˈdens] vt.压缩，使缩短
 condition [kənˈdi∫ən] n.状况，状态；环境
-conduct [ˈkɔndʌktdəkt] n.举止，行为；指导
+conduct [ˈkɔndʌkt,-dəkt] n.举止，行为；指导
 conductor [kənˈdʌktə] n.售票员；(乐队)指挥
 conference [ˈkɔnfərəns] n.会议，讨论会
 confess [kənˈfes] vt.供认，承认；坦白
@@ -824,7 +824,7 @@ conscience [ˈkɔn∫əns] n.良心，道德心
 conscious [ˈkɔn∫əs] a.意识到的；有意的
 consciousness [ˈkɔn∫əsnis] n.意识,觉悟;知觉
 consent [kənˈsent] n.同意，赞成 vi.同意
-consequence [kənˈsent] n.结果，后果
+consequence [ˈkɔnsikwəns] n.结果，后果
 consequently [ˈkɔnsikwəntli] ad.因此/而,所以
 conservation [ˌkɔnsə(ː)ˈvei∫ən] n.保存，保护；守恒
 conservative [kənˈsəːvətiv] a.保守的 n.保守的人
@@ -858,7 +858,7 @@ contradiction [ˌkɔntrəˈdik∫ən] n.矛盾，不一致；否认
 contrary [ˈkɔntrəri] a.相反的 n.相反
 contrast [ˈkɔntræst] n.对比，对照，悬殊
 contribute [kənˈtribjuːt] vt.捐献，捐助；投稿
-control [kənˈtrl] vt.控制，克制 n.控制
+control [kənˈtrəul] vt.控制，克制 n.控制
 convenience [kənˈviːnjəns] n.便利,方便；厕所
 convenient [kənˈviːnjənt] a.便利的；近便的
 convention [kənˈven∫ən] n.习俗，惯例；公约
@@ -898,7 +898,7 @@ council [ˈkaunsil] n.理事会，委员会
 count [kaunt] vt.计算 vi.数，计数
 counter [ˈkauntə] n.柜台；计数器
 country [ˈkʌntri] n.国家，国土；农村
-countryside [ˈkʌntrisaid] n.乡下，农村
+countryside [ˈkʌntrisaid] n.乡下，农村
 county [ˈkaunti] n.英国的郡，美国的县
 couple [ˈkʌpl] n.夫妇；(一)对；几个
 courage[ˈkʌridʒ] n.勇气，胆量，胆识
@@ -1019,7 +1019,7 @@ definitely [ˈdefinitli] ad.一定地，明确地
 definition [ˌdefiˈni∫ən] n.定义，释义；定界
 degree [diˈgriː] n.程度；度；学位
 delay [diˈlei] vt.推迟；耽搁；延误
-delete [diˈ liːt] vt.删除；擦掉
+delete [diˈliːt] vt.删除；擦掉
 delegation [ˌdeliˈgei∫ən] n.代表团
 delicate [ˈdelikit] a.纤细的；易碎的
 delicious [diˈli∫əs] a.美味的，怡人的
@@ -1046,7 +1046,7 @@ descend [diˈsend] vi.下来，下降；下倾
 describe [disˈkraib] vt.形容；描写，描绘
 description [disˈkrip∫ən] n.描写，形容；种类
 desert [diˈzəːt] n.沙漠 vt.离弃；擅离
-deserve[diˈzəːv] vt.应受，值得
+deserve [diˈzəːv] vt.应受，值得
 design [diˈzain] vt.设计 n.设计；图样
 desirable [diˈzaiərəbl] a.值得相望的；可取的
 desire [diˈzaiə] vt.相望；要求 n.愿望
@@ -1155,7 +1155,7 @@ dog [dɔg] n.狗，犬，犬科动物
 dollar [ˈdɔlə] n.元(货币单位)
 domestic [dəˈmestik] a.本国的；家庭的
 donkey [ˈdɔŋki] n.驴；笨蛋
-door [dɔː n.门，通道；一家
+door [dɔː] n.门，通道；一家
 dorm [dɔːm] n.宿舍
 dormitory [ˈdɔːmitri] n.集体寝室；宿舍
 dose [dəus] n.剂量，用量；一剂
@@ -1175,7 +1175,7 @@ drain [drein] vt.排去；放水 n.耗竭
 drama [ˈdrɑːmə] n.一出戏剧，剧本
 dramatic [drəˈmætik] a.引人注目的，戏剧的
 draw [drɔː] vt.画，划；拖；拨出
-drawer [ˈdrɔːə n.抽屉
+drawer [ˈdrɔːə] n.抽屉
 drawing [ˈdrɔːiŋ] n.图画，素描；绘图
 dread [dred] n.畏惧；恐怖 vt.惧怕
 dream [driːm] n.梦；梦想 vi.做梦
@@ -1267,7 +1267,7 @@ eleventh [iˈlevnθ] num.第十一(个)
 eliminate [iˈlimineit] vt.消灭，消除，排除
 elimination [iˌlimiˈnei∫ən] n.消灭，排除，消除
 else [els] ad.其它，另外 a.别的
-elsewhere [ˈelsˈhweə] ad.在别处，向别处
+elsewhere [ˈelsˈweə] ad.在别处，向别处
 embarrass [imˈbærəs] vt.使窘迫，使为难
 embrace [imˈbreis] vt.拥抱；包括；包围
 emerge [iˈməːdʒ] vi.出现，涌现；冒出
@@ -1417,7 +1417,7 @@ extent [iksˈtent] n.广度；范围；程度
 exterior [eksˈtiəriə] a.外部的；对外的
 external [eksˈtəːnl] a.外部的，外面的
 extra [ˈekstrə] a.额外的 ad.特别地
-extraordinary [ikˈstrɔː dəneri] a.非同寻常的，特别的
+extraordinary [ikˈstrɔːdəneri] a.非同寻常的，特别的
 extreme [ikˈstriːm] a.极度的；尽头的
 extremely [iksˈtriːmli] ad.极端，极其，非常
 eye [ai] n.眼睛；眼力；鉴赏力
