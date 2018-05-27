@@ -623,8 +623,8 @@ devote  vt.投入于,献身
 diagnose  v.诊断                
 dictate  v.口述,口授,使听写,指令,指示,命令,规定;n.指示(指理智,变心)                
 differentiate  v.区别,区分                
-digest  v.散播,传播,漫射,扩散,(使)慢慢混合;adj.散开的,弥漫的                
-diffuse  n.分类,摘要;vi.消化;vt.消化,融会贯通                
+digest  n.分类,摘要;vi.消化;vt.消化,融会贯通
+diffuse  v.散播,传播,漫射,扩散,(使)慢慢混合;adj.散开的,弥漫的
 dignity  n.尊严,高贵                
 dilemma  n.进退两难的局面,困难的选择                
 diligent  adj.勤勉的,用功的,细心而继续不断的                
