@@ -707,7 +707,7 @@ credential        [kri'denʃəl]          n.  国书,凭据,印信
 credit            ['kredit]             n.  信用,信任,学分,贷款,荣誉vt.  归功于,赞颂,信任,相信
 credulous         ['kredjuləs]          a.  轻信的,易被瞒的,易受骗的
 creed             [kri:d]               n.  教条,主义,纲领
-creek             [kri:k]               n.  小溪,衃?小湾
+creek             [kri:k]               n.  小溪,小湾
 crevice           ['krevis]             n.  裂缝
 crew              [kru:]                n.  全体人员,群众,全体机员
 crisp             [krisp]               a.  脆的,新鲜的,活泼的vt. vi.  (使)烘脆,(使)卷曲,(使)起皱n.  松脆
@@ -745,7 +745,7 @@ dagger            ['dægə]               n.  匕首vt.  用剑刺
 damp              [dæmp]                n.  湿气a.  潮湿的vt.  使潮湿,阻尼,抑止vi.  变潮湿,衰减
 dampen            ['dæmpən]             vt.  弄湿,使衰减vi.  变湿,丧气
 dangerous         ['deindʒrəs]          a.  危险的
-dangle            ['dæŋgl]              vi.  襗蔚匦易?追求vt.  使襗蔚匦襫.  襗蔚匦?
+dangle            ['dæŋgl]              vi.  摇晃地悬挂着, 追求 vt. 使摇晃地悬挂 n. 悬垂
 dank              [dæŋk]                a.  透水的,潮湿的
 daring            ['dεəriŋ]             a.  大胆的
 dart              [da:t]                n.  飞镖,投射vt.  投射vi.  疾走,突进
