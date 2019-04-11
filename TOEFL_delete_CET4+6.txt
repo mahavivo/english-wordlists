@@ -1,5 +1,6 @@
 abashed           [ə'bæʃt]              adj.  1  (在人前) 感觉羞愧的,局促不安的,困窘的; 2. [因…]局促不安的
 abate             [ə'beit]              vt.  缓和,减弱,减少,废除vi.  缓和,减弱,减少
+abbreviate        [ə'bri:vieit]         v.  缩短，缩写
 abdicate          [æbdi'keit]           vt.  放弃vi.  逊位
 abduct            [æb'dʌkt]             vt.  诱拐,绑走
 abhor             [əb'hɔ:]              vt.  憎恶,痛恨
@@ -7,7 +8,10 @@ abhorrent         [əb'hɔrənt]           a.  令人憎恨的,可恶的,不一�
 ablaze            [ə'bleiz]             a.  着火的,闪亮的,激昂的ad.  着火,闪耀
 aboriginal        [æbə'ridʒənl]         a.  原始的,土著的n.  土著居民,土生生物
 abortive          [ə'bɔrtiv]            a.  流产的,堕胎的,失败的
+abound            [ə'baund]             vi.  (in)富于; 大量存在; 充满
+abrasion          [ə'breiʒn]            n.  表面磨损
 abridge           [ə'bridʒ]             vt.  删节,缩短,剥夺
+absolutely        ['æbsəlu:tli]         adv.  完全地; 绝对地
 absolve           [əb'zɔlv]             vt.  宣告. . . 无罪,赦免,免除
 absorbing         [əb'sɔ:biŋ]           a.  吸引人的,非常有趣的
 abstain           [əb'stein]            vi.  自制,戒绝,弃权,避免
@@ -18,6 +22,7 @@ accentuate        [æk'sentʃueit]        vt.  以重音念,强调,重读
 accomplice        [ə'kɔmplis]           n.  共犯,同谋
 accomplished      [ə'kɔmpliʃt]          a.  完成的,实现的,善社交的,有造诣的
 accost            [ə'kɔst]              vt.  招呼,搭讪,勾引
+acoustic          [ə'ku:stik]           a.  非电声乐器的; 听觉的
 acquisitive       [ə'kwizitiv]          a.  想获得的,贪得的
 acquit            [ə'kwit]              vt.  开释,释放,完成,表现
 acrid             ['ækrid]              a.  苦味的,辛辣的,尖刻的
@@ -27,14 +32,19 @@ acumen            [ə'kju:mən]           n.  敏锐,聪明
 adage             ['ædidʒ]              n.  古话,格言,谚语
 adaptable         [ə'dæptəbl]           a.  能适应的,可修改的
 addicted          [ə'diktid]            adj.  痴迷
+additive          ['æditiv]             a.  添加的; 加法的; n.  添加剂
 adept             [ə'dept]              a.  熟练的,老练的n.  名手,专家
 adherent          [əd'hiərənt]          a.  附着的,固守的n.  党徒
 adhesive          [əd'hi:siv]           a.  粘着的,有粘性的n.  粘剂
 adjoin            [ə'dʒɔin]             vt. vi.  邻接,毗连
 adjoining         [ə'dʒɔiniŋ]           a.  邻接的,隔壁的
 adjourn           [ə'dʒə:n]             vi.  延期,休会,换地方vt.  使中止
+adjunct           ['ædʒʌŋkt]            n.  附加物，附件
 admonish          [əd'mɔniʃ]            vt.  劝告,训诫,告诫
+adobe             [ə'dəubi]             n.  泥砖，土坯
+adorn             [ə'dɔ:n]              vt.  装饰，装扮
 adroit            [ə'drɔit]             a.  熟练的,敏捷的
+aerobic           [eə'rəubik]           a.  增氧健身法的; [pl.  ]n.  有氧运动
 affable           ['æfəbl]              a.  和蔼可亲的,友善的,殷勤的
 affinity          [ə'finiti]            n.  密切关系,强烈的吸引力
 afflict           [ə'flikt]             vt.  使痛苦,折磨
@@ -44,7 +54,10 @@ agile             ['ædʒail]             a.  敏捷的,灵活的,轻快的
 agility           [ə'dʒiləti]           n.  敏捷,灵活,轻快
 agonize           ['ægənaiz]            vt.  使苦恼,折磨vi.  感到痛苦
 agrarian          [ə'grεəriən]          a.  有关土地的,耕地的
+alchemist         ['ælkəmist]           n.  炼金术士
+alga              ['ælgə]               n. [pl.  algae]藻类，海藻
 alkali            ['ælkəlai]            n.  碱
+allay             [ə'lei]               vt.  减轻，减少
 allegiance        [ə'li:dʒəns]          n.  忠贞,效忠
 allegory          ['æligəri]            n.  寓言
 altruism          ['æltru'izəm]         n.  利他主义,利他
@@ -53,12 +66,17 @@ amalgamate        [ə'mælgəmeit]         vt. vi.  使与汞混合,合并
 amazed            [ə'meizd]             a.  吃惊的,惊奇的
 amenable          [ə'mi:nəbl]           a.  应服从的,会接纳的,肯服从的,有义务的
 amicable          ['æmikəbl]            a.  友善的,和平的
+amino             [ə'mi:nəu]            a.  氨基的
+ammonia           [ə'məuniə]            n.  氨，氨水
+anatomy           [ə'nætəmi]            n.  解剖构造; 解剖
 annihilate        [ə'naiəleit]          vt.  消灭,废止
 annotate          ['ænəuteit]           vt. vi.  注解,注释
+annoyed           [ə'nɔid]              a.  生气的
 annually          ['ænjuəli]            ad.  一年一次,每年
 annul             [ə'nʌl]               vt.  废除,宣告无效,取消
 anomalous         [ə'namələs]           a.  不规则的,反常的
 anomaly           [ə'nɔməli]            n.  不规则,异常的人或物
+anthropology      [`ænθrə'pɔlədʒi]      n.  人类学
 antiquity         [æn'tikwiti]          n.  古老,古代,古代的遗物
 antiseptic        [ænti'septik]         n.  杀菌剂,防腐剂a.  杀菌的,防腐的
 apathetic         [æpə'θetik]           a.  缺乏感情的,缺乏兴趣的,无动于衷的
@@ -67,19 +85,25 @@ apex              ['eipeks]             n.  顶,峰,绝顶
 apparel           [ə'pærəl]             n.  衣服,装具vt.  使穿衣,装饰
 apprehend         ['æpri'hend]          vt.  理解,忧虑,逮捕vi.  理解
 apprehension      ['æpri'henʃən]        n.  理解,忧惧,逮捕
+aquarium          [ə'kweəriəm]          n.  养鱼池; 水族馆
+aquatic           [ə'kwætik]            a.  水生的; 水中(上)的
 arable            ['ærəbl]              a.  适于耕种的,可耕的
 arbitrator        ['ɑ:bitreitə]         n.  仲裁人,公断者
+archaeology       [`ɑ:ki'ɔlədʒi]        n.  考古学
 archaic           [a:'keik]             a.  已废的,古老的,古代的
 ardor             ['ardə]               n.  热心,热情
 arduous           ['a:djuəs]            a.  费力的,辛勤的,险峻的
 arid              ['ærid]               a.  干燥的,不毛的
 aroma             [ə'roumə]             n.  浓香,香气
+artisan           [`ɑ:ti'zæn;  US 'ɑ:rt n.  工匠，手艺人
+ascending         [ə'sendiŋ]            a.  上升的，向上的
 ascent            [ə'sent]              n.  上升,上坡路
 ascetic           [ə'setik]             n.  禁欲者,修道者a.  修道的,苦己的,苦行
 asperse           [əs'pə:s]             vt.  洒水,中伤,诽谤
 aspersion         [əs'pə:ʒən]           n.  洒水,诽谤,中伤
 assiduous         [ə'sidjuəs]           a.  勤勉的,刻苦的
 assuage           [ə'sweidʒ]            vt.  缓和,减轻,镇定
+asteroid          ['æstərɔid]           n.  小行星
 astonished        [ə'stɔniʃt]           adj.  惊异
 astound           [əs'taund]            vt.  使惊骇,使大吃一惊
 astute            [əs'tju:t]            a.  机敏的,狡猾的
@@ -98,6 +122,8 @@ aviator           ['eivieitə]           n.  飞行员,飞行家
 avid              ['ævid]               a.  热望的,急切的,贪婪的
 avow              [ə'vəu]               vt.  声明,承认,招认
 baby-sit          ['beibi,sit]          vi.  担任临时保姆,照顾婴儿
+Babylonian        [`bæbi'ləunjən]       a.  巴比伦的
+backlighting      ['bæklaitiŋ]          n.  逆光
 balk              [bɔ:k]                n.  障碍,错误,失败vt.  阻止,突然停止,退缩vi.  逡巡不前
 balmy             ['ba:mi]              a.  芳香的,温和的,止痛的
 bandit            ['bændit]             n.  强盗
@@ -108,6 +134,7 @@ barter            ['ba:tə]              n.  物物交换,实物交易vt. vi.  �
 bashful           ['bæʃful]             a.  害羞的
 bask              [bæ:sk]               vi.  晒太阳,舒适
 baste             [beist]               vt.  假缝,润以油脂,涂以奶油,狠揍
+beaver            ['bi:və(r)]           n.  海狸
 becoming          [bi'kʌmiŋ]            a.  合适的,适当的
 befuddle          [bi'fʌdl]             vt.  使昏迷,使迷惑,使迷糊
 beget             [bi'get]              vt.  招致,产生,引起
@@ -126,47 +153,80 @@ bestow            [bi'stəu]             vt.  授予,适用,留宿,放置,使用
 bicker            ['bikə]               vi.  斗嘴,潺潺而流,闪动n.  口角,流水声
 bidding           ['bidiŋ]              n.  命令,邀请,出价
 bigoted           ['bigətid]            a.  固执己见的,执迷的,顽固的
+bison             ['baisn]              n.  美洲或欧洲的野牛
 bland             [blænd]               a.  温和的,乏味的,冷漠的
 blemish           ['blemiʃ]             n.  污点,缺点vt.  弄脏,玷污,损害
 blessed           ['blesid]             a.  受祝福的
+blip              [blip]                n.  雷达上显示的点
 bliss             [blis]                n.  福佑,天赐的福
+blizzard          ['blizəd]             n.  大风雪
+bog               [bɔg]                 n.  沼泽
 bombastic         [bɔm'bæstik]          a.  夸大的,夸夸其谈的
 bonanza           [bou'nænzə]           n.  富矿带,带来好运的事物,幸运
 boon              [bu:n]                n.  恩惠
 boredom           ['bɔ:dəm]             n.  厌烦,厌倦,令人厌烦的事物
+boulder           ['bəuldə(r)]          n.  大石头
 boundless         ['baundlis]           a.  无限的,无边无际的
 brawl             [brɔ:l]               n.  争吵vi.  争吵,哗哗地流水
 brim              [brim]                n.  边,边缘,(河)边vt.  注满,使满溢vi.  满溢
 brittle           ['britl]              a.  易碎的,脆弱的,易坏的
 budge             [bʌdʒ]                vi.  移动,微微一动vt.  推动n.  羔皮
+burgeon           ['bə:dʒən]            vi.  迅速成长，发展
 burning           ['bə:niŋ]             a.  燃的,烧的,象燃烧一样的n.  烧,燃烧
 burnish           ['bə:niʃ]             vt.  磨,打磨,磨光vi.  磨光发亮n.  光辉,光泽
+burrow            ['bʌrəu]              vi.  挖地洞; n.  洞穴
 byword            ['baiwə:d]            n.  谚语,格言,笑柄
+cactus            ['kæktəs]             n. [pl.  cacti]仙人掌
 calamity          [kə'læmiti]           n.  灾难,不幸事件
+calculus          ['kælkjuləs]          n.  微积分学; 结石
 caliber           ['kæləbə]             n.  口径,才干,器量
+camouflage        ['kæməflɑ:ʒ]          n. v.  掩饰，伪装
+cannibalism       ['kænibəlizəm]        n.  嗜食同类
 canny             ['kæni]               a.  精明的,谨慎的
+canopy            ['kænəpi]             n.  天篷，遮篷
+canyon            ['kænjən]             n.  峡谷
 capacious         [kə'peiʃəs]           a.  容积大的,广阔的,宽敞的
 captivate         ['kæpti'veit]         vt.  迷住,迷惑
 captivity         [kæp'tiviti]          n.  囚禁,被关
+cardiac           ['kɑ:diæk]            a.  心脏的，心脏病的
+caribou           ['kæribu:]            n.  北美产驯鹿
 carnage           ['ka:nidʒ]            n.  大屠杀,残杀
 carnal            ['karnəl]             a.  肉体的,肉欲的
+carnivore         ['kɑ:nivɔ:]           n.  肉食动物
+carp              [kɑ:p]                n.  鲤鱼
+cartilage         ['kɑ:tilidʒ]          n.  【解剖】软骨
+cascade           [kæs'keid]            n.  小瀑布
+cascara           [kæ'skɑ:rə]           n.  缓泻剂
+cassette          [kə'set]              n.  盒式录音(或录像)带
 castigate         ['kæstigeit]          vt.  惩罚,苛评,修订
 cataclysm         ['kætə'klizəm]        n.  大洪水,地震,(社会政治的)大变动
+catalyst          ['kætəlist]           n.  催化剂
 catching          ['kætʃiŋ]             a.  易传染的,有魅力的,迷人的
 categorical       [kætə'gɑ:ikl]         a.  属于范畴的,绝对的,明确的
+caterpillar       ['kætəpilə]           n.  毛虫，蝴蝶的幼虫
 caustic           ['kɔ:stik]            n.  腐蚀剂a.  腐蚀性的
 cavern            ['kævən]              n.  巨穴,洞窟vt.  放于山洞中,挖空
 ceaseless         ['si:slis]            a.  不停的,不断的
+celebrated        ['selibreitid]        a.  著名的; 有名的
 celestial         [si'lestjəl]          a.  天的,天国的,天空的
 censure           ['senʃə]              n.  责难vt.  非难,指责
+centennial        [sen'teniəl]          n.  百年纪念
 ceremonious       [seri'mounjəs]        a.  讲究仪式的,隆重的
 chafe             [tʃeif]               n.  擦伤,气恼vt. vi.  摩擦,擦痛,激怒
+charcoal          ['tʃɑ:kəul]           n.  木炭
 charisma          [kə'rizmə]            n.  非凡的领导力,教祖般的指导力,神授的能力
 chary             ['tʃæri]              a.  细心的,吝啬的,谨慎的
 chaste            [tʃeist]              a.  贞洁的,纯洁的,朴素的
+checked           [tʃekt]               a.  格子花纹的; 棋盘状的
 chide             [tʃaid]               vt. vi.  斥责,责骂
 chiefly           ['tʃi:fli]            ad.  主要地
+chilled           [tʃild]               a.  冷冻的
+chimpanzee        [`tʃimpən'zi:]        n.  黑猩猩
 chirp             [tʃə:p]               n.  喳喳声,唧唧声vt. vi.  吱喳而鸣
+chlorine          ['klɔ:ri:n]           n.  【化】氯
+choreographer     [`kɔri'ɔgrəfə;  US `k n.  舞蹈指导
+chromosome        ['krəuməsəum]         n.  染色体
+chronical         ['krɔnikl]            a.  慢性的，延续很长的
 chuckle           ['tʃʌkl]              n.  吃吃的笑声,轻笑vi.  吃吃的笑,咯咯叫
 cipher            ['saifə]              n.  零,暗号,阿拉伯数字,无用的东西,密码vt. vi.  计算,做算术
 circuitous        [sə'kju:itəs]         a.  迂回的路的,迂曲的,绕行的
@@ -174,20 +234,27 @@ circumference     [sə'kʌmfərəns]        n.  圆周,周围,胸围
 circumscribe      [sə:kəm'skraib]       vt.  在. . . 周围画线,限制
 circumspect       ['sə:kəmspekt]        a.  细心的,慎重的
 circumvent        [sə:kəm'vent]         vt.  绕行,陷害,包围,智取
+clam              [klæm]                n.  蛤
 clamor            ['klæmə]              n.  喧闹,叫嚷,大声的要求vi. vt.  喧嚷,大声的要求
 clandestine       [klæn'destin]         a.  秘密的
 cleft             [kleft]               n.  裂缝,裂口a.  劈开的vbl.  劈开,分开
 clinch            [klintʃ]              n.  钉牢vt. vi.  敲弯,扭住
+clipper           ['klipə]              n.  快速帆船
 clot              [klɔt]                n.  凝块,群vt. vi.  (使)凝结,(使)聚集
+clump             [klʌmp]               n.  土块; vi.  丛生，成群
 clutter           ['klʌtə]              n.  杂乱vt.  弄乱,混乱
 coax              [kəuks]               vt.  哄,诱骗,慢慢的做好vi.  哄骗n.  哄骗
 coddle            ['kɔdl]               vt.  娇养,溺爱,煮蛋n.  娇生惯养的人,宝贝子弟,娇养衃⒌娜?
 cogent            ['kəudʒənt]           a.  使人首肯的,使人信服的,切实的
 cohere            [kəu'hir]             vi.  附着,粘着,凝聚,符合
+collaborator      [kə'læbəreitə]        n.  合作者
 collateral        [kə'lætərəl]          a.  并行的,附随的,旁系的n.  支亲,副保,附属担保物
+collectively      [kə'lektivli]         adv.  全体地，共同地
 colloquial        [kə'loukwiəl]         a.  白话的,口语的,语体的
 colossal          [kə'lɔsl]             a.  巨大的,巨像似的
+combustible       [kəm'bʌstəbl]         a.  可燃的，易燃的
 commodious        [kə'moudjəs]          a.  宽敞的,方便的
+communal          ['kɔmjunl]            a.  公共的; 社区的
 composed          [kəm'pəuzd]           a.  镇静的,沉着的
 composure         [kəm'pəuʒə]           n.  镇静,沉着
 compulsive        [kəm'pʌlsiv]          a.  强制的,强迫的
@@ -197,45 +264,70 @@ concur            [kən'kə:]             vi.  意见相同,一致,互助
 concurrence       [kən'kʌrəns]          n.  赞同,意见一致,协力
 condiment         ['kɔndimənt]          n.  调味品
 condone           [kən'dəun]            vt.  赦,宽恕
+conductivity      [`kɔndʌk'tiviti]      n.  传导性
 cone              [kəun]                n.  圆锥体,球果vt.  使成锥形
+confederacy       [kən'fedərəsi]        n.  联盟
 confiscate        ['kɔnfiskeit]         vt.  没收,充公,查抄a.  被没收的
 confound          [kən'faund]           vt.  使混淆,使狼狈,挫败
 congenial         [kən'dʒi:njəl]        a.  同性质的,适意的,趣味相同的
 congested         [kən'dʒestid]         a.  拥挤的
+congestion        [kən'dʒestʃn]         n.  拥塞
 congressman       ['kɔŋgresmən]         n.  国会议员,众议院议员
 congruity         [kən'gruəti]          n.  适合,一致,调和
 conjure           ['kʌndʒə,kən'dʒuə]    vt.  以咒文召唤,变戏法,想象vi.  变戏法,施魔法vt.  祈求,恳求
 connivance        [kə'naivəns]          n.  默许,纵容,假装不见
 connive           [kə'naiv]             vi.  假装不见,默许,共谋,纵容
 connoisseur       [kɔ:ni'sə:]           n.  鉴识家,鉴定家,内行
+consciously       ['kɔnʃəsli]           adv.  有意识地，自觉地
 consecrate        ['kɔnsikreit]         vt.  供神用,奉献,使神圣a.  被献给神的,神圣的
 conservatory      [kən'sə:vətouri]      a.  保存性的,有保存力的n.  温室,音乐学校
+consistently      [kən'sistəntli]       adv.  一贯地
+consonant         ['kɔnsənənt]          a.  协调的
 consort           ['kɔnsɔ:t,kən'sɔ:t]   n.  配偶,夫妻vi.  陪伴,结交,符合vt.  使配对
+constantly        ['kɔnstəntli]         adv.  不断地，坚持不懈地; 经常地
 constellation     ['kɔnstə'leiʃən]      n.  星座,灿烂的一群
 constrict         [kən'strikt]          vt.  压缩,束紧,使收缩vi.  压缩
+constricted       [kən'striktid]        a.  狭窄的; 收缩的
 construe          [kən'stru:]           vt.  解释,分析,逐字翻译vi.  作句法分析n.  逐字翻译
 contemn           [kən'tem]             vt.  侮辱,蔑视
 contemptuous      [kən'temptjuəs]       a.  轻蔑的,侮辱的,瞧不起人的
 continually       [kən'tinjuəli]        ad.  不断地,频繁地
+continuum         [kən'tinjuəm]         n.  连续统一体
 contour           ['kɔntuə]             n.  轮廓vt.  画轮廓a.  与轮廓相符的
 contravene        ['kɔntrə'vi:n]        vt.  1 违反,违背,冒犯 <习惯、法律等>2 a.  反驳,反对 <议论、陈述等>
 contrite          ['kɔntrait]           a.  悔悟了的,后悔的,痛悔的
 controvert        ['kɔntrə'və:t]        vt.  议论,辩驳,驳击vi.  参加辩论
+convection        [kən'vekʃn]           n.  对流; 传送
+corona            [kə'rəunə]            n.  日冕，光环
 corpulent         ['kə:pjulənt]         a.  肥大的,肥胖的
 corroborate       [kə'rɔbəreit]         vt.  使坚固,确证
+corrosive         [kə'rəusiv]           a.  腐蚀(性)的
+counseling        ['kaunsəliŋ]          n.  咨询服务
 countless         ['kauntlis]           a.  数不尽的,无数的
 courteous         ['kə:tjəs]            a.  彬彬有礼,谦恭的
 covetous          ['kʌvətəs]            a.  妄羡的,乱要的,贪婪的
 cower             ['kauə]               vi.  畏缩,退缩,抖缩
 crafty            ['kra:fti]            a.  狡诈的,诡计多端的,巧妙的
+cramped           ['kræmpt]             a.  (指空间)狭小的，狭窄的
+crater            ['kreitə]             n.  火山口; (弹)坑
+creativity        [`kri:ei'tiviti]      n.  创造(力)
 credulous         ['kredjuləs]          a.  轻信的,易被瞒的,易受骗的
 creed             [kri:d]               n.  教条,主义,纲领
 creek             [kri:k]               n.  小溪,小湾
+crest             [krest]               n.  顶部
 crevice           ['krevis]             n.  裂缝
+crippling         ['kripliŋ]            a.  令人震惊的
+crisscross        ['kriskrɔs;  US -krɔ: vt.  交叉往来
+critique          [kri'ti:k]            n.  批评，评论
 crooked           ['krukid]             a.  弯曲的,歪的,邪恶的
 crumple           ['krʌmpl]             vt.  弄皱,压皱vi.  崩溃,变皱
+crusade           [kru:'seid]           n.  十字军(远征); 运动; v.  加入十字军，投身正义运动
+crustacean        [krʌ'steiʃn]          n.  甲壳类动物
 cryptic           ['kriptik]            a.  秘密的,神秘的,含义模糊的,隐藏的
 culpable          ['kʌlpəbl]            a.  该责备的,有罪的,不周到的
+cultivated        ['kʌltiveitid]        a.  栽植的; 有修养的
+cumbersome        ['kʌmbəsəm]           a.  笨重的; 麻烦的
+cuneiform         ['kju:nifɔ:m; US kju: a.  楔性的; n.  楔形文字
 cursory           ['kə:səri]            a.  匆匆忙忙的,草率的,粗略的
 curt              [kə:t]                a.  简略的,简短的,生硬的
 dab               [dæb]                 n.  少量,轻拍,比目鱼,熟手vt. vi.  轻拍,轻擦
@@ -249,15 +341,21 @@ dazzling          ['dæzliŋ]             a.  眼花缭乱的,耀眼的
 debatable         [di'beitəbl]          a.  可争论的,成问题的,未决定的
 decadence         [di'kedns]            n.  颓废
 deceitful         [di'si:tful]          a.  欺诈的
+deciduous         [di'sidjuəs]          a.  每年落叶的
+decipher          [di'saifə(r)]         v.  破译，解释
 declaim           [di'kleim]            vi. vt.  巧辩,演讲,朗读
 declivity         [di'klivəti]          n.  倾斜,下坡
+decode            [`di:'kəud]           vt.  译解
+decompose         [`di:kəm'pəuz]        v.  分解; (使)腐烂
 decorum           [di'kɔ:rəm]           n.  端正,礼貌合宜,礼仪
 decry             [di'krai]             vt.  责难,诽谤,诋毁
 defame            [di'fem]              vt.  诽谤,中伤,破坏名誉
 deference         ['defərəs]            n.  顺从,尊重
 deferential       [defə'renʃəl]         a.  恭敬的
 defile            [di'fail]             vt.  弄脏,污损,败坏vi.  以纵队前进n.  隘路,狭谷
+definitive        [di'finətiv]          a.  确定的，最后的
 deflect           [di'flekt]            vt.  打歪,使偏斜vi.  偏斜
+deform            [di'fɔ:m]             v.  (使)变形
 defraud           [di'frɔ:d]            vt.  欺骗
 deft              [deft]                a.  敏捷熟练的,灵巧的
 defunct           [di'fʌŋkt]            a.  死的,非现存的n.  死者
@@ -266,12 +364,14 @@ dejected          [di'dʒektid]          a.  沮丧的,灰心的
 deleterious       ['delə'tiriəs]        a.  有害于,有毒的
 deliberately      [di'libəritli]        ad.  故意地
 delineate         [di'linieit]          vt.  描绘. . . 的轮廓,描绘,描写
+delta             ['deltə]              n.  (河流的)三角洲
 demise            [di'maiz]             n.  崩,薨,死亡vt.  让渡,遗赠,转让
 demolish          [di'mɔliʃ]            vt.  毁坏,破坏,粉碎
 demur             [di'mə:]              vi.  提出异议,反对,抗辩n.  异议,反对
 deprecate         ['deprikeit]          vt.  声明不赞成,抨击,反对
 derange           [di'reindʒ]           vt.  扰乱,使发狂
 deride            [di'raid]             vt.  嘲弄,嘲笑
+deserted          [di'zə:tid]           a.  荒废的; 无人的
 designing         [di'zainiŋ]           (U) 1 设计;  构思,图案2 阴谋 adj.  有计划的;  有阴谋的
 despicable        ['despikəbl]          a.  可鄙的,卑劣的
 despoil           [di'spɔil]            vt.  夺取,掠夺
@@ -283,12 +383,15 @@ devoid            [di'vɔid]             a.  全无的,缺乏的
 devoted           [di'vəutid]           a.  投入的,深爱的
 devout            [di'vaut]             a.  虔诚的,虔敬的,衷心的
 dexterous         ['dekstərəs]          a.  灵巧的,用右手的
+diagonal          [dai'ægənl]           a.  倾斜的; n.  斜线
 dictatorial       [diktə'tɔ:riəl]       a.  独裁者的,独裁的,独断的
+diction           ['dikʃən]             n.  措辞，用语
 dignified         ['dignifaid]          a.  有威严的,有品格的
 digress           [də'gres]             vi.  走向岔道,离题,扯到枝节上
 dilate            [dai'leit]            vi.  扩大,详述,膨胀vt.  使膨胀
 diminutive        [di'minjutiv]         a.  小的,小型的,指小的n.  小的人,指小辞,指小词,爱称
 dingy             ['diŋgi,'diŋdʒi]      a.  暗黑的,邋遢的
+disadvantage      [`disəd'vɑ:ntidʒ;  US n.  缺点; 不利
 disarming         [dis'ɑ:miŋ]           a.  似消除的,似解除警戒心的
 disarrange        ['disə'rendʒ]         vt.  扰乱,搅乱,弄乱
 disarray          ['disə're]            vt.  弄乱,使混乱,使脱去衣服n.  无秩序,杂乱,不整齐的衣服
@@ -320,7 +423,9 @@ distressed        [di'strest]           a.  哀伤的
 disunite          ['disju'nait]         vt.  使分离,不和
 diverge           [dai'və:dʒ]           vi.  分歧,岔开vt.  使岔开
 divergent         [dai'və:dʒənt]        a.  分歧的
+diversification   [dai`və:sifi'keiʃn]   n.  多样化
 divulge           [dai'vʌldʒ]           vt.  泄露,暴露
+documentation     [`dɔkjumen'teiʃn]     n.  文件
 dogmatic          [dɔg'mætik]           a.  教条的,独断的
 doleful           ['dəulful]            a.  悲哀的,寂寞的,阴沉的
 domineering       [-'niəriŋ]            adj.  盛气凌人的,跋扈的,作威作福的 adv.  ~ly
@@ -335,14 +440,18 @@ ductile           ['dʌktl]              a.  易延展的,柔软的,易教导的
 dungeon           ['dʌndʒən]            n.  地牢
 dusky             ['dʌski]              adj.  1 微暗的,暗淡的;  阴暗的2 (委婉语) (皮肤) 微黑的,带黑色的 ad
 dwindle           ['dwindl]             vi.  减少,缩小,衰落vt.  使缩小
+Easter            ['i:stə]              n.  复活节
 ebb               [eb]                  n.  退潮,衰退vi.  潮退,衰退
 economize         [i'kɔməmaiz]          vt. vi.  节约,节省,有效地利用
 ecstasy           ['ekstəsi]            n.  狂喜,心醉神迷,忘形
+edifice           ['edifis]             n.  高大的或宏伟的建筑物
 edify             ['edifai]             vt.  启迪,熏陶,教诲
 efface            [i'feis]              vt.  抹去,消除,忘却
 effectuate        [ə'fektʃu'et]         vt.  招致,实行,完成
 effuse            [e'fjuz]              vt. vi.  涌出,流出,泻出
 elation           [i'leʃən]             n.  得意洋洋,兴高采烈
+elliptical        [i'liptikl]           a.  椭圆的
+elm               [elm]                 n.  榆树
 elucidate         [i'lu:sideit]         vt.  阐明,说明
 elude             [i'lu:d]              vt.  逃避,规避,使困惑
 elusive           [i'lu:siv]            a.  难懂的,易忘的,难捉摸的
@@ -351,16 +460,23 @@ emaciated         [i'meiʃieitid]        a.  瘦弱的,衰弱的
 embalm            [im'bam]              vt.  以药物防腐,铭记于心,使不朽
 embellish         [im'bæliʃ]            vt.  修饰,装饰,润色
 embezzle          [im'bezl]             vt.  盗用,挪用
+emblem            ['embləm]             n.  徽章
 embroider         [im'brɔidə]           vt.  刺绣,镶边,装饰vi.  绣花
+embryo            ['embriəu]            n.  胚胎; 雏形
 emend             [i'mend]              vt.  修订,校勘
+emerald           ['emərəld]            n.  绿宝石
 empower           [im'pauə]             vt.  授予权力,允许,使能够
+encase            [in'keis]             vt.  包住
 enchant           [in'tʃa:nt]           vt.  施魔法,使迷惑
 encompass         [in'kʌmpəs]           vt.  (文语)1 围绕,包围2 包含,含有ɔ 造成 <坏的结果等>
 encroach          [in'kroutʃ]           vi.  侵犯,侵蚀,蚕食
 encumber          [in'kʌmbə]            vt.  妨害,阻害,拖累
+endangered        [in'deindʒəd]         a.  将要绝种的
 energize          ['enə'dʒaiz]          vt.  使活跃,给予精力
 enervate          ['enə'veit]           vt.  使衰弱a.  衰弱的,无力的
+engaging          [in'geidʒiŋ]          a.  迷人的
 engender          [in'dʒendə]           vt.  产生,引起vi.  发生,形成
+engraving         [in'greiviŋ]          n.  雕刻术; 版画
 engross           [in'grəus]            vt.  用大字体书写,独占,使全神贯注
 engrossed         [in'ɡrəust]           adj.  1 热衷的,着迷的2 热衷于,埋头于[in]
 engulf            [in'gʌlf]             vt.  卷入,吸进,使全神贯注,吞没,投入深渊
@@ -376,9 +492,12 @@ entitled          [in'taitld]           v.  给. . . 权力,给与标题,使有�
 entrap            [in'træp]             vt.  骗入,诱捕,使陷入
 enumerate         [i'nju:məreit]        vt.  列举,计算,枚举,数
 enunciate         [i'nʌnsieit]          vt.  明确地叙述,表明vi.  发音
+enzyme            ['enzaim]             n.  酶，酵素
+ephemeral         [i'femərəl]           a.  短暂的，转瞬即逝的
+epitomize         [i'pitəmaiz]          v.  成为…的缩影
 equilibrium       [i:kwi'libriəm]       n.  平衡,平静,均衡
-equivocate        [i'kwivəkeit]         vi.  说模棱两可的话,支吾
 equivocal         [i'kwivəkl]           a.  意义不明确的,模棱两可的
+equivocate        [i'kwivəkeit]         vi.  说模棱两可的话,支吾
 erratic           [i'rætik]             n.  古怪的人,漂泊无定的人a.  不稳定的,奇怪的
 eschew            [es'tʃu]              vt.  避开,远避
 estimable         ['estəməbl]           a.  可尊敬的,可估计的
@@ -389,6 +508,7 @@ exalted           [ig'zɔ:ltid]          a.  尊贵的,高位的,高尚的,兴�
 exasperate        [ig'za:spəreit]       vt.  使恼怒,激怒,恶化a.  恼怒的,激怒的,恶化的
 excavate          ['ekskəveit]          vt. vi.  挖,挖开,凿通
 exhale            ['eksheil,eg'zeil]    vt. vi.  呼气,发出,发散
+exhilarating      [ig'ziləreitiŋ]       a.  令人高兴的，使人兴奋的
 exhume            [eks'hju:m]           vt.  掘出,发掘
 exodus            ['eksədəs]            n.  大批的离去
 exorbitant        [ig'zɔ:bitənt]        a.  过度的,过高的,过分的
@@ -406,9 +526,11 @@ extricate         ['ekstrikeit]         vt.  使解脱,救出
 exude             [ik'sjud]             vt. vi.  (使)流出,(使)渗出
 exultant          [ig'zʌltnt]           a.  非常高兴的,欢跃的
 eyewitness        ['ai'witnis]          n.  目击者,见证人
+facade            [fə'sɑ:d]             n.  正面; 表面
 facetious         [fə'si:ʃəs]           a.  滑稽的,爱开玩笑的
 facile            ['fæsail]             a.  温和的,容易的,灵巧的
 factious          ['fækʃəs]             a.  好搞派系的,好捣乱的
+Fahrenheit        ['færənhait]          n.  华氏温度计
 fallible          ['fæləbl]             a.  易错的,可能犯错的
 famish            ['fæmiʃ]              vt.  使挨饿vi.  饥饿,挨饿
 fanatic           [fə'nætik]            n.  狂热,狂热者,盲信a.  狂热的,盲信的
@@ -417,35 +539,53 @@ farce             [fa:s]                n.  闹剧,滑稽剧,胡闹
 fatalism          ['fetl'izəm]          n.  宿命论
 fateful           ['feitful]            a.  宿命的,重大的,决定性的
 fatuous           ['fætjuəs]            a.  发呆的,愚笨的,自满的
+faucet            ['fɔ:sit]             n.  水龙头; 插口
+fauna             ['fɔ:nə]              n.  动物群
+favored           ['feivəd]             a.  有利的; 受优待的，首选的
 feign             [fein]                vt.  假装,装作vi.  作假
+ferment           [fə'ment]             vt.  使发酵
 fermentation      ['fə:men'teiʃn]       (U) 1 发酵 (作用) 2 骚动,人心的动摇,激动
 ferocious         [fə'rəuʃəs]           a.  残忍的,凶猛的
 ferret            ['ferit]              n.  白鼬,雪貂,侦探,细带vt.  用雪貂打猎,搜出,驱出vi.  搜索
+fertilize         ['fə:təlaiz]          v.  使…受精，受粉; 施肥
 fervent           ['fə:vənt]            a.  热的,炎热的,热心的
 fester            ['festə]              vi.  溃烂,生脓,生脓vt.  使溃烂n.  脓疮,溃烂
 fetter            ['fetə]               n.  脚镣,羁绊,束缚vt.  束缚,加脚镣
 feud              [fju:d]               n.  不和,封地,争执vi.  长期不和,长期争斗
+feudal            ['fju:dl]             a.  封建(制度)的
 fickle            ['fikl]               a.  变幻无常的,浮燥的,薄情的
 fictitious        [fik'tiʃəs]           a.  假想的,编造的,虚伪的
 fidelity          [fi'deliti]           n.  忠实,诚实,忠诚,保真度
 figment           ['figmənt]            n.  虚构的事
 figurehead        [figəhed]             n.  装饰船头的人像,破浪神,傀儡领袖
 filthy            ['filθi]              a.  污秽的,丑恶的
+fin               [fin]                 n.  鳍
 finch             [fintʃ]               n.  雀类
 fishy             ['fiʃi]               a.  鱼似的,多鱼的,腥臭的,呆滞的
 fitful            ['fitful]             a.  断断续续的,一阵阵的,间歇的
+fitness           ['fitnis]             n.  健康
 fitting           ['fitiŋ]              a.  适宜的n.  试穿,试衣,装配,装置
+flagellum         [flə'dʒeləm]          n. [pl.  flagella]鞭毛
+flake             [fleik]               n.  薄片; v.  使成薄片; 雪片般落下
+flask             [flɑ:sk;  US flæsk]   n.  细颈瓶
+flavoring         ['fleivəriŋ]          n.  调味(品、料)
 flay              [fle]                 vt.  剥皮,去皮,抢夺
 flicker           ['flikə]              n.  闪烁,闪光,颤动vi.  闪动,闪烁,摇动,扑动翅膀vt.  使摇曳,使闪烁
 flighty           ['flaiti]             a.  轻浮的,轻狂的,心情浮动的
 flimsy            ['flimzi]             a.  易坏的,脆弱的,浅薄的n.  薄纸,描图用薄纸,薄纸稿纸
+flint             [flint]               n.  燧石，打火石
 flora             ['flɔ:rə]             n.  植物群
 flounder          ['flaundə]            vi.  挣扎,折腾,挣扎着前进n.  挣扎,焦躁,辗转,比目鱼
 flout             [flaut]               vt.  嘲笑,愚弄vi.  表示轻蔑n.  嘲笑,愚弄,轻视
 fluffy            ['flʌfi]              a.  毛绒绒的,蓬松的,愚蠢的
 fluster           ['flʌstə]             n.  慌乱,狼狈,混乱,激动vt.  使酩醉,使慌张,使激动vi.  混乱
+flux              [flʌks]               n.  变迁
+foliage           ['fəuliidʒ]           n.  树叶; 植物
 foment            [fəu'ment]            vt.  热罨,煽动
+forage            ['fɔridʒ;  US 'fɔ:r-] n.  草料; v.  寻找
+forefront         ['fɔ:frʌnt]           n.  最前沿; 中心
 forerunner        ['fəur'rʌnə]          n.  先驱
+foreshorten       [fɔ:'ʃɔ:tn]           v.  (绘画中)按照透视法缩短
 forestall         [fɔ:'stɔ:l]           vt.  先. . . 一步行动,占先一步,垄断,阻碍
 forlorn           [fə'lɔ:n]             a.  孤独的,悲惨的,凄凉的
 forsake           [fə'seik]             vt.  放弃,断念,抛弃
@@ -458,12 +598,15 @@ fowl              [faul]                n.  鸟,飞禽,家禽vi.  打鸟
 frail             [freil]               a.  脆弱的,虚弱的,意志薄弱的n.  灯心草篓
 fraternal         [frə'tə:nl]           a.  兄弟的,兄弟似的,友爱的
 fraught           [frɔ:t]               a.  含有. . . 的,伴着. . . 的,充满. . . 的
+fray              [frei]                vi.  磨(损、破)
 frenzy            ['frenzi]             n.  狂暴,狂怒
+fresco            ['freskəu]            n.  壁画
 fret              [fret]                n.  烦躁,磨损,焦急,网状饰物vi.  烦恼,不满,磨损vt.  使烦恼,腐蚀,使
 frigid            ['fridʒid]            a.  寒冷的,严寒的,冷淡的
 frowzy            ['frauzi]             a.  不整洁的,有臭味的,很闷的
 frugal            ['fru:gəl]            a.  节俭的,朴素的
 fulminate         ['fʌlmə'net]          vt.  使爆发,以严词谴责vi.  爆炸,怒喝,电闪n.  雷酸盐,雷汞
+fungus            ['fʌŋgəs]             n. [pl.  fungi]真菌，菌类植物
 fussy             ['fʌsi]               a.  爱挑剔的,难取悦的,易烦恼的
 fuzzy             ['fʌzi]               a.  有微毛的,失真的,模糊的
 gabble            ['gæbl]               vi.  七嘴八嘴地说,喋喋不休地说vt.  急促地说n.  急促讲出而叫人听不
@@ -471,13 +614,18 @@ gainful           ['geinful]            a.  有利益的,唯利是图的
 gainsay           [gein'sei]            vt.  否定,反驳
 gale              [geil]                n.  狂风,大风,定期租金
 gallant           ['gælənt]             a.  英勇的,壮丽的,华丽的
+gallop            ['gæləp]              v.  (马)飞奔; 疾驰
 garb              [ga:b]                n.  打扮,装束vt.  打扮,穿衣
 garner            ['garnə]              n.  谷仓,积蓄vt.  储存,贮藏
 garnish           ['ga:niʃ]             n.  装饰,装饰品vt.  装饰
+gaseous           ['gæsiəs]             a.  (含)气体的，气态的
 gash              [gæʃ]                 n.  砍得很深的伤口,很深的裂缝vt. vi.  (使)负深伤,划开,砍入很深
 gauche            [gəuʃ]                a.  笨拙的,粗鲁的,无礼的
 gem               [dʒem]                n.  珠宝,宝石,珍贵之物vt.  饰以宝石
+gemstone          ['dʒem`stəun]         n.  经雕琢的宝石
 generously        ['dʒenərəsli]         adv.  1 慷慨地,大方地,不吝啬地2 [修饰整句] (真) 宽大ɔ 丰富地
+genesis           ['dʒenəsis]           n.  起源
+genetics          [dʒi'netiks]          n.  遗传学
 genial            ['dʒi:njəl]           a.  和蔼的,亲切的,友善的
 genteel           [dʒen'ti:l]           a.  有教养的,上流的,优雅的
 gentility         [dʒen'tiləti]         (U) 假充上流,假装文雅;  假派头
@@ -485,25 +633,44 @@ gentry            ['dʒentri]            n.  贵族们
 germinate         ['dʒə:mineit]         vi.  发芽,萌芽,开始发育vt.  使发芽,使发达
 gibe              [dʒaib]               vt. vi.  嘲笑n.  嘲笑
 gild              [gild]                vt.  镀金,虚饰,装饰,使有钱
+gin               [dʒin]                n.  轧棉机
+giraffe           [dʒi'rɑ:f;  US dʒə'ræ n.  长颈鹿
+girder            ['gə:də(r)]           n.  大梁
 girdle            ['gə:dl]              n.  腰带,围绕物vt.  以腰带束缚,围绕
 gist              [dʒist]               n.  要点,要旨,依据
+glacial           ['gleisiəl;  US 'glei a.  冰期的; 冰河时代的
 glaring           ['glεəriŋ]            a.  闪耀的,炫目的,瞪视的
 glaze             [gleiz]               n.  釉,上光,光滑面vt.  装以玻璃,上釉于vi.  变成为光滑,变呆滞
 glean             [gli:n]               vt. vi.  拾落穗,收集
 gleeful           ['gli:fl]             a.  愉快的
+glorify           ['glɔ:rifai]          v.  美化; 赞扬
 glossy            ['glɔsi]              a.  平滑的,有光泽的
 gnaw              [nɔ:]                 vt. vi.  咬,啃,侵蚀,折磨
+gorilla           [gə'rilə]             n.  大猩猩
+Gothic            ['gɔθik]              a.  哥特式的
+gourd             [guəd]                n.  葫芦
+gradient          ['greidiənt]          n.  梯度
+grading           ['greidiŋ]            n.  评分; 等级
+granite           ['grænit]             n.  花岗岩
+granular          ['grænjulə(r)]        a.  粒状的
+grasshopper       ['grɑ:shɔpə(r);  US ' n.  蚂蚱，蝗虫
 gratify           ['grætifai]           vt.  使满足
 gratuitous        [grə'tjuitəs]         a.  免费的,无理由的
+gravel            ['grævl]              n.  沙砾，砾石
+gravitational     [`grævi'teiʃənəl]     a.  重力的，万有引力的
+grazing           ['greiziŋ]            n.  放牧; 牧草
 gregarious        [gre'gεəriəs]         a.  社交的,群居的
 grievance         ['gri:vəns]           n.  委屈,冤情,苦况
 grieved           [gri:vd]              adj.  忧伤
+grimly            ['grimli]             adv.  冷酷地
+groom             [gru:m]               v.  (动物)将…的皮毛弄干净; 使做好准备
 grouchy           ['grautʃi]            a.  不高兴的,不平的
 grudge            [grʌdʒ]               n.  怨恨,恶意vt.  怀恨,嫉妒,吝惜
 grumble           ['grʌmbl]             n.  怨言,满腹牢骚vi. 呻吟,抱怨,发牢骚vt.  喃喃地说出
 grumpy            ['grʌmpi]             a.  性情乖戾的,脾气暴躁的
 guileless         [gailis]              a.  不狡猾的,诚实的
 guise             [gaiz]                n.  外观,伪装vt. vi.  伪装
+gull              [gʌl]                 n.  鸥，海鸥
 gush              [gʌʃ]                 n.  涌出,滔滔不绝的讲话vi. vt.  涌出,迸出,滔滔不绝的讲话
 habitually        [hə'bitjuəli]         adv.  习惯地
 hackneyed         ['hæknid]             a.  不新奇的,常见的,陈腐的
@@ -514,24 +681,39 @@ harry             ['hæri]               vt.  掠夺,使苦恼,骚扰,折磨,侵
 hatchet           ['hætʃit]             n.  斧头,手斧,战斧
 haughty           ['hɔ:ti]              a.  傲慢的,骄傲的,不逊的
 headstrong        ['hedstrɔ:ŋ]          a.  顽固的,刚愎的,任性的
+healing           ['hi:liŋ]             a.  有治疗功用的
 hearsay           ['hiəsei]             n.  风闻,传闻a.  传闻的
+heed              [hi:d]                n.  注意; 留心
 heedless          ['hi:dlis]            a.  不注意的,不留心的,不谨慎的
 heirship          ['εəʃip]              (U) 继承人之地位[权利]
 heredity          [hi'rediti]           n.  遗传,形质遗传
 heresy            ['herəsi]             n.  异端,异教
 hew               [hju]                 vt.  砍,砍倒,砍成vi.  砍,劈,坚持
 hideous           ['hidiəs]             a.  丑恶的,可憎的,可怕的
+hieratic          [haiə'rætik]          a.  僧侣的，僧侣用的
+hieroglyph        ['haiərəglif]         n.  象形文字
 hilarious         [hə'leriəs]           a.  喜不自禁的,欢闹的,愉快的
 hilarity          [hə'lærəti]           n.  欢闹的心情,欢喜,高兴
+hind              [haind]               a.  (成对的事物)后面的，在后的
+hinterland        ['hintəlænd]          n.  内地，腹地; 内地贸易区
 hoarse            [hɔ:s]                a.  沙哑的,嘶哑的,刺耳的
 hoax              [həuks]               vt.  欺骗,哄骗,愚弄n.  愚弄人,恶作剧
 holocaust         ['hɔləkɔ:st]          n.  烧全兽的祭
 homage            ['hɔmidʒ]             n.  尊崇,尊敬,效忠
+homestead         ['həumsted]           n.  家园; 田产
 homicide          ['hɔmisaid]           n.  杀人,杀人者
+homing            ['həumiŋ]             a.  有自远处返回原地的本能的
+hominid           ['hɔminid]            n. a.  原始人类(的)
+hormone           ['hɔ:məun]            n.  激素; 荷尔蒙
 hubbub            ['hʌbʌb]              n.  吵闹声,叫嚷声,呐喊声
+hue               [hju:]                n.  颜色; 类型
+hummingbird       ['hʌmiŋbə:d]          n.  蜂鸟
 hump              [hʌmp]                n.  圆形隆起物,瘤vi.  隆起成圆丘形,弓起,努力vt.  使弓起,使努力干
 husbandry         ['hʌzbəndri]          n.  农事,耕作,家政
 hustle            ['hʌsl]               n.  急速活动,挤,推,拥挤喧嚷vt.  乱挤活动,硬逼,强夺vi.  硬挤过去
+hydrothermal      [`haidrə'θə:məl]      a.  热液的
+hypothesize       [hai'pɔθəsaiz]        vt.  假定; 假设
+idealize          [ai'diəlaiz]          v.  理想化
 idiocy            ['idiəsi]             n.  白痴,白痴的行为
 idiosyncrasy      ['idiə'sinkrəsi]      n.  特质,特性
 idyllic           [ai'dilik]            a.  田园诗的,牧歌的,悠闲的
@@ -540,10 +722,13 @@ ignominious       [ignə'miniəs]         a.  可耻的,不名誉的,下流的
 illegible         [i'ledʒəbl]           a.  难辨认的,字迹模糊的
 illegitimate      [ili'dʒitiimit]       a.  不法的,非嫡出的,不符合习惯的,不合理的,庶生的n.  非嫡出子,庶子v
 illustrious       [i'lʌstriəs]          a.  著名的,辉煌的,明亮的
+imagist           ['imədʒist]           a.  意象派的; n.  意象派诗人
 imbibe            [im'baib]             vt.  饮,吸取,吸入vi.  喝,吸收水分
 imbue             [im'bju]              vt.  使感染,使蒙受,鼓吹
+immature          [`imə'tjuə;  US -tuər a.  未成熟的
 immobile          [i'moubail]           a.  不动的,不变的,固定的,静止的
 immortal          [i'mɔ:tl]             n.  不朽的人物a.  永远的,不死的,神的
+immutable         [i'mju:təbl]          a.  不变的
 impale            [im'pel]              vt.  刺穿,使绝望,钉住
 impartial         [im'pa:ʃəl]           a.  公平的,不偏不倚的
 impassioned       [im'pæʃənd]           a.  感激的,狂热的,热烈的
@@ -551,6 +736,9 @@ impassive         [im'pæsiv]            a.  无感情的,冷淡的,不动的,�
 impeach           [im'pi:tʃ]            vt.  存疑,归咎,弹劾,检举,怀疑
 impeccable        [im'pekəbl]           a.  无懈可击的,无缺点的,无瑕疵的,不会做坏事的
 impel             [im'pel]              vt.  推动,激励,驱使,逼迫
+impending         [im'pendiŋ]           a.  即将发生的，迫近的
+impermeable       [im'pə:miəbl]         a.  不可渗透的，不透水的
+impersonal        [im'pə:sənl]          a.  冷淡的; 客观的
 impertinent       [im'pə:tnənt]         a.  鲁莽的,无礼的,粗鲁的,不恰当的
 impervious        [im'pə:viəs]          a.  透不过的,不渗透的,无动于衷的,不受影响的
 impetuous         [im'petjuəs]          a.  冲动的,猛烈的,轻率的,急躁的
@@ -558,6 +746,7 @@ implicate         ['implikeit]          vt.  含意,暗示,牵连n.  包含的�
 impotence         ['impətəns]           n.  无力,虚弱,无效,阳萎
 impressionism     [im'preʃən'izəm]      n.  印象主义,印象派,印象批评
 impressively      [im'presivli]         adv.  令人难忘地
+imprint           [im'print]            vt.  铭记，牢记; n.  印记，印痕
 impropriety       ['imprə'praiəti]      n.  不适当,不得体,不正当的行为,用词不当
 improvident       [im'prɔvidənt]        a.  无远见的,浪费的
 improvise         ['imprəvaiz]          vt.  即席写作,即席即兴,即席而作
@@ -567,9 +756,16 @@ impunity          [im'pju:niti]         n.  不受惩罚,无事,无患
 impure            [im'pjuə]             a.  不纯的,肮脏的,掺杂的,混合的
 impurity          [im'pjuəriti]         n.  杂质,不洁,不纯
 impute            [im'pju:t]            vt.  归罪,使负责,嫁祸于
+inactivate        [in'æktiveit]         vt.  使不活动，使不活跃
+inactive          [in'æktiv]            a.  不活动的; 怠惰的
+inanimate         [in'ænimət]           a.  无生命的; 无生气的
+inanity           [i'nænəti]            n.  空虚
 incapacitate      ['inkə'pæsə'tet]      vt.  使无能力,使不能胜任,使不适当
 incense           ['insens,in'sens]     n.  香,香气,奉承vi.  焚香vt.  用香焚,使发怒
+inception         [in'sepʃn]            n.  开端，开始
 incessant         [in'sesnt]            a.  不断的,不绝的,无尽的
+incessantly       [in'sesntli]          adv.  不断地
+incinerate        [in'sinəreit]         v.  焚化
 incipient         [in'sipiənt]          a.  起初的,发端的,初期的
 incisive          [in'saisiv]           a.  敏锐的,机敏的,锋利的,切入的,激烈的
 incite            [in'sait]             vt.  刺激,激励,引诱
@@ -579,44 +775,63 @@ incompetent       [in'kɔmpitənt]        a.  无能力的,无力的,不适当�
 inconceivable     ['inkən'si:vəbl]      a.  不能想像的,想不到的,难信的
 incongruity       ['inkaŋ'gruəti]       n.  不调和,不一致,不配合
 incongruous       [in'kɔŋgruəs]         a.  不协调的,不一致的,前后不一的
+inconspicuous     [`iŋkən'spikjuəs]     a.  不显眼的
+inconvenient      [`iŋkən'vi:niənt]     a.  不便的; 让人不舒服的
 incorruptible     [inkə'rʌptəbl]        a.  不腐败的,不能收买的,清廉的
 incredulity       ['inkrə'djuləti]      n.  不易相信,深疑,怀疑心
 incriminate       [in'krimə'net]        vt.  归罪,使负罪,控告
+incubate          ['iŋkjubeit]          v.  孵卵
+incursion         [in'kə:ʃn;  US -ʒn]   n.  袭击，入侵
 indecent          [in'di:snt]           a.  下流的,不妥当的
 indefatigable     ['indi'fætigəbl]      a.  不知疲倦的,有耐性的,不屈不挠的
 indemnity         [in'demnəti]          n.  赔偿,补偿,保护
 indent            [in'dent]             n.  契约,订货单,凹痕vi.  切割成锯齿状vt.  缩排,定货,印凹痕n.  缩进
 indigent          ['indidʒənt]          a.  贫乏的,穷困的
+indigestion       [`indi'dʒestʃən]      n.  消化不良
 indignity         [in'digniti]          n.  侮辱
 indolent          ['indələnt]           a.  懒惰的,不痛的
 indomitable       [in'dɔmitəbl]         a.  不屈服的,不屈不挠的
 ineligible        [in'elidʒəbl]         a.  无被选任资格的,不适任的,不适当的n.  无被选任资格的人,不合录用
 inept             [in'ept]              a.  不适当的,无能的,笨拙的
 inert             [i'nə:t]              a.  惰性的,迟钝的,无活力的,呆滞的
+inevitably        [in'evitəbli]         adv.  不可避免地，必然地
 infallible        [in'fæləbl]           a.  绝无错误的,绝对可靠的n.  一贯正确的人
 infamous          ['infəməs]            a.  无耻的,不名誉的,声名狼藉的
+infancy           ['infənsi]            n.  幼年; (发展或生长的)初期
+inflammation      [`inflə'meiʃn]        n.  【医】炎症，发炎)
 inflexible        [in'fleksəbl]         a.  不屈曲的,不屈挠的,顽固的
 influx            ['inflʌks]            n.  流入,河口,汇集
 informal          [in'fɔ:məl]           a.  非正式的,不拘礼的,通俗的
+infrared          [`infrə'red]          a.  红外线的
 infuse            [in'fju:z]            vt.  注入,泡出味道,鼓舞vi.  泡,注
 innate            [i'neit]              a.  先天的,天生的
 inordinate        [i'nə:dinit]          a.  过度的,紊乱的,无法无天的,过分的
+inscribe          [in'skraib]           v.  铭刻; 在某物上写
 insinuate         [in'sinjueit]         vt.  巴结,暗示,使潜入
 insolent          ['insələnt]           n.  侮慢无乱的人a.  粗野的,无礼的,侮慢的
 instigate         ['instəgeit]          vt.  教唆,怂恿,煽动
 instill           [in'stil]             vt.  1 将<思想、感情等>逐渐灌输给[某人],灌入 [脑子里] 徐徐教导[in,
 insufferable      [in'sʌfərəbl]         a.  不可忍受的,忍耐不住的,气人的
+insufficient      [`insə'fiʃənt]        a.  不足的，不够的
 insular           ['insjulə]            a.  岛的,岛民的,保守的,孤立的,岛特有的
+insulin           ['insjulin;  US -səl- n.  胰岛素
 intercede         [intə'si:d]           vi.  仲裁,说情,调解
 intercept         ['intə'sept]          n.  截取,妨碍,截距vt.  拦截,阻止,截取
 interject         [intə'dʒekt]          vt.  插嘴,突然插入
 interlude         ['intəlu:d]           n.  幕间,幕间时间,过场,穿插,插曲
+internship        ['intə:nʃip]          n.  实习医师; 实习医师期
+interplay         ['intəplei]           n.  相互作用，相互影响
 intersect         [intə'sekt]           vt.  横断vi.  交错,相交
+intersection      [`intə'sekʃn]         n.  交点; 十字路口
+interstellar      [`intə'stelə]         a.  星际的
 intoxicate        [in'tɔksikeit]        vt.  使陶醉,醉人
+intoxication      [in`tɔksi'keiʃn]      n.  醉，醉酒
 intrepid          [in'trepid]           a.  无畏的,勇猛的,豪勇的
+intriguing        [in'tri:giŋ]          a.  引起兴趣(或好奇心)的，吸引人的
 inure             [in'jur]              vt.  使习惯vi.  生效
 invalidate        [in'vælideit]         vt.  使无效
 inverse           [in'və:s]             a.  倒转的,相反的n.  反白,反色
+invertebrate      [in'və:tibreit]       n.  无脊椎动物
 invocation        [invou'keiʃən]        n.  祈祷,符咒
 invoke            [in'vəuk]             vt.  祈求,恳求,引起,援引,实行
 irreconcilable    [i'rekənsailəbl]      a.  不能和解的,不能协调的,矛盾的
@@ -627,39 +842,70 @@ irresistible      ['iri'zistəbl]        a.  不可抵抗的,不能压制的
 irresolute        [i'rezəlu:t]          a.  无决断的,优柔寡断的,踌躇不定的
 irreverent        [i'revərənt]          a.  不敬的,不逊的,无礼的
 irrevocable       [i'revəkəbl]          a.  不能挽回的,不能取消的,不能变更的
+isolated          ['aisəleitid]         a.  分离的，隔绝的; 独一无二的
 itinerant         [i'tinərənt]          a.  巡回的n.  巡回者
 jeer              [dʒiə]                n.  嘲笑,讥讽,戏弄,vt. vi.  嘲弄,揶揄,戏弄
 jellyfish         ['dʒeli'fiʃ]          n.  水母,海蜇,意志薄弱的人
 jolt              [dʒəult]              n.  震摇,摇动,颠簸vi.  颠簸而行,震摇vt.  使颠簸,使慌张,猛击
 jumble            ['dʒʌmbl]             vi.  搀杂,混杂vt.  搞乱,使混乱n.  混乱,薄饼
 juncture          ['dʒʌŋktʃə]           n.  接合,连接,接缝
+Jupiter           ['dʒu:pitə]           n.  木星
 justly            ['dʒʌstli]            ad.  公正地,理由充分地,正当地
 ken               [ken]                 n.  视野范围,知识范围,见地
+kennel            ['kenl]               n.  狗舍，狗窝
+kernel            ['kə:nl]              n.  (硬壳果)仁; (谷物去核后的)粒，子
+kerosene          ['kerəsi:n]           n.  煤油，火油
+kiln              [kiln]                n.  (砖、石灰等的)窑，炉
 kindle            ['kindl]              vt.  点燃,使着火,引起,照亮vi.  着火,激动,发亮
+kinetic           [ki'netik]            a.  运动的，运动引起的
 labyrinth         ['læbərinθ]           n.  迷宫,难解的事物,迷路
 lament            [lə'ment]             n.  悲叹,悔恨,悼词,挽歌vt.  哀悼vi.  悔恨,悲叹
+landmass          ['lændmæs]            n.  地块; 大片陆地
 languid           ['læŋgwid]            a.  疲倦的,无力的,阴沉的
 languish          ['læŋgwiʃ]            vi.  憔悴,凋萎,苦思
+larva             ['lɑ:və]              n. [pl.  larvae]幼虫
 lasting           ['la:stiŋ]            a.  永久的,永恒的,持久的n.  厚实斜纹织物
+latent            ['leitnt]             a.  潜在的，隐伏的
+Latin             ['lætin;  US 'lætn]   a.  拉丁的，拉丁文的; n.  拉丁语
 laud              [lɔ:d]                n.  赞美,称赞vt.  赞美,称赞
 laudable          ['lɔ:dəbl]            a.  值得赞赏的,值得佩服的,动人的
+laureate          ['lɔriət;  US 'lɔ:r-] n.  戴桂冠的人
 laurel            ['lɔrəl]              n.  月桂树,荣誉vt.  使戴桂冠,授予荣誉
+lava              ['lɑ:və]              n.  岩浆，熔岩
 leash             [li:ʃ]                n.  拴狗颈之皮带vt.  以皮带束缚,束缚
 ledge             [ledʒ]                n.  突出之部分,暗礁,矿层
+leftover          ['leftəuvə]           n. [常pl.  ]剩余物，剩饭菜
+legible           ['ledʒəbl]            a.  清楚的; 易读的
+legislature       ['ledʒisleitʃə(r)]    n.  立法机关
 lethal            ['liθəl]              a.  致命的n.  致死因子
+lethargy          ['leθədʒi]            n.  死气沉沉
+lettuce           ['letis]              n.  生菜; 莴苣
 liaison           [li:'eizən]           n.  联络
 licensed          ['laisnst]            a.  得到许可的
+lichen            ['laikən]             n.  青苔，地衣
 limestone         ['laimstəun]          n.  石灰石
 limpid            ['limpid]             a.  清澈的,透明的,静止的
+linguist          ['liŋgwist]           n.  语言学家
+lipid             ['lipid]              n.  油脂
 listless          ['listlis]            a.  倦怠的,无精打采的,冷漠的
 lithe             [laið]                a.  柔软的
+lithosphere       ['liθəsfiə]           n.  岩石圈
+lizard            ['lizəd]              n.  蜥蜴
 loath             [ləuθ]                a.  不情愿的,勉强的
 loathe            [ləuð]                vt.  厌恶,憎恶
+locally           ['ləukəli]            adv.  在本地
+locomotion        [`ləukə'məuʃn]        n.  移动; 运动
+lubricant         ['lu:brikənt]         n.  润滑剂
 lull              [lʌl]                 n.  暂停,间歇,稍息,麻痹vt.  使平静,哄骗,使安静vi.  变平静
+lumber            ['lʌmbə(r)]           n.  木材，木料
 lurk              [lə:k]                n.  潜伏,潜行vi.  潜藏,潜伏,埋伏
+lush              [lʌʃ]                 a.  茂盛的
 luster            ['lʌstə]              n.  光彩,荣誉,光泽vi.  有光泽,发亮vt.  使发光辉
 lusty             ['lʌsti]              a.  健壮的,精力充沛的
 luxuriant         [lʌg'zjuəriənt]       a.  繁茂的,丰富的,肥沃的,华丽的
+maglev            ['mæglev]             n.  磁力悬浮火车
+magma             ['mægmə]              n.  岩浆
+magnesium         [mæg'ni:ziəm;  US mæg n.  镁
 maim              [meim]                vt.  使残废,使不能工作,使伤残
 malady            ['mælədi]             n.  病,疾病,弊病
 malcontent        ['mælkəntent]         a.  抱不平的,不满的,不服的n.  不满现状的人
@@ -667,602 +913,30 @@ malevolent        [mə'levələnt]         a.  有恶意的,坏心肠的
 malign            [mə'lain]             a.  有害的,恶性的,有恶意的vt.  诽谤,说坏话
 malleable         ['mæliəbl]            a.  有延展性的,可锻的
 mammals           ['mæmlz]              n.  哺乳动物
+mammoth           ['mæməθ]              n.  猛犸象; a.  巨大的
 mangle            ['mæŋgl]              vt.  乱砍,损坏,轧布n.  轧布机
 mania             ['meinjə]             n.  狂躁,热衷,狂热
 manifold          ['mænifəuld]          n.  复印本,多种a.  多种的,有许多部分的,多方面的vt.  复写,繁殖,增多
+mantle            ['mæntl]              n.  覆盖物; 【地】地幔
 manure            [mə'njuə]             n.  肥料,粪肥vt.  施肥于
+marked            [mɑ:kt]               a.  显著的; 有记号的
+mason             ['meisn]              n.  泥瓦匠
+mast              [mɑ:st;  US mæst]     n.  船桅
 matchless         ['mætʃlis]            a.  无敌的,无比的
 maxim             ['mæksim]             n.  格言,座右铭
 maze              [meiz]                n.  迷宫,迷惘vt.  使迷惘,使混乱,迷失
+meager            ['mi:gə(r)]           a.  不足的，贫乏的
 meander           [mi'ændə]             n.  河流的曲折,漫步,迂回旅行vi.  缓慢而弯曲地流动,漫谈vt.  使蜿蜒
+mechanist         ['mekənist]           n.  机械论者
 meddle            ['medl]               vi.  干涉,干预,乱搞
 mediocre          ['midi'əukə]          a.  不好不坏的,通常,平凡的
 meditative        ['mediteitiv]         a.  默想的,耽于默想的,冥想的
 meek              [mi:k]                a.  温顺的,谦恭的
-menial            ['miniəl]             a.  适合仆人做的,卑微的n.  仆人
-mimicry           ['mimikri]            n.  模仿
-miser             ['maizə]              n.  守财奴,吝啬鬼,凿井机
-miserly           ['maizəli]            a.  吝啬的,贪婪的
-misgiving         [mis'giviŋ]           (U) [常 ~s] [对有关未来之事的] 不安,疑惑,忧虑,缺乏信心[about]
-mishap            [mis'hæp]             n.  不幸之事,灾祸,恶运
-mitigate          ['mitigeit]           vt.  镇静,缓和,减轻
-modulate          ['mɔdjuleit]          vt.  调整,使转调,调制vi.  转调,调制
-moisten           ['mɔisn]              vt.  弄湿vi.  变潮湿
-mollify           ['mɔlifai]            vt.  平息,缓和,减轻,使镇静
-morbid            ['mɔ:bid]             a.  不健全的,病态的,疾病的,可怕的
-moron             ['mɔ:rɔn]             n.  低能者,笨人
-motif             [mou'ti:f]            n.  主题,意念,动机,基本花纹
-muddle            ['mʌdl]               vt.  混合,使微醉,使咬字不清晰vi.  胡乱对付n.  困惑,混浊状态
-munificent        [mju:'nifisnt]        a.  宽宏的,慷慨的
-mutation          [mju:'teiʃən]         n.  变化,转变,元音变化
-nibble            ['nibl]               n.  半位元组,细咬,轻咬,啃vt. vi.  一点一点地咬,细咬,吹毛求疵n.  半
-nimble            ['nimbl]              a.  敏捷的,伶俐的,精明的
-nocturnal         [nɔk'tə:nəl]          a.  夜的,夜曲的
-nostalgia         [na'stældʒiə]         n.  乡愁,乡往过去,怀旧之情
-noted             ['nəutid]             a.  著名的,显著的,扬名的
-novice            ['nɔvis]              n.  新手,初学者
-noxious           ['nɔkʃəs]             a.  有害的,有毒的,精神不健全的
-null              [nʌl]                 a.  无效力的,无效的,无价值的n.  零,空,零迅号
-nutriment         ['nju:trimənt]        n.  营养物,食物,营养素
-oasis             ['əueisis]            n.  绿洲,舒适的地方
-obliging          [ə'blaidʒiŋ]          a.  亲切的,体贴的,殷勤的,有礼貌的
-oblivion          [ə'bliviən]           n.  遗忘,忘却,赦免,大赦,湮没
-observance        [əb'zə:vəns]          n.  遵守,仪式,惯例
-obsolete          ['ɔbsəli:t]           a.  荒废的,成废物的,陈旧的n.  废词,陈腐的人,废物
-obstinate         ['ɔbstinit]           a.  倔强的,顽固的
-offhand           ['ɔf'hænd]            a.  即时的,即席的,无准备的ad.  即时地,即席地,随便地
-opposed           [ə'pəuzd]             a.  反对的,敌对的,对抗的
-opulence          [apjələns]            n.  丰裕,丰富,丰饶
-oracle            ['ɔrəkl]              n.  神谕,神谕处,预言
-oration           [ɔ'reiʃən]            n.  演说,致辞,叙述法
-originally        [ə'ridʒənəli]         ad.  本来,原来,最初
-oust              [aust]                vt.  逐出,夺取,驱逐
-outspoken         [aut'spoukən]         a.  直言无讳的,坦率的,坦白无隐的
-outwit            [aut'wit]             vt.  瞒骗,以智取胜
-overbearing       ['ouvə'bεəriŋ]        a.  傲慢的,骄傲自大的,蛮横的
-pacify            ['pæsifai]            vt.  使平静,安慰,绥靖
-painstaking       ['peinzteikiŋ]        n.  辛苦,苦心,工夫a.  辛苦的,勤勉的,小心的
-palatable         ['pælətəbl]           a.  美味的,好吃的,可口的
-panacea           ['pænə'siə]           n.  万能药
-paraphrase        ['pærəfreiz]          n.  释义,解述,改写vt.  改写,解述vi.  释义
-parasitic         ['pærə'sitik]         adj.  1 寄生 (性) 的,寄生动[植]物的,寄生体[质]的2 寄食的,靠别人为
-peerless          ['piəlis]             a.  无比的,出类的,无双的
-penal             ['pi:nl]              a.  刑的,刑罚的,刑法上的n.  刑事
-penchant          ['pa:ŋʃa:ŋ]           (C) [对…的]强烈嗜好,偏好;  倾向[for]
-pensive           ['pensiv]             a.  沉思的,哀思的,忧沉的
-penury            ['penjuri]            n.  贫困,贫穷
-percussion        [pə'kʌʃn]             n.  1 a.   (常指两个坚硬物体的) 撞击,碰撞b.  震动;  音响2 [the ~;
-perennial         [pə'renjəl]           a.  四季不断的,继续多年的
-pertinent         ['pə:tinənt]          a.  相关的,中肯的,切题的
-pervert           [pə:'və:t]            vt.  使堕落,歪曲,滥用n.  堕落者,反常者
-petrify           ['petrifai]           vt.  1 使…化为石,使…石化;  使…坚硬 [僵硬] 2 使<人心>变无情 [顽固,
-phonetics         [fəu'netiks]          n.  语音学,发音学
-pilferage         ['pilfəridʒ]          n.  1 小窃行为,小盗窃2 (U)失窃之损失;  失窃品
-pious             ['paiəs]              a.  虔诚的
-pitiful           ['pitiful]            a.  慈悲的,可怜的,同情的
-pivot             ['pivət]              n.  枢轴,支点a.  枢轴的vi.  在枢轴上转动vt.  装枢轴于
-pivotal           ['pivətl]             a.  枢轴的,关键的
-placate           [plə'keit]            vt.  抚慰,使和解,怀柔
-placid            ['plæsid]             a.  平静的,沉着的,平稳的
-playwright        ['pleirait]           n.  剧作家
-plumb             [plʌm]                n.  铅锤,垂直a.  垂直的vt.  使垂直,用铅封,探测,了解vi.  垂直
-ponderous         ['pɔndərəs]           a.  沉重的,笨重的,冗长的,沉闷的
-posterity         [pɔs'teriti]          n.  子孙,后裔
-precipitate       [pri'sipiteit]        n.  沉淀物vt.  猛抛,使陷入,促成,使沉淀vi.  猛地落下a.  猛地落下的,
-preclude          [pri'klu:d]           vt.  预先排除,预防,阻止,妨碍
-precursor         [pri'kə:sə]           n.  先驱者,前导,先进者
-preeminent        [pri:'eminənt]        a.  优秀的,超群的,卓越的
-prelude           ['prelju:d]           n.  序幕,序言,预兆vi.  作序vt.  为. . . 作序
-presumptuous      [pri'zʌmptjuəs]       a.  放肆的,冒昧的,冒失的
-pretentious       [pri'tenʃəs]          a.  自负的,自任不凡的,夸耀的
-probity           ['prabəti]            n.  诚实,廉洁,正直
-prod              [prɔd]                n.  刺针,刺棒,签子vt.  戳,刺,刺激vi.  戳,刺
-prodigal          ['prɔdigəl]           n.  浪费者a.  浪费的,挥霍的,放荡的
-prodigious        [prə'didʒəs]          a.  很大的,惊人的,异常的
-profane           [prə'fein]            a.  世俗的,不敬神的,亵渎的vt.  亵渎,玷污
-profess           [prə'fes]             vt.  声称,以. . . 为业,伪称,讲授vi. 表白,承认,当教授
-profoundly        [prəu'faundli]        adv.  深深地,深刻地;  大大地
-profuse           [prə'fju:s]           a.  很多的,丰富的,浪费的,慷慨的
-proliferate       [prou'lifəreit]       vi.  增殖,激增,扩散vt.  使激增
-prolific          [prə'lifik]           a.  生子的,结果实的,多产的,丰富的
-pronounced        [prə'naunst]          a.  显著的,断然的,明白的
-propensity        [prə'pensiti]         n.  倾向,爱好,习性
-propriety         [prə'praiəti]         n.  礼貌,规矩,适当
-proscribe         [prou'skraib]         vt.  1 a.  置
-protract          [prə'trækt]           vt.  延长,托长,伸出,绘制
-protrude          [prə'tru:d]           vi.  凸出,伸出,吐出vt.  使伸出,使突出
-provident         ['prɔvidənt]          a.  有先见之明的,有远虑的,节俭的
-proxy             ['prɔksi]             n.  代理,代理人,委托书
-prudent           ['pru:dənt]           a.  审慎的,三思而后行的,精明的,节俭的
-prune             [pru:n]               n.  干梅子,梅干,深紫红色,傻瓜vt.  修剪,砍掉,删除vi.  删除,删节
-puddle            ['pʌdl]               n.  水池,地上积水,水坑,胶土vt.  搅浊vi.  搅泥浆,在泥污中打滚,
-pungent           ['pʌndʒənt]           a.  苦痛的,刺激性的,严厉的
-purge             [pə:dʒ]               n.  净化,清除,泻药vt. vi.  (使)净化,清除,(使)通便
-quaint            [kweint]              a.  古雅的,离奇有趣的,奇怪的
-qualified         ['kwɔlifaid]          a.  有资格的
-quartz            [kwɔ:ts]              n.  石英
-queer             ['kwiə]               n.  同性恋者a.  奇怪的,不舒服的,可疑的vt.  搞糟
-quell             [kwel]                vt.  压制,平息,减轻
-radius            ['reidjəs]            n.  半径,范围,辐射光线
-ransom            ['rænsəm]             n.  赎金,赎身,勒索,敲诈,赎回vt.  赎,赎身,赎回,勒索赎金
-rapacious         [rə'peiʃəs]           a.  强夺的,贪欲的,贪婪的
-rapture           ['ræptʃə]             n.  兴高采烈,着迷,欢天喜地,狂喜vt.  使狂喜
-rashly            ['ræʃli]              ad.  轻率地,无见识地
-ravage            ['rævidʒ]             n.  破坏,蹂躏vt. vi.  毁坏,破坏,掠夺
-ravenous          ['rʌvinəs]            a.  贪婪的,饿极的,渴望的,狼吞虎咽的
-ravish            ['ræviʃ]              vt.  强夺,从人间夺走,使出神,强奸
-raze              [reiz]                vt.  毁灭,刮去,把. . . 夷为平地,破坏,抹去,消除
-rebate            ['ribeit]             n.  减少,折扣vt.  减少,打折扣vi.  给回扣,打折扣
-rebuke            [ri'bju:k]            n.  指责,谴责,非难vt.  斥责,指责,非难
-recluse           [ri'klu:s]            a.  隐遁的,寂寞的n.  隐遁者,遁世者
-recoil            [ri'kɔil]             n.  畏缩,后退,后座力,反作用,弹回vi.  退却,畏缩,弹回,报应,反冲,撤退
-recollection      ['rekə'lekʃən]        n.  记忆,回想,回忆
-rectangle         ['rektæŋgl]           n.  长方形,矩形
-redeem            [ri'di:m]             vt.  赎回,挽回,恢复,补偿,履行,偿还
-redress           [ri'dres]             n.  赔偿,救济,矫正vt.  纠正,赔偿,重新调整,重新穿衣,救济
-refined           [ri'faind]            a.  精炼的,优雅的,精细的
-regimen           ['redʒə'men]          n.  摄生,养生法,食物疗法
-reimburse         ['riim'bə:s]          vt.  付还,偿还,赔偿
-reiterate         [ri:'itəreit]         vt.  反复地说,重申,反复地做
-relapse           [ri'læps]             n.  复旧,故态复萌,再发,恶化vi.  故态复萌,再陷邪道,再度堕落
-relieved          [ri'li:vd]            adj.  宽心的
-relinquish        [ri'liŋkwiʃ]          vt.  放弃,撤回,让与,放手
-remit             [ri'mit]              vt.  宽恕,赦免,免除,汇出,缓和,减轻,提交,传送vi.  缓和,汇款n.  移交
-rend              [rend]                vt.  分裂,劈开,响彻,撕碎,强夺vi.  撕开,裂开
-renounce          [ri'nauns]            vt.  拒绝,放弃,否认,垫牌vi.  垫牌,放弃权利n.  垫牌
-replenish         [ri'pleniʃ]           vt.  重新补足,再装满vi.  再装满,充满
-repudiate         [ri'pjudieit]         vt.  离婚,抛弃,拒绝履行,拒付,拒绝
-repulse           [ri'pʌls]             n.  击退,拒绝vt.  厌恶,击退,拒绝
-repulsive         [ri'pʌlsiv]           a.  逐退的,可恶的,冷淡的,排斥的
-residue           ['rezidju]            n.  残渣,剩余,余数
-resolved          [ri'zɔlvd]            a.  下定决心的,断然的
-resonance         ['reznəns]            n.  共鸣,回声,共振,谐振,反响
-respiration       ['respə'reiʃən]       n.  呼吸,一口气,呼吸作用
-retard            [ri'ta:d]             n.  阻止,延迟vt.  妨碍,延迟,迟缓vi.  减速,延迟
-retract           [ri'trækt]            vt. vi.  缩回,收回,取消,撤消
-revere            [ri'viə]              vt.  崇敬,敬畏,尊敬
-reverence         ['revərəns]           n.  尊敬,敬重,威望,尊严vt.  崇敬,敬畏,尊敬
-revert            [ri'və:t]             vi.  恢复,复归,回复vt.  使颠倒,使回转n.  恢复原信仰的人
-revoke            [ri'vəuk]             vt.  撤回,废除vi. n.  有牌不跟
-rite              [rait]                n.  仪式,典礼,礼拜式,惯例,习俗
-rudimentary       ['ru:di'mentəri]      adj.  1 基本的;  初步的2[生物]未发达的;  早期的,形成期的;  发育不
-rugged            ['rʌgid]              a.  高低不平的,崎岖的,粗糙的
-rumble            ['rʌmbl]              n.  隆隆声,辘辘声vi.  发隆隆声,辘辘响vt.  使隆隆响,低沉地说
-ruminate          ['r:mineit]           vt. vi.  反刍,沉思
-rupture           ['rʌptʃə]             n.  破裂,断裂,敌对,决裂,裂开vt. vi.  (使)破裂
-rustic            ['rʌstik]             n.  乡下人,村夫,农民a.  乡村的,纯朴的,手工粗糙的
-sanity            ['sænəti]             n.  神智健全,头脑清楚,健全
-sardonic          [sa:'dɔnik]           a.  嘲笑的,冷笑的,讥讽的
-satiate           ['seiʃieit]           vt.  使饱足,使厌腻,使充分满足a.  饱足的,吃饱的
-savings           ['seiviŋz]            n.  储金
-savor             ['seivə]              n.  1 味,香味; 风味2  情趣,趣味,兴趣,刺激 ɔ vt.   (慢慢地) 品尝
-scanty            ['skænti]             a.  缺乏的,仅有的,节省的,狭小的,不够的
-scoop             [sku:p]               n.  铲子,勺子,独家新闻,口,穴vt.  汲取,舀取,挖空,抢先登出
-scorch            [skɔ:tʃ]              n.  烧焦,枯黄vt. vi.  烧焦,拷焦,(使)枯萎,讽刺
-scruple           ['skru:pl]            n.  踌躇,犹豫,微量vi.  踌躇,有顾忌
-scrupulous        ['skru:pjuləs]        a.  小心谨慎的,细心的
-sear              [siə]                 a.  枯萎的,烤焦的vt.  烤焦,使枯萎vi.  凋谢,干枯
-seasoning         ['sizəniŋ]            n.  1 a.  (U) 调味b.  (C) 调味品,佐料,香辣调味料2 (C) 增添趣味的东
-seclusion         [si'kluʒən]           n.  隔离,孤立,隐退
-secrete           [si'kri:t]            vt.  隐秘,隐藏,隐匿,分泌
-secretion         [si'kriʃən]           n.  分泌,分泌物,分泌液
-sedate            [si'deit]             a.  沉着的,镇静的,安静的vt.  给. . . 服镇静剂
-sediment          ['sedimənt]           n.  沉淀物,沉积
-sensuous          ['senʃuəs]            a.  感觉上的,给人美感的
-serene            [si'ri:n]             a.  宁静的,沉着的,安详的,晴朗的n.  晴朗,平静
-serenity          [si'reniti]           n.  宁静,沉着,晴朗
-sermon            ['sə:mən]             n.  说教,训诫,布道
-sever             ['sevə]               vt.  切断,脱离,分开,中断,断绝,使分离vi.  断,裂开,被分开
-shackle           ['ʃækl]               n.  桎梏,束缚物vt.  加桎梏,加枷锁,束缚
-sallow            ['sælou]              a.  灰色的,苍白的,气色不好的vt. vi.  (使)成菜色n.  柳属植物,柳枝
-shear             [ʃiə]                 n.  修剪,剪下的东西,羊的一岁,大剪刀,切,剪,切变vt.  修剪,割,砍,切,
-sheathe           [ʃið]                 vt.  插入鞘,覆盖
-shuffle           ['ʃʌfl]               n.  拖着脚走,曳步,洗纸牌,蒙混vt. vi.  拖曳,搅乱,洗牌,推诿,慢吞吞地
-shun              [ʃʌn]                 vt.  避开,规避,避免
-silica            ['silikə]             n.  硅石,无水硅酸,硅土
-silly             ['sili]               a.  愚蠢的,糊涂的
-simultaneously    [saiməl'teiniəsli]    adv.  1 同时地2 同时地[with]
-singe             [sindʒ]               vt. vi.  烧焦,烤焦
-skimpy            ['skimpi]             a.  不足的,吝啬的
-slacken           ['slækən]             vt.  使松弛,放松,放慢vi. 变松驰,减弱,呆滞
-slag              [slæg]                n.  熔渣,铁屑,矿渣vt.  使变成熔渣vi.  变熔渣
-slander           ['sla:ndə]            n.  中伤,诽谤vt.  中伤,诽谤
-slant             [sla:nt]              n.  倾斜,斜面,歪曲,偏见,观点a.  倾斜的vt. vi.  (使)倾斜
-sloppy            ['slɔpi]              a.  被泼水弄湿的,泥泞的,多阴雨的,粗心的
-slovenly          ['slʌvənli]           adj.  不修边幅的,邋遢的,懒散的 adv.  不修边幅地,懒散地 n.  -liness
-slug              [slʌg]                n.  鼻涕虫,懒汉,子弹,金属小块vi.  偷懒,捕鼻涕虫vt.  插嵌片于
-sluggish          ['slʌgiʃ]             a.  偷懒的,懒惰的,迟钝的
-sly               [slai]                a.  狡猾的,诡密的,淘气的,偷偷摸摸的
-smear             [smiə]                vt.  涂,擦上,玷污,抹擦使变模糊vi.  被弄脏n.  污点,污迹,污蔑
-smother           ['smʌðə]              vt.  使喘不过气,使窒息,闷熄,覆盖,抑制,忍住vi.  窒息,被抑制n.  浓烟
-snag              [snæg]                n.  残干,根株,断牙,意外障碍vt.  阻碍,抢到,清除障碍物
-sneer             [sniə]                n.  冷笑,嘲笑vi.  嘲笑,冷笑vt.  嘲笑着说,嘲笑着使
-sojourn           ['sɔdʒə:n]            n.  逗留,旅居vi.  逗留,旅居
-solicitous        [sə'lisitəs]          a.  热心的,渴望的,热切期望的
-solidly           ['sɔlidli]            adv.  坚硬地, 稳固地
-spawn             [spɔ:n]               n.  卵,鱼卵vt.  产卵,酿成vi.  产卵
-spew              [spju:]               vi.  呕吐,喷涌vt.  呕出,喷n.  呕吐物,喷涌物
-spineless         ['spainlis]           a.  无脊椎的,没有骨气的,懦弱的
-spleen            [spli:n]              n.  脾脏,坏脾气,怨恨
-sporadic          [spəu'rædik]          a.  偶尔发生的,零星发生的,分散的
-spout             [spaut]               n.  喷口vt.  喷出,喷射,滔滔不绝说出,典押vi.  喷射,高谈阔论
-sprout            [spraut]              n.  芽,萌芽vt.  使发芽,摘去芽vi.  长芽,抽条
-spurt             [spə:t]               n.  喷射,冲刺vt.  喷射vi.  喷出,迸发,冲刺
-squabble          ['skwɔbl]             vi.  争吵,口角n.  争吵,口角
-squander          ['skwɔndə]            vt.  浪费,使分散vi.  浪费,漂泊,四散
-squash            [skwɔʃ]               n.  压碎的东西,南瓜,拥挤嘈杂的人群vt.  压扁,镇压,压制vi. 被压扁,发
-squeak            [skwi:k]              n.  吱吱声,机会vi.  吱吱叫,告密,侥幸成功vt.  以短促尖声发出
-stamina           ['stæmənə]            n.  精力,活力,耐力,stamen的复数
-statistics        [stə'tistiks]         n.  统计学,统计表
-steadfast         ['stedfəst]           a.  坚定的,踏实的,固定的,不变的
-sterile           ['sterail]            a.  不毛的,不孕的,无菌的,枯燥的,无效的,贫瘠的
-stingy            ['stindʒi]            a.  小气的,吝啬的,缺乏的,有刺的
-stocky            ['stɔki]              a.  矮胖的,健壮结实的
-stodgy            ['stɔdʒi]             a.  不易消化的,塞满的,笨重的,庸俗的,平凡的
-strenuous         ['strenjuəs]          a.  奋发的,热心的,热烈的,紧张的
-stringent         ['strindʒənt]         a.  迫切的,严厉的,银根紧的
-stunt             [stʌnt]               n.  特技,绝技,花招,噱头,矮小物,发育迟缓,手腕vt.  阻碍成长vi.  表演
-subjection        [səb'dʒekʃən]         n.  征服,服从,隶属
-sublimate         ['sʌblimeit]          vt.  使升华,使高尚vi.  升华,纯化a.  纯净化的,高尚的,理想化的,气质
-substantiate      [səb'stænʃieit]       vt.  使实体化,证实
-substantive       ['sʌbstəntiv]         a.  表示实在的,有实质的,独立的n.  实词,名词
-subvert           [səb'və:t]            vt.  推翻,颠覆,毁灭
-succinct          [sək'siŋkt]           a.  简洁的,紧身的
-succumb           [sə'kʌm]              vi.  屈从,屈服,死
-suffuse           [sə'fjuz]             vt.  遍布,弥漫,充满
-sullen            ['sʌlən]              a.  愠怒的,沉沉不乐的,阴沉的
-supersede         ['sjupə'si:d]         vt.  代替,取代,接替
-supplant          [sə'pla:nt]           vt.  排挤掉,代替
-supple            ['sʌpl]               a.  柔软的,逢迎的,顺从的vt.  使柔软,使顺从
-surmise           [sə:maiz]             n.  推测,猜测vt. vi.  推测,臆测
-surmount          [sə:'maunt]           vt.  战胜,超越,克服
-sustenance        ['sʌstənəns]          n.  生计,食物
-swarm             [swɔ:m]               n.  群,大群,蜂群vi.  群集,聚集一块,云集,爬树vt.  挤满,爬(树)
-synchronize       ['siŋkrə'naiz]        vt.  使同步,使合拍vi.  同时发生
-synopsis          [si'nɔpsis]           n.  概要,摘要,大意
-tacit             ['tæsit]              a.  沉默寡言的,心照不宣的,缄默的
-tactics           ['tæktiks]            n.  用兵学,战术,兵法
-tally             ['tæli]               n.  符木,记账,得分,比分,计数器,对应物,符合,标签vt.  点数,计算,使符
-tamper            ['tæmpə]              vi.  干预,玩弄,贿赂,窜改,削弱,损害vt.  窜改n.  捣棒,夯,填塞者
-tantalize         ['tæntl'aiz]          vt.  逗弄,使干着急
-tardy             ['ta:di]              a.  慢的,迟钝的,迟到的,迟的,拖拉的
-tarnish           ['tɑ:niʃ]             n.  晦暗,玷污,污点vt.  使失去光泽,玷污vi.  失去光泽,被玷污
-taunt             [tɔ:nt]               n.  辱骂,嘲弄vt.  嘲弄,奚落a.  很高的
-teem              [ti:m]                vi.  充满,富于,涌现,倾注vt.  倒出
-temperance        ['tempərəns]          a.  温暖的,温和的,有节制的
-temperate         ['tempərit]           a.  温和的,适度的,有节制的
-tenacious         [ti'neiʃəs]           a.  紧粘不放的,固执的,紧握的,不屈不挠的
-tenuous           ['tenjuəs]            a.  稀薄的,微细的,纤细的,脆弱的
-tepid             ['tepid]              a.  微温的,温热的,不太热心的
-thaw              [θɔ:]                 n.  融雪,融化,温暖气候vt.  使融解,使缓和vi.  融化,解冻
-throng            [θrɔŋ]                n.  群,人群,群集,众多a.  拥挤的,忙的vi.  群集,蜂拥vt.  挤入,挤满
-thump             [θʌmp]                n.  重打,重击声vt. vi.  重打,砰地撞到,用拳头打
-tilted            [tiltid]              adj.  倾斜的
-tingle            ['tiŋgl]              vi.  兴奋,激动,感到刺痛,抖动vt.  使感刺痛n.  刺痛,震颤,耳鸣
-tint              [tint]                n.  色彩,浅色vt.  染色于
-titanic           [tai'tænik]           a.  四价钛的
-torment           ['tɔ:ment,tɔ:'ment]   n.  苦痛,拷问vt.  使苦恼,搅动,歪曲,拷问
-torpid            ['tɔ:pid]             a.  麻痹的,迟缓的,迟钝的,蛰伏的
-torturous         ['tɔ:tʃərəs]          a.  拷问的,痛苦的
-touching          ['tʌtʃiŋ]             n.  触摸a.  动人的,悲惨的
-touchy            ['tʌtʃi]              a.  易怒的,难以取悦的,过敏的
-tractable         ['træktəbl]           a.  易于管教的
-traitor           ['treitə]             n.  叛逆者,叛国者
-trample           ['træmpl]             n.  踩踏,蹂躏vt. vi.  践踏,轻视
-transact          [træn'zækt]           vt.  办理,处理,执行vi.  作交易,谈判
-transfix          [træns'fiks]          vt.  刺穿,使呆住
-transitory        ['trænsitəri]         a.  暂时的,短暂的,昙花一现的
-transpire         [træns'paiə]          vt.  使蒸发,使排出vi.  蒸发,发散,泄露
-traverse          ['trævə:s]            n.  横贯,横木,反驳,否认vt.  横过,穿过,经过,在. . . 来回移动,反对vi
-treason           ['tri:zn]             (U)  (对国家、君主) 叛逆 (罪)
-tremor            ['tremə]              n.  震动,颤动
-trepidation       [trepi'deiʃən]        n.  恐惧,惊惶,忧虑
-trifling          ['traifliŋ]           a.  些许的,不足道的,不足取的
-trot              [trɔt]                n.  快步vi.  快步走,小跑步走vt.  使小跑
-trudge            [trʌdʒ]               n.  沉重的步伐,长途跋涉vi.  沉重地走,蹒跚地走vt.  跋涉
-twig              [twig]                n.  小枝,末梢vt. vi.  注意,了解
-unanimity         [junə'niməti]         n.  无异议,同意,一致
-unbecoming        [ʌnbi'kʌmiŋ]          a.  不适合的,不得体的,不相配的
-unbiased          [ʌn'baiəst]           a.  没有偏见的
-unblemished       [ʌn'blemiʃt]          a.  无瑕疵的,无缺点的,无污点的,清白的
-uncanny           [ʌn'kæni]             a.  怪诞的,可怕的,离奇的,神秘的
-unconscious       [ʌn'kɔʃəs]            a.  无意识的
-unconventional    [ʌnkən'venʃənl]       a.  非传统的
-undaunted         [ʌn'dɔ:ntid]          a.  大无畏的,勇敢的
-unearth           [ʌn'ə:θ]              vt.  发掘,掘出,发现,揭露,从洞中赶出
-unfair            ['ʌn'fεə]             a.  不公平的,不正直的,不正当的
-unfortunately     [ʌn'fɔ:tʃənətli]      adv.  1 (无比较级、最高级)[修饰整句]不幸地,倒楣地,不巧地,遗憾地2
-unruly            [ʌn'ru:li]            a.  难控制的,无法无天的,任性的
-unseemly          [ʌn'si:mli]           a.  不体面的,不相配的,不好看的
-unshaken          [ʌn'ʃeikən]           a.  坚决的,不动摇的,泰然自若的
-uproar            ['ʌprɔ:]              n.  喧嚣,骚动
-valiant           ['væljənt]            a.  英勇的n.  勇敢的人
-valor             ['vælə]               n.  英勇,刚勇,勇猛
-vanquish          ['væŋkwiʃ]            vt.  打败,征服,克服
-varnish           ['va:niʃ]             n.  油漆,清漆,掩饰,光泽面vt.  粉饰,涂油漆于,装饰,使有光泽
-vault             [vɔ:lt]               n.  窖,地下室,撑竿跳,圆顶vt.  做成圆拱形,撑竿跳跃vi.  成穹状弯曲,
-vehemence         ['vi:iməns]           n.  热烈,激烈
-vehement          ['vi:imənt]           a.  热烈的,激烈的
-venerate          ['venəreit]           vt.  尊敬,崇敬,崇拜
-vestige           ['vestidʒ]            n.  遗迹,痕迹,退化的器官,丝毫,残余
-vex               [veks]                vt.  使烦恼,恼怒
-vigilant          ['vidʒilənt]          a.  警醒的,警戒着的,警惕的
-vindicate         ['vindikeit]          vt.  辩护,表白,维护
-vulgarity         [vʌl'gærəti]          n.  粗俗,粗鄙,粗话
-waddle            ['wɔdl]               vi.  1  <鸭、鹅等> 摇摇摆摆地走,蹒跚地走2  <肥胖者等>  (如鸭子般)
-wade              [weid]                vi.  跋涉vt.  涉水n.  跋涉,浅滩
-wag               [wæg]                 vt.  摇摆,摇动,饶舌vi.  摆动,喋喋不休n.  摇摆,小丑
-wand              [wɔnd]                n.  棒,棍,杖
-warily            ['werəli]             ad.  留心地,小心地
-waver             ['weivə]              n.  动摇,踌躇,挥动者vi.  摇摆,颤抖,犹豫,摇曳
-wheedle           ['hwi:dl]             vt.  以甜言蜜语诱惑,用甜言蜜语骗,vi.  哄骗
-whim              [wim]                 n.  一时的兴致,幻想,反复无常,怪念头
-whir              [wə:]                 n.  呼呼声,飕飕声vi.  作呼呼声,发飕飕声vt.  使呼呼响
-whit              [wit]                 n.  些微,一点点
-wistful           ['wistful]            a.  渴望的,想望的
-worldly           ['wə:ldli]            a.  世间的,世俗的,世上的
-wrath             [rɔ:θ]                n.  愤怒,激怒,猛烈的力量,神谴
-wring             ['riŋ]                n.  扭绞,拧,挤,榨vt.  拧,绞,扭,榨取,使痛苦,折磨,勒索vi.  蠕动,扭动
-wry               [rai]                 a.  扭歪的,歪曲的,歪斜的; vt. vi.  扭曲,扭歪
-yelp              [jelp]                n.  叫吠,叫喊声vi.  叫吠,叫喊vt.  叫喊着说
-yen               [jen]                 n.  日圆,瘾vi.  渴望
-abbreviate        [ə'bri:vieit]         v.  缩短，缩写
-abound            [ə'baund]             vi.  (in)富于; 大量存在; 充满
-abrasion          [ə'breiʒn]            n.  表面磨损
-absolutely        ['æbsəlu:tli]         adv.  完全地; 绝对地
-acoustic          [ə'ku:stik]           a.  非电声乐器的; 听觉的
-additive          ['æditiv]             a.  添加的; 加法的; n.  添加剂
-adjunct           ['ædʒʌŋkt]            n.  附加物，附件
-adobe             [ə'dəubi]             n.  泥砖，土坯
-adorn             [ə'dɔ:n]              vt.  装饰，装扮
-aerobic           [eə'rəubik]           a.  增氧健身法的; [pl.  ]n.  有氧运动
-alchemist         ['ælkəmist]           n.  炼金术士
-alga              ['ælgə]               n. [pl.  algae]藻类，海藻
-allay             [ə'lei]               vt.  减轻，减少
-amino             [ə'mi:nəu]            a.  氨基的
-ammonia           [ə'məuniə]            n.  氨，氨水
-anatomy           [ə'nætəmi]            n.  解剖构造; 解剖
-annoyed           [ə'nɔid]              a.  生气的
-anthropology      [`ænθrə'pɔlədʒi]      n.  人类学
-aquarium          [ə'kweəriəm]          n.  养鱼池; 水族馆
-aquatic           [ə'kwætik]            a.  水生的; 水中(上)的
-archaeology       [`ɑ:ki'ɔlədʒi]        n.  考古学
-artisan           [`ɑ:ti'zæn;  US 'ɑ:rt n.  工匠，手艺人
-ascending         [ə'sendiŋ]            a.  上升的，向上的
-asteroid          ['æstərɔid]           n.  小行星
-Babylonian        [`bæbi'ləunjən]       a.  巴比伦的
-backlighting      ['bæklaitiŋ]          n.  逆光
-beaver            ['bi:və(r)]           n.  海狸
-bison             ['baisn]              n.  美洲或欧洲的野牛
-blip              [blip]                n.  雷达上显示的点
-blizzard          ['blizəd]             n.  大风雪
-bog               [bɔg]                 n.  沼泽
-boulder           ['bəuldə(r)]          n.  大石头
-burgeon           ['bə:dʒən]            vi.  迅速成长，发展
-burrow            ['bʌrəu]              vi.  挖地洞; n.  洞穴
-cactus            ['kæktəs]             n. [pl.  cacti]仙人掌
-calculus          ['kælkjuləs]          n.  微积分学; 结石
-camouflage        ['kæməflɑ:ʒ]          n. v.  掩饰，伪装
-cannibalism       ['kænibəlizəm]        n.  嗜食同类
-canopy            ['kænəpi]             n.  天篷，遮篷
-canyon            ['kænjən]             n.  峡谷
-cardiac           ['kɑ:diæk]            a.  心脏的，心脏病的
-caribou           ['kæribu:]            n.  北美产驯鹿
-carnivore         ['kɑ:nivɔ:]           n.  肉食动物
-carp              [kɑ:p]                n.  鲤鱼
-cartilage         ['kɑ:tilidʒ]          n.  【解剖】软骨
-cascade           [kæs'keid]            n.  小瀑布
-cascara           [kæ'skɑ:rə]           n.  缓泻剂
-cassette          [kə'set]              n.  盒式录音(或录像)带
-catalyst          ['kætəlist]           n.  催化剂
-caterpillar       ['kætəpilə]           n.  毛虫，蝴蝶的幼虫
-celebrated        ['selibreitid]        a.  著名的; 有名的
-centennial        [sen'teniəl]          n.  百年纪念
-charcoal          ['tʃɑ:kəul]           n.  木炭
-checked           [tʃekt]               a.  格子花纹的; 棋盘状的
-chilled           [tʃild]               a.  冷冻的
-chimpanzee        [`tʃimpən'zi:]        n.  黑猩猩
-chlorine          ['klɔ:ri:n]           n.  【化】氯
-choreographer     [`kɔri'ɔgrəfə;  US `k n.  舞蹈指导
-chromosome        ['krəuməsəum]         n.  染色体
-chronical         ['krɔnikl]            a.  慢性的，延续很长的
-clam              [klæm]                n.  蛤
-clipper           ['klipə]              n.  快速帆船
-clump             [klʌmp]               n.  土块; vi.  丛生，成群
-collaborator      [kə'læbəreitə]        n.  合作者
-collectively      [kə'lektivli]         adv.  全体地，共同地
-combustible       [kəm'bʌstəbl]         a.  可燃的，易燃的
-communal          ['kɔmjunl]            a.  公共的; 社区的
-conductivity      [`kɔndʌk'tiviti]      n.  传导性
-confederacy       [kən'fedərəsi]        n.  联盟
-congestion        [kən'dʒestʃn]         n.  拥塞
-consciously       ['kɔnʃəsli]           adv.  有意识地，自觉地
-consistently      [kən'sistəntli]       adv.  一贯地
-consonant         ['kɔnsənənt]          a.  协调的
-constantly        ['kɔnstəntli]         adv.  不断地，坚持不懈地; 经常地
-constricted       [kən'striktid]        a.  狭窄的; 收缩的
-continuum         [kən'tinjuəm]         n.  连续统一体
-convection        [kən'vekʃn]           n.  对流; 传送
-corona            [kə'rəunə]            n.  日冕，光环
-corrosive         [kə'rəusiv]           a.  腐蚀(性)的
-counseling        ['kaunsəliŋ]          n.  咨询服务
-cramped           ['kræmpt]             a.  (指空间)狭小的，狭窄的
-crater            ['kreitə]             n.  火山口; (弹)坑
-creativity        [`kri:ei'tiviti]      n.  创造(力)
-crest             [krest]               n.  顶部
-crippling         ['kripliŋ]            a.  令人震惊的
-crisscross        ['kriskrɔs;  US -krɔ: vt.  交叉往来
-critique          [kri'ti:k]            n.  批评，评论
-crusade           [kru:'seid]           n.  十字军(远征); 运动; v.  加入十字军，投身正义运动
-crustacean        [krʌ'steiʃn]          n.  甲壳类动物
-cultivated        ['kʌltiveitid]        a.  栽植的; 有修养的
-cumbersome        ['kʌmbəsəm]           a.  笨重的; 麻烦的
-cuneiform         ['kju:nifɔ:m; US kju: a.  楔性的; n.  楔形文字
-deciduous         [di'sidjuəs]          a.  每年落叶的
-decipher          [di'saifə(r)]         v.  破译，解释
-decode            [`di:'kəud]           vt.  译解
-decompose         [`di:kəm'pəuz]        v.  分解; (使)腐烂
-definitive        [di'finətiv]          a.  确定的，最后的
-deform            [di'fɔ:m]             v.  (使)变形
-delta             ['deltə]              n.  (河流的)三角洲
-deserted          [di'zə:tid]           a.  荒废的; 无人的
-diagonal          [dai'ægənl]           a.  倾斜的; n.  斜线
-diction           ['dikʃən]             n.  措辞，用语
-disadvantage      [`disəd'vɑ:ntidʒ;  US n.  缺点; 不利
-diversification   [dai`və:sifi'keiʃn]   n.  多样化
-documentation     [`dɔkjumen'teiʃn]     n.  文件
-Easter            ['i:stə]              n.  复活节
-edifice           ['edifis]             n.  高大的或宏伟的建筑物
-elliptical        [i'liptikl]           a.  椭圆的
-elm               [elm]                 n.  榆树
-emblem            ['embləm]             n.  徽章
-embryo            ['embriəu]            n.  胚胎; 雏形
-emerald           ['emərəld]            n.  绿宝石
-encase            [in'keis]             vt.  包住
-endangered        [in'deindʒəd]         a.  将要绝种的
-engaging          [in'geidʒiŋ]          a.  迷人的
-engraving         [in'greiviŋ]          n.  雕刻术; 版画
-enzyme            ['enzaim]             n.  酶，酵素
-ephemeral         [i'femərəl]           a.  短暂的，转瞬即逝的
-epitomize         [i'pitəmaiz]          v.  成为…的缩影
-exhilarating      [ig'ziləreitiŋ]       a.  令人高兴的，使人兴奋的
-facade            [fə'sɑ:d]             n.  正面; 表面
-Fahrenheit        ['færənhait]          n.  华氏温度计
-faucet            ['fɔ:sit]             n.  水龙头; 插口
-fauna             ['fɔ:nə]              n.  动物群
-favored           ['feivəd]             a.  有利的; 受优待的，首选的
-ferment           [fə'ment]             vt.  使发酵
-fertilize         ['fə:təlaiz]          v.  使…受精，受粉; 施肥
-feudal            ['fju:dl]             a.  封建(制度)的
-fin               [fin]                 n.  鳍
-fitness           ['fitnis]             n.  健康
-flagellum         [flə'dʒeləm]          n. [pl.  flagella]鞭毛
-flake             [fleik]               n.  薄片; v.  使成薄片; 雪片般落下
-flask             [flɑ:sk;  US flæsk]   n.  细颈瓶
-flavoring         ['fleivəriŋ]          n.  调味(品、料)
-flint             [flint]               n.  燧石，打火石
-flux              [flʌks]               n.  变迁
-foliage           ['fəuliidʒ]           n.  树叶; 植物
-forage            ['fɔridʒ;  US 'fɔ:r-] n.  草料; v.  寻找
-forefront         ['fɔ:frʌnt]           n.  最前沿; 中心
-foreshorten       [fɔ:'ʃɔ:tn]           v.  (绘画中)按照透视法缩短
-fray              [frei]                vi.  磨(损、破)
-fresco            ['freskəu]            n.  壁画
-fungus            ['fʌŋgəs]             n. [pl.  fungi]真菌，菌类植物
-gallop            ['gæləp]              v.  (马)飞奔; 疾驰
-gaseous           ['gæsiəs]             a.  (含)气体的，气态的
-gemstone          ['dʒem`stəun]         n.  经雕琢的宝石
-genesis           ['dʒenəsis]           n.  起源
-genetics          [dʒi'netiks]          n.  遗传学
-gin               [dʒin]                n.  轧棉机
-giraffe           [dʒi'rɑ:f;  US dʒə'ræ n.  长颈鹿
-girder            ['gə:də(r)]           n.  大梁
-glacial           ['gleisiəl;  US 'glei a.  冰期的; 冰河时代的
-glorify           ['glɔ:rifai]          v.  美化; 赞扬
-gorilla           [gə'rilə]             n.  大猩猩
-Gothic            ['gɔθik]              a.  哥特式的
-gourd             [guəd]                n.  葫芦
-gradient          ['greidiənt]          n.  梯度
-grading           ['greidiŋ]            n.  评分; 等级
-granite           ['grænit]             n.  花岗岩
-granular          ['grænjulə(r)]        a.  粒状的
-grasshopper       ['grɑ:shɔpə(r);  US ' n.  蚂蚱，蝗虫
-gravel            ['grævl]              n.  沙砾，砾石
-gravitational     [`grævi'teiʃənəl]     a.  重力的，万有引力的
-grazing           ['greiziŋ]            n.  放牧; 牧草
-grimly            ['grimli]             adv.  冷酷地
-groom             [gru:m]               v.  (动物)将…的皮毛弄干净; 使做好准备
-gull              [gʌl]                 n.  鸥，海鸥
-healing           ['hi:liŋ]             a.  有治疗功用的
-heed              [hi:d]                n.  注意; 留心
-hieratic          [haiə'rætik]          a.  僧侣的，僧侣用的
-hieroglyph        ['haiərəglif]         n.  象形文字
-hind              [haind]               a.  (成对的事物)后面的，在后的
-hinterland        ['hintəlænd]          n.  内地，腹地; 内地贸易区
-homestead         ['həumsted]           n.  家园; 田产
-homing            ['həumiŋ]             a.  有自远处返回原地的本能的
-hominid           ['hɔminid]            n. a.  原始人类(的)
-hormone           ['hɔ:məun]            n.  激素; 荷尔蒙
-hue               [hju:]                n.  颜色; 类型
-hummingbird       ['hʌmiŋbə:d]          n.  蜂鸟
-hydrothermal      [`haidrə'θə:məl]      a.  热液的
-hypothesize       [hai'pɔθəsaiz]        vt.  假定; 假设
-idealize          [ai'diəlaiz]          v.  理想化
-imagist           ['imədʒist]           a.  意象派的; n.  意象派诗人
-immature          [`imə'tjuə;  US -tuər a.  未成熟的
-immutable         [i'mju:təbl]          a.  不变的
-impending         [im'pendiŋ]           a.  即将发生的，迫近的
-impermeable       [im'pə:miəbl]         a.  不可渗透的，不透水的
-impersonal        [im'pə:sənl]          a.  冷淡的; 客观的
-imprint           [im'print]            vt.  铭记，牢记; n.  印记，印痕
-inactivate        [in'æktiveit]         vt.  使不活动，使不活跃
-inactive          [in'æktiv]            a.  不活动的; 怠惰的
-inanimate         [in'ænimət]           a.  无生命的; 无生气的
-inanity           [i'nænəti]            n.  空虚
-inception         [in'sepʃn]            n.  开端，开始
-incessantly       [in'sesntli]          adv.  不断地
-incinerate        [in'sinəreit]         v.  焚化
-inconspicuous     [`iŋkən'spikjuəs]     a.  不显眼的
-inconvenient      [`iŋkən'vi:niənt]     a.  不便的; 让人不舒服的
-incubate          ['iŋkjubeit]          v.  孵卵
-incursion         [in'kə:ʃn;  US -ʒn]   n.  袭击，入侵
-indigestion       [`indi'dʒestʃən]      n.  消化不良
-inevitably        [in'evitəbli]         adv.  不可避免地，必然地
-infancy           ['infənsi]            n.  幼年; (发展或生长的)初期
-inflammation      [`inflə'meiʃn]        n.  【医】炎症，发炎)
-infrared          [`infrə'red]          a.  红外线的
-inscribe          [in'skraib]           v.  铭刻; 在某物上写
-insufficient      [`insə'fiʃənt]        a.  不足的，不够的
-insulin           ['insjulin;  US -səl- n.  胰岛素
-internship        ['intə:nʃip]          n.  实习医师; 实习医师期
-interplay         ['intəplei]           n.  相互作用，相互影响
-intersection      [`intə'sekʃn]         n.  交点; 十字路口
-interstellar      [`intə'stelə]         a.  星际的
-intoxication      [in`tɔksi'keiʃn]      n.  醉，醉酒
-intriguing        [in'tri:giŋ]          a.  引起兴趣(或好奇心)的，吸引人的
-invertebrate      [in'və:tibreit]       n.  无脊椎动物
-isolated          ['aisəleitid]         a.  分离的，隔绝的; 独一无二的
-Jupiter           ['dʒu:pitə]           n.  木星
-kennel            ['kenl]               n.  狗舍，狗窝
-kernel            ['kə:nl]              n.  (硬壳果)仁; (谷物去核后的)粒，子
-kerosene          ['kerəsi:n]           n.  煤油，火油
-kiln              [kiln]                n.  (砖、石灰等的)窑，炉
-kinetic           [ki'netik]            a.  运动的，运动引起的
-landmass          ['lændmæs]            n.  地块; 大片陆地
-larva             ['lɑ:və]              n. [pl.  larvae]幼虫
-latent            ['leitnt]             a.  潜在的，隐伏的
-Latin             ['lætin;  US 'lætn]   a.  拉丁的，拉丁文的; n.  拉丁语
-laureate          ['lɔriət;  US 'lɔ:r-] n.  戴桂冠的人
-lava              ['lɑ:və]              n.  岩浆，熔岩
-leftover          ['leftəuvə]           n. [常pl.  ]剩余物，剩饭菜
-legible           ['ledʒəbl]            a.  清楚的; 易读的
-legislature       ['ledʒisleitʃə(r)]    n.  立法机关
-lethargy          ['leθədʒi]            n.  死气沉沉
-lettuce           ['letis]              n.  生菜; 莴苣
-lichen            ['laikən]             n.  青苔，地衣
-linguist          ['liŋgwist]           n.  语言学家
-lipid             ['lipid]              n.  油脂
-lithosphere       ['liθəsfiə]           n.  岩石圈
-lizard            ['lizəd]              n.  蜥蜴
-locally           ['ləukəli]            adv.  在本地
-locomotion        [`ləukə'məuʃn]        n.  移动; 运动
-lubricant         ['lu:brikənt]         n.  润滑剂
-lumber            ['lʌmbə(r)]           n.  木材，木料
-lush              [lʌʃ]                 a.  茂盛的
-maglev            ['mæglev]             n.  磁力悬浮火车
-magma             ['mægmə]              n.  岩浆
-magnesium         [mæg'ni:ziəm;  US mæg n.  镁
-mammoth           ['mæməθ]              n.  猛犸象; a.  巨大的
-mantle            ['mæntl]              n.  覆盖物; 【地】地幔
-marked            [mɑ:kt]               a.  显著的; 有记号的
-mason             ['meisn]              n.  泥瓦匠
-mast              [mɑ:st;  US mæst]     n.  船桅
-meager            ['mi:gə(r)]           a.  不足的，贫乏的
-mechanist         ['mekənist]           n.  机械论者
 melodic           [mi'lɔdik]            a.  旋律的，曲调的; 音调优美的
 melodie           [meilɔ'di:]           n.  小旋律歌曲
 melting           ['meltiŋ]             a.  融化的，溶化的
 membrane          ['membrein]           n.  薄膜; 细胞膜
+menial            ['miniəl]             a.  适合仆人做的,卑微的n.  仆人
 mercantile        ['mə:kəntail;  US -ti a.  商业的
 meteor            ['mi:tiə:]            n.  流星
 meteorite         ['mi:tiərait]         n.  流星，陨石
@@ -1275,15 +949,30 @@ microprocessor    [maikrəu'prəusesə(r)] n.  微处理器
 millennium        [mi'leniəm]           n.  (pl.  millennia)一千年，千禧年
 mime              [maim]                vt.  模拟; n.  喜剧; 摹拟表演
 mimic             ['mimik]              vt.  模仿
+mimicry           ['mimikri]            n.  模仿
+miser             ['maizə]              n.  守财奴,吝啬鬼,凿井机
+miserly           ['maizəli]            a.  吝啬的,贪婪的
+misgiving         [mis'giviŋ]           (U) [常 ~s] [对有关未来之事的] 不安,疑惑,忧虑,缺乏信心[about]
+mishap            [mis'hæp]             n.  不幸之事,灾祸,恶运
+mitigate          ['mitigeit]           vt.  镇静,缓和,减轻
 modeling          ['mɔdliŋ]             n.  立体感(表现法)
 modem             ['məudem]             n.  调制解调器
+modulate          ['mɔdjuleit]          vt.  调整,使转调,调制vi.  转调,调制
+moisten           ['mɔisn]              vt.  弄湿vi.  变潮湿
+mollify           ['mɔlifai]            vt.  平息,缓和,减轻,使镇静
 molten            ['məultən]            a.  熔化的，熔融的
+morbid            ['mɔ:bid]             a.  不健全的,病态的,疾病的,可怕的
+moron             ['mɔ:rɔn]             n.  低能者,笨人
 mosaic            [məu'zeiik]           n.  马赛克; 镶嵌细工
 moth              [mɔθ;  US mɔ:θ]       n.  蛾
+motif             [mou'ti:f]            n.  主题,意念,动机,基本花纹
 mottled           ['mɔtld]              a.  有杂色的，斑驳的
+muddle            ['mʌdl]               vt.  混合,使微醉,使咬字不清晰vi.  胡乱对付n.  困惑,混浊状态
 mundane           [mʌn'dein]            a.  世俗的，平凡的
+munificent        [mju:'nifisnt]        a.  宽宏的,慷慨的
 mural             ['mjuərəl]            n.  壁画，壁饰
 musicologist      [`mju:zi'kɔlədʒist]   n.  音乐学者
+mutation          [mju:'teiʃən]         n.  变化,转变,元音变化
 myriad            ['miriəd]             n.  无数; a.  无数的; 种种的
 naturalist        ['nætʃrəlist]         n.  自然主义者，博物学家
 nectar            ['nektə(r)]           n.  花蜜
@@ -1292,229 +981,540 @@ neolithic         [`ni:ə'liθik]         a.  新石器时代的
 neon              ['ni:ɔn]              n.  氖; 霓虹灯
 neutron           ['nju:trɔn;  US 'nu:- n.  中子
 newsletter        ['nju:zletə;  US 'nu: n.  时事通讯
+nibble            ['nibl]               n.  半位元组,细咬,轻咬,啃vt. vi.  一点一点地咬,细咬,吹毛求疵n.  半
 niche             [nitʃ]                n.  壁龛; 小生境
+nimble            ['nimbl]              a.  敏捷的,伶俐的,精明的
+nocturnal         [nɔk'tə:nəl]          a.  夜的,夜曲的
 nomadic           [nəu'mædik]           a.  游牧的
+nostalgia         [na'stældʒiə]         n.  乡愁,乡往过去,怀旧之情
 notate            ['nəuteit]            vt.  以符号表示，把…写成记号(或标志)
+noted             ['nəutid]             a.  著名的,显著的,扬名的
+novice            ['nɔvis]              n.  新手,初学者
+noxious           ['nɔkʃəs]             a.  有害的,有毒的,精神不健全的
+null              [nʌl]                 a.  无效力的,无效的,无价值的n.  零,空,零迅号
+nutriment         ['nju:trimənt]        n.  营养物,食物,营养素
+oasis             ['əueisis]            n.  绿洲,舒适的地方
+obliging          [ə'blaidʒiŋ]          a.  亲切的,体贴的,殷勤的,有礼貌的
+oblivion          [ə'bliviən]           n.  遗忘,忘却,赦免,大赦,湮没
 oblivious         [ə'bliviəs]           a.  遗忘的
+observance        [əb'zə:vəns]          n.  遵守,仪式,惯例
+obsolete          ['ɔbsəli:t]           a.  荒废的,成废物的,陈旧的n.  废词,陈腐的人,废物
+obstinate         ['ɔbstinit]           a.  倔强的,顽固的
 oceanographer     [`əuʃə'nɔgrəfə]       n.  海洋学者
 octopus           ['ɔktəpəs]            n.  章鱼
+offhand           ['ɔf'hænd]            a.  即时的,即席的,无准备的ad.  即时地,即席地,随便地
 olfactory         [ɔl'fæktəri]          a.  嗅觉的
 onslaught         ['ɔnslɔ:t]            n.  冲击
 ooze              [u:z]                 v.  渗出; n.  淤泥
 opal              ['əupl]               n.  猫眼石
+opposed           [ə'pəuzd]             a.  反对的,敌对的,对抗的
+opulence          [apjələns]            n.  丰裕,丰富,丰饶
+oracle            ['ɔrəkl]              n.  神谕,神谕处,预言
+oration           [ɔ'reiʃən]            n.  演说,致辞,叙述法
 orchid            ['ɔ:kid]              n.  兰花
+originally        [ə'ridʒənəli]         ad.  本来,原来,最初
+oust              [aust]                vt.  逐出,夺取,驱逐
 outgas            [`aut'gæs]            vt.  除去…的气
 outrageously      [aut'reidʒəsli]       adv.  令人不可容忍地
+outspoken         [aut'spoukən]         a.  直言无讳的,坦率的,坦白无隐的
+outwit            [aut'wit]             vt.  瞒骗,以智取胜
+overbearing       ['ouvə'bεəriŋ]        a.  傲慢的,骄傲自大的,蛮横的
 oyster            ['ɔistə(r)]           n.  牡蛎，蚝
+pacify            ['pæsifai]            vt.  使平静,安慰,绥靖
 packed            [pækt]                a.  拥挤的; 压紧的
 paddle            ['pædl]               n.  脚蹼
+painstaking       ['peinzteikiŋ]        n.  辛苦,苦心,工夫a.  辛苦的,勤勉的,小心的
+palatable         ['pælətəbl]           a.  美味的,好吃的,可口的
 palate            ['pælit]              n.  上腭
+panacea           ['pænə'siə]           n.  万能药
 pancreas          ['pæŋkriəs]           n.  胰腺
 paramount         ['pærəmaunt]          a.  极为重要的
+paraphrase        ['pærəfreiz]          n.  释义,解述,改写vt.  改写,解述vi.  释义
+parasitic         ['pærə'sitik]         adj.  1 寄生 (性) 的,寄生动[植]物的,寄生体[质]的2 寄食的,靠别人为
 pathology         [pə'θɔlədʒi]          n.  反常，变态
 patronizing       ['pætrənaiziŋ;  US 'p a.  要人领情的
 pebble            ['pebl]               n.  小圆石，鹅卵石
 pedagogy          ['pedəgɔdʒi]          n.  教育学，教学法
+peerless          ['piəlis]             a.  无比的,出类的,无双的
+penal             ['pi:nl]              a.  刑的,刑罚的,刑法上的n.  刑事
+penchant          ['pa:ŋʃa:ŋ]           (C) [对…的]强烈嗜好,偏好;  倾向[for]
 pendant           ['pendənt]            n.  垂饰，下垂物
 penicillin        [`peni'silin]         n.  青霉素
+pensive           ['pensiv]             a.  沉思的,哀思的,忧沉的
+penury            ['penjuri]            n.  贫困,贫穷
+percussion        [pə'kʌʃn]             n.  1 a.   (常指两个坚硬物体的) 撞击,碰撞b.  震动;  音响2 [the ~;
+perennial         [pə'renjəl]           a.  四季不断的,继续多年的
 peripheral        [pə'rifərəl]          a.  不重要的; 外围的
 perishable        ['periʃəbl]           a.  易腐的，易坏的; n.  易腐物品
 pertain           [pə'tein]             vi.  (to)依附于或从属于某事物
+pertinent         ['pə:tinənt]          a.  相关的,中肯的,切题的
 pervasive         [pə'veisiv]           a.  普遍深入的
+pervert           [pə:'və:t]            vt.  使堕落,歪曲,滥用n.  堕落者,反常者
+petrify           ['petrifai]           vt.  1 使…化为石,使…石化;  使…坚硬 [僵硬] 2 使<人心>变无情 [顽固,
 pheromone         ['ferəməun]           n.  【生化】信息素
+phonetics         [fəu'netiks]          n.  语音学,发音学
 photodissociation [fəutəudi`səuʃi'eiʃən n.  光解(作用)
 photosynthesis    [`fəutəu'sinθəsis]    n.  光合作用
 physiology        [`fizi'ɔlədʒi]        n.  生理学
 pictorial         [pik'tɔ:riəl]         a.  图示的; 图片的
 pigment           ['pigmənt]            n.  颜料; 色素
+pilferage         ['pilfəridʒ]          n.  1 小窃行为,小盗窃2 (U)失窃之损失;  失窃品
 pinpoint          ['pinpɔint]           vt.  精准定位
+pious             ['paiəs]              a.  虔诚的
+pitiful           ['pitiful]            a.  慈悲的,可怜的,同情的
+pivot             ['pivət]              n.  枢轴,支点a.  枢轴的vi.  在枢轴上转动vt.  装枢轴于
+pivotal           ['pivətl]             a.  枢轴的,关键的
+placate           [plə'keit]            vt.  抚慰,使和解,怀柔
+placid            ['plæsid]             a.  平静的,沉着的,平稳的
 plankton          ['plæŋktən]           n.  浮游生物
 plaster           ['plɑ:stə;  US 'plæs- n.  灰浆，石膏; v.  在…上抹灰泥
 platitude         ['plætitju:d;  US -tu n.  陈词滥调
+playwright        ['pleirait]           n.  剧作家
 pliable           ['plaiəbl]            a.  易曲折的，柔韧的
+plumb             [plʌm]                n.  铅锤,垂直a.  垂直的vt.  使垂直,用铅封,探测,了解vi.  垂直
 plump             [plʌmp]               a.  圆胖的
 pointed           ['pɔintid]            a.  尖的; 尖角的
 pollen            ['pɔlin]              n.  花粉
 pollinate         ['pɔlineit]           v.  给…传授花粉
 polygon           ['pɔligən;  US -gɔn]  n.  【数】多角形，多边形
+ponderous         ['pɔndərəs]           a.  沉重的,笨重的,冗长的,沉闷的
 pore              [pɔ:]                 n.  气孔，小孔
 porous            ['pɔ:rəs]             a.  能渗透的; 多孔的
 posit             ['pɔzit]              v.  安排; 假定
+posterity         [pɔs'teriti]          n.  子孙,后裔
 potassium         [pə'tæsiəm]           n.  钾
 potter            ['pɔtə]               n.  陶工，制陶工人
 practically       ['præktikli]          adv.  几乎; 实际上
 prairie           ['preəri]             n.  大草原
+precipitate       [pri'sipiteit]        n.  沉淀物vt.  猛抛,使陷入,促成,使沉淀vi.  猛地落下a.  猛地落下的,
+preclude          [pri'klu:d]           vt.  预先排除,预防,阻止,妨碍
+precursor         [pri'kə:sə]           n.  先驱者,前导,先进者
 predominantly     [pri'dɔminəntli]      adv.  主要地
+preeminent        [pri:'eminənt]        a.  优秀的,超群的,卓越的
 prehistoric       [`pri:hi'stɔrik;  US  a.  史前的; 陈旧的
+prelude           ['prelju:d]           n.  序幕,序言,预兆vi.  作序vt.  为. . . 作序
 preponderance     [pri'pɔndərəns]       n.  优势
+presumptuous      [pri'zʌmptjuəs]       a.  放肆的,冒昧的,冒失的
 pretension        [pri'tenʃn]           n.  要求，主张
+pretentious       [pri'tenʃəs]          a.  自负的,自任不凡的,夸耀的
 prevailing        [pri'veiliŋ]          a.  普遍的; 流行的
 primal            ['praiml]             a.  最初的; 主要的
 primate           ['praimeit]           n.  灵长类动物
+probity           ['prabəti]            n.  诚实,廉洁,正直
+prod              [prɔd]                n.  刺针,刺棒,签子vt.  戳,刺,刺激vi.  戳,刺
+prodigal          ['prɔdigəl]           n.  浪费者a.  浪费的,挥霍的,放荡的
+prodigious        [prə'didʒəs]          a.  很大的,惊人的,异常的
+profane           [prə'fein]            a.  世俗的,不敬神的,亵渎的vt.  亵渎,玷污
+profess           [prə'fes]             vt.  声称,以. . . 为业,伪称,讲授vi. 表白,承认,当教授
+profoundly        [prəu'faundli]        adv.  深深地,深刻地;  大大地
+profuse           [prə'fju:s]           a.  很多的,丰富的,浪费的,慷慨的
 prohibitively     [prə'hibətivli;  US p ad.  (价格)极高地
+proliferate       [prou'lifəreit]       vi.  增殖,激增,扩散vt.  使激增
+prolific          [prə'lifik]           a.  生子的,结果实的,多产的,丰富的
 prolonged         [prə'lɔŋd]            a.  延长的
+pronounced        [prə'naunst]          a.  显著的,断然的,明白的
+propensity        [prə'pensiti]         n.  倾向,爱好,习性
 proponent         [prə'pəunənt]         n.  支持者; 倡导者
+propriety         [prə'praiəti]         n.  礼貌,规矩,适当
+proscribe         [prou'skraib]         vt.  1 a.  置
+protract          [prə'trækt]           vt.  延长,托长,伸出,绘制
+protrude          [prə'tru:d]           vi.  凸出,伸出,吐出vt.  使伸出,使突出
+provident         ['prɔvidənt]          a.  有先见之明的,有远虑的,节俭的
+proxy             ['prɔksi]             n.  代理,代理人,委托书
+prudent           ['pru:dənt]           a.  审慎的,三思而后行的,精明的,节俭的
+prune             [pru:n]               n.  干梅子,梅干,深紫红色,傻瓜vt.  修剪,砍掉,删除vi.  删除,删节
 psychoanalysis    [`saikəuə'næləsis]    n.  (心理、精神)分析
+puddle            ['pʌdl]               n.  水池,地上积水,水坑,胶土vt.  搅浊vi.  搅泥浆,在泥污中打滚,
 pueblo            ['pwebləu]            n.  印第安人村庄
 pulp              [pʌlp]                n.  纸浆
 puncture          ['pʌŋktʃəl]           v.  刺穿
+pungent           ['pʌndʒənt]           a.  苦痛的,刺激性的,严厉的
 puppet            ['pʌpit]              n.  木偶
+purge             [pə:dʒ]               n.  净化,清除,泻药vt. vi.  (使)净化,清除,(使)通便
+quaint            [kweint]              a.  古雅的,离奇有趣的,奇怪的
+qualified         ['kwɔlifaid]          a.  有资格的
 quarry            ['kwɔri;  US 'kwɔ:ri] n.  石矿; 被追求人或事物
+quartz            [kwɔ:ts]              n.  石英
 quasar            ['kweizɑ:]            n.  【天】类星体
+queer             ['kwiə]               n.  同性恋者a.  奇怪的,不舒服的,可疑的vt.  搞糟
+quell             [kwel]                vt.  压制,平息,减轻
 quilt             [kwilt]               n.  棉被; vt.  制成棉被
 racing            ['reisiŋ]             n.  比赛，竞赛; a.  比赛的
 racket            ['rækit]              n.  (网球等的)球拍
+radius            ['reidjəs]            n.  半径,范围,辐射光线
 raft              [rɑ:ft;  US ræft]     n.  木筏
 rainfall          ['reinfɔ:l]           n.  降雨; 降雨量
+ransom            ['rænsəm]             n.  赎金,赎身,勒索,敲诈,赎回vt.  赎,赎身,赎回,勒索赎金
+rapacious         [rə'peiʃəs]           a.  强夺的,贪欲的,贪婪的
+rapture           ['ræptʃə]             n.  兴高采烈,着迷,欢天喜地,狂喜vt.  使狂喜
+rashly            ['ræʃli]              ad.  轻率地,无见识地
+ravage            ['rævidʒ]             n.  破坏,蹂躏vt. vi.  毁坏,破坏,掠夺
+ravenous          ['rʌvinəs]            a.  贪婪的,饿极的,渴望的,狼吞虎咽的
+ravish            ['ræviʃ]              vt.  强夺,从人间夺走,使出神,强奸
 rayon             ['reiɔn]              n.  人造丝，人造纤维
+raze              [reiz]                vt.  毁灭,刮去,把. . . 夷为平地,破坏,抹去,消除
+rebate            ['ribeit]             n.  减少,折扣vt.  减少,打折扣vi.  给回扣,打折扣
+rebuke            [ri'bju:k]            n.  指责,谴责,非难vt.  斥责,指责,非难
 receptacle        [ri'septəkl]          n.  容器
 receptor          [ri'septə]            n.  【生理】感受器
+recluse           [ri'klu:s]            a.  隐遁的,寂寞的n.  隐遁者,遁世者
+recoil            [ri'kɔil]             n.  畏缩,后退,后座力,反作用,弹回vi.  退却,畏缩,弹回,报应,反冲,撤退
+recollection      ['rekə'lekʃən]        n.  记忆,回想,回忆
+rectangle         ['rektæŋgl]           n.  长方形,矩形
 reddish           ['rediʃ]              a.  微红的
+redeem            [ri'di:m]             vt.  赎回,挽回,恢复,补偿,履行,偿还
+redress           [ri'dres]             n.  赔偿,救济,矫正vt.  纠正,赔偿,重新调整,重新穿衣,救济
 reef              [ri:f]                n.  礁，暗礁
+refined           [ri'faind]            a.  精炼的,优雅的,精细的
 refreshing        [ri'freʃiŋ]           a.  使人耳目一新的; 提神的
 refrigerate       [ri'fridʒəreit]       vt.  冷藏; 使变冷
 refurbish         [`ri:'fə:biʃ]         vt.  重新装饰
 regenerate        [ri'dʒenəreit]        vt.  使恢复
+regimen           ['redʒə'men]          n.  摄生,养生法,食物疗法
+reimburse         ['riim'bə:s]          vt.  付还,偿还,赔偿
+reiterate         [ri:'itəreit]         vt.  反复地说,重申,反复地做
 rejuvenate        [ri'dʒu:vəneit]       vt.  使恢复活力
+relapse           [ri'læps]             n.  复旧,故态复萌,再发,恶化vi.  故态复萌,再陷邪道,再度堕落
 relatively        ['relətivli]          ad.  相对地; 相当地
+relieved          [ri'li:vd]            adj.  宽心的
+relinquish        [ri'liŋkwiʃ]          vt.  放弃,撤回,让与,放手
 remains           [ri'meinz]            n.  剩余，残余; 遗骸
+remit             [ri'mit]              vt.  宽恕,赦免,免除,汇出,缓和,减轻,提交,传送vi.  缓和,汇款n.  移交
 remodel           [ri:'mɔdl]            v.  重新塑造，改造
+rend              [rend]                vt.  分裂,劈开,响彻,撕碎,强夺vi.  撕开,裂开
+renounce          [ri'nauns]            vt.  拒绝,放弃,否认,垫牌vi.  垫牌,放弃权利n.  垫牌
 repertory         ['repətri;  US -tɔ:ri n.  保留剧目
+replenish         [ri'pleniʃ]           vt.  重新补足,再装满vi.  再装满,充满
 replicate         ['replikeit]          v.  复制
 reptile           ['reptail;  US -tl]   n.  爬行动物
+repudiate         [ri'pjudieit]         vt.  离婚,抛弃,拒绝履行,拒付,拒绝
+repulse           [ri'pʌls]             n.  击退,拒绝vt.  厌恶,击退,拒绝
+repulsive         [ri'pʌlsiv]           a.  逐退的,可恶的,冷淡的,排斥的
+residue           ['rezidju]            n.  残渣,剩余,余数
 resin             ['rezin;  US 'rezn]   n.  树脂
+resolved          [ri'zɔlvd]            a.  下定决心的,断然的
+resonance         ['reznəns]            n.  共鸣,回声,共振,谐振,反响
+respiration       ['respə'reiʃən]       n.  呼吸,一口气,呼吸作用
 restricted        [ri'striktid]         a.  受约束的，限制的
+retard            [ri'ta:d]             n.  阻止,延迟vt.  妨碍,延迟,迟缓vi.  减速,延迟
+retract           [ri'trækt]            vt. vi.  缩回,收回,取消,撤消
+revere            [ri'viə]              vt.  崇敬,敬畏,尊敬
+reverence         ['revərəns]           n.  尊敬,敬重,威望,尊严vt.  崇敬,敬畏,尊敬
+revert            [ri'və:t]             vi.  恢复,复归,回复vt.  使颠倒,使回转n.  恢复原信仰的人
 revitalize        [ri:'vaitəlaiz]       v.  使恢复生机
+revoke            [ri'vəuk]             vt.  撤回,废除vi. n.  有牌不跟
 rhinoceros        [rai'nɔsərəs]         n.  犀牛
 rhyme             [raim]                n.  韵，押韵; v.  押韵
+rite              [rait]                n.  仪式,典礼,礼拜式,惯例,习俗
 roam              [rəum]                vi.  漫游，漫步
 rodent            ['rəudənt]            n.  啮齿目动物(如松鼠或海狸)
 rodeo             [rəu'deiəu;  US 'rəud n.  牛仔竞技表演
 roe               [rəu]                 n.  雌鱼腹中的鱼卵
+rudimentary       ['ru:di'mentəri]      adj.  1 基本的;  初步的2[生物]未发达的;  早期的,形成期的;  发育不
+rugged            ['rʌgid]              a.  高低不平的,崎岖的,粗糙的
+rumble            ['rʌmbl]              n.  隆隆声,辘辘声vi.  发隆隆声,辘辘响vt.  使隆隆响,低沉地说
+ruminate          ['r:mineit]           vt. vi.  反刍,沉思
+rupture           ['rʌptʃə]             n.  破裂,断裂,敌对,决裂,裂开vt. vi.  (使)破裂
+rustic            ['rʌstik]             n.  乡下人,村夫,农民a.  乡村的,纯朴的,手工粗糙的
 sac               [sæk]                 n.  【生】囊，液囊
 salamander        ['sæləmændə]          n.  火蜥蜴
 salient           ['seiliənt]           a.  显著的，突出的
+sallow            ['sælou]              a.  灰色的,苍白的,气色不好的vt. vi.  (使)成菜色n.  柳属植物,柳枝
+sanity            ['sænəti]             n.  神智健全,头脑清楚,健全
 sapphire          ['sæfaiə]             n.  蓝宝石
+sardonic          [sa:'dɔnik]           a.  嘲笑的,冷笑的,讥讽的
+satiate           ['seiʃieit]           vt.  使饱足,使厌腻,使充分满足a.  饱足的,吃饱的
 satiric           [sə'tirik]            a.  (=satirical)讽刺的
 Saturn            ['sætən]              n.  土星
+savings           ['seiviŋz]            n.  储金
+savor             ['seivə]              n.  1 味,香味; 风味2  情趣,趣味,兴趣,刺激 ɔ vt.   (慢慢地) 品尝
+scanty            ['skænti]             a.  缺乏的,仅有的,节省的,狭小的,不够的
 scarf             [skɑ:f]               n.  围巾，披巾
 scavenger         ['skævindʒə]          n.  清道夫; 食腐动物
+scoop             [sku:p]               n.  铲子,勺子,独家新闻,口,穴vt.  汲取,舀取,挖空,抢先登出
+scorch            [skɔ:tʃ]              n.  烧焦,枯黄vt. vi.  烧焦,拷焦,(使)枯萎,讽刺
 scruffy           ['skrʌfi]             a.  不整洁的
+scruple           ['skru:pl]            n.  踌躇,犹豫,微量vi.  踌躇,有顾忌
+scrupulous        ['skru:pjuləs]        a.  小心谨慎的,细心的
 scuba             ['sku:bə]             n.  水中呼吸器
 sculpt            [skʌlpt]              vt.  雕刻
 scurry            ['skʌri]              v.  急跑
+sear              [siə]                 a.  枯萎的,烤焦的vt.  烤焦,使枯萎vi.  凋谢,干枯
+seasoning         ['sizəniŋ]            n.  1 a.  (U) 调味b.  (C) 调味品,佐料,香辣调味料2 (C) 增添趣味的东
+seclusion         [si'kluʒən]           n.  隔离,孤立,隐退
+secrete           [si'kri:t]            vt.  隐秘,隐藏,隐匿,分泌
+secretion         [si'kriʃən]           n.  分泌,分泌物,分泌液
+sedate            [si'deit]             a.  沉着的,镇静的,安静的vt.  给. . . 服镇静剂
 sedentary         ['sedntri;  US -teri] a.  土生的，不移栖的
+sediment          ['sedimənt]           n.  沉淀物,沉积
 seep              [si:p]                v.  漏出，渗漏
 seismic           ['saizmik]            a.  地震(引起)的
 seismograph       ['saizməgrɑ:f;  US -g n.  地震仪
 seismology        [saiz'mɔlədʒi]        n.  地震学
 sensory           ['sensəri]            a.  感觉的; 感官的
+sensuous          ['senʃuəs]            a.  感觉上的,给人美感的
 sequoia           [si'kwɔiə]            n.  美洲杉
+serene            [si'ri:n]             a.  宁静的,沉着的,安详的,晴朗的n.  晴朗,平静
+serenity          [si'reniti]           n.  宁静,沉着,晴朗
+sermon            ['sə:mən]             n.  说教,训诫,布道
+sever             ['sevə]               vt.  切断,脱离,分开,中断,断绝,使分离vi.  断,裂开,被分开
 sewage            ['su:idʒ]             n.  污水，污物
+shackle           ['ʃækl]               n.  桎梏,束缚物vt.  加桎梏,加枷锁,束缚
 sharply           ['ʃɑ:pli]             ad.  急剧地
+shear             [ʃiə]                 n.  修剪,剪下的东西,羊的一岁,大剪刀,切,剪,切变vt.  修剪,割,砍,切,
+sheathe           [ʃið]                 vt.  插入鞘,覆盖
 shovel            ['ʃʌvl]               n.  铲子; 挖掘机; v.  铲
 shroud            [ʃraud]               vt.  隐藏
+shuffle           ['ʃʌfl]               n.  拖着脚走,曳步,洗纸牌,蒙混vt. vi.  拖曳,搅乱,洗牌,推诿,慢吞吞地
+shun              [ʃʌn]                 vt.  避开,规避,避免
 sieve             [siv]                 n.  筛子，漏勺; v.  筛，滤
 significantly     [sig'nifikəntli]      ad.  值得注目地; 相当地
+silica            ['silikə]             n.  硅石,无水硅酸,硅土
+silly             ['sili]               a.  愚蠢的,糊涂的
 silt              [silt]                n.  淤泥
 simmer            ['simə]               v.  充满难以控制的(怒火等)
+simultaneously    [saiməl'teiniəsli]    adv.  1 同时地2 同时地[with]
+singe             [sindʒ]               vt. vi.  烧焦,烤焦
 sinuous           ['sinjuəs]            a.  蜿蜒的
 situated          ['sitjueitid;  US 'si a.  坐落在…的
 skeletal          ['skelitl]            a.  骨胳的，骸骨的
+skimpy            ['skimpi]             a.  不足的,吝啬的
+slacken           ['slækən]             vt.  使松弛,放松,放慢vi. 变松驰,减弱,呆滞
+slag              [slæg]                n.  熔渣,铁屑,矿渣vt.  使变成熔渣vi.  变熔渣
+slander           ['sla:ndə]            n.  中伤,诽谤vt.  中伤,诽谤
+slant             [sla:nt]              n.  倾斜,斜面,歪曲,偏见,观点a.  倾斜的vt. vi.  (使)倾斜
 sled              [sled]                n.  雪橇
 sledding          ['slediŋ]             n.  滑雪
 slog              [slɔg]                v.  艰难行进
+sloppy            ['slɔpi]              a.  被泼水弄湿的,泥泞的,多阴雨的,粗心的
 sloth             [sləuθ]               n.  树獭
+slovenly          ['slʌvənli]           adj.  不修边幅的,邋遢的,懒散的 adv.  不修边幅地,懒散地 n.  -liness
+slug              [slʌg]                n.  鼻涕虫,懒汉,子弹,金属小块vi.  偷懒,捕鼻涕虫vt.  插嵌片于
+sluggish          ['slʌgiʃ]             a.  偷懒的,懒惰的,迟钝的
 slumber           ['slʌmbə]             n. [常pl.  ]睡眠
+sly               [slai]                a.  狡猾的,诡密的,淘气的,偷偷摸摸的
+smear             [smiə]                vt.  涂,擦上,玷污,抹擦使变模糊vi.  被弄脏n.  污点,污迹,污蔑
 smoothly          ['smu:ðli]            ad.  顺利地; 平稳地
+smother           ['smʌðə]              vt.  使喘不过气,使窒息,闷熄,覆盖,抑制,忍住vi.  窒息,被抑制n.  浓烟
+snag              [snæg]                n.  残干,根株,断牙,意外障碍vt.  阻碍,抢到,清除障碍物
+sneer             [sniə]                n.  冷笑,嘲笑vi.  嘲笑,冷笑vt.  嘲笑着说,嘲笑着使
 snowflake         ['snəufleik]          n.  雪花
+sojourn           ['sɔdʒə:n]            n.  逗留,旅居vi.  逗留,旅居
 solder            ['sɔldə;  US 'sɔdər]  v.  焊接
+solicitous        [sə'lisitəs]          a.  热心的,渴望的,热切期望的
+solidly           ['sɔlidli]            adv.  坚硬地, 稳固地
 soprano           [sə'prɑ:nəu;  US -'pr n.  女高音
 soybean           ['sɔibi:n]            n.  大豆
 sparse            [spɑ:s]               a.  稀疏的，稀少的
+spawn             [spɔ:n]               n.  卵,鱼卵vt.  产卵,酿成vi.  产卵
 specialized       ['speʃəlaizd]         a.  专门的; 专业的
+spew              [spju:]               vi.  呕吐,喷涌vt.  呕出,喷n.  呕吐物,喷涌物
+spineless         ['spainlis]           a.  无脊椎的,没有骨气的,懦弱的
 spinning          ['spiniŋ]             a.  旋转的; n.  纺纱
 spiny             ['spaini]             a.  长满刺的，带刺的
+spleen            [spli:n]              n.  脾脏,坏脾气,怨恨
+sporadic          [spəu'rædik]          a.  偶尔发生的,零星发生的,分散的
+spout             [spaut]               n.  喷口vt.  喷出,喷射,滔滔不绝说出,典押vi.  喷射,高谈阔论
+sprout            [spraut]              n.  芽,萌芽vt.  使发芽,摘去芽vi.  长芽,抽条
 spun              [spʌn]                a.  拉成丝的
+spurt             [spə:t]               n.  喷射,冲刺vt.  喷射vi.  喷出,迸发,冲刺
+squabble          ['skwɔbl]             vi.  争吵,口角n.  争吵,口角
+squander          ['skwɔndə]            vt.  浪费,使分散vi.  浪费,漂泊,四散
+squash            [skwɔʃ]               n.  压碎的东西,南瓜,拥挤嘈杂的人群vt.  压扁,镇压,压制vi. 被压扁,发
+squeak            [skwi:k]              n.  吱吱声,机会vi.  吱吱叫,告密,侥幸成功vt.  以短促尖声发出
 squid             [skwid]               n.  鱿鱼
 squirrel          ['skwirəl;  US 'skwə: n.  松鼠
 squirt            [skwə:t]              vi.  喷出
 stagecoach        ['steidʒkəutʃ]        n.  公共马车
 staggered         ['stægəd]             a.  交错的
 staggering        ['stægəriŋ]           a.  巨大的; 势不可挡的
+stamina           ['stæmənə]            n.  精力,活力,耐力,stamen的复数
 starch            [stɑ:tʃ]              n.  淀粉; [pl.  ]淀粉类食物
 startling         ['stɑ:tliŋ]           a.  惊人的
 stash             [stæʃ]                vt.  藏匿
+statistics        [stə'tistiks]         n.  统计学,统计表
 stature           ['stætʃə]             n.  身材; 地位
+steadfast         ['stedfəst]           a.  坚定的,踏实的,固定的,不变的
 stellar           ['stelə]              a.  恒星的
 stereo            ['steriəu]            n.  立体声系统(装置); a.  立体声的
+sterile           ['sterail]            a.  不毛的,不孕的,无菌的,枯燥的,无效的,贫瘠的
 stew              [stju:;  US stu:]     n.  炖(煨或焖)的食物; v.  炖，焖
+stingy            ['stindʒi]            a.  小气的,吝啬的,缺乏的,有刺的
+stocky            ['stɔki]              a.  矮胖的,健壮结实的
+stodgy            ['stɔdʒi]             a.  不易消化的,塞满的,笨重的,庸俗的,平凡的
 stratum           ['strɑ:təm;  US 'stre n. [pl.  strata]地层
+strenuous         ['strenjuəs]          a.  奋发的,热心的,热烈的,紧张的
+stringent         ['strindʒənt]         a.  迫切的,严厉的,银根紧的
+stunt             [stʌnt]               n.  特技,绝技,花招,噱头,矮小物,发育迟缓,手腕vt.  阻碍成长vi.  表演
 stylistic         [stai'listik]         a.  格式上的，体裁上的
 stylized          ['stailaizd]          a.  风格化的，程式化的
 subdue            [səb'dju:;  US 'du:-] v.  制服，征服
+subjection        [səb'dʒekʃən]         n.  征服,服从,隶属
+sublimate         ['sʌblimeit]          vt.  使升华,使高尚vi.  升华,纯化a.  纯净化的,高尚的,理想化的,气质
 subsist           [səb'sist]            vi.  存活，生存
 subspecies        ['sʌbspi:ʃi:z]        n.  【生】亚种
+substantiate      [səb'stænʃieit]       vt.  使实体化,证实
+substantive       ['sʌbstəntiv]         a.  表示实在的,有实质的,独立的n.  实词,名词
+subvert           [səb'və:t]            vt.  推翻,颠覆,毁灭
+succinct          [sək'siŋkt]           a.  简洁的,紧身的
+succumb           [sə'kʌm]              vi.  屈从,屈服,死
 suffragist        ['sʌfrədʒist]         n.  妇女政权论者
+suffuse           [sə'fjuz]             vt.  遍布,弥漫,充满
+sullen            ['sʌlən]              a.  愠怒的,沉沉不乐的,阴沉的
 sunlit            ['sʌnlit]             a.  阳光照射的
+supersede         ['sjupə'si:d]         vt.  代替,取代,接替
+supplant          [sə'pla:nt]           vt.  排挤掉,代替
+supple            ['sʌpl]               a.  柔软的,逢迎的,顺从的vt.  使柔软,使顺从
+surmise           [sə:maiz]             n.  推测,猜测vt. vi.  推测,臆测
+surmount          [sə:'maunt]           vt.  战胜,超越,克服
 sustained         [sə'steind]           a.  持续的
+sustenance        ['sʌstənəns]          n.  生计,食物
 swan              [swɔn]                n.  天鹅
+swarm             [swɔ:m]               n.  群,大群,蜂群vi.  群集,聚集一块,云集,爬树vt.  挤满,爬(树)
 sweeping          ['swi:piŋ]            a.  彻底的，广泛的
 syllable          ['siləbl]             n.  音节
+synchronize       ['siŋkrə'naiz]        vt.  使同步,使合拍vi.  同时发生
+synopsis          [si'nɔpsis]           n.  概要,摘要,大意
 syrup             ['sirəp]              n.  糖浆，果汁
+tacit             ['tæsit]              a.  沉默寡言的,心照不宣的,缄默的
+tactics           ['tæktiks]            n.  用兵学,战术,兵法
+tally             ['tæli]               n.  符木,记账,得分,比分,计数器,对应物,符合,标签vt.  点数,计算,使符
+tamper            ['tæmpə]              vi.  干预,玩弄,贿赂,窜改,削弱,损害vt.  窜改n.  捣棒,夯,填塞者
+tantalize         ['tæntl'aiz]          vt.  逗弄,使干着急
+tardy             ['ta:di]              a.  慢的,迟钝的,迟到的,迟的,拖拉的
+tarnish           ['tɑ:niʃ]             n.  晦暗,玷污,污点vt.  使失去光泽,玷污vi.  失去光泽,被玷污
+taunt             [tɔ:nt]               n.  辱骂,嘲弄vt.  嘲弄,奚落a.  很高的
 tectonics         [tek'tɔniks]          n.  构造地质学
 tedium            ['ti:diəm]            n.  单调乏味
+teem              [ti:m]                vi.  充满,富于,涌现,倾注vt.  倒出
 telegraph         ['teligrɑ:f;  US -græ n.  电报(机)
+temperance        ['tempərəns]          a.  温暖的,温和的,有节制的
+temperate         ['tempərit]           a.  温和的,适度的,有节制的
+tenacious         [ti'neiʃəs]           a.  紧粘不放的,固执的,紧握的,不屈不挠的
 tendon            ['tendʌn]             n.  肌腱
 tenement          ['tenəmənt]           n.  廉租公寓
 tentacle          ['tentəkl]            n.  触角，触须
+tenuous           ['tenjuəs]            a.  稀薄的,微细的,纤细的,脆弱的
+tepid             ['tepid]              a.  微温的,温热的,不太热心的
 terminology       [`tə:mi'nɔlədʒi]      n.  术语; 术语学
 terrestrial       [tə'restriəl]         a.  陆地的，陆生的; 地球的
+thaw              [θɔ:]                 n.  融雪,融化,温暖气候vt.  使融解,使缓和vi.  融化,解冻
+throng            [θrɔŋ]                n.  群,人群,群集,众多a.  拥挤的,忙的vi.  群集,蜂拥vt.  挤入,挤满
+thump             [θʌmp]                n.  重打,重击声vt. vi.  重打,砰地撞到,用拳头打
 thwart            [θwɔ:t]               vt.  阻碍
+tilted            [tiltid]              adj.  倾斜的
+tingle            ['tiŋgl]              vi.  兴奋,激动,感到刺痛,抖动vt.  使感刺痛n.  刺痛,震颤,耳鸣
+tint              [tint]                n.  色彩,浅色vt.  染色于
+titanic           [tai'tænik]           a.  四价钛的
 topography        [tə'pɔgrəfi]          n.  地形
 topsoil           ['tɔpsɔil]            n.  表层土
+torment           ['tɔ:ment,tɔ:'ment]   n.  苦痛,拷问vt.  使苦恼,搅动,歪曲,拷问
+torpid            ['tɔ:pid]             a.  麻痹的,迟缓的,迟钝的,蛰伏的
 torrent           ['tɔrənt;  US 'tɔ:r-] n.  迸发
+torturous         ['tɔ:tʃərəs]          a.  拷问的,痛苦的
+touching          ['tʌtʃiŋ]             n.  触摸a.  动人的,悲惨的
+touchy            ['tʌtʃi]              a.  易怒的,难以取悦的,过敏的
 towering          ['tauəriŋ]            a.  高耸的
+tractable         ['træktəbl]           a.  易于管教的
+traitor           ['treitə]             n.  叛逆者,叛国者
+trample           ['træmpl]             n.  踩踏,蹂躏vt. vi.  践踏,轻视
+transact          [træn'zækt]           vt.  办理,处理,执行vi.  作交易,谈判
+transfix          [træns'fiks]          vt.  刺穿,使呆住
+transitory        ['trænsitəri]         a.  暂时的,短暂的,昙花一现的
 translucent       [trænz'lu:snt]        a.  (半)透明的
+transpire         [træns'paiə]          vt.  使蒸发,使排出vi.  蒸发,发散,泄露
+traverse          ['trævə:s]            n.  横贯,横木,反驳,否认vt.  横过,穿过,经过,在. . . 来回移动,反对vi
+treason           ['tri:zn]             (U)  (对国家、君主) 叛逆 (罪)
+tremor            ['tremə]              n.  震动,颤动
+trepidation       [trepi'deiʃən]        n.  恐惧,惊惶,忧虑
 tributary         ['tribjutri;  US -ter n.  支流; a.  支流的
+trifling          ['traifliŋ]           a.  些许的,不足道的,不足取的
+trot              [trɔt]                n.  快步vi.  快步走,小跑步走vt.  使小跑
 troupe            [tru:p]               n.  剧团
+trudge            [trʌdʒ]               n.  沉重的步伐,长途跋涉vi.  沉重地走,蹒跚地走vt.  跋涉
 tundra            ['tʌndrə]             n.  苔原; 冻土地带
 turnpike          ['tə:npaik]           n.  收费公路
+twig              [twig]                n.  小枝,末梢vt. vi.  注意,了解
 twine             [twain]               n.  细绳
 twinkling         ['twiŋkliŋ]           a.  闪光的
 tycoon            [tai'ku:n]            n.  (商界)巨头
 ultimatum         [`ʌlti'meitəm]        n.  最后通牒
 ultraviolet       [`ʌltrə'vaiəlit]      a.  紫外(线)的
 unaided           [ʌn'eidid]            a.  无助的; 独立的
+unanimity         [junə'niməti]         n.  无异议,同意,一致
+unbecoming        [ʌnbi'kʌmiŋ]          a.  不适合的,不得体的,不相配的
+unbiased          [ʌn'baiəst]           a.  没有偏见的
+unblemished       [ʌn'blemiʃt]          a.  无瑕疵的,无缺点的,无污点的,清白的
+uncanny           [ʌn'kæni]             a.  怪诞的,可怕的,离奇的,神秘的
+unconscious       [ʌn'kɔʃəs]            a.  无意识的
 unconsolidated    [`ʌnkən'sɔlideitid]   a.  松散的，疏松的
+unconventional    [ʌnkən'venʃənl]       a.  非传统的
+undaunted         [ʌn'dɔ:ntid]          a.  大无畏的,勇敢的
 underscore        [`ʌndə'skɔ:(r)]       v.  强调
+unearth           [ʌn'ə:θ]              vt.  发掘,掘出,发现,揭露,从洞中赶出
 uneven            [`ʌn'i:vn]            a.  不平均的，不均匀的
+unfair            ['ʌn'fεə]             a.  不公平的,不正直的,不正当的
+unfortunately     [ʌn'fɔ:tʃənətli]      adv.  1 (无比较级、最高级)[修饰整句]不幸地,倒楣地,不巧地,遗憾地2
 unparalleled      [ʌn'pærəleld]         a.  空前的; 无比的
 unpredictable     [`ʌnpri'diktəbl]      a.  不可预知的
 unravel           [ʌn'rævəl]            v.  弄清楚
+unruly            [ʌn'ru:li]            a.  难控制的,无法无天的,任性的
+unseemly          [ʌn'si:mli]           a.  不体面的,不相配的,不好看的
+unshaken          [ʌn'ʃeikən]           a.  坚决的,不动摇的,泰然自若的
 unsubstantiated   [`ʌnsəb'stænʃieitid]  a.  未经证实的
 untamed           [ʌn'teimd]            a.  难控驭的
 untapped          [`ʌn'tæpt]            a.  未使用的
 upheaval          [ʌp'hi:vl]            n.  剧变
 uppermost         ['ʌpəməust]           a.  最高的
+uproar            ['ʌprɔ:]              n.  喧嚣,骚动
 utilitarian       [`ju:tili'teəriən]    a.  实用的; 功利(主义)的
 vacate            [və'keit]             vt.  腾出，空出
+valiant           ['væljənt]            a.  英勇的n.  勇敢的人
+valor             ['vælə]               n.  英勇,刚勇,勇猛
+vanquish          ['væŋkwiʃ]            vt.  打败,征服,克服
 varied            ['veərid]             a.  各式各样的
+varnish           ['va:niʃ]             n.  油漆,清漆,掩饰,光泽面vt.  粉饰,涂油漆于,装饰,使有光泽
 vascular          ['væskjulə(r)]        a.  血管的，脉管的
+vault             [vɔ:lt]               n.  窖,地下室,撑竿跳,圆顶vt.  做成圆拱形,撑竿跳跃vi.  成穹状弯曲,
+vehemence         ['vi:iməns]           n.  热烈,激烈
+vehement          ['vi:imənt]           a.  热烈的,激烈的
+venerate          ['venəreit]           vt.  尊敬,崇敬,崇拜
 vertebrate        ['və:tibreit]         n.  脊椎动物; a.  有脊柱的
+vestige           ['vestidʒ]            n.  遗迹,痕迹,退化的器官,丝毫,残余
+vex               [veks]                vt.  使烦恼,恼怒
+vigilant          ['vidʒilənt]          a.  警醒的,警戒着的,警惕的
+vindicate         ['vindikeit]          vt.  辩护,表白,维护
 violently         ['vaiələntli]         ad.  猛(激)烈地，极端地
 viral             ['vaiərəl]            a.  病毒(性)的
+vulgarity         [vʌl'gærəti]          n.  粗俗,粗鄙,粗话
+waddle            ['wɔdl]               vi.  1  <鸭、鹅等> 摇摇摆摆地走,蹒跚地走2  <肥胖者等>  (如鸭子般)
+wade              [weid]                vi.  跋涉vt.  涉水n.  跋涉,浅滩
+wag               [wæg]                 vt.  摇摆,摇动,饶舌vi.  摆动,喋喋不休n.  摇摆,小丑
+wand              [wɔnd]                n.  棒,棍,杖
 wane              [wein]                v.  衰退
+warily            ['werəli]             ad.  留心地,小心地
 warp              [wɔ:p]                n.  (织物的)经(线)
 wasp              [wɔsp]                n.  黄蜂
 watercourse       ['wɔ:təkɔ:s]          n.  水道，河道
+waver             ['weivə]              n.  动摇,踌躇,挥动者vi.  摇摆,颤抖,犹豫,摇曳
 weathering        ['weðəriŋ]            n.  侵蚀，风化
+wheedle           ['hwi:dl]             vt.  以甜言蜜语诱惑,用甜言蜜语骗,vi.  哄骗
+whim              [wim]                 n.  一时的兴致,幻想,反复无常,怪念头
+whir              [wə:]                 n.  呼呼声,飕飕声vi.  作呼呼声,发飕飕声vt.  使呼呼响
+whit              [wit]                 n.  些微,一点点
 wick              [wik]                 n.  (蜡烛、灯)芯
 willful           ['wilfl]              a.  任性的
 willow            ['wiləu]              n.  柳，柳树，柳木制品
 wispy             ['wispi]              a.  像小束状的，纤细的
+wistful           ['wistful]            a.  渴望的,想望的
+worldly           ['wə:ldli]            a.  世间的,世俗的,世上的
+wrath             [rɔ:θ]                n.  愤怒,激怒,猛烈的力量,神谴
+wring             ['riŋ]                n.  扭绞,拧,挤,榨vt.  拧,绞,扭,榨取,使痛苦,折磨,勒索vi.  蠕动,扭动
+wry               [rai]                 a.  扭歪的,歪曲的,歪斜的; vt. vi.  扭曲,扭歪
 X-ray             ['eksrei]             n.  X射线，X光
 yarn              [jɑ:n]                n.  纱，纱线
 yeast             [ji:st]               n.  酵母，发酵粉
+yelp              [jelp]                n.  叫吠,叫喊声vi.  叫吠,叫喊vt.  叫喊着说
+yen               [jen]                 n.  日圆,瘾vi.  渴望
 yogurt            ['jɔgət;  US 'jəugərt n.  酸奶(酪)
 zinc              [ziŋk]                n.  锌
