@@ -909,7 +909,7 @@ disband           [dis'bænd]            vt.  解散,使退伍vi.  解散
 disburse          [dis'bə:s]            vt.  支付,支出,分配
 discard           [dis'ka:d]            vt.  丢弃,抛弃,解雇vi.  垫牌n.  垫牌,抛弃
 discern           [di'sə:n]             vt. vi.  辨别,看清楚
-discernible       [di'sə:nəbl, -'zə:-]  adj.  可分别的
+discernible       [di'sə:nəbl]          adj.  可分别的
 discharge         [dis'tʃa:dʒ]          vt.  卸下,放出,解雇,放电,履行,拔染vi.  卸货,流注n.  卸货,流出,放电
 disciple          [di'saipl]            n.  弟子,门徒
 disclaim          [dis'klem]            vt. vi.  放弃,弃权,拒绝
@@ -1138,7 +1138,7 @@ eventual          [i'ventjuəl]          a.  最后的,终于的,可能的
 evidence          ['evidəns]            n.  证据,迹象
 evident           ['evidənt]            a.  显然的,明显的
 evoke             [i'vəuk]              vt.  唤起,引起
-evolutionary      ['i:və'lu:ʃnəri,'evə- adj.  1 进化论的2 展开 [进展] 的;  演变 [演化] 的
+evolutionary      ['i:və'lu:ʃnəri]      adj.  1 进化论的2 展开 [进展] 的;  演变 [演化] 的
 evolve            [i'vɔlv]              vi.  进展,进化,展开vt.  使发展,推论,使进化
 exacting          [ig'zæktiŋ]           a.  苛求的,吃力的
 exaggerate        [ig'zædʒəreit]        vt. vi.  夸大,夸张
@@ -2875,7 +2875,7 @@ absolutely        ['æbsəlu:tli]         adv.  完全地; 绝对地
 academy           [ə'kædəmi]            n.  研究会，学术团体; 专门院校
 accessible        [ək'sesəbl]           a.  易接近的; 可得到的; 可进入的
 accessory         [ək'sesəri]           n.  附件，零件
-accomplish        [ə'kʌmpliʃ;  US ə'kɔm vt.  达到; 完成; 实现
+accomplish        [ə'kʌmpliʃ]           vt.  达到; 完成; 实现
 accord            [ə'kɔ:d]              n.  一致，符合
 accuracy          ['ækjərəsi]           n.  准确(性)，精确(性)
 accustom          [ə'kʌstəm]            v.  使习惯于
@@ -2890,7 +2890,7 @@ admission         [əd'miʃən]            n.  准许进入; 入场费; 承认
 adobe             [ə'dəubi]             n.  泥砖，土坯
 adolescence       [`ædə'lesns]          n.  青春期
 adorn             [ə'dɔ:n]              vt.  装饰，装扮
-advanced          [əd'vɑ:nst;  US əd'væ a.  先进的; 高级的
+advanced          [əd'vɑ:nst]           a.  先进的; 高级的
 advent            ['ædvənt]             n.  到来，出现
 adventure         [əd'ventʃə(r)]        n.  奇遇; 冒险活动
 advertise         ['ædvətaiz]           v.  为…做广告，宣传
@@ -2906,7 +2906,7 @@ allergy           ['ælədʒi]             n.  过敏症
 allocation        [`ælə'keiʃn]          n.  配给，分配
 alloy             ['ælɔi]               n.  合金;  vt.  使成合金
 alphabet          ['ælfəbet]            n.  字母表
-altitude          ['æltitju:d;  US -tu: n.  (海拔)高度; [常pl.  ]海拔甚高的地方
+altitude          ['æltitju:d]          n.  (海拔)高度; [常pl.  ]海拔甚高的地方
 amid              [ə'mid]               prep.  在…中
 amino             [ə'mi:nəu]            a.  氨基的
 ammonia           [ə'məuniə]            n.  氨，氨水
@@ -2932,15 +2932,15 @@ aquarium          [ə'kweəriəm]          n.  养鱼池; 水族馆
 aquatic           [ə'kwætik]            a.  水生的; 水中(上)的
 archaeology       [`ɑ:ki'ɔlədʒi]        n.  考古学
 architect         ['ɑ:kitekt]           n.  建筑师
-articulate        [ɑ:'tikjulət; ɑ:'tikj a.  有关节的; vt.  明确有力地表达
+articulate        [ɑ:'tikjulət]         a.  有关节的; vt.  明确有力地表达
 artifact          ['ɑ:tifækt]           n.  人工制品; [常pl.  ]史前古器物
 artificial        [`ɑ:ti'fiʃl]          a.  人造的; 假的
-artisan           [`ɑ:ti'zæn;  US 'ɑ:rt n.  工匠，手艺人
+artisan           [`ɑ:ti'zæn]           n.  工匠，手艺人
 artistic          [ɑ:'tistik]           a.  艺术(家)的
 ascending         [ə'sendiŋ]            a.  上升的，向上的
 ascribe           [ə'skraib]            vt.  (to)把…归于
 assign            [ə'sain]              v.  指派; 分配; 布置(作业)
-assume            [ə'sju:m;  US ə'su:m] vt.  假定; 承担
+assume            [ə'sju:m]             vt.  假定; 承担
 asteroid          ['æstərɔid]           n.  小行星
 atomic            [ə'tɔmik]             a.  原子的; 原子能的
 attach            [ə'tætʃ]              vt.  连接; 贴上，依附于
@@ -2953,7 +2953,7 @@ auction           ['ɔ:kʃn]              n.  拍卖
 audio             ['ɔ:diəu]             a.  音频的; 声音的
 automatic         [`ɔ:tə'mætik]         a.  自动的
 automobile        ['ɔ:təməbi:l]         n.  汽车
-avenue            ['ævənju:;  US -nu:]  n.  途径; 大街
+avenue            ['ævənju:]            n.  途径; 大街
 aviation          [`eivi'eiʃn]          n.  航空，航空学; 飞行
 aware             [ə'weə(r)]            a.  知道的; 意识到的
 awareness         [ə'weənis]            n.  知道，注意
@@ -2991,12 +2991,12 @@ boost             [bu:st]               vt.  提高，推进
 boulder           ['bəuldə(r)]          n.  大石头
 bounce            [bauns]               v. n.  (使)弹，(使)反弹
 brand             [brænd]               n.  商标
-brass             [brɑ:s;  US bræs]     n.  黄铜(器); 铜管乐器
+brass             [brɑ:s]               n.  黄铜(器); 铜管乐器
 breakthrough      ['breikθru:]          n.  突破
 brief             [bri:f]               a.  简短的，短暂的
 brilliance        ['briliəns]           n.  光辉; 显赫
 brilliant         ['briliənt]           a.  闪耀的; 杰出的
-brochure          ['brəuʃə(r);  US brəu n.  小册子
+brochure          ['brəuʃə(r)]          n.  小册子
 bronze            [brɔnz]               n.  青铜
 brush             [brʌʃ]                n.  毛笔; v.  刷，拂
 bubble            ['bʌbl]               n.  (气、水)泡; v.  起泡
@@ -3008,7 +3008,7 @@ bulb              [bʌlb]                n.  植物的球茎，球形物; 灯泡
 bulletin          ['bulətin]            n.  简明新闻; 公告
 bump              [bʌmp]                v.  撞(破); n.  肿块
 bundle            ['bʌndl]              n.  捆，束; vt.  捆
-bureau            ['bjuərəu;  US 'bjurə n.  局，署
+bureau            ['bjuərəu]            n.  局，署
 burgeon           ['bə:dʒən]            vi.  迅速成长，发展
 burrow            ['bʌrəu]              vi.  挖地洞; n.  洞穴
 cabin             ['kæbin]              n.  小屋
@@ -3039,10 +3039,10 @@ carve             [kɑ:v]                vt.  切; 雕刻
 cascade           [kæs'keid]            n.  小瀑布
 cascara           [kæ'skɑ:rə]           n.  缓泻剂
 cassette          [kə'set]              n.  盒式录音(或录像)带
-cast              [kɑ:st;  US kæst]     n.  铸件; vt.  浇铸; 投掷
-catalog           ['kætəlɔg;  US -lɔ:g] n.  目录
+cast              [kɑ:st]               n.  铸件; vt.  浇铸; 投掷
+catalog           ['kætəlɔg]            n.  目录
 catalyst          ['kætəlist]           n.  催化剂
-category          ['kætigəri;  US -gɔ:r n.  种类; 范畴
+category          ['kætigəri]           n.  种类; 范畴
 caterpillar       ['kætəpilə]           n.  毛虫，蝴蝶的幼虫
 cavity            ['kæviti]             n.  腔; 洞
 cease             [si:s]                v. n.  结束，停止
@@ -3071,7 +3071,7 @@ chip              [tʃip]                n.  碎片; 芯片; v.  削(或凿)下
 chlorine          ['klɔ:ri:n]           n.  【化】氯
 choir             ['kwaiə]              n.  唱诗班，合唱队
 cholesterol       [kə'lestərɔl]         n.  胆固醇
-choreographer     [`kɔri'ɔgrəfə;  US `k n.  舞蹈指导
+choreographer     [`kɔri'ɔgrəfə]        n.  舞蹈指导
 chromosome        ['krəuməsəum]         n.  染色体
 chronical         ['krɔnikl]            a.  慢性的，延续很长的
 circuit           ['sə:kit]             n.  电路，线路
@@ -3103,10 +3103,10 @@ combine           [kəm'bain]            v.  (使)联合，(使)结合
 combustible       [kəm'bʌstəbl]         a.  可燃的，易燃的
 comedy            ['kɔmidi]             n.  喜剧
 comic             ['kɔmik]              a.  滑稽的，喜剧的
-command           [kə'mɑ:nd;  US -'mænd n. v.  命令; 指挥，掌握
+command           [kə'mɑ:nd]            n. v.  命令; 指挥，掌握
 commemorate       [kə'meməreit]         v.  纪念，庆祝
 comment           ['kɔment]             n. vi.  评论; 注释
-commentary        ['kɔməntri;  US -teri n.  评论，注释
+commentary        ['kɔməntri]           n.  评论，注释
 commit            [kə'mit]              vt.  承诺; 负责; 犯(错)
 commitment        [kə'mitmənt]          n.  承诺; 支持; 允许; 致力，献身
 commodity         [kə'mɔditi]           n.  商品; 日用品
@@ -3132,12 +3132,12 @@ conductivity      [`kɔndʌk'tiviti]      n.  传导性
 conductor         [kən'dʌktə]           n.  导体; (乐队等的)指挥
 confederacy       [kən'fedərəsi]        n.  联盟
 confession        [kən'feʃn]            n.  供认，承认
-configuration     [kən`figə'reiʃn;  US in.  构造，外形                                                                ʃn]
+configuration     [kən`figə'reiʃn]      in.  构造，外形                                                                ʃn]
 conflict          ['kɔnflikt,kən'flikt] n.  冲突，不一致，争论;  v.  冲突，不一致，争论
 conform           [kən'fɔ:m]            vi.  遵守，符合; 适应
 confront          [kən'frʌnt]           vt.  使面临; 对抗
 congestion        [kən'dʒestʃn]         n.  拥塞
-congress          ['kɔŋgres;  US -grəs] n.  议会，国会; (代表)大会
+congress          ['kɔŋgres]            n.  议会，国会; (代表)大会
 consciously       ['kɔnʃəsli]           adv.  有意识地，自觉地
 consent           [kən'sent]            v. n.  同意，赞成
 consequence       ['kɔnsikwəns]         n.  结果; 影响; 推理
@@ -3148,15 +3148,15 @@ consistently      [kən'sistəntli]       adv.  一贯地
 consonant         ['kɔnsənənt]          a.  协调的
 constantly        ['kɔnstəntli]         adv.  不断地，坚持不懈地; 经常地
 constituent       [kən'stitjuənt]       n.  要素，组分; 选民
-constitution      [`kɔnsti'tju:ʃn;  US  n.  宪法，章程
+constitution      [`kɔnsti'tju:ʃn]      n.  宪法，章程
 constricted       [kən'striktid]        a.  狭窄的; 收缩的
 consumption       [kən'sʌmpʃn]          n.  消耗(量)，消费(量); 食用
 contain           [kən'tein]            vt.  包含，容纳; 控制
-contemporary      [kən'temprəri;  US -p a.  当代的，现在的; n.  同时代的人
+contemporary      [kən'temprəri]        a.  当代的，现在的; n.  同时代的人
 contest           ['kɔntest]            n.  竞赛; 辩论
 context           ['kɔntekst]           n.  上下文; 背景; 环境
 continuation      [kən`tinju'eiʃn]      n.  延长，延续
-continuity        [`kɔnti'nju:əti;  US  n.  连贯性，连续性
+continuity        [`kɔnti'nju:əti]      n.  连贯性，连续性
 continuum         [kən'tinjuəm]         n.  连续统一体
 contribute        [kən'tribju:t]        v.  贡献，捐赠; 有助于; 投稿
 convection        [kən'vekʃn]           n.  对流; 传送
@@ -3167,10 +3167,10 @@ conversation      [`kɔnvə'seiʃn]        n.  交谈; 会话
 converse          [kən'və:s]            vi.  交谈
 convince          [kən'vins]            v.  使确信，说服
 cooperative       [kəu'ɔpərətiv]        a.  合作的，协力的
-coral             ['kɔrəl;  US 'kɔ:rəl  n.  珊瑚(虫); a.  珊瑚色的，珊瑚红的
+coral             ['kɔrəl]              n.  珊瑚(虫); a.  珊瑚色的，珊瑚红的
 corona            [kə'rəunə]            n.  日冕，光环
 corporate         ['kɔ:pərit]           a.  共同的; 公司的
-correspond        [`kɔri'spɔnd;  US `kɔ v.  相符合; 相应
+correspond        [`kɔri'spɔnd]         v.  相符合; 相应
 corrosion         [kə'rəuʒən]           n.  腐蚀(状态)，侵蚀
 corrosive         [kə'rəusiv]           a.  腐蚀(性)的
 cosmic            ['kɔzmik]             a.  宇宙的
@@ -3187,7 +3187,7 @@ crawl             [krɔ:l]               v. n.  缓慢(或费力)地行进，爬
 creativity        [`kri:ei'tiviti]      n.  创造(力)
 crest             [krest]               n.  顶部
 crippling         ['kripliŋ]            a.  令人震惊的
-crisscross        ['kriskrɔs;  US -krɔ: vt.  交叉往来
+crisscross        ['kriskrɔs]           vt.  交叉往来
 criterion         [krai'tiəriən]        n.  标准
 critic            ['kritik]             n.  评论家，批评家
 critique          [kri'ti:k]            n.  批评，评论
@@ -3200,7 +3200,7 @@ cue               [kju:]                n.  暗示，提示
 cultivated        ['kʌltiveitid]        a.  栽植的; 有修养的
 culture           ['kʌltʃə]             n.  文化，文明; 培养; vt.  培养
 cumbersome        ['kʌmbəsəm]           a.  笨重的; 麻烦的
-cuneiform         ['kju:nifɔ:m; US kju: a.  楔性的; n.  楔形文字
+cuneiform         ['kju:nifɔ:m]         a.  楔性的; n.  楔形文字
 curriculum        [kə'rikjuləm]         n. [pl.  curricula]课程
 curve             [kə:v]                n.  曲线，弯曲; v.  弄弯
 cylinder          ['silində]            n.  圆柱体; 气缸
@@ -3210,8 +3210,8 @@ dawn              [dɔ:n]                n.  黎明; 开端
 deadline          ['dedlain]            n.  最后期限，截止时间
 dealer            ['di:lə(r)]           n.  商人，小贩
 debate            [di'beit]             n. v.  辩论; 讨论，争论
-debris            ['deibri:;  US də'bri n.  废墟，残骸; 碎片
-debut             ['deibju:;  US di'bju n. v.  首次演出
+debris            ['deibri:]            n.  废墟，残骸; 碎片
+debut             ['deibju:]            n. v.  首次演出
 decade            ['dekeid]             n.  十年
 deciduous         [di'sidjuəs]          a.  每年落叶的
 decipher          [di'saifə(r)]         v.  破译，解释
@@ -3232,7 +3232,7 @@ deliberate        [di'libərət]          a.  审慎的，深思熟虑的
 delight           [di'lait]             n.  使人高兴的东西; v.  (使)愉快
 deliver           [di'livə(r)]          v.  传送，传递; 陈述
 delta             ['deltə]              n.  (河流的)三角洲
-demanding         [di'mɑ:ndiŋ;  US di'm a.  苛求的
+demanding         [di'mɑ:ndiŋ]          a.  苛求的
 democrat          ['deməkræt]           n. [Democrat]美国民主党人
 democratic        [`demə'krætik]        a.  民主的
 dentist           ['dentist]            n.  牙科医生
@@ -3252,7 +3252,7 @@ deter             [di'tə:(r)]           v.  阻止
 deteriorate       [di'tiəriəreit]       v.  变坏; 变质
 devote            [di'vəut]             v.  (to)为…付出(时间、精力等); 献身于; 作…之用
 diagonal          [dai'ægənl]           a.  倾斜的; n.  斜线
-dictate           [dik'teit;  US 'dikte v.  规定; 决定
+dictate           [dik'teit]            v.  规定; 决定
 diction           ['dikʃən]             n.  措辞，用语
 differentiate     [`difə'renʃieit]      v.  (使)不同，区别
 digest            [di'dʒest]            v.  消化，吸收
@@ -3262,7 +3262,7 @@ dioxide           [dai'ɔksaid]          n.  二氧化物
 diplomat          ['dipləmæt]           n.  外交官
 director          [di'rektə(r)]         n.  导演; 主管; 负责人
 directory         [di'rektəri]          n.  人名地址录; 目录
-disadvantage      [`disəd'vɑ:ntidʒ;  US n.  缺点; 不利
+disadvantage      [`disəd'vɑ:ntidʒ]     n.  缺点; 不利
 discipline        ['disiplin]           n.  纪律; 学科; v.  训练; 惩罚
 disease           [di'zi:z]             n.  疾病
 disguise          [dis'gaiz]            v. n.  掩饰; 伪装
@@ -3284,7 +3284,7 @@ documentary       [`dɔkju'mentri]       a.  文献的; 记实的; n.  纪录片
 documentation     [`dɔkjumen'teiʃn]     n.  文件
 domain            [dəu'mein]            n.  领域; 领土
 downtown          [`daun'taun]          adv. a.  在市区(的)，往市区(的)
-draft             [drɑ:ft;  US dræft]   n.  草图，草稿; v.  起草; a.  供役使的
+draft             [drɑ:ft]              n.  草图，草稿; v.  起草; a.  供役使的
 drain             [drein]               n.  排水; 消耗; v.  (使)流走
 dramatic          [drə'mætik]           a.  引人注目的; 戏剧性的; 生动的
 drift             [drift]               n. v.  漂流; 漂泊
@@ -3343,7 +3343,7 @@ estate            [i'steit]             n.  地产
 evacuation        [i`vækju'eiʃn]        n.  撤离
 exceed            [ik'si:d]             v.  超过，超出
 exclude           [ik'sklu:d]           vt.  把…排除在外
-excursion         [ik'skə:ʃn;  US -ʒn]  n.  远足
+excursion         [ik'skə:ʃn]           n.  远足
 execute           ['eksikju:t]          vt.  执行; 处死; 完成
 exhilarating      [ig'ziləreitiŋ]       a.  令人高兴的，使人兴奋的
 expel             [ik'spel]             vt.  排出
@@ -3352,7 +3352,7 @@ extend            [ik'stend]            v.  延长，延伸
 extent            [ik'stent]            n.  程度，范围
 exterior          [ik'stiəriə]          n. a.  外部(的)，外表(的)
 extract           [ik'strækt,'ekstrækt] vt.  取出，提取; n.  提出物，汁
-extraordinary     [ik'strɔ:dnri;  US -d a.  特别的; 非凡的
+extraordinary     [ik'strɔ:dnri]        a.  特别的; 非凡的
 extreme           [ik'stri:m]           a.  极度的; n.  极端
 fabric            ['fæbrik]             n.  布，织品; 结构
 facade            [fə'sɑ:d]             n.  正面; 表面
@@ -3368,7 +3368,7 @@ fairly            ['feəli]              adv.  相当地; 公正地
 fancy             ['fænsi]              a.  奇特的; 异样的
 fare              [feə]                 n.  费用; v.  进展
 fashion           ['fæʃən]              n.  方式; 流行，风尚; v.  形成，把…塑造成
-fasten            ['fɑ:sn;  US 'fæsn]   vt.  强加于; 使固定; 系
+fasten            ['fɑ:sn]              vt.  强加于; 使固定; 系
 fatal             ['feitl]              a.  致命的; 毁灭性的
 fatigue           [fə'ti:g]             n.  劳累; (金属材料等)疲劳
 faucet            ['fɔ:sit]             n.  水龙头; 插口
@@ -3394,7 +3394,7 @@ flagellum         [flə'dʒeləm]          n. [pl.  flagella]鞭毛
 flake             [fleik]               n.  薄片; v.  使成薄片; 雪片般落下
 flame             [fleim]               n.  火焰; 光辉; v.  闪耀
 flap              [flæp]                n.  拍打; v.  (使)摆动; 拍打
-flask             [flɑ:sk;  US flæsk]   n.  细颈瓶
+flask             [flɑ:sk]              n.  细颈瓶
 flat              [flæt]                a.  平(坦)的; n.  平地，平面
 flavoring         ['fleivəriŋ]          n.  调味(品、料)
 flint             [flint]               n.  燧石，打火石
@@ -3405,20 +3405,20 @@ flux              [flʌks]               n.  变迁
 fold              [fəuld]               n.  褶皱; v.  合拢
 foliage           ['fəuliidʒ]           n.  树叶; 植物
 folklore          ['fəuklɔ:]            n.  民间传说
-forage            ['fɔridʒ;  US 'fɔ:r-] n.  草料; v.  寻找
-forecast          ['fɔ:kɑ:st;  US ?kæst vt. n.  预报; 预测
+forage            ['fɔridʒ]             n.  草料; v.  寻找
+forecast          ['fɔ:kɑ:st]           vt. n.  预报; 预测
 forefront         ['fɔ:frʌnt]           n.  最前沿; 中心
 foreshorten       [fɔ:'ʃɔ:tn]           v.  (绘画中)按照透视法缩短
 formation         [fɔ:'meiʃn]           n.  形成，构成; 编队
 formulate         ['fɔ:mjuleit]         v.  阐明
 fossil            ['fɔsl]               n.  化石; a.  陈腐的; 化石的
-foster            ['fɔstə;  US 'fɔ:-]   vt.  鼓励; 培养
-fountain          ['fauntin;  US -tn]   n.  喷泉
+foster            ['fɔstə]              vt.  鼓励; 培养
+fountain          ['fauntin             n.  喷泉
 frame             [freim]               n.  框架; v.  设计，构成
 fray              [frei]                vi.  磨(损、破)
 freight           [freit]               n.  货运
 fresco            ['freskəu]            n.  壁画
-frost             [frɔst;  US frɔ:st]   n.  霜; 结霜
+frost             [frɔst]               n.  霜; 结霜
 fulfill           [ful'fil]             v.  履行; 符合
 function          ['fʌŋkʃn]             n.  机能; 功能; 作用
 funding           ['fʌndiŋ]             n.  用发行长期债券的方法来收回短期债券
@@ -3444,10 +3444,10 @@ germ              [dʒə:m]               n.  微生物; 细菌
 giant             ['dʒaiənt]            a.  巨大的; 超群的; n.  巨大的动植物
 gigantic          [dʒai'gæntik]         a.  巨大的，庞大的
 gin               [dʒin]                n.  轧棉机
-giraffe           [dʒi'rɑ:f;  US dʒə'ræ n.  长颈鹿
+giraffe           [dʒi'rɑ:f]            n.  长颈鹿
 girder            ['gə:də(r)]           n.  大梁
 given             ['givn]               a.  特定的; 假定的
-glacial           ['gleisiəl;  US 'glei a.  冰期的; 冰河时代的
+glacial           ['gleisiəl]           a.  冰期的; 冰河时代的
 gland             [glænd]               n.  【解】腺
 glare             [gleə(r)]             n.  耀眼的光
 glimpse           [glimps]              n.  一看，一瞥; v.  瞥见
@@ -3467,9 +3467,9 @@ grain             [grein]               n.  谷物; 颗粒; 少量
 granite           ['grænit]             n.  花岗岩
 grant             [grɑ:nt]              v.  给予，授予; 同意; 承认; n.  拨款
 granular          ['grænjulə(r)]        a.  粒状的
-graph             [grɑ:f;  US græf]     n.  图表; 坐标图
+graph             [grɑ:f]               n.  图表; 坐标图
 graphic           ['græfik]             a.  形象的; 文字的，图解的
-grasshopper       ['grɑ:shɔpə(r);  US ' n.  蚂蚱，蝗虫
+grasshopper       ['grɑ:shɔpə(r)]       n.  蚂蚱，蝗虫
 gravel            ['grævl]              n.  沙砾，砾石
 gravitational     [`grævi'teiʃənəl]     a.  重力的，万有引力的
 grazing           ['greiziŋ]            n.  放牧; 牧草
@@ -3497,7 +3497,7 @@ heed              [hi:d]                n.  注意; 留心
 hemisphere        ['hemisfiə]           n.  (地球或天体的)半球; 大脑的半球
 henceforth        [`hens'fɔ:θ]          adv.  从此以后
 herald            ['herəld]             n.  信使; vt.  预示; 宣布
-herb              [hə:b;  US hə:rb]     n.  药草，(调味用的)香草; 草本植物
+herb              [hə:b]                n.  药草，(调味用的)香草; 草本植物
 herd              [hə:d]                n.  兽群(尤指牛群)
 hibernation       [`haibə'neiʃn]        n.  冬眠; 进入冬眠状态
 hide              [haid]                vi.  躲藏; 掩藏; 掩盖; n.  兽皮
@@ -3520,7 +3520,7 @@ hormone           ['hɔ:məun]            n.  激素; 荷尔蒙
 horn              [hɔ:n]                n.  (牛、羊、鹿等的)角; 号角，喇叭
 host              [həust]               n.  主人; 【生】寄主
 household         ['haushəuld]          n.  家庭; a.  家庭的，家用的; 家喻户晓的
-hover             ['hɔvə;  US 'hʌvər]   vi.  徘徊
+hover             ['hɔvə]               vi.  徘徊
 huddle            ['hʌdl]               vi.  挤在一起
 hue               [hju:]                n.  颜色; 类型
 hum               [hʌm]                 v.  发嗡嗡声; interj.  嗯嗯(表示犹豫)
@@ -3536,7 +3536,7 @@ idiom             ['idiəm]              n.  习惯用语; (在艺术上所表�
 idle              ['aidl]               a.  懒散的; 空闲的
 ignition          [ig'niʃən]            n.  点火，点燃
 imagist           ['imədʒist]           a.  意象派的; n.  意象派诗人
-immature          [`imə'tjuə;  US -tuər a.  未成熟的
+immature          [`imə'tjuə]           a.  未成熟的
 immigrant         ['imigrənt]           n.  (自外国移入的)移民; a.  移民的; (从外国)移来的
 immunity          [i'mju:niti]          n.  保护; 免除
 immutable         [i'mju:təbl]          a.  不变的
@@ -3561,7 +3561,7 @@ inconspicuous     [`iŋkən'spikjuəs]     a.  不显眼的
 inconvenient      [`iŋkən'vi:niənt]     a.  不便的; 让人不舒服的
 incorporate       [in'kɔ:pəreit]        v.  纳入; 合并
 incubate          ['iŋkjubeit]          v.  孵卵
-incursion         [in'kə:ʃn;  US -ʒn]   n.  袭击，入侵
+incursion         [in'kə:ʃn]            n.  袭击，入侵
 independent       [`indi'pendənt]       a.  独立的; 自立的; n.  无党派者
 indifference      [in'difrəns]          n.  冷漠，不关心
 indigestion       [`indi'dʒestʃən]      n.  消化不良
@@ -3596,9 +3596,9 @@ instance          ['instəns]            n.  例子，事例
 instinct          ['instiŋkt]           n.  本能，天性
 instruction       [in'strʌkʃn]          n.  教导; [常pl.  ]用法说明; 指示
 insufficient      [`insə'fiʃənt]        a.  不足的，不够的
-insulate          ['insjuleit;  US -səl v.  使隔离，使隔绝
-insulin           ['insjulin;  US -səl- n.  胰岛素
-insurance         [in'ʃɔ:rəns;  US -'ʃu n.  保险，保险业
+insulate          ['insjuleit]          v.  使隔离，使隔绝
+insulin           ['insjulin]           n.  胰岛素
+insurance         [in'ʃɔ:rəns]          n.  保险，保险业
 intact            [in'tækt]             a.  无损伤的，完整的
 intellect         ['intəlekt]           n.  智力，理解力
 intent            [in'tent]             n.  意图，目的
@@ -3612,7 +3612,7 @@ interstellar      [`intə'stelə]         a.  星际的
 interval          ['intəvl]             n.  间隔时间; 间距; 音程
 intoxication      [in`tɔksi'keiʃn]      n.  醉，醉酒
 intriguing        [in'tri:giŋ]          a.  引起兴趣(或好奇心)的，吸引人的
-intuitive         [in'tju:itiv;  US -'t a.  直觉的
+intuitive         [in'tju:itiv]         a.  直觉的
 invertebrate      [in'və:tibreit]       n.  无脊椎动物
 invitation        [`invi'teiʃən]        n.  邀请; 请柬
 involve           [in'vɔlv]             v.  牵涉; 包含; 使参与
@@ -3639,7 +3639,7 @@ kerosene          ['kerəsi:n]           n.  煤油，火油
 kiln              [kiln]                n.  (砖、石灰等的)窑，炉
 kinetic           [ki'netik]            a.  运动的，运动引起的
 label             ['leibl]              n.  标签; v.  标记
-laboratory        [lə'bɔrətri;  US 'læb n.  实验室
+laboratory        [lə'bɔrətr]           n.  实验室
 lace              [leis]                n.  蕾丝; 缎带
 landing           ['lændiŋ]             n.  登陆; 着陆，降落
 landmass          ['lændmæs]            n.  地块; 大片陆地
@@ -3647,10 +3647,10 @@ landscape         ['lændskeip]          n.  风景; 风景画; 地形
 larva             ['lɑ:və]              n. [pl.  larvae]幼虫
 laser             ['leizə(r)]           n.  激光; 激光器
 latent            ['leitnt]             a.  潜在的，隐伏的
-Latin             ['lætin;  US 'lætn]   a.  拉丁的，拉丁文的; n.  拉丁语
+Latin             ['lætin]              a.  拉丁的，拉丁文的; n.  拉丁语
 latter            ['lætə(r)]            a.  后面的，后者的; 后期的
 laundry           ['lɔ:ndri]            n.  洗衣店; 洗熨
-laureate          ['lɔriət;  US 'lɔ:r-] n.  戴桂冠的人
+laureate          ['lɔriət]             n.  戴桂冠的人
 lava              ['lɑ:və]              n.  岩浆，熔岩
 lay               [lei]                 vt.  下(蛋); 放置; 位于
 layer             ['leiə(r)]            n.  层，层次
@@ -3662,7 +3662,7 @@ legend            ['ledʒənd]            n.  传奇故事，传说
 legible           ['ledʒəbl]            a.  清楚的; 易读的
 legislation       [`ledʒis'leiʃn]       n.  法律，法规; 立法
 legislature       ['ledʒisleitʃə(r)]    n.  立法机关
-leisure           ['leʒə(r);  US 'li:ʒə n.  空闲，闲?
+leisure           ['leʒə(r)]            n.  空闲，闲暇
 lens              [lenz]                n.  透镜; 镜头; 镜片
 lethargy          ['leθədʒi]            n.  死气沉沉
 lettuce           ['letis]              n.  生菜; 莴苣
@@ -3682,8 +3682,8 @@ linguist          ['liŋgwist]           n.  语言学家
 linguistic        [liŋ'gwistik]         a.  语言的，语言学的
 lipid             ['lipid]              n.  油脂
 literally         ['litərəli]           adv.  照原文地; 确切地
-literary          ['litərəri;  US 'litə a.  文学(上)的
-literature        ['litrətʃə(r);  US -t n.  文学; 文学作品; 文献
+literary          ['litərəri]           a.  文学(上)的
+literature        ['litrətʃə(r)]        n.  文学; 文学作品; 文献
 lithosphere       ['liθəsfiə]           n.  岩石圈
 litter            ['litə(r)]            n.  垃圾; vi.  乱丢垃圾使凌乱
 livelihood        ['laivlihud]          n.  生计; 谋生手段
@@ -3707,11 +3707,11 @@ luxury            ['lʌkʃəri]            n.  奢侈(品); a.  奢华的
 machinery         [mə'ʃi:nəri]          n. [总称]机器，机械; 机构
 maglev            ['mæglev]             n.  磁力悬浮火车
 magma             ['mægmə]              n.  岩浆
-magnesium         [mæg'ni:ziəm;  US mæg n.  镁
+magnesium         [mæg'ni:ziəm]         n.  镁
 magnet            ['mægnit]             n.  磁铁，磁体
 magnetic          [mæg'netik]           a.  磁(性)的
 magnify           ['mægnifai]           vt.  放大，扩大
-magnitude         ['mægnitju:d;  US -tu n.  【天】等级; 巨大; 数量，量级
+magnitude         ['mægnitju:d]         n.  【天】等级; 巨大; 数量，量级
 maintenance       ['meintənəns]         n.  维护，保养
 male              [meil]                a.  男(雄)的; n.  男子; 雄性动物
 mammal            ['mæml]               n.  哺乳动物
@@ -3727,15 +3727,15 @@ marked            [mɑ:kt]               a.  显著的; 有记号的
 market            ['mɑ:kit]             n.  市场; 股市; v.  销售
 marsh             [mɑ:ʃ]                n.  沼泽，湿地
 marvel            ['mɑ:vl]              n.  奇异的事物; 奇迹
-mask              [mɑ:sk;  US mæsk]     n.  化装舞会; 面具
+mask              [mɑ:sk]               n.  化装舞会; 面具
 mason             ['meisn]              n.  泥瓦匠
-mast              [mɑ:st;  US mæst]     n.  船桅
+mast              [mɑ:st                n.  船桅
 mat               [mæt]                 n.  垫子; 草席
 match             [mætʃ]                n.  比赛; 对手; v.  和…相配
 mate              [meit]                n.  配偶; v.  配对; 交配
 material          [mə'tiəriəl]          n.  材料; [常pl.  ]原料; a.  物质的，身体上的; 重要的
-mature            [mə'tjuə(r);  US -'tu a.  成熟的; 深思熟虑的; v.  (使)成熟
-maturity          [mə'tjuərəti;  US -'t n.  成熟，完备
+mature            [mə'tjuə(r)]          a.  成熟的; 深思熟虑的; v.  (使)成熟
+maturity          [mə'tjuərəti]         n.  成熟，完备
 maximum           ['mæksiməm]           a.  最(大、高、多)的，最大限度的; n.  最大量
 meager            ['mi:gə(r)]           a.  不足的，贫乏的
 meantime          ['mi:ntaim]           adv. n.  其时，其间
@@ -3746,7 +3746,7 @@ mechanist         ['mekənist]           n.  机械论者
 mechanize         ['mekənaiz]           v.  机械化
 medal             ['medl]               n.  奖牌，奖章
 media             ['mi:diə]             n.  媒介，媒体
-medieval          [`medi'i:vl;  US `mi: a.  中世纪的
+medieval          [`medi'i:vl]          a.  中世纪的
 melodic           [mi'lɔdik]            a.  旋律的，曲调的; 音调优美的
 melodie           [meilɔ'di:]           n.  小旋律歌曲
 melody            ['melədi]             n.  悦耳的旋律
@@ -3755,7 +3755,7 @@ melting           ['meltiŋ]             a.  融化的，溶化的
 membrane          ['membrein]           n.  薄膜; 细胞膜
 mental            ['mentl]              a.  精神的; 智力的
 menu              ['menju:]             n.  菜单
-mercantile        ['mə:kəntail;  US -ti a.  商业的
+mercantile        ['mə:kəntail]         a.  商业的
 merchant          ['mə:tʃənt]           n.  商人
 mercury           ['mə:kjuri]           n. [M-]水星; 水银
 mercy             ['mə:si]              n.  宽恕; 仁慈
@@ -3775,9 +3775,9 @@ microorganism     [`maikrəu'ɔ:gənizəm]  n.  微生物，细菌
 microprocessor    [maikrəu'prəusesə(r)] n.  微处理器
 microscope        ['maikrəskəup]        n.  显微镜
 microwave         ['maikrəweiv]         n.  微波(炉)
-migrate           [mai'greit;  US 'maig vi.  迁徙; 移居
+migrate           [mai'greit]           vi.  迁徙; 移居
 mild              [maild]               a.  【冶】低碳的; 轻微的; 温和的
-military          ['militri;  US -teri] a.  军(事、用)的; n. [the ~]军队
+military          ['militri]            a.  军(事、用)的; n. [the ~]军队
 millennium        [mi'leniəm]           n.  (pl.  millennia)一千年，千禧年
 mime              [maim]                vt.  模拟; n.  喜剧; 摹拟表演
 mimic             ['mimik]              vt.  模仿
@@ -3789,14 +3789,14 @@ minor             ['mainə(r)]           a.  较小的; 次要的
 mint              [mint]                v.  铸造(硬币); n.  造币厂
 miracle           ['mirəkl]             n.  奇事，奇迹
 mission           ['miʃən]              n.  代表团; 任务，使命
-mobile            ['məubail;  US -bl]   a.  多变的; n.  动的雕塑
+mobile            ['məubail]            a.  多变的; n.  动的雕塑
 mode              [məud]                n.  方式; 风格; 时尚
 modeling          ['mɔdliŋ]             n.  立体感(表现法)
 modem             ['məudem]             n.  调制解调器
 moisture          ['mɔistʃə]            n.  潮湿，湿气
 molten            ['məultən]            a.  熔化的，熔融的
 monumental        [`mɔnju'mentl]        a.  纪念碑的; 不朽的
-moral             ['mɔrəl;  US 'mɔ:rəl] a.  道德的; 精神的; n. [常pl.  ]道德
+moral             ['mɔrəl]              a.  道德的; 精神的; n. [常pl.  ]道德
 mosaic            [məu'zeiik]           n.  马赛克; 镶嵌细工
 mosquito          [məs'ki:təu]          n.  蚊子
 moth              [mɔθ;  US mɔ:θ]       n.  蛾
@@ -3805,7 +3805,7 @@ motive            ['məutiv]             n.  动机，目的
 motor             ['məutə]              n.  发动机，电动机
 mottled           ['mɔtld]              a.  有杂色的，斑驳的
 mount             [maunt]               n.  山，峰; v.  增加
-mountainous       ['mauntinəs;  US ?ntə a.  多山的
+mountainous       ['mauntinəs]          a.  多山的
 multiple          ['mʌltipl]            a.  多样的; 多重的; n.  倍数
 multiply          ['mʌltiplai]          v.  增加; 繁殖
 mundane           [mʌn'dein]            a.  世俗的，平凡的
@@ -3835,9 +3835,9 @@ negotiation       [ni`gəuʃi'eiʃn]       n.  商议; 谈判
 neoclassical      [`ni:əu'klæsikl]      a.  新古典主义的
 neolithic         [`ni:ə'liθik]         a.  新石器时代的
 neon              ['ni:ɔn]              n.  氖; 霓虹灯
-neutron           ['nju:trɔn;  US 'nu:- n.  中子
+neutron           ['nju:trɔn]           n.  中子
 nevertheless      [`nevəðə'les]         adv. conj.  然而，不过
-newsletter        ['nju:zletə;  US 'nu: n.  时事通讯
+newsletter        ['nju:zletə]          n.  时事通讯
 niche             [nitʃ]                n.  壁龛; 小生境
 nickel            ['nikl]               n.  镍
 nitrogen          ['naitrədʒən]         n.  氮
@@ -3850,9 +3850,9 @@ notion            ['nəuʃn]              n.  概念，观念; 想法
 notwithstanding   [`nɔtwiθ'stændiŋ]     adv. prep.  虽然，尽管如此
 nourish           ['nʌriʃ]              vt.  滋养; 养育
 novel             ['nɔvl]               n.  小说; a.  新颖的
-nucleus           ['nju:kliəs;  US 'nu: [pl.  nuclei]n.  核子，核心
-nutrient          ['nju:triənt;  US 'nu n.  滋养物，营养品; a.  有营养的
-nutrition         [nju:'triʃn;  US nu:- n.  营养; 营养学
+nucleus           ['nju:kliəs]          [pl.  nuclei]n.  核子，核心
+nutrient          ['nju:triənt]         n.  滋养物，营养品; a.  有营养的
+nutrition         [nju:'triʃn]          n.  营养; 营养学
 oak               [əuk]                 n.  橡树，橡木
 oblivious         [ə'bliviəs]           a.  遗忘的
 obsess            [əb'ses]              v.  迷住
@@ -3882,7 +3882,7 @@ overcome          [`əuvə'kʌm]           v.  战胜，克服
 overhaul          [`əuvə'hɔ:l]          n.  仔细检查
 overlap           [`əuvə'læp]           vt.  (与…)交迭
 overseas          [`əuvə'si:z]          adv. a.  在海外(的); 在国外(的)
-overwhelm         [`əuvə'welm;  US -'hw vt.  淹没; 压倒
+overwhelm         [`əuvə'welm]          vt.  淹没; 压倒
 owl               [aul]                 n.  猫头鹰
 oxide             ['ɔksaid]             n.  氧化物
 oyster            ['ɔistə(r)]           n.  牡蛎，蚝
@@ -3903,14 +3903,14 @@ passage           ['pæsidʒ]             n.  文章，一段
 passion           ['pæʃən]              n.  激情，热情
 passive           ['pæsiv]              a.  被动的，消极的
 paste             [peist]               n.  面团，浆糊
-pasture           ['pɑ:stʃə;  US 'pæs-] n.  牧场，草原
+pasture           ['pɑ:stʃə]            n.  牧场，草原
 patch             [pætʃ]                n.  片，块; 斑纹; v.  弄成碎片
-patent            ['peitnt;  US 'pætnt] n.  专利权; a.  专利的; vt.  申请专利
-path              [pɑ:θ;  US pæθ]       n.  道路; 路线
+patent            ['peitnt]             n.  专利权; a.  专利的; vt.  申请专利
+path              [pɑ:θ]                n.  道路; 路线
 pathology         [pə'θɔlədʒi]          n.  反常，变态
-patriot           ['pætriət;  US 'peit- n.  爱国者
+patriot           ['pætriət]            n.  爱国者
 patron            ['peitrən]            n.  赞助人; 顾客
-patronizing       ['pætrənaiziŋ;  US 'p a.  要人领情的
+patronizing       ['pætrənaiziŋ]        a.  要人领情的
 pattern           ['pætn]               n.  样式，图案; v.  仿制
 pave              [peiv]                v.  铺; 密布
 pebble            ['pebl]               n.  小圆石，鹅卵石
@@ -3919,7 +3919,7 @@ pedagogy          ['pedəgɔdʒi]          n.  教育学，教学法
 pendant           ['pendənt]            n.  垂饰，下垂物
 penicillin        [`peni'silin]         n.  青霉素
 perform           [pə'fɔ:m]             vt.  表演; 执行
-perfume           ['pə:fju:m;  US pə'fj n.  香味; 香料，香水
+perfume           ['pə:fju:m]           n.  香味; 香料，香水
 periodic          [`piəri'ɔdik]         a.  周期的; 定期的
 peripheral        [pə'rifərəl]          a.  不重要的; 外围的
 perish            ['periʃ]              v.  灭亡
@@ -3932,10 +3932,10 @@ pervasive         [pə'veisiv]           a.  普遍深入的
 pesticide         ['pestisaid]          n.  杀虫剂，农药
 petroleum         [pə'trəuliəm]         n.  石油
 pharmacy          ['fɑ:məsi]            n.  药店
-phenomenon        [fə'nɔminən;  US -nɔn n.  现象; 特殊的事物
+phenomenon        [fə'nɔminən]          n.  现象; 特殊的事物
 pheromone         ['ferəməun]           n.  【生化】信息素
 philosophy        [fi'lɔsəfi]           n.  哲学，人生观
-photodissociation [fəutəudi`səuʃi'eiʃən n.  光解(作用)
+photodissociation [fəutəudi`səuʃi'eiʃən] n.  光解(作用)
 photography       [fə'tɔgrəfi]          n.  摄影术，摄影
 photosynthesis    [`fəutəu'sinθəsis]    n.  光合作用
 physical          ['fizikl]             a.  身体的; 物理的; 物质的; n.  体检
@@ -3953,9 +3953,9 @@ piracy            ['paiərəsi]           n.  海上抢劫，海盗行为
 pitch             [pitʃ]                n.  高度，音调
 plain             [plein]               a.  平的; 简单的; 朴素的; n.  平原，草原
 plankton          ['plæŋktən]           n.  浮游生物
-plaster           ['plɑ:stə;  US 'plæs- n.  灰浆，石膏; v.  在…上抹灰泥
+plaster           ['plɑ:stə]            n.  灰浆，石膏; v.  在…上抹灰泥
 plate             [pleit]               n.  盘子; 版图
-platitude         ['plætitju:d;  US -tu n.  陈词滥调
+platitude         ['plætitju:d]         n.  陈词滥调
 pliable           ['plaiəbl]            a.  易曲折的，柔韧的
 plow              [plau]                n.  犁; vt.  耕作
 plump             [plʌmp]               a.  圆胖的
@@ -3968,7 +3968,7 @@ politics          ['pɔlitiks]           n.  政治; 政见
 pollen            ['pɔlin]              n.  花粉
 pollinate         ['pɔlineit]           v.  给…传授花粉
 pollutant         [pə'lu:tənt]          n.  污染物质
-polygon           ['pɔligən;  US -gɔn]  n.  【数】多角形，多边形
+polygon           ['pɔligən]            n.  【数】多角形，多边形
 popular           ['pɔpjulə]            a.  通俗的; 受欢迎的，流行的
 populate          ['pɔpjuleit]          v.  居住于; 移民
 pore              [pɔ:]                 n.  气孔，小孔
@@ -3985,11 +3985,11 @@ powder            ['paudə]              n.  粉末
 practically       ['præktikli]          adv.  几乎; 实际上
 prairie           ['preəri]             n.  大草原
 predator          ['predətə]            n.  食肉动物
-predecessor       ['pri:disesə;  US 'pr n.  前辈; 前任，(被取代的)原有事物
+predecessor       ['pri:disesə]         n.  前辈; 前任，(被取代的)原有事物
 predict           [pri'dikt]            v.  预言，预测
 predominantly     [pri'dɔminəntli]      adv.  主要地
-prehistoric       [`pri:hi'stɔrik;  US  a.  史前的; 陈旧的
-preliminary       [pri'liminəri;  US -n a.  预备的，初步的
+prehistoric       [`pri:hi'stɔrik]      a.  史前的; 陈旧的
+preliminary       [pri'liminəri]        a.  预备的，初步的
 preponderance     [pri'pɔndərəns]       n.  优势
 prerequisite      [`pri:'rekwizit]      n.  先决条件，前提
 prescribe         [pri'skraib]          vt.  开处方; 规定; 指示
@@ -4006,7 +4006,7 @@ primate           ['praimeit]           n.  灵长类动物
 prime             [praim]               a.  主要的; 最初的; 最好的
 principle         ['prinsəpl]           n.  原则; 原理
 prior             ['praiə]              ad. a.  (to)在…之前; 优先(的)
-priority          [prai'ɔrəti;  US -'ɔ: n.  在先; 优先权
+priority          [prai'ɔrəti]          n.  在先; 优先权
 prize             [praiz]               v.  珍视; 估价; n.  奖品; 奖金
 procedure         [prə'si:dʒə]          n.  程序，手续，步骤
 productivity      [`prɔdʌk'tivəti]      n.  生产力
@@ -4015,7 +4015,7 @@ professional      [prə'feʃənl]          a.  职业的; 专业的; n.  专业�
 proficient        [prə'fiʃənt]          a.  熟练的，精通的
 profound          [prə'faund]           a.  深远的; 知识渊博的; 深奥的
 progressive       [prə'gresiv]          a.  进步的; 渐进的
-prohibitively     [prə'hibətivli;  US p ad.  (价格)极高地
+prohibitively     [prə'hibətivli]       ad.  (价格)极高地
 project           ['prɔdʒekt,prə'dʒekt] n.  方案，项目; v.  放映，规划
 prolonged         [prə'lɔŋd]            a.  延长的
 promote           [prə'məut]            vt.  促进，提升，宣传
@@ -4026,7 +4026,7 @@ property          ['prɔpəti]            n.  财产; 特性; 所有权; 房地�
 proponent         [prə'pəunənt]         n.  支持者; 倡导者
 prose             [prəuz]               n.  散文
 prosper           ['prɔspə]             vi.  繁荣; 成功
-protest           ['prəutest;  prə'test n.  抗议，反对; v.  抗议，反对
+protest           ['prəutest]           n.  抗议，反对; v.  抗议，反对
 prototype         ['prəutətaip]         n.  原型
 psychoanalysis    [`saikəuə'næləsis]    n.  (心理、精神)分析
 psychology        [sai'kɔlədʒi]         n.  心理学; 心理
@@ -4042,12 +4042,12 @@ puppet            ['pʌpit]              n.  木偶
 pure              [pjuə]                a.  纯洁的; 纯净的; 完全的
 purity            ['pjuərəti]           n.  纯度; 纯净
 purple            ['pə:pl]              n. a.  紫色(的)
-pursue            [pə'sju:;  US -'su:]  v.  继续; 从事; 追击; 追踪
-pursuit           [pə'sju:t;  US -'su:t n.  追求，[常pl.  ]花时间和精力等做的事、职业
+pursue            [pə'sju:]             v.  继续; 从事; 追击; 追踪
+pursuit           [pə'sju:t]            n.  追求，[常pl.  ]花时间和精力等做的事、职业
 pyramid           ['pirəmid]            n.  金字塔
 qualify           ['kwɔlifai]           v.  (使)具有资格，(使)合格
 quantify          ['kwɔntifai]          v.  量化
-quarry            ['kwɔri;  US 'kwɔ:ri] n.  石矿; 被追求人或事物
+quarry            ['kwɔri]              n.  石矿; 被追求人或事物
 quasar            ['kweizɑ:]            n.  【天】类星体
 questionnaire     [`kwestʃə'neə]        n.  问卷，调查表
 quilt             [kwilt]               n.  棉被; vt.  制成棉被
@@ -4058,10 +4058,10 @@ racing            ['reisiŋ]             n.  比赛，竞赛; a.  比赛的
 racket            ['rækit]              n.  (网球等的)球拍
 radar             ['reidɑ:]             n.  雷达
 radioactive       [`reidiəu'æktiv]      a.  放射性的
-raft              [rɑ:ft;  US ræft]     n.  木筏
+raft              [rɑ:ft]               n.  木筏
 rainbow           ['reinbəu]            n.  虹
 rainfall          ['reinfɔ:l]           n.  降雨; 降雨量
-ranch             [rɑ:ntʃ;  US ræntʃ]   n.  大牧场
+ranch             [rɑ:ntʃ]              n.  大牧场
 random            ['rændəm]             a.  随机的，任意的
 range             [reindʒ]              n.  范围; 山脉; v.  (在某范围内)变动
 rare              [reə]                 a.  稀有的，罕见的; (肉类)半熟的
@@ -4093,7 +4093,7 @@ rehabilitate      [`ri:ə'biliteit]      v.  使恢复原状，修复
 rejuvenate        [ri'dʒu:vəneit]       vt.  使恢复活力
 relative          ['relətiv]            a.  相对的; 有关的; n.  亲属
 relatively        ['relətivli]          ad.  相对地; 相当地
-relay             ['ri:lei;  `ri:'lei]  n.  补充物资; vt.  传达，转播
+relay             ['ri:lei]             n.  补充物资; vt.  传达，转播
 release           [ri'li:s]             v. n.  释放，解放; 发布
 relic             ['relik]              n.  遗迹
 relief            [ri'li:f]             n.  浮雕; 缓解
@@ -4103,23 +4103,23 @@ remains           [ri'meinz]            n.  剩余，残余; 遗骸
 remark            [ri'mɑ:k]             v.  评论; 谈论; n.  评论
 remodel           [ri:'mɔdl]            v.  重新塑造，改造
 removal           [ri'mu:vəl]           n.  除去; 移动
-renew             [ri'nju:;  US -'nu:]  vt.  使续期; 重建
+renew             [ri'nju:]             vt.  使续期; 重建
 repertoire        ['repətwɑ:]           n.  (剧团等)常备剧目，保留剧目
-repertory         ['repətri;  US -tɔ:ri n.  保留剧目
+repertory         ['repətri]            n.  保留剧目
 repetition        [`repi'tiʃn]          n.  重复
 replicate         ['replikeit]          v.  复制
 represent         [`repri'zent]         vt.  代表; 表现; 描绘
-reproduce         [`ri:prə'dju:s;  US - v.  繁殖; 复制
-reptile           ['reptail;  US -tl]   n.  爬行动物
+reproduce         [`ri:prə'dju:s]       v.  繁殖; 复制
+reptile           ['reptail]            n.  爬行动物
 republic          [ri'pʌblik]           n.  共和国，共和政体
 repute            [ri'pju:t]            v.  (被)称为，认为
 request           [ri'kwest]            n. v.  要求，请求
 require           [ri'kwaiə]            v.  需要; 要求; 规定
 reserve           [ri'zə:v]             n.  储备(物); 自然保护区; v.  保留; 预订
 reservoir         ['rezəvwɑ:]           n.  水库，蓄水池
-resin             ['rezin;  US 'rezn]   n.  树脂
+resin             ['rezin]              n.  树脂
 resort            [ri'zɔ:t]             n.  度假胜地; (to)求助
-resource          [ri'sɔ:s;  US 'ri:sɔ: n. [常pl.  ]资源，财力
+resource          [ri'sɔ:s]             n. [常pl.  ]资源，财力
 respect           [ri'spekt]            v.  尊重; n.  尊重; 方面
 respond           [ri'spɔnd]            vi.  (to)回答; 做出反应
 response          [ri'spɔns]            n.  回答; 反应，响应
@@ -4144,7 +4144,7 @@ ritual            ['ritʃuəl]            n.  典礼，(宗教等的)仪式; 固
 roam              [rəum]                vi.  漫游，漫步
 rod               [rɔd]                 n.  杆，棒
 rodent            ['rəudənt]            n.  啮齿目动物(如松鼠或海狸)
-rodeo             [rəu'deiəu;  US 'rəud n.  牛仔竞技表演
+rodeo             [rəu'deiəu]           n.  牛仔竞技表演
 roe               [rəu]                 n.  雌鱼腹中的鱼卵
 roll              [rəul]                v.  (使)滚动，转动; n.  (一)卷，卷形物
 romantic          [rəu'mæntik]          a.  浪漫的
@@ -4159,7 +4159,7 @@ sac               [sæk]                 n.  【生】囊，液囊
 salamander        ['sæləmændə]          n.  火蜥蜴
 salient           ['seiliənt]           a.  显著的，突出的
 salmon            ['sæmən]              n.  鲑鱼，大马哈鱼
-salon             ['sælɔn;  US sə'lɔn]  n.  营业性高级服务厅
+salon             ['sælɔn]              n.  营业性高级服务厅
 sanitation        [`sæni'teiʃn]         n.  卫生; 卫生设施
 sapphire          ['sæfaiə]             n.  蓝宝石
 satellite         ['sætəlait]           n.  卫星; 人造卫星
@@ -4186,16 +4186,16 @@ seal              [si:l]                n.  海豹; v.  密封
 season            ['si:zn]              n.  季(节); 时期
 section           ['sekʃən]             n.  部分; 地区; 部门
 secure            [si'kjuə]             vt.  获得; 保护; a.  安全的，有保障的; 确定的
-sedentary         ['sedntri;  US -teri] a.  土生的，不移栖的
+sedentary         ['sedntri]            a.  土生的，不移栖的
 seep              [si:p]                v.  漏出，渗漏
 seismic           ['saizmik]            a.  地震(引起)的
-seismograph       ['saizməgrɑ:f;  US -g n.  地震仪
+seismograph       ['saizməgrɑ:f]        n.  地震仪
 seismology        [saiz'mɔlədʒi]        n.  地震学
 seminar           ['seminɑ:]            n.  研讨会
 senate            ['senit]              n.  参议院; 上院
 senior            ['si:niə]             a.  地位较高的; n.  较年长者; 四年级学生
 sensory           ['sensəri]            a.  感觉的; 感官的
-separate          ['seprət;  'sepəreit] a.  分离的，个别的; v.  分离，划分，区别
+separate          ['seprət]             a.  分离的，个别的; v.  分离，划分，区别
 sequoia           [si'kwɔiə]            n.  美洲杉
 series            ['siəri:z]            n.  系列，连续; 连续剧
 setting           ['setiŋ]              n.  环境; 背景; 布景; [常pl.  ]设置，安装
@@ -4225,9 +4225,9 @@ silt              [silt]                n.  淤泥
 similar           ['similə]             a.  (to)相似的，类似的
 simmer            ['simə]               v.  充满难以控制的(怒火等)
 simply            ['simpli]             ad.  简单地; 简直; 只不过
-simultaneous      [`siml'teiniəs;  US ` a.  同时的
+simultaneous      [`siml'teiniəs]       a.  同时的
 sinuous           ['sinjuəs]            a.  蜿蜒的
-situated          ['sitjueitid;  US 'si a.  坐落在…的
+situated          ['sitjueitid]         a.  坐落在…的
 skeletal          ['skelitl]            a.  骨胳的，骸骨的
 skeleton          ['skelitn]            n.  梗概; 骨架，框架
 skip              [skip]                v.  跳; 不出席; 逃学
@@ -4251,13 +4251,13 @@ sociology         [`səusi'ɔlədʒi]       n.  社会学
 soda              ['səudə]              n.  苏打; 碳酸水
 sodium            ['səudiəm]            n.  【化】钠
 soft              [sɔft]                a.  柔软的; 柔和的; 不含酒精的
-solder            ['sɔldə;  US 'sɔdər]  v.  焊接
+solder            ['sɔldə]              v.  焊接
 solid             ['sɔlid]              a.  固体的; 实心的; 稳固的; n.  固体
 solo              ['səuləu]             a.  单独的; n.  独奏(曲)
 soluble           ['sɔljubl]            a.  可溶的
 solution          [sə'lu:ʃn]            n.  溶液; 解答，解决(办法)
 sophisticated     [sə'fistikeitid]      a.  老练的; 精密的; 复杂的，先进的
-soprano           [sə'prɑ:nəu;  US -'pr n.  女高音
+soprano           [sə'prɑ:nəu]          n.  女高音
 sore              [sɔ:]                 a.  疼痛的; 极度的
 sound             [saund]               v.  似乎; a.  可靠的; 健康的; 合理的
 sour              ['sauə]               a.  酸(味)的
@@ -4290,7 +4290,7 @@ spread            [spred]               v. n.  展开; 蔓延; 散布
 spun              [spʌn]                a.  拉成丝的
 spur              [spə:]                n.  马刺; vt.  刺激，促进
 squid             [skwid]               n.  鱿鱼
-squirrel          ['skwirəl;  US 'skwə: n.  松鼠
+squirrel          ['skwirəl]            n.  松鼠
 squirt            [skwə:t]              vi.  喷出
 stack             [stæk]                n.  堆; vt.  堆积
 stadium           ['steidiəm]           n.  运动场
@@ -4316,7 +4316,7 @@ steep             [sti:p]               a.  陡峭的; 急剧的
 steer             [stiə]                v.  驾驶; 引导
 stellar           ['stelə]              a.  恒星的
 stereo            ['steriəu]            n.  立体声系统(装置); a.  立体声的
-stew              [stju:;  US stu:]     n.  炖(煨或焖)的食物; v.  炖，焖
+stew              [stju:]               n.  炖(煨或焖)的食物; v.  炖，焖
 stick             [stik]                n.  棍，棒; 手杖; v.  粘住; 放置
 sting             [stiŋ]                n.  (昆虫的)尾刺; 刺痛
 stir              [stə:]                v.  搅拌; 煽动，刺激
@@ -4324,7 +4324,7 @@ stock             [stɔk]                n.  库存; 股票; v.  储存
 storage           ['stɔ:ridʒ]           n.  库房; 贮藏，存储
 strand            [strænd]              n.  (线等的)股，缕; 线
 strategy          ['strætədʒi]          n.  战略，策略
-stratum           ['strɑ:təm;  US 'stre n. [pl.  strata]地层
+stratum           ['strɑ:təm]           n. [pl.  strata]地层
 stream            [stri:m]              n.  溪流; 股; v.  涌
 stress            [stres]               n.  压力; 强调; v.  强调
 stretch           [stretʃ]              v.  延伸，拉长; n.  一段路程; 延伸
@@ -4332,19 +4332,19 @@ strict            [strikt]              a.  严格的; 精确的
 strike            [straik]              v.  打，敲; 侵袭; n.  罢工
 string            [striŋ]               n.  弦; 细绳，带子
 stripe            [straip]              n.  条纹，斑纹
-studio            ['stju:diəu;  US 'stu n.  工作室，录音室
+studio            ['stju:diəu]          n.  工作室，录音室
 stylish           ['stailiʃ]            a.  漂亮的，时髦的
 stylistic         [stai'listik]         a.  格式上的，体裁上的
 stylized          ['stailaizd]          a.  风格化的，程式化的
-subdue            [səb'dju:;  US 'du:-] v.  制服，征服
-subject           ['sʌbdʒikt;  səb'dʒek n.  主题，对象; a.  (to)受…支配的; v.  (to)使服从
-submarine         [`sʌbmə'ri:n;  US 'sʌ n.  潜水艇，潜艇
+subdue            [səb'dju:]            v.  制服，征服
+subject           ['sʌbdʒikt]           n.  主题，对象; a.  (to)受…支配的; v.  (to)使服从
+submarine         [`sʌbmə'ri:n]         n.  潜水艇，潜艇
 subsidize         ['sʌbsidaiz]          v.  补助，资助
 subsidy           ['sʌbsidi]            n.  补助金，津贴
 subsist           [səb'sist]            vi.  存活，生存
 subspecies        ['sʌbspi:ʃi:z]        n.  【生】亚种
 substance         ['sʌbstəns]           n.  物质; 要旨，实质
-substitute        ['sʌbstitju:t;  US -t n.  代替者，代替品; vt.  代替
+substitute        ['sʌbstitju:t]        n.  代替者，代替品; vt.  代替
 subtle            ['sʌtl]               a.  细微的，微妙的
 suburb            ['sʌbə:b]             n.  郊区
 subway            ['sʌbwei]             n.  地铁
@@ -4354,9 +4354,9 @@ sulfur            ['sʌlfə]              n.  硫磺
 summary           ['sʌməri]             n.  摘要，概要
 sunlit            ['sʌnlit]             a.  阳光照射的
 sunset            ['sʌnset]             n.  日落
-superior          [sju:'piəriə US su:-] a.  (级别或地位)更高的; (质量或价值)更好的
-supervise         ['sju:pəvaiz US 'su:- vt.  监督; 指导
-supplement        ['sʌplimənt;  'sʌplim n.  补充，增补; vt.  补充，增补
+superior          [sju:'piəriə]         a.  (级别或地位)更高的; (质量或价值)更好的
+supervise         ['sju:pəvaiz]         vt.  监督; 指导
+supplement        ['sʌplimənt]          n.  补充，增补; vt.  补充，增补
 suppress          [sə'pres]             vt.  抑制，阻止
 surge             [sə:dʒ]               v.  汹涌奔腾; n.  汹涌，澎湃; 猛涨
 surgeon           ['sə:dʒən]            n.  外科医师
@@ -4387,7 +4387,7 @@ technique         [tek'ni:k]            n.  技术; 技能，技巧
 technological     [`teknə'lɔdʒikl]      a.  技术的，工艺的
 tectonics         [tek'tɔniks]          n.  构造地质学
 tedium            ['ti:diəm]            n.  单调乏味
-telegraph         ['teligrɑ:f;  US -græ n.  电报(机)
+telegraph         ['teligrɑ:f]          n.  电报(机)
 telescope         ['teliskəup]          n.  望远镜
 tendon            ['tendʌn]             n.  肌腱
 tenement          ['tenəmənt]           n.  廉租公寓
@@ -4397,11 +4397,11 @@ terminal          ['tə:minl]            a.  末端的; n.  终点站
 terminology       [`tə:mi'nɔlədʒi]      n.  术语; 术语学
 terrain           [tə'rein]             n.  地势，地形
 terrestrial       [tə'restriəl]         a.  陆地的，陆生的; 地球的
-territory         ['terətri;  US -tɔ:ri n.  领土，领域
+territory         ['terətri]            n.  领土，领域
 texture           ['tekstʃə(r)]         n.  质地; 纹理; 结构
 therapy           ['θerəpi]             n.  治疗，疗法
 thorn             [θɔ:n]                n.  刺，荆棘
-thorough          ['θʌrə;  US 'θʌrəu]   a.  彻底的; 详尽的; 一丝不苟的)
+thorough          ['θʌrə ]              a.  彻底的; 详尽的; 一丝不苟的)
 thrifty           ['θrifti]             a.  节省的，节俭的
 thwart            [θwɔ:t]               vt.  阻碍
 tile              [tail]                v.  铺瓦于
@@ -4409,8 +4409,8 @@ tolerant          ['tɔlərənt]           a.  宽容的
 topography        [tə'pɔgrəfi]          n.  地形
 topsoil           ['tɔpsɔil]            n.  表层土
 tornado           [tɔ:'neidəu]          n.  飓风，龙卷风
-torrent           ['tɔrənt;  US 'tɔ:r-] n.  迸发
-tournament        ['tɔ:nəmənt;  US 't\: n.  比赛; 锦标赛
+torrent           ['tɔrənt]             n.  迸发
+tournament        ['tɔ:nəmənt]          n.  比赛; 锦标赛
 towering          ['tauəriŋ]            a.  高耸的
 toxic             ['tɔksik]             a.  有毒的
 tract             [trækt]               n.  地域; 领域
@@ -4419,23 +4419,23 @@ transfer          [træns'fə:(r)]        v.  转移; 转学; n.  转移; 换乘
 transit           ['trænsit]            n.  运输(线); 转变
 translucent       [trænz'lu:snt]        a.  (半)透明的
 transmit          [trænz'mit]           v.  传输; 传播
-transplant        [træns'plɑ:nt;  US -' v.  迁移; 移植; n.  移植
+transplant        [træns'plɑ:nt]        v.  迁移; 移植; n.  移植
 tread             [tred]                vi.  踏，践踏
 trench            [trentʃ]              n.  壕沟
 tribal            ['traibl]             a.  部落的; 种族的
-tributary         ['tribjutri;  US -ter n.  支流; a.  支流的
+tributary         ['tribjutri]          n.  支流; a.  支流的
 trigger           ['trigə(r)]           vt.  引发，导致
 tropic            ['trɔpik]             n.  回归线; 热带
 troupe            [tru:p]               n.  剧团
-tube              [tju:b;  US tu:b]     n.  管; 显像管
-tuition           [tju:'iʃn;  US tu:-]  n.  学费
+tube              [tju:b]               n.  管; 显像管
+tuition           [tju:'iʃn]            n.  学费
 tundra            ['tʌndrə]             n.  苔原; 冻土地带
 tunnel            ['tʌnl]               n.  隧道; 风洞; 地道; v.  开(隧道)
 turbulent         ['tə:bjulənt]         a.  动乱的; 狂暴的，汹涌的
 turkey            ['tə:ki]              n.  火鸡(肉)
 turnpike          ['tə:npaik]           n.  收费公路
 turtle            ['tə:tl]              n.  海龟
-tutor             ['tju:tə(r);  US 'tu: n.  家庭教师; vt.  辅导
+tutor             ['tju:tə(r)]          n.  家庭教师; vt.  辅导
 twine             [twain]               n.  细绳
 twinkling         ['twiŋkliŋ]           a.  闪光的
 twist             [twist]               v. n.  缠绕，扭曲
@@ -4467,20 +4467,20 @@ utilitarian       [`ju:tili'teəriən]    a.  实用的; 功利(主义)的
 utmost            ['ʌtməust]            a.  最大限度的
 utter             ['ʌtə(r)]             v.  说; a.  完全的
 vacate            [və'keit]             vt.  腾出，空出
-vaccine           ['væksi:n;  US væk'si n.  疫苗
+vaccine           ['væksi:n]            n.  疫苗
 vapor             ['veipə(r)]           n.  (蒸)气，水汽
 varied            ['veərid]             a.  各式各样的
 vascular          ['væskjulə(r)]        a.  血管的，脉管的
 vegetarian        [`vedʒi'teəriən]      n.  素食者
 vegetation        [`vedʒi'teiʃn]        n.  植物; 植被
-vehicle           ['viəkl;  US 'vi:hikl n.  交通工具，车辆
+vehicle           ['viəkl]              n.  交通工具，车辆
 velocity          [vi'lɔsəti]           n.  速度，速率
 vent              [vent]                n.  通风口; 排出口
 verbal            ['və:bl]              a.  口头的
 vertebrate        ['və:tibreit]         n.  脊椎动物; a.  有脊柱的
 vessel            ['vesl]               n.  船; 容器; 血管
 viable            ['vaiəbl]             a.  可行的
-vibrate           [vai'breit;  US 'vaib vt.  颤动，振动
+vibrate           [vai'breit]           vt.  颤动，振动
 vice              [vais]                n.  副总统(或大学副校长等)
 violently         ['vaiələntli]         ad.  猛(激)烈地，极端地
 viral             ['vaiərəl]            a.  病毒(性)的
@@ -4488,7 +4488,7 @@ virus             ['vaiərəs]            n.  病毒
 visible           ['vizəbl]             a.  看得见的，明显的
 visual            ['viʒuəl]             a.  视觉的; 看得见的
 vocal             ['vəukl]              a.  声音的，有声的
-volatile          ['vɔlətail;  US -tl]  a.  不稳定性的; 挥发性的
+volatile          ['vɔlətail]           a.  不稳定性的; 挥发性的
 voyage            ['vɔiidʒ]             n.  旅行; 航程
 wagon             ['wægən]              n.  四轮马车; 货车
 wane              [wein]                v.  衰退
@@ -4510,7 +4510,7 @@ X-ray             ['eksrei]             n.  X射线，X光
 yarn              [jɑ:n]                n.  纱，纱线
 yeast             [ji:st]               n.  酵母，发酵粉
 yield             [ji:ld]               v.  出产; n.  产量，收益
-yogurt            ['jɔgət;  US 'jəugərt n.  酸奶(酪)
+yogurt            ['jɔgət             ] n.  酸奶(酪)
 zealous           ['zeləs]              a.  狂热的
 zinc              [ziŋk]                n.  锌
 zone              [zəun]                n.  地域，地带
