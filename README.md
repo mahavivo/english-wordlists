@@ -8,4 +8,4 @@
 
 4）COCA 20000词频表搜集自网络，同时利用爬虫程序提取了简明汉语释义供参酌。
 
-5）如果你的英语词汇水平在GRE考试要求之上，可以考虑去观摩一下我的一个高阶项目：`english dictionary database` （ https://github.com/mahavivo/english-dictionary ）。
+5）如果你的英语词汇水平在GRE考试要求之上，可以考虑去观摩一下我的一个高阶项目：*english dictionary database*（ https://github.com/mahavivo/english-dictionary ）。
