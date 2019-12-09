@@ -8,4 +8,12 @@
 
 4）COCA 20000词频表搜集自网络，同时利用爬虫程序提取了简明汉语释义供参酌。
 
-5）如果你的英语词汇水平在GRE考试要求之上，可以考虑去了解一下我的一个高阶项目：**english dictionary database**（ https://github.com/mahavivo/english-dictionary ）。
+5）**TOEFL_abridged** 收录删除所有四六级词汇后的单词。  
+
+6）**GRE_abridged** 收录删除所有四六级、托福词汇后的单词。  
+
+7）**COCA_abridged** 收录COCA 20000删除四六级、托福、GRE词汇后的单词，且逐条阅读，删除明显由原形动词的动名词、过去分词形式构成的衍生词，以及部分形容词+ly组成的副词。  
+
+8）**OALD8_abridged** 收录牛津高阶英汉双解词典（第8版）删除四六级、托福、GRE、COCA_abridged词汇后的单词。删除所有短语。且通读，删除无中文释义的异体单词，删除“-”开头的词头词尾。
+
+9）如果你的英语词汇水平在GRE考试要求之上，可以考虑去了解一下我的一个高阶项目：**english dictionary database**（ https://github.com/mahavivo/english-dictionary ）。
