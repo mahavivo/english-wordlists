@@ -945,7 +945,7 @@ descry [disˈkrai] v. 远远看到，望见
 desecrate [ˈdesikreit] v. 玷辱，亵渎
 deserter [diˈzəːtə] n. 背弃者，逃亡者
 desiccate [ˈdesikeit] v. （使）完全干涸，脱水
-desideratum [di,zidəˈreitəm] n. 必需品
+desideratum [dɪˌzɪdəˈrɑːtəm] n. 必需品
 desist [diˈzist] v. 停止
 desperado [ˌdespəˈrɑːdəu] n. 亡命之徒
 despondent [disˈpɔndənt] a. 失望的，意气消沉的
@@ -959,8 +959,8 @@ desuetude [diˈsjuːitjuːd] n. 废止，不用
 desultory [ˈdesəltəri] a. 不连贯的，散乱的
 determinant [diˈtəːminənt] n. 决定因素；a. 决定性的
 detestable [diˈtestəb（ə）l] a. 嫌恶的，可憎的，可厌恶的
-detonate [ˈdetəuneit] v. （使）爆炸，引爆
-detonation [ˌdetəuˈneiʃən] n. 爆炸（声）
+detonate [ˈdetəneit] v. （使）爆炸，引爆
+detonation [ˌdetəˈneiʃən] n. 爆炸（声）
 detour [ˈdiːtuə（r）] n. 弯路；绕行之路
 detraction [diˈtrækʃən] n. 贬低，诽谤
 detritus [diˈtraitəs] n. 碎屑；废墟
@@ -979,16 +979,16 @@ didactic [diˈdæktik] a. 教诲的；说教的
 diehard [ˈdaihɑːd] n. 顽固分子
 dietetics [ˌdaiəˈtetiks] n. 饮食学，营养学
 diffident [ˈdifidənt] a. 缺乏自信的
-dignitary [ˈdiɡni,teriː] n. 显要人物
+dignitary [ˈdiɡniˌteriː] n. 显要人物
 digression [daiˈɡreʃən] n. 离题，题外话
 dike [daik] n. 堤防
-dilapidate [diˈlæpi,deit] v. （使）荒废，（使）毁坏
+dilapidate [diˈlæpiˌdeit] v. （使）荒废，（使）毁坏
 dilapidated [diˈlæpideitid] a. 破旧的，倒塌的
 dilapidation [dilæpiˈdeiʃ（ə）n] n. 破旧，荒废
 dilatory [ˈdilətəri] a. 慢吞吞的，磨蹭的
-dilettante [ˌdiliˈtænti] n. 业余爱好者
+dilettante [ˌdiləˈtænti] n. 业余爱好者
 dillydally [ˈdilidæli] v. 磨蹭，浪费时间
-diminuendo [di,minjuˈendəu] n. （音乐、演奏）渐弱
+diminuendo [diˌminjuˈendəu] n. （音乐、演奏）渐弱
 diminution [ˌdimiˈnjuːʃən] n. 减少，缩减
 dimple [ˈdimpl] n. 酒窝，笑靥
 din [din] n. 喧闹声，嘈杂声
@@ -1058,7 +1058,7 @@ distinguished [disˈtiŋɡwiʃt] a. 著名的，卓越的
 distracted [disˈtræktid] a. 精神不集中的
 distrait [disˈtrei] a. 心不在焉的
 distraught [disˈtrɔːt] a. 心神狂乱的
-dither [ˈdiðə] n. /v. 慌张，犹豫不决
+dither [ˈdiðə] n./v. 慌张，犹豫不决
 ditty [ˈditi] n. 小曲，小调
 diurnal [daiˈəːnl] a. 白昼的，白天的
 diva [ˈdiːvə] n. 歌剧中的首席女主角
@@ -1101,8 +1101,8 @@ drab [dræb] a. 枯黄色的；单调而无聊的
 draconian [drəˈkəuniən] a. 严厉的，严酷的
 draftsmanship [ˈdrɑːftsmənʃip] n. 起草术，制图术
 draggy [ˈdræɡi] a. 单调而无生气的
-drawbridge [ˈdrɔː,bridʒ] n. 吊挢
-drawl [drɔːl] v. /n. 慢吞吞地说话
+drawbridge [ˈdrɔːˌbridʒ] n. 吊挢
+drawl [drɔːl] v./n. 慢吞吞地说话
 drawn [drɔːn] a. 憔悴的
 dreary [ˈdriəri] a. 沉闷的，乏味的
 dregs [dreɡz] n. 沉淀废物
@@ -1144,7 +1144,7 @@ eaglet [ˈiːɡlit] n. 小鹰
 earplug [ˈiəplʌɡ] n. 耳塞
 earring [ˈiəriŋ] n. 耳环，耳饰
 earshot [ˈiəʃɔt] n. 听力所及范围
-earsplitting [ˈiə,splitiŋ] a. 震耳欲聋的
+earsplitting [ˈiəˌsplitiŋ] a. 震耳欲聋的
 earthly [ˈəːθli] a. 现世的；尘世的（非精神上的）
 earthshaking [ˈəːθʃeikiŋ] a. 极其重大或重要的
 earthy [ˈəːθi] a. 粗俗的，粗陋的
@@ -1321,7 +1321,7 @@ execrable [ˈeksikrəbl] a. 极坏的
 execrate [ˈeksikreit] v. 憎恶；咒骂
 execration [ˌeksiˈkreiʃən]  n. 憎恨，厌恶
 exhilarate [iɡˈziləreit] v. 使高兴
-exhilaration [iɡ,ziləˈreiʃən] n. 高兴，活跃
+exhilaration [iɡˌziləˈreiʃən] n. 高兴，活跃
 exhort [iɡˈzɔːt] v. 力劝，劝告
 exigent [ˈeksidʒənt] a. 需要立即采取行动的
 exiguous [eɡˈziɡjuəs] a. 太少的，不足的
