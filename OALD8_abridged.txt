@@ -390,7 +390,6 @@ anther [ˈænθər] noun (生)花藥（花的雄蕊頂端產生花粉的部份�
 anthill [ˈænthɪl] noun 蟻塚；蟻垤
 anthologize [ænˈθɑːlədʒaɪz] verb anthologize sb/sth把（作者或作品）收入選集
 anthracite [ˈænθrəsaɪt] noun 無煙煤
-anthropo- [ˈænθrəpoʊ] combining form (構成名詞、形容詞和副詞)人的；人類的
 anthropocentric [ˌænθrəpəˈsentrɪk] adjective 人類中心論的；人本位的
 anthropomorphic [ˌænθrəpəˈmɔːrfɪk] adjective (信念或思想)人格化的；擬人化的
 anti-aircraft  adjective 防空的
@@ -8011,7 +8010,6 @@ octagon [ˈɑːktəɡɑːn] noun (幾何)八邊形；八角形
 octane [ˈɑːkteɪn] noun 辛烷（汽油中的化學物質，用於檢測汽油的質量）
 octavo [ɑːkˈteɪvoʊ] noun (術語)八開本
 octet [ɑːkˈtet] noun 1.八重唱組合；八重奏樂團 2.八重奏（曲）；八重唱（曲）
-octo- [ˈɑːktoʊ‑] combining form (構成名詞、形容詞和副詞)八；八…的
 octosyllable [ˈɑːktoʊsɪləbl] noun (術語)八音節詩行
 oculist [ˈɑːkjəlɪst] noun (old-fashioned)眼科醫生
 odds-on  adjective 很可能發生（或取勝等）的
@@ -8085,7 +8083,6 @@ ombudsman [ˈɑːmbʊdzmən] noun 政府巡查員，巡視官，申訴專員（�
 omega [oʊˈmeɡə] noun 歐米加（希臘字母表的最後一個字母）
 omelette [ˈɑːmlət] noun NAmE also煎蛋捲，攤雞蛋（常加入奶酪、肉和蔬菜）
 omicron [ˈɑːməkrɑːn] noun 希臘字母表的第 15 個字母
-omni- [ˈɑːmnɪ‑] combining form (構成名詞、形容詞和副詞)總；全部；遍
 omnibus [ˈɑːmnɪbəs] noun 1.(BrE)（廣播、電視）綜合節目 2.（若干種作品的）彙編，選集 3.(old-fashioned)公共汽車 adjective (NAmE)綜合性的；選編的
 omnidirectional [ˌɑːmnɪdəˈrekʃənl] adjective (術語)（接收或發射信號）全向的
 omnivore [ˈɑːmnɪvɔːr] noun 雜食動物；雜食的人
@@ -9861,7 +9858,6 @@ retractable [rɪˈtræktəbl] adjective 可縮進的；可拉回的
 retraction [rɪˈtrækʃn] noun 1.撤銷；收回 2.(術語)收回；拉回
 retread [ˈriːtred] noun 1.翻新的舊輪胎 2.(NAmE) (disapproving)（書籍、電影、歌曲等的）翻版
 retrial [ˌriːˈtraɪəl] noun 復審；再審
-retro- [ˈretroʊ] prefix (構成名詞、形容詞和副詞)後；向後
 retroflex [ˈretrəfleks] adjective 1.(醫)向後彎曲的；後屈的；反曲的 2.(語音)捲舌的
 retrograde [ˈretrəɡreɪd] adjective (formal, disapproving)(行為)倒退的；退化的；退步的
 retrogressive [ˌretrəˈɡresɪv] adjective (formal, disapproving)倒退的；退化的
@@ -11164,7 +11160,6 @@ sparrowhawk [ˈspæroʊhɔːk] noun 雀鷹
 spastic [ˈspæstɪk] adjective 1.(醫)患痙攣性麻痺症的，痙攣性麻痺症引起的（此詞現常被認為有冒犯意） 2.(informal)（有時兒童用以罵人愚蠢）笨拙的，無能的
 spay [speɪ] verb (術語)spay sth切除雌獸的卵巢；劁（雌獸）
 spaza [ˈspɑːzə] noun (SAfrE)（尤指黑人城鎮的）家庭雜貨店，街頭小店
--speak [spiːk] combining form (構成名詞)（尤指令他人費解或厭煩的）圈中行話，用語
 speakeasy [ˈspiːkiːzi] noun （美國 20 世紀 20、30 年代禁酒期間）非法經營的酒店
 speakerphone [ˈspiːkərfoʊn] noun 揚聲電話（內置麥克風和揚聲器，使用時無須拿起聽筒）
 spearmint [ˈspɪrmɪnt] noun 留蘭香；綠薄荷
@@ -11385,7 +11380,6 @@ stein [staɪn] noun (from German)飾花大啤酒杯（多為陶質，常帶蓋�
 stemware [ˈstemwer] noun (術語)有腳玻璃器皿
 stenographer [stəˈnɑːɡrəfər] noun informal速記員
 stent [stent] noun (醫)（防止栓塞等而植入的）血管支架
-step- [step‑] combining form (構成名詞)（因父母再婚而構成的親緣關係）繼…
 stepbrother [ˈstepbrʌðər] noun 繼兄，繼弟（繼母與其前夫或繼父與其前妻所生的兒子）
 stepchild [ˈsteptʃaɪld] noun 繼子；繼女
 stepdaughter [ˈstepdɔːtər] noun 繼女
@@ -11396,7 +11390,6 @@ step-parent  noun 繼母；繼父
 stepsister [ˈstepsɪstər] noun 繼姐，繼妹（繼母與其前夫或繼父與其前妻所生的女兒）
 stepson [ˈstepsʌn] noun 繼子
 stepwise [ˈstepwaɪz] adjective 1.逐步的；逐漸的 2.(音)（按音階）級進的
--ster  suffix (構成名詞)與…有關的人；有…品質的人
 stereoscopic [ˌsteriəˈskɑːpɪk] adjective 1.(術語)有立體視覺的 2.圖畫、照片等
 sterilizer [ˈsterəlaɪzər] noun 消毒器；滅菌器
 sternum [ˈstɜːrnəm] noun (解)胸骨
@@ -11642,7 +11635,6 @@ sunstroke [ˈsʌnstroʊk] noun 日射熱；中暑
 suntrap [ˈsʌntræp] noun 避風向陽處
 sunup [ˈsʌnʌp] noun (especially NAmE)日出
 sun-worshipper  noun (informal)迷戀日光浴的人
-super- [ˈsuːpər‑] combining form 1.(構成形容詞、副詞和名詞)極；超；超級 2.(構成名詞和動詞)上；上方
 superabundance [ˌsuːpərəˈbʌndəns] noun (formal)過多；過剩
 superannuation [ˌsuːpərˌænjuˈeɪʃn] noun (especially BrE)（通常由原雇主發的）退休金，養老金
 superbug [ˈsuːpərbʌɡ] noun 超級細菌（抗生素不能輕易殺死）
@@ -11875,7 +11867,6 @@ taskmaster [ˈtæskmæstər] noun 工頭；監工；監督人
 tassel [ˈtæsl] noun （靠墊、窗簾、衣服等的）流蘇，穗，纓
 tasselled [ˈtæsld] adjective (BrE)飾有流蘇的；帶穗的；有纓的
 taster [ˈteɪstər] noun 1.試味員；品酒師；品茶員 2.(informal) (especially BrE)（供嘗試的）小樣品
--tastic [ˈtæstɪk] suffix (構成形容詞)（某類人或物品中）極好的
 tasting [ˈteɪstɪŋ] noun 品嚐會
 tat [tæt] noun (BrE) (informal)劣質貨
 ta-ta [ˌtæ ˈtɑː] exclamation (BrE) (informal)再見
@@ -11921,7 +11912,6 @@ technetium [tekˈniːʃɪəm] noun 鍀
 technicolour [ˈteknɪkʌlər] noun especially US鮮豔的色彩；五彩繽紛
 technikon [ˈteknɪkɑːn] noun informal技術學院；職業技術大學
 techno [ˈteknoʊ] noun 泰克諾音樂（一種節奏快、通常無歌聲相伴的電子舞曲）
-techno- [ˈteknoʊ] combining form (構成名詞、形容詞和副詞)科技的；技術的；工藝的
 technobabble [ˈteknoʊbæbl] noun (informal, disapproving)技術囈語（普通人難以理解）
 technocracy [tekˈnɑːkrəsi] noun 技術專家治國制度；技術專家政治
 technophile [ˈteknoʊfaɪl] noun 新技術愛好者；新科技迷
@@ -12018,7 +12008,6 @@ tetralogy [teˈtrælədʒi] noun 四部曲；四聯劇
 texter [ˈtekstər] noun (especially BrE)發送（手機）短信息的人；簡訊發送者
 text-to-speech  noun (計)文本語音轉換程序；語音朗讀程序；文字至語音轉換程式
 textural [ˈtekstʃərəl] adjective (術語)質地的；紋理的
--th  suffix 1.(構成序數詞) 2.(構成名詞)（表示動作或過程）
 thali [ˈtɑːli] noun 1.金屬餐盤 2.（印度餐廳）套餐
 thalidomide [θəˈlɪdəmaɪd] noun 沙利度胺，反應停，酞胺呱啶酮（一種鎮定藥，20 世紀 60 年代發現孕婦服用後會導致胎兒四肢畸形而被禁用）
 thallium [ˈθæliəm] noun 鉈
@@ -12046,7 +12035,6 @@ thereunder [ˌðerˈʌndər] adverb (律)在其下；據此
 thereupon [ˌðerəˈpɑːn] adverb 1.立即；隨即；因此；於是 2.在其上
 therewith [ˌðerˈwɪð] adverb 1.與此；與之 2.隨即；立即
 therm [θɜːrm] noun 撒姆（英國用以計量煤氣的熱量單位）
-thermo- [ˈθɜːmoʊ] combining form (構成名詞、形容詞和副詞)熱的
 thermodynamics [ˌθɜːrmoʊdaɪˈnæmɪks] noun 熱力學
 thermonuclear [ˌθɜːrmoʊˈnuːkliər] adjective 熱核的
 thermoplastic [ˌθɜːrmoʊˈplæstɪk] noun (術語)熱塑（性）塑料
@@ -12366,7 +12354,6 @@ tranche [trɑːnʃ] noun (財)（款額或股份的）一份，一部份
 tranny [ˈtræni] noun 1.變性者；易性癖者；易裝癖者 2.(especially BrE)晶體管收音機；電晶體收音機 3.幻燈片；透明正片
 tranquillize [ˈtræŋkwəlaɪz] verb (both BrE)tranquillize sb/sth（尤指用鎮定劑）使平靜，使安定
 tranquillizer [ˈtræŋkwəlaɪzər] noun (both BrE)安定藥；鎮靜劑
-trans- [trænz‑] prefix 1.(構成形容詞)橫穿；通過；超越 2.(構成動詞)進入（另一地方）；成為（另一狀態）
 transceiver [trænˈsiːvər] noun 無線電收發兩用機
 transcontinental [ˌtrænzˌkɑːntɪˈnentl] adjective 橫貫大陸的；穿越大陸的
 transept [ˈtrænsept] noun (建)（十字形教堂的）耳堂
@@ -12589,9 +12576,7 @@ typography [taɪˈpɑːɡrəfi] noun 印刷術；排印；版面設計
 tyrannical [tɪˈrænɪkl] adjective formal暴君的；專橫的；殘暴的
 tyrannize [ˈtɪrənaɪz] verb 對…施行暴政；專橫地對待
 tyrannosaur [tɪˈrænəsɔːr] noun 霸王龍
-uber- [ˈuːbər] combining form (from German) (informal)最好的；超級的
 ubuntu [ʊˈbʊntʊ] noun (SAfrE)班圖精神，社團關愛精神（生活在集體中，大家必須分享物品並互相關心）
-u.c.  abbreviation (書寫形式)
 udder [ˈʌdər] noun （母牛、母羊等的）乳房
 ufology [juːˈfɑːlədʒi] noun 不明飛行物學；幽浮學
 ugali [uːˈɡɑːli] noun (EAfrE)蒸玉米粉糰，蒸黍粉糕（通常和燉肉或蔬菜一起吃）
@@ -12599,7 +12584,6 @@ uh-uh [ˈʌ ʌ] exclamation （表示不同意）哼，噓
 ujamaa [ˌʊdʒæˈmɑː] noun （坦桑尼亞）烏賈馬，社會主義
 ukulele [ˌjuːkəˈleɪli] noun 尤克萊利琴（四弦小吉他）
 ulna [ˈʌlnə] noun (解)尺骨
-ultra- [ˈʌltrə] prefix (構成形容詞和名詞)極；超過某限度
 ultralight [ˈʌltrəlaɪt] noun (NAmE)超輕型飛機
 ultramarine [ˌʌltrəməˈriːn] noun 群青色；佛青色
 ultrashort [ˌʌltrəˈʃɔːrt] adjective (無線電波)超短的
@@ -12877,7 +12861,6 @@ unhurried [ʌnˈhɜːrid] adjective (formal)從容的；不慌不忙的
 unhurt [ʌnˈhɜːrt] adjective 未受傷；未受傷害；平安；安然無恙
 unhygienic [ˌʌnhaɪˈdʒenɪk] adjective 不清潔的；不衞生的；易致病（或感染）的
 uni [ˈjuːni] noun (BrE) (informal)大學
-uni- [ˈjuːni] combining form (構成名詞、形容詞和副詞)單；獨；一
 unicameral [ˌjuːnɪˈkæmərəl] adjective (術語)(議會)單院的；一院（制）的
 unicellular [ˌjuːnɪˈseljələr] adjective (生)(生物)單細胞的
 unicycle [ˈjuːnɪsaɪkl] noun 獨輪腳踏車
@@ -13069,7 +13052,6 @@ unwell [ʌnˈwel] adjective (rather formal)有恙；染病；不適；不舒服
 unwholesome [ˌʌnˈhoʊlsəm] adjective 1.有損健康的；不健康的；不衞生的 2.令人不快的；討厭的；不自然的
 unworkable [ʌnˈwɜːrkəbl] adjective 不切實際的；難以實行的；行不通的
 unworried [ʌnˈwɜːrid] adjective (formal)坦然；平靜；輕鬆
-up- [ʌp] prefix (構成形容詞、動詞和相關的名詞)更高；向上；朝頂部
 up-anchor  verb (輪船或船員)起錨（準備開航）
 up-and-coming  adjective 有前途的；前程似錦的
 upchuck [ˈʌptʃʌk] verb (NAmE) (informal)[intransitive, transitive]upchuck(sth)嘔吐
@@ -13124,7 +13106,6 @@ utilitarianism [ˌjuːtɪlɪˈteriənɪzəm] noun (哲)功利主義
 uvula [ˈjuːvjələ] noun (解)小舌；懸雍垂
 uvular [ˈjuːvjələr] adjective (語音)(輔音)小舌（部位發出）的
 uxorial [ʌkˈsɔːriəl] adjective (formal)與妻子有關的
-v [viː] abbreviation 1.especially in NAmE對；對抗 2.(書寫形式)很；非常；十分 3.
 vac [væk] noun (BrE) (informal)（大學的）假期
 vacuity [vəˈkjuːəti] noun (formal)空虛；茫然；缺乏思考
 vacuole [ˈvækjuoʊl] noun 1.(生)（細胞內的）液泡，泡 2.(醫)（身體組織中由疾病等造成的）空泡
@@ -13212,7 +13193,6 @@ vibraphone [ˈvaɪbrəfoʊn] noun informal顫音琴（常用於爵士樂）
 vibrato [vɪˈbrɑːtoʊ] noun (音)（演唱或演奏的）顫音效果，顫音
 vibrator [vaɪˈbreɪtər] noun （用於按摩或產生性快感的）顫動按摩器，震動器
 vicarage [ˈvɪkərɪdʒ] noun 代牧住宅
-vice- [vaɪs] combining form (構成名詞和相關的形容詞)副；代理
 viceroy [ˈvaɪsrɔɪ] noun (常用作頭銜)（舊時受君主委派管治殖民地的）總督
 victimless [ˈvɪktɪmləs] adjective （犯罪行為）無受害人的，不侵害他人的
 victualler [ˈvɪtlər] noun (律)持證售酒者
@@ -13594,7 +13574,6 @@ wintertime [ˈwɪntərtaɪm] noun 冬季；冬天；冬令
 wipeout [ˈwaɪpaʊt] noun 1.全部摧毀；徹底失敗 2.（從衝浪板上的）跌倒，翻跌
 wirepuller [ˈwaɪərpʊlər] noun (NAmE)幕後牽線者；背後操縱者
 wiretapping [ˈwaɪərtæpɪŋ] noun （用秘密連線方法）竊聽電話
--wise  suffix 1.以…方式；朝…方向 2.(informal)關於；在…方面
 wiseacre [ˈwaɪzeɪkər] noun (old-fashioned, informal) (especially NAmE)自以為無所不知的人；自以為是的人
 wisecrack [ˈwaɪzkræk] noun (informal)俏皮話；風涼話
 wishbone [ˈwɪʃboʊn] noun 叉骨，如願骨（吃家禽等時兩人將頸與胸之間的 V 形骨拉開，得大塊骨者可許願）
