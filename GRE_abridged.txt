@@ -3627,7 +3627,7 @@ smut [smʌt] n. 污迹；v. 弄脏，污
 snappish [ˈsnæpiʃ] a. 脾气暴躁的
 snappy [ˈsnæpi] a. 精力充沛的；潇洒的
 snare [sneə] n. 罗网，陷阱
-snarl [snɑːl] n./v. 纠缠，混乱 v. 咆哮，怒骂
+snarl [snɑːl] n./v. 纠缠，混乱；v. 咆哮，怒骂
 sneaking [ˈsniːkiŋ] a. 秘密的，私下的，不公开的（尤指不应有的情感）
 snicker [ˈsnikə] v./n. 窃笑，暗笑
 snide [snaid] a. 讽刺的，含沙射影的
@@ -3946,7 +3946,7 @@ tractability [ˌtræktəˈbiliti] n. 温顺
 traduce [trəˈdjuːs] v. 中伤，诽谤
 traipse [treips] v. 漫步，闲逛
 trajectory [trəˈdʒekətəri] n. （抛射物）弹道轨道
-trammel [ˈtræməl] v./n. 束缚，妨碍 n. 鱼网
+trammel [ˈtræməl] v./n. 束缚，妨碍；n. 鱼网
 tramp [træmp] v. 重步走；长途跋涉
 trance [trɑːns] n. 恍惚，出神；昏睡状态
 transcendent [trænˈsendənt] a. 超越的，卓越的，出众的
@@ -3961,7 +3961,7 @@ transmute [trænzˈmjuːt] v. 变化，变作
 transpose [trænsˈpəuz] v. 互换位置，调换
 trapeze [trəˈpiːz] n. （杂技用）空中秋千
 travesty [ˈtrævisti] v./n. 歪曲拙劣地（的）模仿
-trawl [trɔːl] n. 拖网 v. 用拖网捕鱼；搜罗
+trawl [trɔːl] n. 拖网；v. 用拖网捕鱼；搜罗
 treacherous [ˈtretʃərəs] a. 背叛的，不忠的；奸诈的
 treachery [ˈtretʃəri] n. 阴险；背叛
 treatise [ˈtriːtiz] n. （专题）论文
