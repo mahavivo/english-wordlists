@@ -3231,11 +3231,11 @@ rejoinder [riˈdʒɔində] n. 回答
 relegate [ˈreliɡeit] v. 降级，降职
 relent [riˈlent] v. 动怜悯心，发慈悲；减弱
 relenting [riˈlentiŋ] a. 减弱的，怜悯的
-reminisce [ˌremiˈnis] v. &n. 追忆，怀旧
+reminisce [ˌremiˈnis] v./n. 追忆，怀旧
 remiss [riˈmis] a. 疏忽的，不留心的
 remission [riˈmiʃən] n. 宽恕，赦免
 remittance [riˈmitəns] n. 汇款
-remittent [riˈmitənt] a. （病）间歇性的，忽好忽坏的
+remittent [riˈmitənt] a. （病）弛张的，缓解的
 remonstrance [riˈmɔnstrəns] n. 抗议，抱怨
 remonstrate [riˈmɔnstreit] v. 抗议；规劝
 remorse [riˈmɔːs] n. 懊悔，悔恨，自责
@@ -3257,7 +3257,7 @@ repercussion [ˌriːpə(ː)ˈkʌʃən] n. 反响，后果，（尤指不良的�
 repine [riˈpain] v. 不满，心中抱怨
 replete [riˈpliːt] a. 饱食的；塞满的，供应充足的
 replica [ˈreplikə] n. 复制品
-reportage [ˌrepɔːˈtɑːʒ] n. 报道，报道的消息，报告文学
+reportage [riˈpɔːtidʒ] n. 报道，报道的消息，报告文学
 reportorial [ˌrepəˈtɔːriəl] a. 记者的；纪实的
 repose [riˈpəuz] n./v. 躺着休息，安睡
 repository [riˈpɔzitəri] n. 贮藏室，仓库
@@ -3299,7 +3299,7 @@ resurgence [riˈsəːdʒəns] n. 再起，复活，再现，复兴
 resurrect [ˌrezəˈrekt] v. 使（人）复活；使（事物）复兴
 resuscitate [riˈsʌsiteit] v. 使复活，使苏醒
 retainer [riˈteinə] n. 侍从
-retch [riːtʃ] v. 作呕，恶心
+retch [retʃ] v. 作呕，恶心
 retentive [riˈtentiv] a. 有记忆力的
 reticent [ˈretisənt] a. 沉默不语的，有保留的
 reticulation [riˌtikjuˈleiʃ（ə）n] n. 网目，网状
@@ -3331,7 +3331,7 @@ rift [rift] n. 裂口，断裂；（人之间的）矛盾、不和
 rigmarole [ˈriɡmərəul] n. 冗长的废话
 rile [rail] v. 使...恼火，激怒
 rind [raind] n. （西瓜等）硬外皮
-ringlet [ˈriŋlit] n. 长的卷发
+ringlet [ˈriŋlət] n. 长的卷发
 rinse [rins] v. 以清水冲洗，漂洗
 ripple [ˈripl] v. 起涟漪；n. 细浪，涟漪
 ritzy [ˈritsi] a. 时髦的，势利的
