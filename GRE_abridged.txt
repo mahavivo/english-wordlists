@@ -3109,7 +3109,6 @@ quaff [kwɑːf, kwɔf] v. 痛饮，畅饮
 quagmire [ˈkwæɡmaiə] n. 沼泽地；困境
 quail [kweil] v. 畏惧，颤抖
 qualm [kwɑːm] n. 疑惧；紧张不安
-qualms [kwɑːmz] n. 疑虑（尤指有关良心问题的）
 quandary [ˈkwɔndəri] n. 困惑，进退两难
 quantum [ˈkwɑntəm] n. 量子；定量
 quarantine [ˈkwɔrəntiːn] n. （为防传染疾病的）隔离检疫期，隔离
@@ -3420,7 +3419,7 @@ savvy [ˈsævi] a. 有见识的，精明能干的
 sawdust [ˈsɔːdʌst] n. 锯屑
 scab [skæb] n. 创口上所结的疤、痂
 scabbard [ˈskæbəd] n. （刀剑）鞘
-scabrous [ˈskeibrəs] a. 粗糙的
+scabrous [ˈskeibrəs] a. 粗糙的；粗俗的，淫秽的
 scad [skæd] n. 许多，大量
 scads [skædz] n. 大量，巨额
 scaffold [ˈskæfəuld] n. 脚手架（造房时搭的架子）
@@ -3569,7 +3568,6 @@ simile [ˈsimili] n. 明喻
 simonize [ˈsaimənaiz] v. 给...上蜡，把...擦亮
 simper [ˈsimpə] v. 痴笑，傻笑
 simpleton [ˈsimpltən] n. 笨蛋，傻瓜
-simpleton [ˈsimpltən] n. 笨蛋
 sinecure [ˈsainikjuə] n. 挂名差事，工作清闲但领薪的职位
 sinew [ˈsinjuː] n. 腱，肌肉；力量
 siren [ˈsaiərin] n. 汽笛，警报器
@@ -3625,12 +3623,11 @@ smirk [sməːk] v. 假笑，得意地笑
 smite [smait] v. 重打，猛击，折磨
 smudge [smʌdʒ] n. 污迹，渍痕（常因摩擦造成）；v. 弄脏
 smug [smʌɡ] a. 自满的，自命不凡的
-smut [smʌt] n. 污迹v. 弄脏，污
+smut [smʌt] n. 污迹；v. 弄脏，污
 snappish [ˈsnæpiʃ] a. 脾气暴躁的
 snappy [ˈsnæpi] a. 精力充沛的；潇洒的
 snare [sneə] n. 罗网，陷阱
-snarl [snɑːl] n./v. 纠缠，混乱
-snarl [snɑːl] v. 咆哮，怒骂
+snarl [snɑːl] n./v. 纠缠，混乱 v. 咆哮，怒骂
 sneaking [ˈsniːkiŋ] a. 秘密的，私下的，不公开的（尤指不应有的情感）
 snicker [ˈsnikə] v./n. 窃笑，暗笑
 snide [snaid] a. 讽刺的，含沙射影的
@@ -3682,10 +3679,9 @@ specious [ˈspiːʃəs] a. 似是而非的；华而不实的
 speck [spek] n. 小斑点，小污点；少量
 specter [ˈspektə] n. 鬼魂，幽灵；（缠绕心头的）恐惧
 spectral [ˈspektrəl] a. 幽灵的
-speleology [ˌspiliˈɔlədʒi] n. 洞窟学
+speleology [ˌspiliˈɔlədʒi] n. 洞穴学
 spendthrift [ˈspendˌθrift] adj./n. 挥金如土的（人）
-spike [spaik] n. 长钉，大钉
-spike [spaik] v. 钉牢；扣球
+spike [spaik] n. 长钉，大钉；v. 钉牢；扣球
 spindly [ˈspindli] a. 细长的，纤弱的
 spire [ˈspaiə] n. （教堂）尖顶
 splashy [ˈsplæʃi] a. 溅水的；炫耀显眼的
@@ -3729,7 +3725,6 @@ starchy [ˈstɑːtʃi] a. 含淀粉的；刻板的
 stasis [ˈsteisis] n. 停滞
 stately [ˈsteitli] a. 庄严的；宏伟的
 statuary [ˈstætjuəri] n. 雕像；雕塑艺术
-staunch [stɔːntʃ] a. 坚定的
 staunch [stɔːntʃ] a. 坚定的，忠诚的
 stealth [stelθ] n. 秘密的行动
 steeple [ˈstiːpl] n. 尖塔，尖阁
@@ -3951,7 +3946,7 @@ tractability [ˌtræktəˈbiliti] n. 温顺
 traduce [trəˈdjuːs] v. 中伤，诽谤
 traipse [treips] v. 漫步，闲逛
 trajectory [trəˈdʒekətəri] n. （抛射物）弹道轨道
-trammel [ˈtræməl] v./n. 束缚，妨碍n. 鱼网
+trammel [ˈtræməl] v./n. 束缚，妨碍 n. 鱼网
 tramp [træmp] v. 重步走；长途跋涉
 trance [trɑːns] n. 恍惚，出神；昏睡状态
 transcendent [trænˈsendənt] a. 超越的，卓越的，出众的
@@ -3966,7 +3961,7 @@ transmute [trænzˈmjuːt] v. 变化，变作
 transpose [trænsˈpəuz] v. 互换位置，调换
 trapeze [trəˈpiːz] n. （杂技用）空中秋千
 travesty [ˈtrævisti] v./n. 歪曲拙劣地（的）模仿
-trawl [trɔːl] n. 拖网,v. 用拖网捕鱼；搜罗
+trawl [trɔːl] n. 拖网 v. 用拖网捕鱼；搜罗
 treacherous [ˈtretʃərəs] a. 背叛的，不忠的；奸诈的
 treachery [ˈtretʃəri] n. 阴险；背叛
 treatise [ˈtriːtiz] n. （专题）论文
@@ -4021,7 +4016,7 @@ tyro [ˈtaiərəu] n. 新手
 ubiquitous [juːˈbikwitəs] a. 无所不在的
 ulcer [ˈʌlsə] n. 溃疡；腐烂物
 ulcerate [ˈʌlsəreit] v. 溃烂，生恶疮
-ulterior [ʌlˈtiəriə] a. 较晚的，较远的；不可告人的
+ulterior [ʌlˈtiəriə] a. 隐秘的，不可告人的；较晚的，较远的
 ultramundane [ˌʌltrəˈmʌndein] a. 超俗的，世界之外的
 umbrage [ˈʌmbridʒ] n. 不快，感到受了侮辱或冒犯
 umpire [ˈʌmpaiə] n. 裁判；v. 对...进行仲裁
@@ -4074,7 +4069,7 @@ unimpassioned [ˈʌnimˈpæʃənd] a. 没有激情的
 unimpeachable [ˌʌnimˈpiːtʃəbl] a. 无可指摘的，无可置疑的
 uninitiated [ʌniˈniʃieitid] a. 外行的，缺乏经验的
 unison [ˈjuːnisn] n. 齐奏，齐唱；一致的或协调的行动
-univocal [ˌjuːniˈvəukəl] a. 单一意思的，意思明确的
+univocal [ˌjuːniˈvəukəl] a. （词，术语）只有一个意义的，单义的；无歧义的
 unjustified [ʌnˈdʒʌstifaid] a. 未被证明为正当的，无法解释的
 unjustly [ʌnˈdʒʌstli] adv. 不正当地，不公平地
 unkempt [ˈʌnˈkempt] a. （衣服、头发）不整洁的
@@ -4082,7 +4077,7 @@ unmitigated [ʌnˈmitiɡeitid] a. 未缓和的，未减轻的，全然的
 unmoved [ˈʌnˈmuːvd] a. 无动于衷的，冷漠的；镇定的
 unnoticed [ˈʌnˈnəutist] a. 不引人注意的
 unobtrusive [ˈʌnəbˈtruːsiv] a. 不引人注目的
-unpalatable [ʌnˈpælətəbl] a. 令人讨厌的，令人无法认同的
+unpalatable [ʌnˈpælətəbl] a. 不可口的；令人讨厌的，令人无法认同的
 unpremeditated [ˈʌnpriˈmediteitid] a. 非预谋的
 unprepossessing [ʌnpriːpəˈzesiŋ] a. 不吸引人的
 unpretentious [ʌnpriˈtenʃəs] a. 不炫耀的，质朴的
@@ -4292,7 +4287,7 @@ willowy [ˈwiləui] a. 苗条的
 willy-nilly [ˈwiliˈnili] a. 不可避免的；乱糟糟的
 wilt [wilt] v. 使...凋谢，枯萎（因缺水）
 wily [ˈwaili] a. 狡猾的
-wince [wins] v. 避开，畏缩
+wince [wins] v. 避开，畏缩，皱眉蹙眼
 windbag [ˈwindbæɡ] n. 多话之人
 windfall [ˈwindfɔːl] n. 风吹落的果实；意外的好运
 winding [ˈwaindiŋ] a. 蜿蜒的，迂回的
