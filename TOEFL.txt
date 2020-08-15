@@ -592,7 +592,7 @@ condemn           [kən'dem]             vt.  判刑,责备,谴责,声讨,处刑
 condiment         ['kɔndimənt]          n.  调味品
 condition         [kən'diʃən]           n.  情况,条件vt.  以. . . 为条件,决定,支配,使适应
 condone           [kən'dəun]            vt.  赦,宽恕
-conduct           ['kɔndəkt,            n.  行为,举动,指导vt.  引导,指挥,管理,实施vi.  引导,传导,指挥
+conduct           ['kɔndəkt]            n.  行为,举动,指导vt.  引导,指挥,管理,实施vi.  引导,传导,指挥
 cone              [kəun]                n.  圆锥体,球果vt.  使成锥形
 confederate       [kən'fedərit]         n.  同盟者,同盟国a.  同盟的,联合的vt. vi.  (使)联盟,(使)联合
 confer            [kən'fə:]             vt.  赠予,协议vi.  协商
@@ -1707,7 +1707,7 @@ invalidate        [in'vælideit]         vt.  使无效
 invaluable        [in'væljuəbl]         a.  无价的,价值无法衡量的
 inventory         ['invən'təuri]        n.  详细目录,存货清单vt.  列入详细目录,清点存货
 inverse           [in'və:s]             a.  倒转的,相反的n.  反白,反色
-invert            [in'və:t,             a.  转化的vt.  使反转,使颠倒,使转化n.  颠倒的事物
+invert            [in'və:t]             a.  转化的vt.  使反转,使颠倒,使转化n.  颠倒的事物
 investigate       [in'vestigeit]        vt. vi.  调查,研究
 inviting          [in'vaitiŋ]           a.  引人动心的,有魅力的
 invocation        [invou'keiʃən]        n.  祈祷,符咒
@@ -3413,7 +3413,7 @@ formation         [fɔ:'meiʃn]           n.  形成，构成; 编队
 formulate         ['fɔ:mjuleit]         v.  阐明
 fossil            ['fɔsl]               n.  化石; a.  陈腐的; 化石的
 foster            ['fɔstə]              vt.  鼓励; 培养
-fountain          ['fauntin             n.  喷泉
+fountain          ['fauntin]            n.  喷泉
 frame             [freim]               n.  框架; v.  设计，构成
 fray              [frei]                vi.  磨(损、破)
 freight           [freit]               n.  货运
@@ -3729,7 +3729,7 @@ marsh             [mɑ:ʃ]                n.  沼泽，湿地
 marvel            ['mɑ:vl]              n.  奇异的事物; 奇迹
 mask              [mɑ:sk]               n.  化装舞会; 面具
 mason             ['meisn]              n.  泥瓦匠
-mast              [mɑ:st                n.  船桅
+mast              [mɑ:st]               n.  船桅
 mat               [mæt]                 n.  垫子; 草席
 match             [mætʃ]                n.  比赛; 对手; v.  和…相配
 mate              [meit]                n.  配偶; v.  配对; 交配
@@ -4510,7 +4510,7 @@ X-ray             ['eksrei]             n.  X射线，X光
 yarn              [jɑ:n]                n.  纱，纱线
 yeast             [ji:st]               n.  酵母，发酵粉
 yield             [ji:ld]               v.  出产; n.  产量，收益
-yogurt            ['jɔgət             ] n.  酸奶(酪)
+yogurt            ['jɔgət]              n.  酸奶(酪)
 zealous           ['zeləs]              a.  狂热的
 zinc              [ziŋk]                n.  锌
 zone              [zəun]                n.  地域，地带
