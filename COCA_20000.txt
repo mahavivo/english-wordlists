@@ -26,7 +26,7 @@ his
 from
 that
 not
-n''t
+n't
 by
 she
 or
@@ -4100,7 +4100,7 @@ Dutch
 quantity
 trailer
 mate
-o''clock
+o'clock
 Greek
 genius
 monument
@@ -8285,7 +8285,7 @@ crush
 woe
 ripple
 imbalance
-saut茅
+sauté
 moderately
 shortcoming
 poker
@@ -12250,7 +12250,7 @@ rationalize
 subset
 circumvent
 sludge
-y''all
+y'all
 uphill
 hourly
 scorn
