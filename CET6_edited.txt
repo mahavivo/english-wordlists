@@ -497,7 +497,7 @@ corporate  adj.社团的,法人的,共同的,全体的
 corps  n.军团,兵队,团,兵种,技术兵种,特殊兵种,(德国大学的)学生联合会                
 corpse  n.尸体                
 correlate  vt.使相互关联;vi.和...相关                
-correspondenc  n.相应,通信,信件                
+correspondene  n.相应,通信,信件                
 corresponding  adj.相应的,通讯的                
 corrode  v.使腐蚀,侵蚀                
 corrupt  adj.腐败的,贪污的,被破坏的,混浊的,(语法)误用的;vt.使腐烂,腐蚀,使恶化;vi.腐烂,堕落            
@@ -1675,7 +1675,7 @@ reclaim  vt.要求归还,收回,开垦
 recognition  n.赞誉,承认,重视,公认,赏识,识别                
 recognize  vt.认可,承认,公认,赏识;vi.具结                
 reconcile  vt.使和解,使和谐,使顺从                
-reconciliatio  n.和解,调和,顺从                
+reconciliation  n.和解,调和,顺从                
 recover  vt.重新获得,恢复,使改过;vi.痊愈,复原,胜诉;n.DOS命令:从含有损坏磁盘扇区的磁盘上恢复文件            
 recovery  n.恢复,痊愈,防御                
 recreation  n.消遣,娱乐                
@@ -1947,7 +1947,7 @@ stern  adj.严厉的,苛刻的;n.船尾
 sticky  adj.粘的,粘性的                
 stimulus  n.刺激物,促进因素,刺激,刺激                
 stock  n.树干,库存,股票,股份,托盘,祖先,原料;adj.股票的,普通的,常备的,存货的,繁殖用的;vt.装把手于,进货,备有,放牧;vi.出新芽,采购      
-straightforwa  adj.正直的,坦率的,简单的,易懂的,直接了当的;adv.坦率地                
+straightforward  adj.正直的,坦率的,简单的,易懂的,直接了当的;adv.坦率地                
 strain  n.过度的疲劳,紧张,张力,应变;vt.扭伤,损伤;v.拉紧,扯紧,(使)紧张,尽力              
 strand  n.绳、线之一股,线,绳,串,海滨,河岸;vi.搁浅;vt.使搁浅,使落后,使陷于困境,弄断,搓            
 strategy  n.策略,军略                
@@ -1989,7 +1989,7 @@ sulfur  n.[化]硫磺,硫黄;vt.用硫磺处理
 summit  n.顶点,最高阶层;adj.政府首脑的;vi.参加最高级会议的                
 summon  v.召集,召唤,号召,鼓起,振作                
 superficial  adj.表面的,肤浅的,浅薄的                
-superintenden  n.主管,负责人,指挥者,管理者                
+superintendent  n.主管,负责人,指挥者,管理者                
 superior  n.长者,高手,上级;adj.较高的,上级的,上好的,出众的,高傲的                
 superiority  n.优越,高傲                
 supersonic  adj.超音波的;n.超声波,超声频                
