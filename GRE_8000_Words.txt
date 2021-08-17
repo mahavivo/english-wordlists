@@ -1285,7 +1285,7 @@ counterbalance [,kauntə'bæləns] v.起平衡作用
 counterfeit ['kauntəfit] v.伪造，仿造
 countermand [,kauntə'mɑ:nd] v.撤回(命令)，取消(订货)
 counterpart ['kauntəpɑ:t] n.相对应或具有相同功能的人或物
-counterproductive['kautəprə,dʌktiv] a.事与愿违的
+counterproductive ['kautəprə,dʌktiv] a.事与愿违的
 coup [ku:] n.意外而成功的行动
 court [kɔ:t] n.法庭，法院；宫廷，朝廷；v.献殷勤；追求功名
 covenant ['kʌvənənt] n.契约；v.立书保证
@@ -1644,7 +1644,7 @@ disclaim [dis'kleim] v.放弃权利；拒绝承认
 disclose [dis'kləuz] v.使某物显露
 discography [dis'kɔɡrəfi] n.唱片分类目录；录音音乐研究
 discombobulate [,diskʌm'bɔbjuleit] v.扰乱，使困惑
-discombobulated[,diskʌm'bɔbjuleitid] a.扰乱的，打乱的
+discombobulated [,diskʌm'bɔbjuleitid] a.扰乱的，打乱的
 discomfit [dis'kʌmfit] v.使懊恼；使难堪
 discomfited [dis'kʌmfitid] a.困惑的，尴尬的
 discomfiture [dis'kʌmfitʃə] n.狼狈，难堪
@@ -2691,7 +2691,7 @@ heal [hi:l] v.治愈
 hearken ['hɑ:kən] v.倾听
 hearten ['hɑ:tn] v.鼓励，激励
 heartrending ['hɑ:trendiŋ] a.令人心碎的
-heavy-handedness['hevi'hændidnis] n.笨拙，粗劣
+heavy-handedness ['hevi'hændidnis] n.笨拙，粗劣
 heckle ['hekl] v.诘问，困扰
 hectic ['hektik] a.兴奋的，繁忙的，忙乱的
 hector ['hektə] v.威吓
@@ -3662,7 +3662,7 @@ misinform ['misin'fɔ:m] v.向„提供错误信息
 misnomer ['mis'nəumə] n.名字的误用
 misperceive [,mispə'si:v] v.误解
 misrepresent ['mis,repri'zent] v.误传，歪曲
-misrepresentation['mis,reprizen'teiʃən] n.误传，歪曲
+misrepresentation ['mis,reprizen'teiʃən] n.误传，歪曲
 misshapen [mis'ʃeipən] a.畸形的，奇形怪状的
 missile ['misail] n.发射物，投掷物；导弹
 mite [mait] n.极小量；小虫，螨虫
@@ -5920,7 +5920,7 @@ unreserved ['ʌnri'zə:vd] a.无限制的；未被预定的
 unscathed ['ʌn'skeiðd] a.未受损伤的，未遭伤害的
 unscented [,ʌn'sentid] a.无气味的
 unscrupulous [ʌn'skru:pjuləs] a.肆无忌惮的，无道德原则的
-unscrupulousness[ʌn'skru:pjuləsnis] n.狂妄，肆无忌惮
+unscrupulousness [ʌn'skru:pjuləsnis] n.狂妄，肆无忌惮
 unseemly ['ʌn'si:mli] a.不适当的，不宜的
 unsettle ['ʌn'setl] v.使不安宁，搅乱
 unsettling ['ʌn'setliŋ] a.令人不安的，扰乱的，使窘困的
