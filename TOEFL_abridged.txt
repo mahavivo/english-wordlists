@@ -519,7 +519,7 @@ foreshorten       [fɔ:'ʃɔ:tn]           v. (绘画中)按照透视法缩短
 forestall         [fɔ:'stɔ:l]           vt. 先……一步行动,占先一步,垄断,阻碍
 forlorn           [fə'lɔ:n]             a. 孤独的,悲惨的,凄凉的
 forsake           [fə'seik]             vt. 放弃,断念,抛弃
-forte             [fɔːrt]               n. 1 [one's ~]长处,擅长,优点,拿手好戏2 (C)[剑术]剑腰(剑柄至中央部
+forte             [fɔːrt]               n. 1 [one's ~]长处,擅长,优点,拿手好戏2 (C)[剑术]剑腰(剑柄至中央部)
 forthright        [fɔ:θ'rait]           ad. 直接地,马上,立即a. 直接的,直率的,坦白的,豪爽的 n. 直路
 fortitude         ['fɔ:titju:d]         n. 刚毅,坚毅,不屈不挠
 fortress          ['fɔ:rtrəs]            n. 城堡,要塞 vt. 筑要塞,以要塞防守
@@ -1134,7 +1134,7 @@ snag              [snæg]                n. 残干,根株,断牙,意外障碍 vt
 sneer             [sniə]                n. 冷笑,嘲笑 vi. 嘲笑,冷笑 vt. 嘲笑着说,嘲笑着使
 snowflake         ['snəufleik]          n. 雪花
 sojourn           ['sɔdʒə:n]            n. 逗留,旅居 vi. 逗留,旅居
-solder            ['sɔldə               v. 焊接
+solder            ['sɔldə]               v. 焊接
 solicitous        [sə'lisitəs]          a. 热心的,渴望的,热切期望的
 solidly           ['sɔlidli]            adv. 坚硬地, 稳固地
 soprano           [sə'prɑ:nəu]          n. 女高音

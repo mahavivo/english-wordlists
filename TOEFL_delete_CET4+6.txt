@@ -589,7 +589,7 @@ foreshorten       [fɔ:'ʃɔ:tn]           v.  (绘画中)按照透视法缩短
 forestall         [fɔ:'stɔ:l]           vt.  先. . . 一步行动,占先一步,垄断,阻碍
 forlorn           [fə'lɔ:n]             a.  孤独的,悲惨的,凄凉的
 forsake           [fə'seik]             vt.  放弃,断念,抛弃
-forte             ['fɔ:tei,fɔ:t]        n.  1 [one's ~]长处,擅长,优点,拿手好戏2 (C)[剑术]剑腰(剑柄至中央部
+forte             ['fɔ:tei,fɔ:t]        n.  1 [one's ~]长处,擅长,优点,拿手好戏2 (C)[剑术]剑腰(剑柄至中央部)
 forthright        [fɔ:θ'rait]           ad.  直接地,马上,立即a.  直接的,直率的,坦白的,豪爽的n.  直路
 fortitude         ['fɔ:titju:d]         n.  刚毅,坚毅,不屈不挠
 fortress          ['fɔ:tris]            n.  城堡,要塞vt.  筑要塞,以要塞防守
@@ -810,7 +810,7 @@ inscribe          [in'skraib]           v.  铭刻; 在某物上写
 insinuate         [in'sinjueit]         vt.  巴结,暗示,使潜入
 insolent          ['insələnt]           n.  侮慢无乱的人a.  粗野的,无礼的,侮慢的
 instigate         ['instəgeit]          vt.  教唆,怂恿,煽动
-instill           [in'stil]             vt.  1 将<思想、感情等>逐渐灌输给[某人],灌入 [脑子里] 徐徐教导[in,
+instill           [in'stil]             vt.  1 将<思想、感情等>逐渐灌输给[某人],灌入 [脑子里] 徐徐教导[in]
 insufferable      [in'sʌfərəbl]         a.  不可忍受的,忍耐不住的,气人的
 insufficient      [`insə'fiʃənt]        a.  不足的，不够的
 insular           ['insjulə]            a.  岛的,岛民的,保守的,孤立的,岛特有的
@@ -1042,7 +1042,7 @@ pendant           ['pendənt]            n.  垂饰，下垂物
 penicillin        [`peni'silin]         n.  青霉素
 pensive           ['pensiv]             a.  沉思的,哀思的,忧沉的
 penury            ['penjuri]            n.  贫困,贫穷
-percussion        [pə'kʌʃn]             n.  1 a.   (常指两个坚硬物体的) 撞击,碰撞b.  震动;  音响2 [the ~;
+percussion        [pə'kʌʃn]             n.  1 a.   (常指两个坚硬物体的) 撞击,碰撞b.  震动;  音响2 [the ~]
 perennial         [pə'renjəl]           a.  四季不断的,继续多年的
 peripheral        [pə'rifərəl]          a.  不重要的; 外围的
 perishable        ['periʃəbl]           a.  易腐的，易坏的; n.  易腐物品
@@ -1050,7 +1050,7 @@ pertain           [pə'tein]             vi.  (to)依附于或从属于某事物
 pertinent         ['pə:tinənt]          a.  相关的,中肯的,切题的
 pervasive         [pə'veisiv]           a.  普遍深入的
 pervert           [pə:'və:t]            vt.  使堕落,歪曲,滥用n.  堕落者,反常者
-petrify           ['petrifai]           vt.  1 使…化为石,使…石化;  使…坚硬 [僵硬] 2 使<人心>变无情 [顽固,
+petrify           ['petrifai]           vt.  1 使…化为石,使…石化;  使…坚硬 [僵硬] 2 使<人心>变无情 [顽固]
 pheromone         ['ferəməun]           n.  【生化】信息素
 phonetics         [fəu'netiks]          n.  语音学,发音学
 photodissociation [fəutəudi`səuʃi'eiʃən] n.  光解(作用)

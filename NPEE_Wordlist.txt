@@ -4257,7 +4257,7 @@ scatter ['skætə] v.散开,驱散;散布,散播
 scene [si:n] n.景色,景象,舞台;(戏)一场
 scenery ['si:nəri] n.风景,舞台布景
 scent [sent] n.气味,香味,香水,线索,嗅觉 v.嗅,发觉
-schedule ['ʃədju:əl，'skedʒu:əl n.时间表,进度表 v.安排,预定
+schedule ['ʃədju:əl，'skedʒu:əl] n.时间表,进度表 v.安排,预定
 scheme [ski:m] n.计划,方案;阴谋;配置 v.计划,策划;阴谋
 scholar ['skɔlə] n.学者
 scholarship ['skɔləʃip] n.奖学金;学问,学识

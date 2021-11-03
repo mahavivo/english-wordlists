@@ -2278,7 +2278,7 @@ light [lait] n.光，光线；灯，光源
 light [lait] a.轻的，少量的
 lighten [ˈlaitn] vt.照亮，使明亮
 lightly [ˈlaitli] ad.轻轻地，轻松地
-lightning [ˈlaitniŋn.闪电，闪电放电
+lightning [ˈlaitniŋ]n.闪电，闪电放电
 like [laik] vt.喜欢；喜爱；希望
 like prep.像，如；像要
 likely [ˈlaikli] a.可能的 ad.很可能
@@ -2521,7 +2521,7 @@ modest [ˈmɔdist] a.有节制的；谦虚的
 modify [ˈmɔdifai] vt.更改，修改；修饰
 moist [mɔist] a.湿润的；多雨的
 moisture [ˈmɔist∫ə] n.潮湿，湿气；温度
-molecule [ˈmɔlikjuːl n.分子，克分子
+molecule [ˈmɔlikjuːl] n.分子，克分子
 moment [ˈməumənt] n.片刻，瞬间，时刻
 Monday [ˈmʌndei] n.星期一
 money [ˈmʌni] n.货币；金钱，财富
@@ -3788,7 +3788,7 @@ sole [səul] a.单独的，唯一的
 solely [ˈsəu(l)li] ad.单独地，唯一地
 solemn [ˈsɔləm] a.庄严的；隆重的
 solid [ˈsɔlid] a.固体的 n.固体
-soluble [ˈsɔljubla.可溶的；可以解决的
+soluble [ˈsɔljubl]a.可溶的；可以解决的
 solution [səˈljuː∫ən] n.解决，解答；溶解
 solve [sɔlv] vt.解答，解释，解决
 some [sʌm] a.&pron.一些，若干
@@ -4250,7 +4250,7 @@ tough [tʌf] a.坚韧的；健壮的
 tour [tuə] n.&vi.旅行，游历
 tourist [ˈtuərist] n.旅游者，观光者
 toward(s) [təˈwɔːd] prep.向；对于；接近
-towel [ˈtauəl n.毛巾，手巾
+towel [ˈtauəl] n.毛巾，手巾
 tower [ˈtauə] n.塔 vi.屹立，高耸
 town [taun] n.镇，市镇，城镇
 toy [tɔi] n.玩具，玩物
