@@ -1439,7 +1439,7 @@ fail [feil] vi.失败；失灵；不能
 failure [ˈfeiljə] n.失败；失败的人
 faint [feint] a.微弱的；虚弱的
 fair [feə] a.公平的；相当的
-fair [ˈfeəli] n.定期集市；博览会
+fair [ˈfeə] n.定期集市；博览会
 fairly [ˈfeəli] ad.相当；公平地
 faith [feiθ] n.信任，信心；信仰
 faithful [ˈfeiθful] a.忠诚的；如实的
