@@ -497,7 +497,7 @@ corporate  adj.社团的,法人的,共同的,全体的
 corps  n.军团,兵队,团,兵种,技术兵种,特殊兵种,(德国大学的)学生联合会                
 corpse  n.尸体                
 correlate  vt.使相互关联;vi.和...相关                
-correspondene  n.相应,通信,信件                
+correspondent  n.相应,通信,信件                
 corresponding  adj.相应的,通讯的                
 corrode  v.使腐蚀,侵蚀                
 corrupt  adj.腐败的,贪污的,被破坏的,混浊的,(语法)误用的;vt.使腐烂,腐蚀,使恶化;vi.腐烂,堕落            
