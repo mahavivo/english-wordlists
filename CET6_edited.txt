@@ -43,7 +43,7 @@ adhere  vi.粘附,胶着,坚持;v.坚持
 adjacent  adj.邻近的,接近的                
 adjoin  v.邻接,毗连                
 adjust  vt.调整,调节,校准,使适合                
-administratio  n.管理,经营,行政部门                
+administration  n.管理,经营,行政部门                
 admit  v.容许,承认,接纳                
 adolescent  adj.青春期的,青春的;n.青少年                
 adopt  vt.采用,收养                
@@ -300,7 +300,7 @@ champion  n.冠军,拥护者,战士;vt.拥护,支持
 chant  n.圣歌                
 chapel  n.小礼拜堂,礼拜                
 character  n.(事物的)特性,性质,特征(的总和),(人的)品质,字符,性格,特征,人物;vt.写,刻,印,使具有特征            
-characteristi  adj.特有的,表示特性的,典型的;n.特性,特征                
+characteristic  adj.特有的,表示特性的,典型的;n.特性,特征                
 characterize  vt.表现...的特色,刻画的...性格                
 charge  n.负荷,电荷,费用,主管,掌管,充电,充气,装料;v.装满,控诉,责令,告诫,指示,加罪于,冲锋,收费            
 chase  n.追赶,追击;vt.追赶,追逐,雕镂                
@@ -324,7 +324,7 @@ clash  n.冲突,撞击声,抵触;v.(使)发出撞击声,猛撞,冲突
 clasp  n.扣子,钩,紧握,抱住;v.扣紧,紧握,搂抱,密切合作                
 classic  n.杰作,名著;adj.第一流的                
 classical  adj.古典的,正统派的,古典文学的                
-classificatio  n.分类,分级                
+classification  n.分类,分级                
 clearance  n.清除                
 clerk  n.职员,办事员,<美>店员                
 client  n.[计]顾客,客户,委托人                
@@ -1037,7 +1037,7 @@ hypothesis  n.假设
 hysterical  a歇斯底里的,异常兴奋的                
 ideal  n.理想;adj.理想的,完美的,想象的,观念的,唯心论的                
 identical  adj.同一的,同样的                
-identificatio  n.辨认,鉴定,证明,视为同一                
+identification  n.辨认,鉴定,证明,视为同一                
 identify  vt.识别,鉴别,把...和...看成一样;v.确定                
 ideology  n.意识形态                
 idiom  n.成语,方言,土语,习惯用语                
@@ -1368,7 +1368,7 @@ notation  n.符号
 notify  v.通报                
 notion  n.概念,观念,想法,意见,打算,主张,(复数)<美语>小饰物                
 notorious  adj.声名狼籍的                
-notwithstandi  prep.虽然,尽管;adv.尽管,还是;conj.虽然,尽管                
+notwithstanding  prep.虽然,尽管;adv.尽管,还是;conj.虽然,尽管                
 nourish  vt.滋养,使健壮,怀有(希望,仇恨等)                
 novelty  n.新颖,新奇,新鲜,新奇的事物                
 numerical  adj.数字的,用数表示的;adj.数字的,用数字表示的                
@@ -2030,7 +2030,7 @@ target  n.目标,对象,靶子
 tariff  n.关税,关税表,税则,(旅馆,饭店等的)价目表、价格表;vt.课以关税                
 tease  n.揶揄,戏弄,逗惹;vt.取笑,逗恼,奚落,欺负,嘲弄,取笑,强求,梳理                
 tedious  adj.单调乏味的,沉闷的,冗长乏味的                
-telecommunica  n.电讯,长途通讯,无线电通讯,电信学                
+telecommunication  n.电讯,长途通讯,无线电通讯,电信学                
 temper  n.(钢等)韧度,回火,性情,脾气,情绪,心情,调剂,趋向;v.(冶金)回火、锻炼,调和,调节            
 temperament  n.气质,性情,易激动,急躁                
 tempo  n.(音乐)速度、拍子,发展速度                
