@@ -3034,7 +3034,7 @@ caribou           ['kæribu:]            n.  北美产驯鹿
 carnivore         ['kɑ:nivɔ:]           n.  肉食动物
 carp              [kɑ:p]                n.  鲤鱼
 cart              [kɑ:t]                n.  大车; 手推车
-cartilage         ['kɑ:tilidʒ]          n.  【解剖】软骨
+cartilage         ['kɑ:tilidʒ]          n.  软骨
 carve             [kɑ:v]                vt.  切; 雕刻
 cascade           [kæs'keid]            n.  小瀑布
 cascara           [kæ'skɑ:rə]           n.  缓泻剂
@@ -3068,7 +3068,7 @@ chief             [tʃi:f]               n.  首领; a.  主要的; 总的
 chilled           [tʃild]               a.  冷冻的
 chimpanzee        [`tʃimpən'zi:]        n.  黑猩猩
 chip              [tʃip]                n.  碎片; 芯片; v.  削(或凿)下
-chlorine          ['klɔ:ri:n]           n.  【化】氯
+chlorine          ['klɔ:ri:n]           n.  氯
 choir             ['kwaiə]              n.  唱诗班，合唱队
 cholesterol       [kə'lestərɔl]         n.  胆固醇
 choreographer     [`kɔri'ɔgrəfə]        n.  舞蹈指导
@@ -3448,7 +3448,7 @@ giraffe           [dʒi'rɑ:f]            n.  长颈鹿
 girder            ['gə:də(r)]           n.  大梁
 given             ['givn]               a.  特定的; 假定的
 glacial           ['gleisiəl]           a.  冰期的; 冰河时代的
-gland             [glænd]               n.  【解】腺
+gland             [glænd]               n.  腺
 glare             [gleə(r)]             n.  耀眼的光
 glimpse           [glimps]              n.  一看，一瞥; v.  瞥见
 glorify           ['glɔ:rifai]          v.  美化; 赞扬
@@ -3572,7 +3572,7 @@ inevitably        [in'evitəbli]         adv.  不可避免地，必然地
 infancy           ['infənsi]            n.  幼年; (发展或生长的)初期
 infant            ['infənt]             n.  婴儿，幼儿
 infection         [in'fekʃn]            n.  感染; 传染病
-inflammation      [`inflə'meiʃn]        n.  【医】炎症，发炎)
+inflammation      [`inflə'meiʃn]        n.  炎症，发炎)
 inflate           [in'fleit]            vt.  使充气; 使膨胀
 influenza         [`influ'enzə]         n.  流行性感冒
 inform            [in'fɔ:m]             v.  通知; 告诉
@@ -3711,7 +3711,7 @@ magnesium         [mæg'ni:ziəm]         n.  镁
 magnet            ['mægnit]             n.  磁铁，磁体
 magnetic          [mæg'netik]           a.  磁(性)的
 magnify           ['mægnifai]           vt.  放大，扩大
-magnitude         ['mægnitju:d]         n.  【天】等级; 巨大; 数量，量级
+magnitude         ['mægnitju:d]         n.  等级; 巨大; 数量，量级
 maintenance       ['meintənəns]         n.  维护，保养
 male              [meil]                a.  男(雄)的; n.  男子; 雄性动物
 mammal            ['mæml]               n.  哺乳动物
@@ -3776,7 +3776,7 @@ microprocessor    [maikrəu'prəusesə(r)] n.  微处理器
 microscope        ['maikrəskəup]        n.  显微镜
 microwave         ['maikrəweiv]         n.  微波(炉)
 migrate           [mai'greit]           vi.  迁徙; 移居
-mild              [maild]               a.  【冶】低碳的; 轻微的; 温和的
+mild              [maild]               a.  低碳的; 轻微的; 温和的
 military          ['militri]            a.  军(事、用)的; n. [the ~]军队
 millennium        [mi'leniəm]           n.  (pl.  millennia)一千年，千禧年
 mime              [maim]                vt.  模拟; n.  喜剧; 摹拟表演
@@ -3933,7 +3933,7 @@ pesticide         ['pestisaid]          n.  杀虫剂，农药
 petroleum         [pə'trəuliəm]         n.  石油
 pharmacy          ['fɑ:məsi]            n.  药店
 phenomenon        [fə'nɔminən]          n.  现象; 特殊的事物
-pheromone         ['ferəməun]           n.  【生化】信息素
+pheromone         ['ferəməun]           n.  信息素
 philosophy        [fi'lɔsəfi]           n.  哲学，人生观
 photodissociation [fəutəudi`səuʃi'eiʃən] n.  光解(作用)
 photography       [fə'tɔgrəfi]          n.  摄影术，摄影
@@ -3968,7 +3968,7 @@ politics          ['pɔlitiks]           n.  政治; 政见
 pollen            ['pɔlin]              n.  花粉
 pollinate         ['pɔlineit]           v.  给…传授花粉
 pollutant         [pə'lu:tənt]          n.  污染物质
-polygon           ['pɔligən]            n.  【数】多角形，多边形
+polygon           ['pɔligən]            n.  多角形，多边形
 popular           ['pɔpjulə]            a.  通俗的; 受欢迎的，流行的
 populate          ['pɔpjuleit]          v.  居住于; 移民
 pore              [pɔ:]                 n.  气孔，小孔
@@ -4048,7 +4048,7 @@ pyramid           ['pirəmid]            n.  金字塔
 qualify           ['kwɔlifai]           v.  (使)具有资格，(使)合格
 quantify          ['kwɔntifai]          v.  量化
 quarry            ['kwɔri]              n.  石矿; 被追求人或事物
-quasar            ['kweizɑ:]            n.  【天】类星体
+quasar            ['kweizɑ:]            n.  类星体
 questionnaire     [`kwestʃə'neə]        n.  问卷，调查表
 quilt             [kwilt]               n.  棉被; vt.  制成棉被
 quit              [kwit]                v.  停止; 放弃; 离开; 辞(职)
@@ -4072,7 +4072,7 @@ rayon             ['reiɔn]              n.  人造丝，人造纤维
 rear              [riə]                 n.  后部; 臀部; v.  养育; 饲养
 receiver          [ri'si:və]            n.  接收器
 receptacle        [ri'septəkl]          n.  容器
-receptor          [ri'septə]            n.  【生理】感受器
+receptor          [ri'septə]            n.  感受器
 recession         [ri'seʃn]             n.  萧条时期
 recipe            ['resipi]             n.  食谱; 方法
 recycle           [`ri:'saikl]          vt.  回收利用
@@ -4155,7 +4155,7 @@ rug               [rʌg]                 n.  (小)地毯; 围毯
 ruin              ['ru:in]              v.  破坏，毁灭; n. [常pl.  ]废墟，遗迹
 rumor             ['ru:mə]              n.  传闻，谣言
 rural             ['ruərəl]             a.  乡村的，农村的; 田园的
-sac               [sæk]                 n.  【生】囊，液囊
+sac               [sæk]                 n.  囊，液囊
 salamander        ['sæləmændə]          n.  火蜥蜴
 salient           ['seiliənt]           a.  显著的，突出的
 salmon            ['sæmən]              n.  鲑鱼，大马哈鱼
@@ -4249,7 +4249,7 @@ so-called         ['səu'kɔ:ld]          a.  所谓的
 soccer            ['sɔkə]               n.  足球
 sociology         [`səusi'ɔlədʒi]       n.  社会学
 soda              ['səudə]              n.  苏打; 碳酸水
-sodium            ['səudiəm]            n.  【化】钠
+sodium            ['səudiəm]            n.  钠
 soft              [sɔft]                a.  柔软的; 柔和的; 不含酒精的
 solder            ['sɔldə]              v.  焊接
 solid             ['sɔlid]              a.  固体的; 实心的; 稳固的; n.  固体
@@ -4341,8 +4341,8 @@ subject           ['sʌbdʒikt]           n.  主题，对象; a.  (to)受…支
 submarine         [`sʌbmə'ri:n]         n.  潜水艇，潜艇
 subsidize         ['sʌbsidaiz]          v.  补助，资助
 subsidy           ['sʌbsidi]            n.  补助金，津贴
-subsist           [səb'sist]            vi.  存活，生存
-subspecies        ['sʌbspi:ʃi:z]        n.  【生】亚种
+subsist           [səb'sist]            vi. 存活，生存
+subspecies        ['sʌbspi:ʃi:z]        n.  亚种
 substance         ['sʌbstəns]           n.  物质; 要旨，实质
 substitute        ['sʌbstitju:t]        n.  代替者，代替品; vt.  代替
 subtle            ['sʌtl]               a.  细微的，微妙的
