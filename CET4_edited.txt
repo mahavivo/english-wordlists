@@ -520,7 +520,7 @@ bush [bu∫] n.灌木，灌木丛，矮树
 business [ˈbiznis] n.商业，生意；事务
 busy [ˈbizi] a.忙的，繁忙的
 but [bʌt] conj.但是，可是
-butcher[ˈbut∫ə] n.屠夫；屠杀者
+butcher [ˈbut∫ə] n.屠夫；屠杀者
 butter [ˈbʌtə] n.黄油；奶油
 butterfly [ˈbʌtəflai] n.蝴蝶
 button [ˈbʌtn] n.扣子；按钮 vt.扣紧
@@ -901,7 +901,7 @@ country [ˈkʌntri] n.国家，国土；农村
 countryside [ˈkʌntrisaid] n.乡下，农村
 county [ˈkaunti] n.英国的郡，美国的县
 couple [ˈkʌpl] n.夫妇；(一)对；几个
-courage[ˈkʌridʒ] n.勇气，胆量，胆识
+courage [ˈkʌridʒ] n.勇气，胆量，胆识
 course [kɔːs] n.课程；过程；一道菜
 court [kɔːt] n.法院，法庭；庭院
 cousin [ˈkʌzn] n.堂(或表)兄弟(姐妹)
@@ -1642,7 +1642,7 @@ funny [ˈfʌni] a.古怪的；滑稽的
 fur [fəː] n.软毛；毛皮，裘皮
 furious [ˈfjuəriəs] a.狂怒的；狂暴的
 furnace [ˈfəːnis] n.炉子，熔炉；鼓风炉
-furnish[ˈfəːni∫] vt.供应，提供；装备
+furnish [ˈfəːni∫] vt.供应，提供；装备
 furniture [ˈfəːnit∫ə] n.家具；装置，设备
 further [ˈfəːðə] ad.更远地 a.更远的
 furthermore [fəːðəˈmɔː(r)] ad.而且，此外
@@ -1957,7 +1957,7 @@ illustration [ˌiləsˈtrei∫ən] n.说明，图解；例证
 image [ˈimidʒ] n.像；形象；映象
 imaginary [iˈmædʒinəri] a.想象中的，假想的
 imagination [iˌmædʒiˈnei∫ən] n.想象(力)；空想
-imagine[iˈmædʒin] vt.想象，设想；料想
+imagine [iˈmædʒin] vt.想象，设想；料想
 imitate [ˈimiteit] vt.模仿，仿效；仿制
 immediate [iˈmiːdjət] a.立即的；直接的
 immediately [iˈmiːdjətli] ad.立即；直接地
@@ -2451,7 +2451,7 @@ mental [ˈmentl] a.智力的；精神的
 mention [ˈmen∫ən] vt.&n.提及，说起
 menu [ˈmenjuː] n.菜单；饭菜，菜肴
 merchant [ˈməːt∫ənt] n.商人；零售商
-mercury[ˈməːkjuri] n.水银，汞
+mercury [ˈməːkjuri] n.水银，汞
 Mercury n.水星
 mercy [ˈməːsi] n.仁慈，慈悲，恩惠
 mere [miə] a.仅仅的；纯粹的
@@ -2486,7 +2486,7 @@ mind [maind] n.头脑；理智；记忆
 mine [main] pron.我的
 mine [main] n.矿，矿山；地雷
 miner [ˈmainə] n.矿工
-mineral[ˈminərəl] n.矿物 a.矿物的
+mineral [ˈminərəl] n.矿物 a.矿物的
 minimum [ˈminiməm] n.最小量 a.最小的
 minister [ˈministə] n.部长，大臣；公使
 ministry [ˈministri] n.(政府的)部
@@ -2876,7 +2876,7 @@ peach [piːt∫] n.桃子，桃树
 peak [piːk] n.山顶，巅 a.最高的
 pear [peə] n.梨子，梨树
 pearl [pəːl] n.珍珠；珍珠母
-peasant[ˈpezənt] n.农民
+peasant [ˈpezənt] n.农民
 pebble [ˈpebl] n.卵石，细砾
 peculiar [piˈkjuːljə] a.特有的；特别的
 peel [piːl] vt.剥(皮)，削(皮)
@@ -3677,7 +3677,7 @@ shout [∫aut] n.&vi.呼喊，喊叫
 show [∫əu] vt.给…看；表明
 shower [ˈ∫auə] n.阵雨；(一)阵；淋浴
 shriek [∫riːk] vi.尖声喊叫 n.尖叫声
-shrink[∫riŋk] vi.收缩；缩小；退缩
+shrink [∫riŋk] vi.收缩；缩小；退缩
 shut [∫ʌt] vt.关上，闭上，关闭
 shy [∫ai] a.易受惊的；害羞的
 sick [sik] a.有病的；恶心的
@@ -4328,8 +4328,8 @@ turn [təːn] vt.转；翻 vi.转动
 turning [ˈtəːniŋ] n.旋转；变向；转弯处
 turnip [ˈtəːnip] n.萝卜，芜菁
 tutor [ˈtjuːtə] n.家庭教师；导师
-twelfth[twelfθ] num.第十二
-twelve[twelv] num.十二，十二个
+twelfth [twelfθ] num.第十二
+twelve [twelv] num.十二，十二个
 twentieth [ˈtwentiiθ] num.第二十
 twenty [ˈtwenti] num.二十，二十个
 twice [twais] ad.两次，两倍
@@ -4339,8 +4339,8 @@ twist [twist] vt.捻；拧 vi.&n.扭弯
 two [tuː] num.二，两个
 type [taip] n.型，类型 vi.打字
 typewriter [ˈtaipraitə] n.打字机
-typhoon[taiˈfuːn] n.台风
-typical[ˈtipikəl] a.典型的，代表性的
+typhoon [taiˈfuːn] n.台风
+typical [ˈtipikəl] a.典型的，代表性的
 typist [ˈtaipist] n.打字员
 tyre [ˈtaiə] n.轮胎，车胎
 
@@ -4394,7 +4394,7 @@ unload [ˈʌnˈləud] vt.卸(货) vi.卸货
 unlucky [ʌnˈlʌki] a.不幸的；不吉的
 unnecessary [ʌnˈnesisəri] a.不必要的，多余的
 unpleasant [ʌnˈpleznt] a.令人不快的，讨厌的
-unsatisfactory[ˈʌnsætisˈfæktəri] a.不能令人满意的
+unsatisfactory [ˈʌnsætisˈfæktəri] a.不能令人满意的
 unstable [ˈʌnˈsteibl] a.不稳固的；不稳定的
 unsuitable [ʌnˈsuːtəb(ə)l] a.不合适的,不适宜的
 until [ʌnˈtil] prep&conj.直到…为止
@@ -4482,13 +4482,13 @@ village [ˈvilidʒ] n.乡村，村庄
 vine [vain] n.葡萄树
 vinegar [ˈvinigə] n.醋
 violence [ˈvaiələns] n.猛烈，激烈；暴力
-violent[ˈvaiələnt] a.猛烈的；狂暴的
+violent [ˈvaiələnt] a.猛烈的；狂暴的
 violet [ˈvaiəlit] n.紫罗兰
 violin [ˌvaiəˈlin] n.小提琴
 virtually [ˈvəːtjuəli] ad.实际上，事实上
 virtue [ˈvəːtjuː] n.善；美德；优点
 visible [ˈvizəbl] a.可见的，看得见的
-vision[ˈviʒən] n.视；想象力；梦幻
+vision [ˈviʒən] n.视；想象力；梦幻
 visit [ˈvizit] vt.&n.访问，参观
 visitor [ˈvizitə] n.访问者；游客
 visual [ˈvizjuəl] a.看的；看得见的
@@ -4524,7 +4524,7 @@ want [wɔnt] vt.要 n.需要；缺乏
 war [wɔː] n.战争；冲突，斗争
 warm [wɔːm] a.温暖的；热烈的
 warmth [wɔːmθ] n.暖和，温暖；热烈
-warn[wɔːn] vt.警告 vi.发生警告
+warn [wɔːn] vt.警告 vi.发生警告
 wash [wɔ∫] vt.洗；冲出 vi.洗涤
 waste [weist] n.浪费；废物；垃圾
 watch [wɔt∫] vt.&vi.观看 n.手表
@@ -4658,7 +4658,7 @@ wrist [rist] n.腕，腕关节
 write [rait] vt.书写；写 vi.写
 writer [ˈraitə] n.作者，作家，文学家
 writing [ˈraitiŋ] n.书写，写；著作
-wrong[rɔŋ] a.错误的 ad.错，不对
+wrong [rɔŋ] a.错误的 ad.错，不对
 
 X
 
