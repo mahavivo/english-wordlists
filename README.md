@@ -20,3 +20,4 @@
 9）OALD8_abridged_edited 收录牛津高阶英汉双解词典（第8版）删除四六级、托福、GRE、COCA_abridged词汇后的单词。且通读，删除短语，删除缩略语，删除无中文释义的异体词，删除“-”开头或结尾的词缀。
 
 10）如果你的英语词汇水平在OALD，或GRE考试要求之上，可以考虑去了解一下我的一个高阶项目：**english dictionary database**（ https://github.com/mahavivo/english-dictionary ）。
+
