@@ -16,6 +16,8 @@
 
 8. COCA_abridged 收录COCA 20000删除四六级、托福、GRE词汇后的单词，且逐条阅读，删除明显由原形动词的动名词、过去分词形式构成的衍生词，以及部分形容词+ly组成的副词等。
 
-9. OALD8_abridged_edited 收录牛津高阶英汉双解词典（第8版）删除四六级、托福、GRE、COCA_abridged词汇后的单词。且通读，删除短语，删除缩略语，删除无中文释义的异体词，删除“-”开头或结尾的词缀。
+9. 1368 收录了[1368个单词就够了 \(豆瓣\)](https://book.douban.com/subject/25981535/ "1368个单词就够了 (豆瓣)")中的1368个单词，适合日常表达交流。
 
-10. 如果你的英语词汇水平在OALD，或GRE考试要求之上，可以考虑去了解一下我的一个高阶项目：**english dictionary database**（ <https://github.com/mahavivo/english-dictionary>）。
+10. OALD8_abridged_edited 收录牛津高阶英汉双解词典（第8版）删除四六级、托福、GRE、COCA_abridged词汇后的单词。且通读，删除短语，删除缩略语，删除无中文释义的异体词，删除“-”开头或结尾的词缀。
+
+11. 如果你的英语词汇水平在OALD，或GRE考试要求之上，可以考虑去了解一下我的一个高阶项目：**english dictionary database**（ <https://github.com/mahavivo/english-dictionary>）。
